@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Version sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 6014ad9d6c2b80becb835927642533f4b01b9f2a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d05e53ed372738227e89e4885c4913090dc69ecd
+ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556086"
+ms.lasthandoff: 06/08/2018
+ms.locfileid: "19709706"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Updateverlauf für Office 365 ProPlus (nach Version)
  
@@ -67,6 +67,6 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 ## <a name="related-topics"></a>Verwandte Themen
 
 - [Übersicht über die Updatekanäle für Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
-- [Anmerkungen zur Version für Office 365 ProPlus](release-notes-office365-proplus.md)
+- [Versionsinformationen zu Updates für Office 365 ProPlus](release-notes-office365-proplus.md)
 - [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
