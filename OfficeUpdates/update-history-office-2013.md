@@ -3,26 +3,26 @@ title: Updateverlauf für Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: b38c1bc88df6cef66c9ebdd14c9baed626914cde
-ms.sourcegitcommit: 4aab01cd695d26b057faf9d0e7f301b5913266c7
+ms.openlocfilehash: f65b48fd1a94bc8add97bd074b13254bb320cf80
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/08/2018
-ms.locfileid: "19709666"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886611"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Die meisten Office 2013-Produkte werden automatisch mithilfe der Technologie „Klick-und-Los“ auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5031.1000**, die am 8. Mai 2018 veröffentlicht wurde. 
+> Die aktuellste Version von Office 2013 ist **15.0.5041.1001**, die am 12. Juni 2018 veröffentlicht wurde. 
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -46,7 +46,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2018 |8. Mai   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/de-DE/help/4133083)  |
+|2018 |12. Juni   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/de-DE/help/4299875)  |
+||8. Mai   |15.0.5031.1000   |[KB 4133083](https://support.microsoft.com/de-DE/help/4133083)  |
 ||10. April   |15.0.5023.1000   |[KB 4098622](https://support.microsoft.com/de-DE/help/4098622)  |
 ||13. März   |15.0.5015.1000   |[KB 4090988](https://support.microsoft.com/de-DE/help/4090988)  |
 ||13. Februar   |15.0.5007.1000   |[KB 4077965](https://support.microsoft.com/help/4077965)  |
