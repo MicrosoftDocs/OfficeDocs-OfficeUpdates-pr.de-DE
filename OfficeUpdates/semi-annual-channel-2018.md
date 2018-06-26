@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/8/2018
+ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: eb057983e92975a4fa19d9dc5abae683c0564d20
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 8a5d598823ad277ad5f2cdd5f13368f338f4b3d6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556090"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886661"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2018
 
@@ -25,6 +25,35 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Der halbjährliche Kanal hieß vor Januar 2018 verzögerten Kanal.
+
+
+## <a name="version-1708-june-12"></a>Version 1708: 12. Juni
+*Version 1708 (Build 8431.2270)*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8246): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8248): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8244): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+-   Behebt ein Problem, aufgrund dessen Benutzer von Windows 7 SP1 nicht in der Lage waren, Mitglieder zu modernen Gruppen hinzuzufügen.
+
+
+
+## <a name="version-1705-june-12"></a>Version 1705: 12. Juni
+*Version 1705 (Build 8201.2294)*
+
+*Dies ist die verzögerte Kanalversion, die seit September 2017 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Juli 2018. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1708 (Build 8431.2270), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8246): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8248): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8244): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
+
 
 
 ## <a name="version-1708-may-8"></a>Version 1708: 8. Mai

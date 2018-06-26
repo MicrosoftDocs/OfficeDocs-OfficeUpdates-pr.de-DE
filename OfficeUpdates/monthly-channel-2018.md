@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 3d0b5b16501bfb7816d9df8ffe79ca8926d75adb
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: 16c9ee31b150779f7ac56104d4bfacc0d1857bb6
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556088"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886961"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -24,6 +24,32 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
+
+## <a name="version-1805-june-13"></a>Version 1805: 13. Juni
+*Version 1805 (Build 9330.2124)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+ - Behebt ein Problem, bei dem eine Anwendung, die die MAPI-API aufruft, zu einem Absturz führen könnte.
+
+
+
+## <a name="version-1805-june-12"></a>Version 1805: 12. Juni
+*Version 1805 (Build 9330.2118)*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8246): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8248): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8244): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+
+- Behebt ein Problem, bei dem eine Anwendung, die die MAPI-API aufruft, zu einem Absturz führen könnte.
+
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebt ein Problem, bei dem verhindert wird, dass Sie ein Unterprojekt speichern, wenn Sie damit im Kontext eines Masterprojekts arbeiten.
 
 ## <a name="version-1805-may-24"></a>Version 1805: 24. Mai
 *Version 1805 (Build 9330.2087)*

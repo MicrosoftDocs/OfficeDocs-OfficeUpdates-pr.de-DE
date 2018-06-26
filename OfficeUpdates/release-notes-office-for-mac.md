@@ -3,7 +3,7 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/24/2018
+ms.date: 6/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 46548cbd64aaf43db8dd0f6070a3f8a2eb69df0a
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: d46c11fbf8dccb1e364a1f446d62b15697fd7b6c
+ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556097"
+ms.lasthandoff: 06/25/2018
+ms.locfileid: "19886951"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -32,7 +32,32 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 > - Downloadlinks sind nur für die aktuellen Releases verfügbar.
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
+## <a name="june-2018-release"></a>Release von Juni 2018
+
+**Veröffentlichungsdatum:** 13. Juni 2018 
+
+*Version 16.14.1 (Build 18061302)*
+
+In diesem Release wird ein Problem mit den Updatepaketen für die einzelnen Anwendungen behoben.
+
+Hier sind die Downloadlinks für die Updatepakete: [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.14.18061302_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.14.18061302_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.14.18061302_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.14.18061302_Updater.pkg) und [OneNote ](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.14.18061302_Updater.pkg).
+
+<br/><br/>
+
+ **Veröffentlichungsdatum:** 12. Juni 2018 
   
+ *Version 16.14.0 (Build 18061000)* 
+  
+Dieses Release umfasst die folgenden Updates.
+  
+|**Anwendung**|**Featureupdates**|**Downloadlink für Updatepaket**|
+|:-----|:-----|:-----|
+|Word  <br/> |**Lerntools verbessern die Lesbarkeit:** Gönnen Sie Ihren Augen eine Pause. Passen Sie den Textabstand, die Spaltenbreite und die Seitenfarbe an. Oder hören Sie zu, wie Word Ihr Dokument laut vorliest und den Text beim Lesen hervorhebt. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3) <br/> ||
+|Excel  <br/> |**Blitzschnelles Eingeben von Daten:** Geben Sie der Blitzvorschau ein paar Beispiele, und schon kann sie Daten automatisch für Sie eingeben. [Weitere Informationen](https://support.office.com/article/041edfe2-05bc-40e6-b933-ef48c3f308c6) <br/><br/> **Durchbrechen der Sprachbarriere:** Übersetzen Sie Wörter, Ausdrücke oder Sätze mit Microsoft Translator in eine andere Sprache. [Weitere Informationen](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f) <br/> ||
+|PowerPoint  <br/> |**Durchbrechen der Sprachbarriere:** Übersetzen Sie Wörter, Ausdrücke oder Sätze mit Microsoft Translator in eine andere Sprache. [Weitere Informationen](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f#ID0EAACAAA=Office_2016_for_Mac) <br/><br/>**Hyperlinks in lebendigen Farben:** Hyperlinks sind nicht mehr nur blau. Sie können eine beliebige Schriftfarbe anwenden. [Weitere Informationen](https://support.office.com/article/239c6c94-d52f-480c-99ae-8b0acf7df6d9#OfficeVersion=Mac) <br/> ||
+|Outlook  <br/> |**Erstellen einer unvergesslichen Signatur** Verwenden Sie vielfältige Schriftschnitte, Farben, Bilder, Links und vieles mehr. [Weitere Informationen](https://support.office.com/article/f4d21492-0956-4429-95ad-2769745b539c)  <br/><br/> **Zusammenarbeiten und gemeinsames Erstellen mit Gruppen: ** Sie möchten eine Office 365-Gruppe in Outlook erstellen? Kein Problem! Sie können auch ganz einfach Mitglieder hinzufügen und entfernen Die Zusammenarbeit auf dem Mac ist nun ein Kinderspiel. [Weitere Informationen](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102#ID0EACAAA=Mac) <br/> ||
+|Microsoft AutoUpdate 4.0  <br/> ||[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.0.18061000_Updater.pkg) <br/> |  
+
 ## <a name="may-2018-release"></a>Release von Mai 2018
 
 **Veröffentlichungsdatum:** 24. Mai 2018
@@ -95,9 +120,7 @@ Dieses Release umfasst die folgenden Updates.
  *Version 16.11.1 (Build 18031900)* 
   
 In diesem Release wird ein Problem behoben, aufgrund dessen Word, Excel und PowerPoint gelegentlich beim Starten auf unbestimmte Zeit nicht mehr reagieren.
-  
-Hier sind die Downloadlinks für die Updatepakete: [Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.11.18031900_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.11.18031900_Updater.pkg), and [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.11.18031900_Updater.pkg).
- 
+   
 <br/><br/>
  
  **Veröffentlichungsdatum:** 13. März 2018 
@@ -106,15 +129,14 @@ Hier sind die Downloadlinks für die Updatepakete: [Word](https://officecdn.micr
   
 Dieses Release umfasst die folgenden Updates.
   
-|**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Nicht sicherheitsrelevante Updates**|**Downloadlink für Updatepaket**|
+|**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Nicht sicherheitsrelevante Updates**|
 |:-----|:-----|:-----|:-----|:-----|
 |Word  <br/> |**Mehr Möglichkeiten mit dem Fokusmodus: ** Der Fokusmodus wird jetzt mit dem festgelegten Zoomfaktor geöffnet und zeigt beim Scrollen die Seitenzahl an.  <br/> ||||
 |Excel  <br/> ||[CVE-2018-0907](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0907): Umgehung von Sicherheitsfunktionen in Microsoft Office Excel  <br/> |||
 |PowerPoint  <br/> |**Eingebettete Schriftarten:** Eingebettete Schriftarten stellen sicher, dass Ihre Präsentation auf jedem Computer gleich aussieht und Personen den Inhalt so dargestellt sehen, wie Sie es wünschen.  <br/> ||||
-|Outlook  <br/> |**Tabellen:** Fügen Sie Tabellen in Ihre Nachrichten und Kalenderereignisse ein, und strukturieren Sie Ihren Inhalt. Kopieren und Einfügen aus anderen Office-Apps ist nicht länger erforderlich. [Weitere Informationen](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **Zwei Zeitzonen gleichzeitig anzeigen:** Möchten Sie wissen, wie spät es in einem anderen Teil der Welt ist? Sie können nun eine zweite Zeitzone in Outlook hinzufügen.  <br/><br/> **Zeitzonenübergreifende Planung:** Sie überqueren Zeitzonen? Erstellen Sie ein Ereignis mit unterschiedlichen Zeitzonen für Start- und Endzeit, und überlassen Sie Outlook die Konvertierung.<br/><br/> **Textgröße ändern:** Vergrößern oder verkleinern Sie den Schriftgrad in Randleiste, Nachrichtenliste und Lesebereich. [Weitere Informationen](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||Behebung eines Problems, aufgrund dessen bei Beachtung der Sommerzeit in der Standardzeitzone und Auswahl der Wochenansicht auf Ihrem Computer es beim Start der Sommerzeit dazu kommen kann, dass alle Ereignisse im Kalenderraster der Woche um eine Stunde verschoben werden.  <br/> |[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.11.18031100_Updater.pkg) <br/> |
-|OneNote  <br/> ||||[Updatepaket für OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.11.18031100_Updater.pkg) <br/> |
-|Office-Suite  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0919): Sicherheitsanfälligkeit in Microsoft Office bezüglich Veröffentlichung von Informationen  <br/> ||Nicht zutreffend  <br/> |
-|Microsoft AutoUpdate 3.17  <br/> ||||[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_3.17.18031100_Updater.pkg) <br/> |
+|Outlook  <br/> |**Tabellen:** Fügen Sie Tabellen in Ihre Nachrichten und Kalenderereignisse ein, und strukturieren Sie Ihren Inhalt. Kopieren und Einfügen aus anderen Office-Apps ist nicht länger erforderlich. [Weitere Informationen](https://support.office.com/article/cb35806b-4174-41d2-9cba-b6b624d988b3)  <br/><br/> **Zwei Zeitzonen gleichzeitig anzeigen:** Möchten Sie wissen, wie spät es in einem anderen Teil der Welt ist? Sie können nun eine zweite Zeitzone in Outlook hinzufügen.  <br/><br/> **Zeitzonenübergreifende Planung:** Sie überqueren Zeitzonen? Erstellen Sie ein Ereignis mit unterschiedlichen Zeitzonen für Start- und Endzeit, und überlassen Sie Outlook die Konvertierung.<br/><br/> **Textgröße ändern:** Vergrößern oder verkleinern Sie den Schriftgrad in Randleiste, Nachrichtenliste und Lesebereich. [Weitere Informationen](https://support.office.com/article/b225d877-1449-4757-9ee7-120d1c5da6b4) <br/> ||Behebung eines Problems, aufgrund dessen bei Beachtung der Sommerzeit in der Standardzeitzone und Auswahl der Wochenansicht auf Ihrem Computer es beim Start der Sommerzeit dazu kommen kann, dass alle Ereignisse im Kalenderraster der Woche um eine Stunde verschoben werden.  <br/> |
+|Office-Suite  <br/> ||[CVE-2018-0919](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0919): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen  <br/> |
+
    
 ## <a name="february-2018-release"></a>Release von Februar 2018
 
