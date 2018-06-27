@@ -3,19 +3,19 @@ title: Versionsinformationen zu Updates für Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/13/2018
+ms.date: 6/25/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Office 365 ProPlus für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: c6b083be87893863971fbc9bb677dbd96889d9e2
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 2c6d54e1b75a7bd21b1e014236a2c8a4629a006a
+ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886731"
+ms.locfileid: "20036234"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Versionsinformationen zu Updates für Office 365 ProPlus
 
@@ -26,7 +26,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
   
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Aktuelle Version wird unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich  <br/> |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13)  <br/> | 13. Juni 2018  <br/> |Veröffentlichung von Version 1806 <br/>|
+|Monatlich  <br/> |1806  <br/> |[10228.20080](monthly-channel-2018.md#version-1806-june-25)  <br/> | 25. Juni 2018  <br/> |Veröffentlichung von Version 1807 <br/>|
 |Halbjährlich (gezielt)  <br/> |1803  <br/> |[9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12)  <br/> | 12. Juni 2018  <br/> |11. September 2018 <br/>|
 |Halbjährlich <br/> |1708  <br/> | [8431.2270](semi-annual-channel-2018.md#version-1708-june-12) <br/> |12. Juni 2018  <br/> |12. März 2019 <br/>|
 |Zurückgestellt <br/> |1705  <br/> |[8201.2294](semi-annual-channel-2018.md#version-1705-june-12)  <br/> | 12. Juni 2018  <br/> |10. Juli 2018 <br/>|
