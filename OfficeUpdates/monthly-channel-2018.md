@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/25/2018
+ms.date: 6/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 364c660b76bfabad95a47598c54b14da1efd5bef
-ms.sourcegitcommit: e35d2bc81c325ac1962c49e84b25aea7f28ddbee
+ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
+ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "20036304"
+ms.lasthandoff: 06/29/2018
+ms.locfileid: "20157863"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -24,8 +24,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-
-
+ 
 
 ## <a name="version-1806-june-25"></a>Version 1806: 25. Juni
 *Version 1806 (Build 10228.20080)*
@@ -36,13 +35,17 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
  - **Serienstandard:** Im Dialogfeld „Terminserie“ (unter „Seriendauer“) ist „Endet am“ die Standardeinstellung (anstelle von „Kein Enddatum“); dies ist auch die erste aufgeführte Einstellung, und es ist ein Standardenddatum festgelegt.
+ - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Nachrichten zugreifen können.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **Einfügen von Titeln für Ihre Folien mit einem Stift:** Verwenden Sie den Stift, um per Freihand einen Titel einzugeben, und sehen Sie zu, wie PowerPoint diesen in Text konvertiert. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
+
 ### <a name="project-feature-updates"></a>Project: Featureupdates
  - **Organisiert bleiben mit zuletzt verwendeten Speicherorten:** In Project wird eine fortlaufende Liste davon geführt, wo Sie andere Projekte gespeichert haben. Wenn Sie bereit sind, Ihr Projekt zu speichern, wählen Sie einfach einen der zuletzt verwendeten Speicherorte aus, und arbeiten Sie weiter.
+ - **Neue Möglichkeit zum Verwalten von Sprints:** Verwenden Sie einen agilen Ansatz zum Arbeiten mit Taskboards. In der Sprintverwaltung können Sie Sprints hinzufügen und entfernen, wenn sich Ihr Projekt weiterentwickelt.
+
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
  - Es wurde ein Problem behoben, bei dem beim Speichern von Unterprojekten aus Hauptprojekten ein Fehler auftritt.
@@ -109,6 +112,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Während der Bearbeitung mit Mitautoren chatten:** Arbeiten Sie noch effizienter zusammen, indem Sie mit Mitautoren chatten, ohne PowerPoint verlassen zu müssen. [Weitere Informationen](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
  - **Automatische Eingabe:** Diktieren Sie Ihre Präsentationen ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Microsoft Forms:** Fügen Sie ein Quiz oder eine Umfrage einer Folie hinzu. Office sammelt und speichert die Antworten für Sie. [Weitere Informationen](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
  - Behebung eines Problems, bei dem Project beim ersten Speichern eines Projekts in der Project Web App möglicherweise abstürzte.
