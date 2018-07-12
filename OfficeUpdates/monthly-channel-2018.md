@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 6/29/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 002797796c82ac28217609ff14379550cec924d9
-ms.sourcegitcommit: 23afe8badbfc1e55319e7fc0051ecb44262f19b9
+ms.openlocfilehash: 311d8aff93d50fe481b161361d451fd32d9e6b03
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/29/2018
-ms.locfileid: "20157863"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246255"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -25,6 +25,18 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
  
+## <a name="version-1806-july-10"></a>Version 1806: 10. Juli
+*Version 1806 (Build 10228.20104)*
+
+### <a name="access-security-updates"></a>Access: Sicherheitsupdates
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko der Manipulation in Microsoft Office
+
+### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8281): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+
 
 ## <a name="version-1806-june-25"></a>Version 1806: 25. Juni
 *Version 1806 (Build 10228.20080)*
