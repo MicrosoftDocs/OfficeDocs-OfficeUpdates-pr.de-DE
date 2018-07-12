@@ -11,12 +11,12 @@ localization_priority: Critical
 ms.collection: RelNotes_Mac
 ms.custom: LIL_Placement
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 6721d811de54c821b581e3b7d2a67b4cab9ff3b3
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: f1b878e883d8b8494c8e13b4c6cf55e1d90ca8d7
+ms.sourcegitcommit: 530b5f490b50d505920e9ec50d0528f368008565
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246275"
+ms.lasthandoff: 07/11/2018
+ms.locfileid: "20275771"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -44,11 +44,10 @@ Dieses Release umfasst die folgenden Updates.
 |:-----|:-----|:-----|
 |Word  <br/> |**Ein-Klick-Fehlerbehebungen für Probleme mit der Barrierefreiheit:** Die Barrierefreiheitsprüfung wurde noch weiter verbessert und unterstützt nun auch internationale Normen und nützliche Empfehlungen, damit Sie Ihre Dokumente barrierefreier gestalten können. [Mehr erfahren](https://support.office.com/article/3b84295e-d55b-49f1-b443-523ec45a5232) <br/> ||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
 |Excel  <br/> |||[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**Mehr Pep für Ihren Pitch mit Video:** Gestalten Sie Ihre Folien noch ansprechender, indem Sie ein YouTube-Video hinzufügen und es anzeige, ohne die App verlassen zu müssen. [Mehr erfahren](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.15.18070902_Updater.pkg) <br/>|
-|Outlook  <br/> |||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.15.18070902_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Mehr Pep für Ihren Pitch mit Video:** Gestalten Sie Ihre Folien noch ansprechender, indem Sie ein YouTube-Video hinzufügen und es anzeige, ohne die App verlassen zu müssen. [Mehr erfahren](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db=Office_2016_for_Mac) <br/> ||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.15.18070902_Updater.pkg) <br/>|
+|Outlook  <br/> |||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.15.18070902_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.1  <br/> |Update auf Aria SDK 8.4. behebt ein Arbeitsspeicherverlustproblem.<br/><br/>Änderungen an der App-Registrierung. Unterstützt nun Office 2019 Preview.||[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> | 
 |Office-Suite  <br/> ||[CVE-2018-8281](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8281): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung  <br/> ||
-
 
 
 ## <a name="june-2018-release"></a>Release von Juni 2018
