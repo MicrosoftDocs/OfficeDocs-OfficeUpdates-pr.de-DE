@@ -3,7 +3,7 @@ title: Project Server-Updates
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 6/12/2018
+ms.date: 7/10/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: 937c82bb1a039c463616d09549f48453b1943d9f
-ms.sourcegitcommit: 17322a7a18a71b3a61df57b656fa5a0c149a8880
+ms.openlocfilehash: 522f7301105728c078a1b6c5b7522fe0cf436b29
+ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2018
-ms.locfileid: "19886871"
+ms.lasthandoff: 07/10/2018
+ms.locfileid: "20246305"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -30,6 +30,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
   
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Juli 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
 |Juni 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
 |April 2018  <br/> |[KB4018346](https://support.microsoft.com/kb/4018346) <br/> |
@@ -77,6 +78,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Juli 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |Juni 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Mai 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
 |April 2018  <br/> |[KB4018358](https://support.microsoft.com/kb/4018358) <br/> |
