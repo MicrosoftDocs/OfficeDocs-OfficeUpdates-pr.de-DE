@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 96cad4972abd4987d6d3f2bd3a9d8815951ed891
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.openlocfilehash: 558af54e5e7111d8c240fcf9fac2862cbf9294b1
+ms.sourcegitcommit: bcd93b2785bc38ae1b065f2a721cd043cdd2357e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2018
-ms.locfileid: "20334435"
+ms.lasthandoff: 07/17/2018
+ms.locfileid: "20397968"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2018
 
@@ -331,7 +331,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1708-july-10"></a>Version 1708: 10. Juli
 *Version 1708 (Build 8431.2280)*
 
-* Dies ist die halbjährliche erweiterte Kanalversion, die seit September 2017 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2259), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+* Dies ist die halbjährliche Kanalversion, die seit September 2017 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2259), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
 -   [CVE-2018-8312](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
