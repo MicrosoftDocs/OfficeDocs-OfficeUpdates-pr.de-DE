@@ -30,7 +30,7 @@
 # Office (unbefristet)
 ## [Office-Updates (MSI)](office-updates-msi.md)
 ## [Outlook-Updates (MSI)](outlook-updates-msi.md)
-## [Skype for Business-Updates](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype for Business-Updates](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
 ## [Office 2016-MSP-Dateien](msp-files-office-2016.md)
 ## [Office 2013-MSP-Dateien](msp-files-office-2013.md)
 ## [Office 2013-Updates](update-history-office-2013.md)
@@ -40,7 +40,7 @@
 ## [Exchange Server-Updates](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
 ## [Project Server-Updates](project-server-updates.md)
 ## [SharePoint-Updates](sharepoint-updates.md)
-## [Skype for Business Server-Updates](https://technet.microsoft.com/office/dn788954.aspx)
+## [Skype for Business Server-Updates](https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates)
 
 # Verwandte Links
 ## [Windows 10-Versionen](https://www.microsoft.com/itpro/windows-10/release-information)

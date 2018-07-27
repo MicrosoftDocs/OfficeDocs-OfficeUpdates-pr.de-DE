@@ -11,12 +11,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
 description: Bietet IT-Experten Links zu Office-Versionsinhalten für Office 365 ProPlus, Office für Mac, die unbefristete Office-Version und Office-Serverprodukte
-ms.openlocfilehash: 2fc974c6688f30f9198b0ada76e1e443e0e80d7f
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.openlocfilehash: f2bd4b536cc1e7a6aa92cc5733695f7a42505874
+ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
-ms.locfileid: "19556077"
+ms.lasthandoff: 07/26/2018
+ms.locfileid: "21223383"
 ---
 # <a name="office-updates"></a>Office-Updates
 
@@ -64,7 +64,7 @@ Sie erhalten Informationen zu Features, sicherheitsrelevante Updates und nicht s
                         <p><a href="https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx">Exchange Server-Updates</a></p>
                         <p><a href="project-server-updates.md">Project Server-Update</a></p>
                         <p><a href="sharepoint-updates.md">SharePoint Server-Updates</a></p>
-                        <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Skype for Business Server-Updates</a></p>
+                        <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype for Business Server-Updates</a></p>
                </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@ Sie erhalten Informationen zu Features, sicherheitsrelevante Updates und nicht s
                         <h3>Office (unbefristet)</h3>
                             <p><a href="office-updates-msi.md">Office-Updates</a></p>
                             <p><a href="outlook-updates-msi.md">Outlook-Updates</a></p>
-                            <p><a href="https://technet.microsoft.com/office/dn788954.aspx">Skype for Business-Updates</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype for Business-Updates</a></p>
                             <p><a href="msp-files-office-2016.md">Office 2016-MSP-Dateien</a></p>
                     </div>
                 </div>
