@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/26/2018
+ms.date: 8/2/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 17f6be9de2ca59d5f5ec596c9c99fb83a3f0ad5a
-ms.sourcegitcommit: 73ff6091f19a0ba409da0357b21bb8804d41385d
+ms.openlocfilehash: 2bd6b8cf73c544a1e1267af686c4b98e950a9ade
+ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/26/2018
-ms.locfileid: "21222946"
+ms.lasthandoff: 08/02/2018
+ms.locfileid: "21772502"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -39,7 +39,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  - **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
- - **Nachverfolgen von Änderungen mit IRM:** Jetzt können Sie das Feature „Änderungen nachverfolgen“ in Word auch in IRM-geschützten Dokumenten verwenden, deren Besitzer Sie nicht sind.
+ - **Nachverfolgen von Änderungen mit IRM:** Jetzt können Sie das Feature „Änderungen nachverfolgen“ in Word auch in IRM-geschützten Dokumenten verwenden, ohne dass hierfür das Verwendungsrecht „Vollzugriff“ erforderlich ist.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
  - Es wurde eine Reihe von Problemen behoben, die einige Benutzer am Öffnen von IRM-geschützten Dokumenten und E-Mails hinderten, die von Personen in anderen Organisationen für sie freigegeben wurden.
@@ -420,3 +420,5 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen VBA-Code in Projekten verloren geht.
+
+Hinweis: Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum] (https://answers.microsoft.com/) oder in der [Tech-Community] veröffentlichen (https://techcommunity.microsoft.com/), oder Sie können sich an den [Support] wenden (https://support.microsoft.com/contactus).
