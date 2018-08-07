@@ -3,19 +3,19 @@ title: Updateverlauf für Office 365 ProPlus (nach Version)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/2018
+ms.date: 8/3/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Version sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: c9a5fc19313c120e706259fc2f5da47af39a86a3
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 5d400524108d0f27ae8c5139b3008cd7f8de8147
+ms.sourcegitcommit: befcaa5cbdb67e69b4d8eef2a2780225a66ff394
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772482"
+ms.lasthandoff: 08/07/2018
+ms.locfileid: "22040036"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-version"></a>Updateverlauf für Office 365 ProPlus (nach Version)
  
@@ -33,7 +33,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |**Version**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|
 |1807  <br/> |**[10325.20082](monthly-channel-2018.md#version-1807-july-25) (25. Juli 2018)** <br/> |  <br/> | <br/> |  <br/> |
-|1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10) (10. Juli 2018) <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25) (25. Juni 2018) |  [Version 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  |  <br/> |[Version 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
+|1806  <br/> |[10228.20104](monthly-channel-2018.md#version-1806-july-10) (10. Juli 2018) <br/>[10228.20080](monthly-channel-2018.md#version-1806-june-25) (25. Juni 2018) |  [Version 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/> |[Version 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
 |1805  <br/> |[9330.2124](monthly-channel-2018.md#version-1805-june-13) (13. Juni 2018) <br/> [9330.2118](monthly-channel-2018.md#version-1805-june-12) (12. Juni 2018) <br/> [9330.2087](monthly-channel-2018.md#version-1805-may-24) (24. Mai 2018) <br/> [9330.2078](monthly-channel-2018.md#version-1805-may-23) (23. Mai 2018) <br/> |  <br/> |  <br/> |
 |1804  <br/> |[9226.2156](monthly-channel-2018.md#version-1804-may-14) (14. Mai 2018) <br/> [9226.2126](monthly-channel-2018.md#version-1804-may-8) (8. Mai 2018) <br/>  [9226.2114](monthly-channel-2018.md#version-1804-april-25) (25. April 2018) <br/> |  <br/> |  <br/> |
 |1803  <br/> | [9126.2152](monthly-channel-2018.md#version-1803-april-11) (11. April 2018)  <br/>  [9126.2116](monthly-channel-2018.md#version-1803-march-27) (27. März 2018)  <br/> |**[9126.2259](semi-annual-channel-targeted-2018.md#version-1803-july-10) (10. Juli 2018)** <br/> [9126.2227](semi-annual-channel-targeted-2018.md#version-1803-june-12) (12. Juni 2018) <br/> [9126.2210](semi-annual-channel-targeted-2018.md#version-1803-may-18) (18. Mai 2018) <br/> [9126.2191](semi-annual-channel-targeted-2018.md#version-1803-may-8) (8. Mai 2018) <br/>  [9126.2152](semi-annual-channel-targeted-2018.md#version-1803-april-10) (10. April 2018)  <br/>  [9126.2098](semi-annual-channel-targeted-2018.md#version-1803-march-20) (20. März 2018)  <br/>  [9126.2072](semi-annual-channel-targeted-2018.md#version-1803-march-13) (13. März 2018)  <br/> |[9126.2259](semi-annual-channel-2018.md#version-1803-july-10) (10. Juli 2018)  <br/> |
