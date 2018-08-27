@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Spezialisten mit Anmerkungen zu dieser Version Versionen Semikolons jährlichen Channel (gezielte) für Office 365 ProPlus in 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556128"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Versionshinweise für Versionen in 2015 Semikolons jährlichen Channel (gezielte)
@@ -22,8 +22,8 @@ ms.locfileid: "19556128"
 Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in Semikolons jährlichen Channel (gezielte) Updates für Office 365 ProPlus in 2015 enthalten sind.
  
 > [!NOTE]
-> - Die folgenden enthält auch Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates für Visio Pro für Office 365 und Project Online Desktop Client.
-> - Diese Informationen gilt auch für Office 365 Business, also die Version von Office, die mit einigen Office 365-Pläne, wie Business Premium kommt.
+> - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
+> - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Semikolons jährlichen Channel (gezielte) hieß erste Version für Kanal vor September 2017 zurückgestellt.
 
 

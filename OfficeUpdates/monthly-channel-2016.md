@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Spezialisten mit Anmerkungen zur Version monatlich Channel für Office 365 ProPlus in 2016 frei
 ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556094"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Versionshinweise für monatlich Channel-Releases im 2016
@@ -22,8 +22,8 @@ ms.locfileid: "19556094"
 Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in monatlich Channel-Updates für Office 365 ProPlus in 2016 enthalten sind.
  
 > [!NOTE]
-> - Die folgenden enthält auch Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates für Visio Pro für Office 365 und Project Online Desktop Client.
-> - Diese Informationen gilt auch für Office 365 Business, also die Version von Office, die mit einigen Office 365-Pläne, wie Business Premium kommt.
+> - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
+> - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Monatlich Channel hieß aktueller Channel vor September 2017.
 
 ## <a name="version-1611-december-13"></a>Version 1611: Dezember 13
@@ -279,7 +279,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen beim Durchsuchen von Kategorien nur die erste Kategorie für eine Textzeile in dem Bereich „Kategorienzusammenfassung“ angezeigt wurde.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird auch automatisch in die Zeile hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden von benutzerdefinierten Briefpapier als Standarddesign zusätzliche Zeilenumbrüche zu neuen E-Mail-Nachrichten hinzugefügt und die Schriftart auf Calibri festgelegt wurden.
@@ -494,7 +494,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1606-july-26"></a>Version 1606: Juli 26
 *Version 1606 (Build 7070.2033)*
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die App beim Ausführen einer Abfrage mit einer Sortierung unter Verwendung des Access-Datenbankmoduls abstürzte, z. B. in der Access-App oder mit einem Add-In, die bzw. das das Access-Datenbankmodul als Datenanbieter verwendet.
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -554,7 +554,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="access-feature-updates"></a>Access: Featureupdates
 -   **dBASE-Unterstützung:** Unterstützung für das Importieren von oder Verknüpfen mit Daten, die in dBASE-Datenbanken (DBF) gespeichert sind. [Weitere Informationen](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigt, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben kann.
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
@@ -643,7 +643,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Vereinfachte Profilerstellung:** Eine vereinfachte-Benutzeroberfläche (UI) zum Einrichten von zusätzlichen Outlook-Profilen für Office 365-Postfächer, wenn Sie mit einem Office 365-Konto angemeldet sind.
 
-    Hinweis: Dieses Feature ist eingeführt über einen Zeitraum für Abonnenten, weshalb Sie dieses Feature nicht sofort sichtbar ist. Wenn dieses Feature wird der Zeitpunkt nutzt außerdem wie Ihre Organisation Office aktualisiert.
+    Hinweis: Dieses Feature wurde über einen Zeitraum für Abonnenten bereitgestellt. Es ist möglich, dass dieses Feature nicht sofort angezeigt wird. Der Zeitpunkt, ab dem dieses Feature angezeigt wird hängt auch davon ab, wie Office-Aktualisierungen in Ihrer Organisation durchgeführt werden.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die erweiterten Symbolzeichen beim Senden einer E-Mail im RTF-Format zu „1“ geändert wurden.
@@ -671,7 +671,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Funktionen für die Zusammenarbeit wurden auf dem Menüband in Gruppen zusammengefasst:** Die Funktionen „Freigeben“, „Chat“, „Kommentare“, „Dokumentaktivität“ und der Benutzer, der aktuell das Dokument bearbeitet, werden auf dem Menüband in Word und PowerPoint zusammengefasst. [Weitere Informationen](https://blogs.office.com/2016/04/26/new-to-office-365-in-april-skype-for-business-mac-preview-bringing-collaboration-to-the-forefront-in-office-and-more/)
 -   **Einstellung für AD RMS-Benutzerrechterichtlinien:** Stellt sicher, dass die Einstellung für „Besitzer (Autor) permanenten Vollzugriff gewähren“ beim Anwenden auf neue Word-, Excel- und PowerPoint-Dokumente berücksichtigt wird, insbesondere dann, wenn die Einstellung deaktiviert ist. Wenn die Einstellung deaktiviert ist, wird eine Warnung mit dem Hinweis angezeigt, dass das Anwenden der Vorlage ggf. den Zugriff auf das Dokument einschränkt.
 
-    Hinweis: Vorhandene Dokumente mit einer Vorlage, die diese Einstellung konfiguriert war bereits geschützt werden nicht geändert. Der Besitzer verfügen weiterhin auf diese Dokumente Vollzugriff und kein Ablaufdatum.
+    Hinweis: Vorhandene Dokumente, die mit einer Vorlage geschützt sind, für die diese Einstellung konfiguriert ist, werden nicht geändert. Der Besitzer verfügt weiterhin über permanenten Vollzugriff für diese Dokumente.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem beim Zwischenspeichern behoben, das dazu führte, dass einige Office 2013-Lizenzierungs- und Programminstallationsinformationen gelöscht wurden, bevor ein von Microsoft initiiertes Upgrade der Office 2013-Version eines Office 365-Clients, wie z. B. Office 365 ProPlus, auf die Office-Version 2016 durchgeführt wurde.

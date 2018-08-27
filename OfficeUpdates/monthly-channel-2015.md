@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Spezialisten mit Anmerkungen zur Version monatlich Channel für Office 365 ProPlus in 2015 frei
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556098"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Versionshinweise für monatlich Channel-Releases im 2015
@@ -22,8 +22,8 @@ ms.locfileid: "19556098"
 Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in monatlich Channel-Updates für Office 365 ProPlus in 2015 enthalten sind.
  
 > [!NOTE]
-> - Die folgenden enthält auch Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates für Visio Pro für Office 365 und Project Online Desktop Client.
-> - Diese Informationen gilt auch für Office 365 Business, also die Version von Office, die mit einigen Office 365-Pläne, wie Business Premium kommt.
+> - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
+> - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Monatlich Channel hieß aktueller Channel vor September 2017.
 
 ## <a name="version-1511-december-11"></a>Version 1511: Dezember 11
@@ -55,7 +55,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Dieser Dienst erfordert Internet-Verbindung. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Sie finden diese Einstellung unter Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemeine | Dienstoptionen... \\PowerPoint-Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen SmartArt mit Animationen nicht in der erwarteten Reihenfolge in der Bildschirmpräsentationsansicht mit der Referentenansicht angezeigt wurden.

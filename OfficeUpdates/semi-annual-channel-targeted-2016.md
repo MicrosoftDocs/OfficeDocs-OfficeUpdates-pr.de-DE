@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Spezialisten mit Anmerkungen zu dieser Version Versionen Semikolons jährlichen Channel (gezielte) für Office 365 ProPlus in 2016
 ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556103"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Versionshinweise für Versionen in 2016 Semikolons jährlichen Channel (gezielte)
@@ -22,8 +22,8 @@ ms.locfileid: "19556103"
 Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in Semikolons jährlichen Channel (gezielte) Updates für Office 365 ProPlus in 2016 enthalten sind.
  
 > [!NOTE]
-> - Die folgenden enthält auch Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates für Visio Pro für Office 365 und Project Online Desktop Client.
-> - Diese Informationen gilt auch für Office 365 Business, also die Version von Office, die mit einigen Office 365-Pläne, wie Business Premium kommt.
+> - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
+> - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Semikolons jährlichen Channel (gezielte) hieß erste Version für Kanal vor September 2017 zurückgestellt.
 
 ## <a name="version-1609-december-13"></a>Version 1609: Dezember 13
@@ -114,7 +114,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="access-feature-updates"></a>Access: Featureupdates
 -   **dBASE-Unterstützung:** Unterstützung für das Importieren von oder Verknüpfen mit Daten, die in dBASE-Datenbanken (DBF) gespeichert sind. [Weitere Informationen](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die App beim Ausführen einer Abfrage mit einer Sortierung unter Verwendung des Access-Datenbankmoduls abstürzte, z. B. in der Access-App oder mit einem Add-In, die bzw. das das Access-Datenbankmodul als Datenanbieter verwendet.
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigt, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben kann.
 
@@ -163,7 +163,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen das Löschen eines Tabelle zu einem Absturz von OneNote führte.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird auch automatisch in die Zeile hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Zusammenfassungskarten für Reisereservierungen und Pakete:** Prüfen und verfolgen Sie Reisereservierungen sowie Paketzustellungen, indem Sie Zusammenfassungskarten verwenden, die automatisch im Posteingang und im Kalender erstellt wurden. [Weitere Informationen](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-Vorschau für angefügte Fotos**: Wenn ein Foto an eine E-Mail-Nachricht angefügt ist, wird in Outlook eine kleine Vorschau des Fotos in der Nachricht angezeigt.
 -   **Link zum Wiederherstellen gelöschter Objekte:** Im Ordner „Gelöschte Elemente“ wird der Link „Elemente wiederherstellen, die aus diesem Ordner gelöscht wurden“ oberhalb der Liste gelöschter Elemente angezeigt. Außerdem wird beim Klicken auf den Link das Dialogfeld „Gelöschte Elemente wiederherstellen“ aufgerufen.
@@ -357,7 +357,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1605-july-21"></a>Version 1605: Juli 21
 *Version 1605 (Build 6965.2069)*
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die App beim Ausführen einer Abfrage mit einer Sortierung unter Verwendung des Access-Datenbankmoduls abstürzte, z. B. in der Access-App oder mit einem Add-In, die bzw. das das Access-Datenbankmodul als Datenanbieter verwendet.
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -392,7 +392,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1605-june-30"></a>Version 1605: 30. Juni
 *Version 1605 (Build 6965.2063)*
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigt, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben kann.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -444,7 +444,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Vereinfachte Profilerstellung:** Eine vereinfachte-Benutzeroberfläche (UI) zum Einrichten von zusätzlichen Outlook-Profilen für Office 365-Postfächer, wenn Sie mit einem Office 365-Konto angemeldet sind.
 
-    Hinweis: Dieses Feature ist eingeführt über einen Zeitraum für Abonnenten, weshalb Sie dieses Feature nicht sofort sichtbar ist. Wenn dieses Feature wird der Zeitpunkt nutzt außerdem wie Ihre Organisation Office aktualisiert.
+    Hinweis: Dieses Feature wurde über einen Zeitraum für Abonnenten bereitgestellt. Es ist möglich, dass dieses Feature nicht sofort angezeigt wird. Der Zeitpunkt, ab dem dieses Feature angezeigt wird hängt auch davon ab, wie Office-Aktualisierungen in Ihrer Organisation durchgeführt werden.
 
 -   **Liste mit Anlagen für Unterhaltungen:** Alle Anlagen für eine Unterhaltung in einer Office 365-Gruppe sind in einer Dropdownliste in der rechten oberen Ecke des Lesebereichs verfügbar.
 
@@ -512,7 +512,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 -   **Einstellung für AD RMS-Benutzerrechterichtlinien:** Stellt sicher, dass die Einstellung für „Besitzer (Autor) permanenten Vollzugriff gewähren“ beim Anwenden auf neue Word-, Excel- und PowerPoint-Dokumente berücksichtigt wird, insbesondere dann, wenn die Einstellung deaktiviert ist. Wenn die Einstellung deaktiviert ist, wird eine Warnung mit dem Hinweis angezeigt, dass das Anwenden der Vorlage ggf. den Zugriff auf das Dokument einschränkt.
 
-    Hinweis: Vorhandene Dokumente mit einer Vorlage, die diese Einstellung konfiguriert war bereits geschützt werden nicht geändert. Der Besitzer verfügen weiterhin auf diese Dokumente Vollzugriff und kein Ablaufdatum.
+    Hinweis: Vorhandene Dokumente, die mit einer Vorlage geschützt sind, für die diese Einstellung konfiguriert ist, werden nicht geändert. Der Besitzer verfügt weiterhin über permanenten Vollzugriff für diese Dokumente.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
@@ -743,7 +743,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Dieser Dienst erfordert Internet-Verbindung. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Sie finden diese Einstellung unter Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemeine | Dienstoptionen... \\PowerPoint-Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
@@ -834,7 +834,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Sortierfunktion in Datei \> Öffnen:** Sortieren nach Name oder Änderungsdatum in „Datei“ \> „Öffnen“ in allen Apps außer Outlook. Für Word, Excel und PowerPoint ist die Sortierung auch unter „Datei“ \> „Speichern unter“ verfügbar.
 -   **Funktion zum Durchsuchen von Ordnern in Datei \> Speichern unter:** Verwenden Sie die vollständige Ordnernavigation in Datei \> Speichern unter in Word, Excel und PowerPoint für OneDrive-Ordner, OneDrive for Business-Ordner und „Dieser PC“.
 -   **Optionen für „Senden an“:** Senden eines Dokuments als Anlage oder als PDF-Datei aus dem Bereich „Freigeben“ in Word oder PowerPoint.
--   **-API-Bild einfügen:**  Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Methode "Document.setselecteddataasync"](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die Word-JavaScript-API bietet Host-spezifische Methoden mit der Bezeichnung insertInlinePictureFromBase64() um eingebettete Bilder [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absätzen](https://msdn.microsoft.com/library/office/mt598682.aspx)und Range-Objekte festzulegen.
+-   **-API-Bild einfügen:**  Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Methode "Document.setselecteddataasync"](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl-Objekten](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absatz](https://msdn.microsoft.com/library/office/mt598682.aspx)undBereichen .
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)

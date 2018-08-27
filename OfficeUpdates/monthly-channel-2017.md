@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Spezialisten mit Anmerkungen zur Version monatlich Channel für Office 365 ProPlus in 2017 frei
 ms.openlocfilehash: 51e8d963e0e7ed2780be29f882b8c92abc1e5179
-ms.sourcegitcommit: 752a269d6c047356b638bd8da669cfa646d3bc7b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/13/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "20334445"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Versionshinweise für monatlich Channel-Releases im 2017
@@ -71,14 +71,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Zeichenanzahl:** Zeigen Sie die Anzahl der Zeichen auf der Statusleiste während der Eingabe an. Sie können dies im Menü „Statusleiste anpassen“ aktivieren.
 -   **Schneller Zugriff auf Ihre Websites und Gruppen:** Verwenden Sie das Menü „Datei“ zum Arbeiten mit Dokumenten, die in Ihren häufig verwendete Websites und Gruppen gespeichert sind.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Die Option „Jetzt aktualisieren“ ist unter „Datei“ \> „Konto“ \> „Updateoptionen“ ausgeblendet, wenn ein Office-COM-Objekt aktiviert ist, sodass Office 365-Clientupdates von System Center Configuration Manager verwaltet werden.
 
 
 ## <a name="version-1710-november-27"></a>Version 1710: November 27
 *Version 1710 (Build 8625.2139)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Fehlermeldung „Schwerwiegender Fehler“ beim Öffnen einer Office 2007- oder älteren Arbeitsmappe (XLS oder XLA) mit Makros nicht richtig angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen Excel möglicherweise abstürzte, wenn ein Benutzer ein Kontextmenü öffnete.
 
@@ -102,7 +102,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen bei Verweisen auf Flash Player-basierte YouTube-Einbindungscodes ein neues Fenster zum Wiedergeben des Videos geöffnet wird. Alte Einbindungscodes wurden aktualisiert und verweisen jetzt auf HTML5-basierte YouTube-Videos, sodass diese korrekt im gleichen Fenster wiedergegeben werden.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems beim Zoomen und Skalieren in Office-Add-Ins in der dynamischen DPI-Umgebung.
 -   Behebung eines Problems, aufgrund dessen der CurrentStatus-Knoten des Office-Konfigurationsdienstanbieters (CSP) eine leere Zeichenfolge zurückgibt, auch wenn Office 365 ProPlus aktuell installiert ist.
 -   Behebung eines Problems, das Änderungen des BOX-Dateiformats verursacht, was sich auf die Funktionalität älterer Office-Versionen auswirkt, die auf demselben Computer installiert sind, da BOX-Dateien von allen Versionen einer Office-App auf demselben Computer gemeinsam genutzt werden.
@@ -147,7 +147,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Task Board-Ansicht:** Sortieren Sie Aufgaben auf Karten in der Task Board-Ansicht. Ordner Sie Karten neu an, und verschieben Sie sie zwischen den Spalten im Board, genau wie in Agile-Projekten.
 -   **Agile-Projekte:** Verwalten Sie Ihre Agile-Projekte mit Backlogs, Task Boards, Sprints usw. Sowohl Scrum- als auch Kanban-Methoden werden unterstützt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Ressourcenverfügbarkeit nicht in Team Builder angezeigt wird.
 -   Behebung eines Problems, aufgrund dessen grafische Indikatoren nicht ordnungsgemäß angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen Project beim Abgleich auf Stunden- oder Tagesbasis abstürzt.
@@ -191,7 +191,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="publisher-non-security-updates"></a>Publisher: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen es beim Filtern von Datenquellenfeldern mit Nullwerten (leer) zu Fehlern kommt, wenn der Seriendruck-Assistent ausgeführt wird.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Word abstürzt, wenn ein Benutzer versucht, ein vorhandenes Dokument mit „Speichern unter“ auf OneDrive for Business zu speichern und den Speichervorgang dann abbricht oder versucht, vorhandene Änderungen zusammenzuführen.
 -   Behebung eines Problems, aufgrund dessen es beim Filtern von Datenquellenfeldern mit Nullwerten (leer) zu Fehlern kommt, wenn der Seriendruck-Assistent ausgeführt wird.
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit diesem Fix wird Benutzern jetzt eine Fehlermeldung angezeigt, und der Upload wird nicht fortgesetzt.
@@ -204,7 +204,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Ausführen einer Bildschirmpräsentation mit digitalem Stift:** Verwenden Sie den Surface-Stift oder einen anderen Stift mit einer Bluetooth-Taste, um durch die Präsentation zu blättern. Windows 10 Fall Creators Update ist erforderlich. [Weitere Informationen](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Project beim Wechseln zu Berichten mit mehreren Bildern möglicherweise abstürzt.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -213,14 +213,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen Chatnachrichten deaktiviert bleiben, nachdem die Einstellung in den Besprechungsoptionen für vorhandene Besprechungen, die mit der Option „Chat deaktivieren“ erstellt wurden, in „Chat aktivieren“ geändert wurde.
 -   Behebung eines Problems, aufgrund dessen die QuickInfo nicht angezeigt wird, wenn Sie den Mauszeiger über die Schaltfläche „Link einfügen“ im Chatfenster bewegen, und kein Barrierefreiheitsname angezeigt wird, wenn die Schaltfläche ausgewählt wird.
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
 -   **Anwenden von Datengrafiken auf Datenschnellansichtdiagramme:** Sparen Sie Zeit beim Erstellen eines Datenschnellansichtdiagramms, indem Sie Shape-Daten automatisch als Datengrafiken anwenden. [Weitere Informationen](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6?#apply_dg)
 -   **Zusammenarbeiten an Zeichnungen:** Arbeiten Sie mit anderen Personen zusammen, indem Sie Ihre Zeichnungen in OneDrive for Business oder SharePoint Online freigeben. Sie können sehen, wer an der Zeichnung arbeitet, Kommentare hinzufügen und Dateiaktivität anzeigen. [Weitere Informationen](https://support.office.com/article/413c0b5a-0d52-4ace-af85-8b9bf115bbbf)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **SharePoint-Eigenschaftenbereich:** Anzeigen und Bearbeiten von Spaltenwerten der SharePoint-Dokumentbibliothek von einem Dokument aus. Eine Menübandschaltfläche auf der Registerkarte „Ansicht“ bietet einfachen Zugriff auf den Bereich, und SharePoint-Administratoren können eine Dokumentbibliothekeinstellung verwenden, um den Eigenschaftenbereich automatisch zu öffnen.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Entfernen des IRM-Schutzes für ein Dokument der Schutz nicht entfernt wird.
 
 
@@ -236,7 +236,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
 
 
 
@@ -291,9 +291,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Verbesserungen für „Spalte aus Beispielen hinzufügen“:** Unterstützt mehrere Transformationen für Datum/Uhrzeit, Mathematik und Indexspalte.
 -   **Leistungsverbesserungen:** Excel öffnet komplexe Arbeitsmappen mit mehreren Blättern schneller, damit Sie Formeln mit großen Bereiche analysieren, eine Vielzahl von Zeilen schneller filtern oder kopieren und einfügen können. 
 -   **Benutzeroberfläche für Dateifreigabe:** Wenn Benutzer bei OneDrive for Business- oder SharePoint-Dateien auf die Schaltfläche „Freigeben“ in der oberen rechte Ecke des Menübands klicken oder „Datei“ \> „Freigeben“ wählen, wird ein vereinfachtes und verbessertes Freigabedialogfeld geöffnet. Für neue oder lokal gespeicherte Dateien ermöglicht die Benutzeroberfläche das problemlose Hochladen von Dateien auf OneDrive, um mit der Zusammenarbeit zu beginnen.
--   **Blockieren gefährliche Erweiterungen:** Erweiterungen, die gelten hohem Risiko und werden als OLE-Paketobjekte eingebettet werden blockiert, standardmäßig aktiviert. Beispielsweise .exe, VBS und js. [Erfahren Sie mehr](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben eines Problems, bei dem Registerkarten ignoriert werden, wenn tabulatorgetrennter Text aus Word kopiert und eingefügt wird, wobei der Text nicht in die Spalten eingefügt wird.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
@@ -306,12 +306,12 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **3D Modelle:** Verwenden Sie 3D, um den visuellen Eindruck und die kreativen Möglichkeiten Ihrer Präsentationen zu erhöhen. Erwecken Sie 3D-Modelle in Ihren Präsentationen zum Leben, indem Sie Übergänge wie Morphen verwenden, die kinoähnliche Animationen zwischen Folien erstellen. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Neue Freihand-Effekte:** Drücken Sie Ihre Ideen mit Metallic-Stiften und Freihand-Effekten wie Regenbogen, Galaxy, Lava, Ozean, Gold, Silber und vielem mehr auf besondere Weise aus.
 -   **Benutzeroberfläche für Dateifreigabe:** Wenn Benutzer bei OneDrive for Business- oder SharePoint-Dateien auf die Schaltfläche „Freigeben“ in der oberen rechte Ecke des Menübands klicken oder „Datei“ \> „Freigeben“ wählen, wird ein vereinfachtes und verbessertes Freigabedialogfeld geöffnet. Für neue oder lokal gespeicherte Dateien ermöglicht die Benutzeroberfläche das problemlose Hochladen von Dateien auf OneDrive, um mit der Zusammenarbeit zu beginnen.
--   **Blockieren gefährliche Erweiterungen:** Erweiterungen, die gelten hohem Risiko und werden als OLE-Paketobjekte eingebettet werden blockiert, standardmäßig aktiviert. Beispielsweise .exe, VBS und js. [Erfahren Sie mehr](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="project-feature-updates"></a>Project: Featureupdates
 -   **Verwalten einer Aufgabe im Planer:** Verknüpfen Sie eine Projektaufgabe mit dem Planer, und erstellen Sie einen Plan dafür. Unterteilen Sie die Aufgabe in Teilaufgaben, fügen Sie ein Team hinzu, weisen Sie Aufgaben zu, und Verwalten Sie die Arbeit auf einem Task Board.
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen der tatsächliche Beginn fälschlicherweise gelöscht wird, wenn Sie die verbleibende Arbeit festlegen.
 -   Behebung eines Problems, bei dem das tatsächliche Startdatum der Aufgabe möglicherweise andere Daten anzeigt, als von der Ressource bei der Statusermittlung in der Projekt-Web-App gemeldet wurden.
 -   Behebung eines Problems, bei dem tatsächliche Arbeit möglicherweise neu geplant wird, wenn der Endtermin der Aufgabe geändert wird.
@@ -320,7 +320,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, bei dem das Statusfeld für Sammelvorgänge nicht immer richtig berechnet wird.
 
 ### <a name="publisher-feature-updates"></a>Publisher: Featureupdates
--   **Blockieren gefährliche Erweiterungen:** Erweiterungen, die gelten hohem Risiko und werden als OLE-Paketobjekte eingebettet werden blockiert, standardmäßig aktiviert. Beispielsweise .exe, VBS und js. [Erfahren Sie mehr](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Hinzufügung eines Dialogfelds, in dem erläutert wird, warum ein Benutzer einer Besprechung nicht beitreten kann, wenn bestimmte Ports blockiert sind oder IP-Adressen nicht auf der Whitelist stehen.
@@ -334,15 +334,15 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen die Freigabebenachrichtigung in einer Sofortnachrichtenunterhaltung geschlossen wird, bevor die Freigabe beendet wird.
 
 ### <a name="visio-feature-updates"></a>Visio: Feature-Updates
--   **Blockieren gefährliche Erweiterungen:** Erweiterungen, die gelten hohem Risiko und werden als OLE-Paketobjekte eingebettet werden blockiert, standardmäßig aktiviert. Beispielsweise .exe, VBS und js. [Erfahren Sie mehr](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **3D Modelle:** Verwenden Sie 3D, um den visuellen Eindruck und die kreativen Möglichkeiten der Dokumente zu erhöhen.  Fügen Sie auf einfache Weise ein 3D-Modell ein, das Sie um 360 Grad drehen können. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Neue Freihand-Effekte:** Drücken Sie Ihre Ideen mit Metallic-Stiften und Freihand-Effekten wie Regenbogen, Galaxy, Lava, Ozean, Gold, Silber und vielem mehr auf besondere Weise aus.
 -   **Benutzeroberfläche für Dateifreigabe:** Wenn Benutzer bei OneDrive for Business- oder SharePoint-Dateien auf die Schaltfläche „Freigeben“ in der oberen rechte Ecke des Menübands klicken oder „Datei“ \> „Freigeben“ wählen, wird ein vereinfachtes und verbessertes Freigabedialogfeld geöffnet. Für neue oder lokal gespeicherte Dateien ermöglicht die Benutzeroberfläche das problemlose Hochladen von Dateien auf OneDrive, um mit der Zusammenarbeit zu beginnen.
--   **Blockieren gefährliche Erweiterungen:** Erweiterungen, die gelten hohem Risiko und werden als OLE-Paketobjekte eingebettet werden blockiert, standardmäßig aktiviert. Beispielsweise .exe, VBS und js. [Erfahren Sie mehr](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, das die Anzeige des Dialogfelds „Neuigkeiten“ verhindert.
 
 
@@ -351,7 +351,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1707 (Build 8326.2107)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2017-8631](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8631): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -379,7 +379,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1707-august-29"></a>Version 1707: August 29
 *Version 1707 (Build 8326.2096)*
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem vom Endbenutzer definierte Zeichen (End-User Definded Characters, EUDCs), die mit Schriftarten verknüpft sind, nicht angezeigt werden.
 
 
@@ -400,7 +400,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1707-august-18"></a>Version 1707: August 18
 *Version 1707 (Build 8326.2076)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Sie kein IMAP-Konto in Outlook konfigurieren können.
 -   Behebung eines Problems, das beim Öffnen von Outlook einen zeitweiligen Absturz verursacht.
 
@@ -413,7 +413,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1707-august-11"></a>Version 1707: August 11
 *Version 1707 (Build 8326.2073)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen eine Datenaktualisierung nicht erfolgreich ausgeführt werden kann oder Excel abstürzt, wenn Daten von einem SQL Server Analysis Services-Server verwendet werden und das Gebietsschema von Excel und das Gebietsschema des SQL Server Analysis Services-Servers sich unterscheiden.
 
 
@@ -421,7 +421,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1707-august-7"></a>Version 1707: August 7
 *Version 1707 (Build 8326.2070)*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen der Anmeldebildschirm für einige andere Sprachen als Englisch leer ist.
 
 
@@ -429,7 +429,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1707-july-31"></a>Version 1707: Juli 31
 *Version 1707 (Build 8326.2062)*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen nichtenglische Zeichen in Chatnachrichten und im Chatverlauf unleserlich angezeigt werden.
 
 
@@ -437,7 +437,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1707-july-28"></a>Version 1707: Juli 28
 *Version 1707 (Build 8326.2059)*
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems mit der Art und Weise, wie einige Programmdateien signiert sind, was dazu führt, dass Antivirenprogramme diese Dateien kennzeichnen, sowie von Problemen mit dem Schützen von oder Zugreifen auf Daten unter Windows Information Protection (WIP).
 
 
@@ -503,7 +503,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1706-july-19"></a>Version 1706: Juli 19
 *Version 1706 (Build 8229.2103)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Fehler angezeigt werden, wenn Sie versuchen, Änderungen an Dokumenten zu speichern, die mit dem OneDrive-Client synchronisiert wurden.
 -   Behebung eines Problems, aufgrund dessen an keiner Stelle Änderungen in einem Arbeitsblatt vorgenommen werden können, wenn eine PivotTable mit Feldern im Filterbereich, aber an keiner anderen Stelle vorhanden ist.
 
@@ -571,7 +571,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1705-june-13"></a>Version 1705: Juni 13
 *Version 1705 (Build 8201.2102)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem Excel das Kennwort für den Blattschutz nicht festlegt, wenn dies programmgesteuert für Arbeitsmappen erfolgt, die in Excel 2010 oder einer früheren Version erstellt wurden.
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
@@ -605,7 +605,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Verbesserung beim Abrufen und Transformieren:** Erstellen Sie im Abfrage-Editor eine neue Spalte, indem Sie Beispielwerte angeben. Während der Eingabe erkennt Excel die erforderlichen Transformationen und zeigt eine Vorschau der neuen Spalte an.
 -   **Unterstützung für Windows Information Protection (WIP):**   Excel ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen.  [Weitere Informationen](https://aka.ms/wiptechnet)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem „Verbinden und Zentrieren“ in gruppierten Arbeitsblättern nicht funktioniert.
 
 ### <a name="onenote-feature-updates"></a>OneNote: Featureupdates
@@ -620,7 +620,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Verbesserung am Designer:** Der Designer schlägt jetzt Entwurfsideen für Diagramme vor, die Ihren Folien hinzugefügt werden.
 -   **Unterstützung für Windows Information Protection (WIP):**   PowerPoint ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](https://aka.ms/wiptechnet)
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Korrektur des Dialogfelds „Projektwebsite erstellen“ derart, dass nun, da jede Unternehmensprojektvorlage in Project Online über eine eigene URL für Projektwebsites verfügt, der korrekte Ort der Website angezeigt wird.
 -   Behebung eines Problems, bei dem das VBA-BeforeClose-Ereignis vor der Aufforderung zum Speichern ausgelöst wird und Sie die Antwort des Benutzers auf die Speicheraufforderung nicht programmgesteuert ermitteln können.
 -   Behebung eines Problems, bei dem „Physisch % Abgeschlossen“ für Aufgaben, die nach dem Projektstatusdatum beginnen, nicht korrekt ausgeführt wird.
@@ -635,7 +635,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Benachrichtigung für die Bildschirmfreigabe:** Im Unterhaltungsfenster wird eine Benachrichtigung angezeigt, wenn Sie einen Bildschirm in einer Chatunterhaltung freigegeben haben oder wenn die Bildschirmfreigabe fortgesetzt wird, nachdem Sie eine Besprechung verlassen haben. Die Benachrichtigung erinnert Sie daran, dass Sie Ihren Bildschirm immer noch freigeben, und ermöglicht das einfache Beenden der Freigabe über die Schaltfläche „Freigabe beenden“.
 -   **Unterstützung für Windows Information Protection (WIP):** Skype for Business wird nun als „WIP Work Only“-App unterstützt.  Wenn Sie Skype zu Ihrer Liste der zugelassenen Apps hinzufügen, erkennt Windows, dass es keine persönlichen Daten verarbeiten soll.  Windows schützt die Daten im Auftrag von Skype for Business.  [Weitere Informationen](https://aka.ms/wiptechnet)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Ändern Sie die Meldung für versuchte Anrufe an Benutzer, deren Audio gemäß Richtlinie deaktiviert ist, von „Der Anruf kann nicht durchgeführt werden“ in „Der Anruf kann nicht durchgeführt werden, weil ein IT-Administrator Audio beschränkt hat. Versuchen Sie, stattdessen Instant Messaging oder E-Mails zu verwenden, und wenden Sie sich an Ihren IT-Administrator.“
 -   Fügen Sie den Hyperlink „PIN für Einwahl vergessen?“ zu Besprechungseinladungen für Benutzer von Skype for Business Online hinzu, die für PSTN-Konferenzen aktiviert sind.
 -   Aktivieren Sie die Besprechungsteilnahme von Teams von Skype for Business Online aus.
@@ -752,14 +752,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Sichere Links:** Wenn ein Benutzer auf einen Link klickt, überprüft Office 365 Advanced Threat Protection (ATP) den Link, um festzustellen, ob er schädlich ist. Wenn der Link als schädlich eingestuft wird, wird der Benutzer zu einer Warnseite anstelle der ursprünglichen Ziel-URL umgeleitet. [Weitere Informationen](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen neue Funktionen fehlen, die nach der Veröffentlichung von Office 2016 eingeführt wurden, z. B. TEXTJOIN, CONCAT, IFS, MAXIFS und MINIFS.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Gastzugriff auf Office 365-Gruppen:** Sie können mit Personen außerhalb der Organisation zusammenarbeiten, indem Sie ihnen Zugriff auf Gruppenunterhaltungen, Dateien, Kalendereinladungen und das Gruppennotizbuch gewähren. [Weitere Informationen](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Die Breite von Anlagen wird visuell so erweitert, dass sie an die Informationen über den Dateinamen und die Berechtigung angepasst wird.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
@@ -781,7 +781,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Die Zeit, die beim Halten verbracht wurde, wird nun im Fenster für die Gesprächsübergabe mit Ankündigung zum Lesen angezeigt, wie z. B. für die Sprachausgabe.
 -   Es wurde die Möglichkeit hinzugefügt, Chat oder Anrufe als Vorgabe für die Gesprächsübergabe mit Ankündigung auszuwählen.
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
 -   **Erstellen von Diagrammen aus Excel-Daten:** Ein Standardflussdiagramm oder ein funktionsübergreifendes Flussdiagramm kann nun mit den neuen Datenvisualisierungsvorlagen automatisch aus Excel-Daten erstellt werden. [Weitere Informationen](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 -   **Sichere Links:** Wenn ein Benutzer auf einen Link klickt, überprüft Office 365 Advanced Threat Protection (ATP) den Link, um festzustellen, ob er schädlich ist. Wenn der Link als schädlich eingestuft wird, wird der Benutzer zu einer Warnseite anstelle der ursprünglichen Ziel-URL umgeleitet. [Weitere Informationen](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
@@ -790,7 +790,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Sichere Links:** Wenn ein Benutzer auf einen Link klickt, überprüft Office 365 Advanced Threat Protection (ATP) den Link, um festzustellen, ob er schädlich ist. Wenn der Link als schädlich eingestuft wird, wird der Benutzer zu einer Warnseite anstelle der ursprünglichen Ziel-URL umgeleitet. [Weitere Informationen](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beim Speichern eines Dokuments als PDF-Datei wird das Dokument als PDF-Version 1.7 gespeichert.
 
 
@@ -810,7 +810,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1702-march-27"></a>Version 1702: März 27
 *Version 1702 (Build 7870.2031)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Excel abstürzt, wenn der Benutzer versucht, Berechtigungen auf Zellenebene anzuwenden.
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer großen Datei in OneDrive for Business die Datei gesperrt wird und der Benutzer die Datei erst bearbeiten kann, nachdem er Excel geschlossen und wieder geöffnet hat.
 -   Behebung eines Problems, aufgrund dessen ein neues Fenster beim Öffnen einer XLS-Arbeitsmappe abgeblendet angezeigt wird.
@@ -908,7 +908,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Freistellen:** Entfernen eines Bildhintergrunds mit einem Freiform-Zeichentool.
 -   **Seite nach Seite:** Navigieren in Seiten in der Drucklayoutansicht durch Blättern wie in einem Papierstapel. [Weitere Informationen](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem hochgestellte Zahlen für Fußnoten falsch vertikal positioniert werden.
 -   Behebung eines Problems, bei dem die Befehlsschaltfläche für ein Add-In nach dem Upgrade des Add-Ins oder nach dem Entfernen und erneuten Herunterladen des Add-Ins aus dem Office Store nicht funktionsfähig ist.
 
@@ -923,7 +923,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Zusammenarbeit bei Anlagen in Echtzeit:** Laden Sie Anlagen in OneDrive for Business hoch, damit alle an der neuesten Version arbeiten können. Verwenden Sie das Dropdown-Menü an der Anlage, um sie hochzuladen oder zu speichern.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben Sie ein Problem, bei dem beim Zuschneiden eines Bildes der zugeschnittene Bildbereich dunkel erscheint.
 
 ### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -1013,7 +1013,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Anheftbarer Aufgabenbereich:** Sie können den Add-In-Aufgabenbereich geöffnet lassen, während Sie die Nachrichten in Ihrem Postfach durchgehen. [Weitere Informationen](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben Sie ein Problem, bei dem bei einem Rechtsklick auf einen Anhang in der Anhangliste einer Unterhaltung alle Kontextmenüelemente sichtbar sind statt nur der jeweils passenden Menüelemente.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
@@ -1056,7 +1056,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **Änderungen in freigegebenen Dateien** Sie können jetzt sehen, wer in freigegebenen Dokumenten Änderungen vorgenommen hat, und frühere Versionen wiederherstellen. [Weitere Informationen](https://support.office.com/article/5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, aufgrund dessen Word abstürzte, wenn mehr als eine Grammatikbibliothek geladen wurde.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -1071,7 +1071,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 Hinweis: Die im Microsoft Security Bulletin [MS17-002](https://technet.microsoft.com/library/security/ms17-002) behandelte Problem zu Sicherheitsupdates nicht auf die Version von Word in dieser Version Channel gelten.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben Sie ein Problem, wenn Zellwerte mit Text und doppelten Anführungszeichen beim Speichern als CSV- oder CSV UTF-8 nicht ordnungsgemäß exportiert werden.
 -   Beheben Sie ein Problem, wenn Excel beim Schließen hängenbleibt oder abstürzt.
 

@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Spezialisten mit Anmerkungen zur Version Semikolons jährlichen Channel für Office 365 ProPlus in 2017 frei
 ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 5dabd0a6045b54940da7821e2349ec78b6b99d00
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2018
+ms.lasthandoff: 08/27/2018
 ms.locfileid: "19556111"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Versionshinweise für Semikolons jährlichen Channel-Releases im 2017
 
 Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in Semikolons jährlichen Channel-Updates für Office 365 ProPlus in 2017 enthalten sind. 
 > [!NOTE]
-> - Die folgenden enthält auch Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates für Visio Pro für Office 365 und Project Online Desktop Client.
-> - Diese Informationen gilt auch für Office 365 Business, also die Version von Office, die mit einigen Office 365-Pläne, wie Business Premium kommt.
-> - Semikolons jährlichen Channel wurde zurückgestellt Kanal vor Januar 2018 bezeichnet.
+> - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
+> - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
+> - Der halbjährliche Kanal hieß vor Januar 2018 verzögerten Kanal.
 
 
 ## <a name="version-1705-december-12"></a>Version 1705: Dezember 12
@@ -62,7 +62,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1705 (Build 8201.2207)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel – Sicherheitsrisiko bei Featureumgehung
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Umgehung von Sicherheitsfunktionen in Microsoft Office Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
@@ -70,7 +70,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [Empfehlung 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office – Intensiver Schutz – Update
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882):Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung
 
 
 
@@ -80,7 +80,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Dies ist die verzögerte Channel-Version, die seit Juni 2017 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis Januar 2018 empfangen. Aber eine neue Version des DDE-Kanal zurückgestellt ist jetzt verfügbar – Version 1705 (Build 8201.2207) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel – Sicherheitsrisiko bei Featureumgehung
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Umgehung von Sicherheitsfunktionen in Microsoft Office Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
@@ -88,7 +88,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [Empfehlung 170020](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170020): Microsoft Office – Intensiver Schutz – Update
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882):Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung
 
 
 
@@ -106,7 +106,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): Skype für Business – Sicherheitsrisiko bei Rechteerweiterungen
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
@@ -125,7 +125,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [CVE-2017-11786](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11786): Skype für Business – Sicherheitsrisiko bei Rechteerweiterungen
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2017-11826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11826): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
@@ -234,7 +234,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Verbesserte Eingabehilfen:** Verbesserte Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien zum Lesen und Bearbeiten von Präsentationen. [Weitere Informationen](https://support.office.com/article/3fce93f5-9ca8-42a6-bc1f-776749f6e32e)
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): Sicherheitsanfälligkeit in Microsoft PowerPoint bezüglich Remotecodeausführung
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -403,11 +403,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [CVE-2017-8632](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8632): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
--   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): Sicherheitsanfälligkeit in Microsoft PowerPoint bezüglich Remotecodeausführung
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Windows GDI+ – Sicherheitsproblem bei der Offenlegung von Informationen
+-   [CVE-2017-8676](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8676): Sicherheitsanfälligkeit in Windows-GDI+ bezüglich Veröffentlichung von Informationen
 -   [CVE-2017-8695](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8695): Graphics Component – Sicherheitsrisiko bei der Offenlegung von Informationen
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8696): Microsoft Graphics Component – Remotecodeausführung
 
@@ -421,7 +421,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1701 (Build 7766.2099)*
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook – Sicherheitsrisiko bei Featureumgehung
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Sicherheitsanfälligkeit in Microsoft Office bezüglich Umgehung von Sicherheitsfunktionen
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
@@ -433,7 +433,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Dies ist die verzögerte Channel-Version, die seit Februar 2017 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis September 2017 empfangen. Aber eine neue Version des DDE-Kanal zurückgestellt ist jetzt verfügbar – Version 1701 (Build 7766.2099) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Office Outlook – Sicherheitsrisiko bei Featureumgehung
+-   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Sicherheitsanfälligkeit in Microsoft Office bezüglich Umgehung von Sicherheitsfunktionen
 -   [CVE-2017-8572](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8572): Microsoft Office Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
@@ -443,11 +443,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1701 (Build 7766.2096)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 
 
@@ -457,18 +457,18 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Dies ist die verzögerte Channel-Version, die seit Februar 2017 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis September 2017 empfangen. Aber eine neue Version des DDE-Kanal zurückgestellt ist jetzt verfügbar – Version 1701 (Build 7766.2096) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2017-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8501): Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung
 -   [CVE-2017-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8502): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 
 
 ## <a name="version-1701-june-13"></a>Version 1701: Juni 13
 *Version 1701 (Build 7766.2092)*
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Flyout-Menüs können nicht geschlossen werden.
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
@@ -875,7 +875,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="access-feature-updates"></a>Access: Featureupdates
 -   **dBASE-Unterstützung:** Unterstützung für das Importieren von oder Verknüpfen mit Daten, die in dBASE-Datenbanken (DBF) gespeichert sind. [Weitere Informationen](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Beheben Sie ein Problem, bei dem bestimmte Aktionen nicht ausgeführt werden können, wenn das Hilfefenster geöffnet ist.
 -   Behebung eines Problems, aufgrund dessen die App beim Ausführen einer Abfrage mit einer Sortierung unter Verwendung des Access-Datenbankmoduls abstürzte, z. B. in der Access-App oder mit einem Add-In, die bzw. das das Access-Datenbankmodul als Datenanbieter verwendet.
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigt, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben kann.
@@ -927,7 +927,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen das Löschen eines Tabelle zu einem Absturz von OneNote führte.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird auch automatisch in die Zeile hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Zusammenfassungskarten für Reisereservierungen und Pakete:** Prüfen und verfolgen Sie Reisereservierungen sowie Paketzustellungen, indem Sie Zusammenfassungskarten verwenden, die automatisch im Posteingang und im Kalender erstellt wurden. [Weitere Informationen](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-Vorschau für angefügte Fotos**: Wenn ein Foto an eine E-Mail-Nachricht angefügt ist, wird in Outlook eine kleine Vorschau des Fotos in der Nachricht angezeigt.
 -   **Link zum Wiederherstellen gelöschter Objekte:** Im Ordner „Gelöschte Elemente“ wird der Link „Elemente wiederherstellen, die aus diesem Ordner gelöscht wurden“ oberhalb der Liste gelöschter Elemente angezeigt. Außerdem wird beim Klicken auf den Link das Dialogfeld „Gelöschte Elemente wiederherstellen“ aufgerufen.
