@@ -3,7 +3,7 @@ title: Project Server-Updates
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 7/10/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: 522f7301105728c078a1b6c5b7522fe0cf436b29
-ms.sourcegitcommit: edece54c563edc39c577be247c88af2a563794e4
+ms.openlocfilehash: b2aace5f2936b9adc546067940e065433d8a49c1
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2018
-ms.locfileid: "20246305"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520517"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -30,6 +30,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
   
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|August 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Juli 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
 |Juni 2018  <br/> |[KB4022185](https://support.microsoft.com/kb/4022185) <br/>|
 |Mai 2018  <br/> |[KB4018395](https://support.microsoft.com/kb/4018395) <br/>|
@@ -56,17 +57,17 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2016  <br/>  |[KB3115172](https://support.microsoft.com/kb/3115172) <br/> |
 |Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/kb/3115024) <br/> |
 |April 2016  <br/> |[KB3114936](https://support.microsoft.com/kb/3114936) <br/> |
-|März 2016  <br/> |[KB3114823](https://support.microsoft.com/kb/3114823) <br/> |
-|Februar 2016  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
+|März 2016  <br/> |[KB3114823](https://support.microsoft.com/kb/3114823) <br/> |
+|Februar 2016  <br/> |[KB3114723](https://support.microsoft.com/kb/3114723) <br/> |
 |Januar 2016  <br/> |[KB3114493](https://support.microsoft.com/kb/3114493) <br/> |
 |Dezember 2015  <br/> |[KB3114341](https://support.microsoft.com/kb/3114341) <br/> |
 |November 2015  <br/>  |[KB3101369](https://support.microsoft.com/kb/3101369) <br/> |
-|Oktober 2015  <br/> |[KB3085489](https://support.microsoft.com/kb/3085489) <br/> |
+|Oktober 2015  <br/> |[KB3085489](https://support.microsoft.com/kb/3085489) <br/> |
 |September 2015  <br/> |[KB2986195](https://support.microsoft.com/kb/2986195) <br/> |
 |August 2015  <br/>|[KB3055005](https://support.microsoft.com/kb/3055005) <br/> |
-|Juli 2015  <br/>  |[KB3054933](https://support.microsoft.com/kb/3054933) <br/> |
+|Juli 2015  <br/>  |[KB3054933](https://support.microsoft.com/kb/3054933) <br/> |
 |Juni 2015  <br/> |[KB3054865](https://support.microsoft.com/kb/3054865) <br/> |
-|Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/kb/3039753) <br/> |
+|Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/kb/3039753) <br/> |
 |April 2015  <br/> |[KB2965263](https://support.microsoft.com/kb/2965263) <br/> |
 |März 2015  <br/> |[KB2956162](https://support.microsoft.com/kb/2956162) <br/> |
 |Februar 2015  <br/> |[KB2920796](https://support.microsoft.com/kb/2920796) <br/> |
@@ -78,6 +79,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|August 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Juli 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
 |Juni 2018  <br/>  |[KB4022201](https://support.microsoft.com/kb/4022201) <br/> |
 |Mai 2018  <br/>  |[KB4022140](https://support.microsoft.com/kb/4022140) <br/> |
@@ -100,17 +102,17 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2016  <br/> |[KB3115242](https://support.microsoft.com/kb/3115242) <br/> |
 |Mai 2016  <br/>|[KB3115122](https://support.microsoft.com/kb/3115122) <br/> |
 |April 2016  <br/> |[KB3114992](https://support.microsoft.com/kb/3114992) <br/> |
-|März 2016  <br/> |[KB3114876](https://support.microsoft.com/kb/3114876) <br/> |
-|März 2016  <br/> |[KB3114754](https://support.microsoft.com/kb/3114754) <br/> |
+|März 2016  <br/> |[KB3114876](https://support.microsoft.com/kb/3114876) <br/> |
+|März 2016  <br/> |[KB3114754](https://support.microsoft.com/kb/3114754) <br/> |
 |Januar 2016  <br/> |[KB3114556](https://support.microsoft.com/kb/3114556) <br/> |
 |Dezember 2015  <br/> |[KB3114405](https://support.microsoft.com/kb/3114405) <br/> |
 |November 2015  <br/> |[KB3101530](https://support.microsoft.com/kb/3101530) <br/> |
-|Oktober 2015  <br/> |[KB3085598](https://support.microsoft.com/kb/3085598) <br/> |
+|Oktober 2015  <br/> |[KB3085598](https://support.microsoft.com/kb/3085598) <br/> |
 |September 2015  <br/> |[KB3085517](https://support.microsoft.com/kb/3085517) <br/> |
 |August 2015  <br/> |[KB3055038](https://support.microsoft.com/kb/3055038) <br/> |
-|Juli 2015  <br/> |[KB3054972](https://support.microsoft.com/kb/3054972) <br/> |
+|Juli 2015  <br/> |[KB3054972](https://support.microsoft.com/kb/3054972) <br/> |
 |Juni 2015  <br/> |[KB3054877](https://support.microsoft.com/kb/3054877) <br/> |
-|Mai 2015  <br/> |[KB2999496](https://support.microsoft.com/kb/2999496) <br/> |
+|Mai 2015  <br/> |[KB2999496](https://support.microsoft.com/kb/2999496) <br/> |
 |April 2015  <br/> |[KB2965293](https://support.microsoft.com/kb/2965293) <br/> |
 |März 2015  <br/> |[KB2956198](https://support.microsoft.com/kb/2956168) <br/> |
 |Februar 2015  <br/> |[KB2899557](https://support.microsoft.com/kb/2899557) <br/> |
