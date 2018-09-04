@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/2/2018
+ms.date: 8/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 8ef3c924269c690e50766dc90caaa46a967879ba
-ms.sourcegitcommit: 3a7c59901d43bbff19d1ee3e675c66d0412ab8f7
+ms.openlocfilehash: 8590b1e56a9f3322947a890d9a94c8b57e4d468b
+ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/02/2018
-ms.locfileid: "21772492"
+ms.lasthandoff: 08/27/2018
+ms.locfileid: "23520597"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -30,11 +30,42 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
   
 > [!NOTE]
 > - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x86-Version (Englisch USA) von Office 365 ProPlus. 
-> - Alle Downloadgrößen sind nur ungefähre Angaben. Die tatsächlichen Downloadgrößen können abweichen, möglicherweise um bis zu 50 MB. 
+> - Alle Downloadgrößen sind nur ungefähre Angaben. Die tatsächlichen Downloadgrößen können abweichen, möglicherweise um bis zu 50 MB. 
 > - Bei kursiv gedruckten und in die Symbole „\<“ und „\>“ eingeschlossenen Veröffentlichungsdaten und Buildnummern sind Änderungen vorbehalten. 
 > - Es werden nur Versionen der letzten vier Monate aufgelistet.
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
-> - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre. 
+> - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre. 
+
+  ## <a name="august-14-2018"></a>14. August 2018
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1807 (Build 10325.20118).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1807 (Build 10325.20082)  <br/> |25. Juli 2018  <br/> |82  <br/> |
+|Version 1807 (Build 10228.20134)  <br/> |17. Juli 2018  <br/> |183  <br/> |
+
+  
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1803 (Build 9126.2275).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1803 (Build 8431.2259)  <br/> |10. Juli 2018  <br/> |86  <br/> |
+|Version 1708 (Build 8431.2270)  <br/> |12. Juni 2018  <br/> |279  <br/> |
+
+  
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1803 (Build 9126.2275).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1803 (Build 8431.2259)  <br/> |10. Juli 2018  <br/> |86  <br/> |
+|Version 1803 (Build 9126.2227)  <br/> |12. Juni 2018  <br/> |94  <br/> |
 
   ## <a name="july-25-2018"></a>25. Juli 2018
 
@@ -60,9 +91,6 @@ Die neueste Version ist Version 1806 (Build 10228.20104).
 |Version 1805 (Build 9330.2118)  <br/> |12. Juni 2018  <br/> |401  <br/> |
 |Version 1805 (Build 9330.2087)  <br/> |24. Mai 2018  <br/> |150  <br/> |
 
-   
-### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
-
 Die neueste Version ist Version 1803 (Build 9126.2259).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
@@ -76,8 +104,8 @@ Die neueste Version ist Version 1803 (Build 9126.2259).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 1803 (Build 9126.2210)  <br/> |12. Juni 2018  <br/> |78  <br/> |
-|Version 1803 (Build 9126.2191)  <br/> |18. Mai 2018  <br/> |85  <br/> | 
+|Version 1803 (Build 9126.2227)  <br/> |12. Juni 2018  <br/> |78  <br/> |
+|Version 1803 (Build 9126.2210)  <br/> |18. Mai 2018  <br/> |85  <br/> | 
 
 
 ## <a name="june-25-2018"></a>25. Juni 2018
@@ -126,7 +154,15 @@ Die neueste Version ist Version 1708 (Build 8431.2270).
 |Version 1708 (Build 8431.2250)  <br/> |8. Mai 2018  <br/> |56  <br/> |
 |Version 1708 (Build 8431.2242)  <br/> |10. April 2018  <br/> |57  <br/> |
    
-### <a name="semi-annual-channel-targeted"></a>Halbjähriger Kanal (gezielt)
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1803 (Build 9126.2275).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1708 (Build 8431.2227)  <br/> |12. Juni 2018  <br/> |94  <br/> |
+|Version 1708 (Build 8431.2259)  <br/> |10. Juli 2018  <br/> |86  <br/> |
+|Version 1708 (Build 8431.2270)  <br/> |12. Juni 2018  <br/> |279  <br/> |
 
 Die neueste Version ist Version 1803 (Build 9126.2227).
   
@@ -386,4 +422,5 @@ Die neueste Version ist Version 1801 (Build 9001.2138).
 - [Updateverlauf für Office 365 ProPlus (nach Datum)](update-history-office365-proplus-by-date.md)
 - [Updateverlauf für Office 365 ProPlus (nach Version)](update-history-office365-proplus-by-version.md)
 
-Hinweis: Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum] (https://answers.microsoft.com/) oder in der [Tech-Community] veröffentlichen (https://techcommunity.microsoft.com/), oder Sie können sich an den [Support] wenden (https://support.microsoft.com/contactus).
+> [!NOTE]
+> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
