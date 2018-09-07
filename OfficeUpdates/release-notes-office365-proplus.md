@@ -3,19 +3,19 @@ title: Versionsinformationen zu Updates für Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/18
+ms.date: 9/6/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Office 365 ProPlus für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: 034f9eda427a72c0aad3020cf511b11a40fcc899
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: 38a10d5afa1996ca9abd1680a76395c5d8c75030
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839223"
+ms.locfileid: "23848353"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Versionsinformationen zu Updates für Office 365 ProPlus
 
@@ -27,7 +27,6 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 |**Kanal**|**Version**|**Erstellen**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
 |Monatlich  <br/> |1808  <br/> |[10730.20088](monthly-channel-2018.md#version-1808-september-5)  <br/> | 5. September 2018  <br/> |Version 1809 wird veröffentlicht <br/>|
-|Monatlich  <br/> |1807  <br/> |[10325.20118](monthly-channel-2018.md#version-1807-august-14)  <br/> | 14. August 2018  <br/> | Veröffentlichung von Version 1808 <br/>|
 |Halbjährlich (gezielt)  <br/> |1803  <br/> |[9126.2275](semi-annual-channel-targeted-2018.md#version-1803-august-14)  <br/> | 14. August 2018  <br/> | 11. September 2018 <br/>|
 |Halbjährlich <br/> |1803  <br/> | [9126.2275](semi-annual-channel-2018.md#version-1803-august-14) <br/> | 14. August 2018  <br/> | 10. September 2019 <br/>|
 |Halbjährlich <br/> |1708  <br/> |[8431.2299](semi-annual-channel-2018.md#version-1708-august-14)  <br/> | 14. August 2018  <br/> | 12. März 2019 <br/>|
