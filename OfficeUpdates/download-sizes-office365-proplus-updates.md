@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: f77d49e65138e26f9dac827a04d64d8800312551
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
+ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839193"
+ms.locfileid: "23848383"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -44,8 +44,9 @@ Die neueste Version ist Version 1808 (Build 10730.20088).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 1807 (Build 10325.20082)  <br/> |25. Juli 2018  <br/> |237  <br/> |
 |Version 1807 (Build 10325.20118)  <br/> |14. August 2018  <br/> |231  <br/> |
+|Version 1807 (Build 10325.20082)  <br/> |25. Juli 2018  <br/> |237  <br/> |
+
   ## <a name="august-14-2018"></a>14. August 2018
 
 ### <a name="monthly-channel"></a>Monatlicher Kanal
@@ -433,4 +434,4 @@ Die neueste Version ist Version 1801 (Build 9001.2138).
 - [Updateverlauf für Office 365 ProPlus (nach Version)](update-history-office365-proplus-by-version.md)
 
 > [!NOTE]
-> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
+> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
