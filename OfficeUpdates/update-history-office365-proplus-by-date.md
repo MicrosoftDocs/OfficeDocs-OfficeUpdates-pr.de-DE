@@ -3,19 +3,19 @@ title: Updateverlauf für Office 365 ProPlus (nach Datum)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/6/2018
+ms.date: 9/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 59b431cf0379a96d47a6b0d4e07b4b1e991441d2
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.openlocfilehash: 12cfa9021a7a5513c55ffec608daebda62cc1553
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848373"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952405"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -32,8 +32,9 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|Am 5. September   |[**Version 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
-|2018|14. August   |[Version 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|**[Version 1803 (Build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)**  |**[Version 1803 (Build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)**  <br/>  [Version 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
+|2018|11. September   |[**Version 1808 (Build 10730.20102)**](monthly-channel-2018.md#version-1808-september-11)|[**Version 1808 (Build 10730.20102)**](semi-annual-channel-targeted-2018.md#version-1808-september-11) |**[Version 1803 (Build 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [**Version 1708 (Build 8431.2309**)](semi-annual-channel-2018.md#version-1708-september-11)   |
+|2018|5. September   |[Version 1808 (Build 10730.20088)**](monthly-channel-2018.md#version-1808-september-5) | | |
+|2018|14. August   |[Version 1807 (Build 10325.20118)](monthly-channel-2018.md#version-1807-august-14)|[Version 1803 (Build 9126.2275)](semi-annual-channel-targeted-2018.md#version-1803-august-14)  |[Version 1803 (Build 9126.2275)](semi-annual-channel-2018.md#version-1803-august-14)  <br/>  [Version 1708 (Build 8431.2299)](semi-annual-channel-2018.md#version-1708-august-14)   |
 ||25. Juli   |[Version 1807 (Build 10325.20082)](monthly-channel-2018.md#version-1807-july-25) | | |
 ||17. Juli   |[Version 1806 (Build 10228.20134)](monthly-channel-2018.md#version-1806-july-17) | | |
 ||10. Juli   |[Version 1806 (Build 10228.20104)](monthly-channel-2018.md#version-1806-july-10) |[Version 1803 (Build 9126.2259)](semi-annual-channel-targeted-2018.md#version-1803-july-10)  |[Version 1803 (Build 9126.2259)](semi-annual-channel-2018.md#version-1803-july-10)  <br/>  [Version 1708 (Build 8431.2280)](semi-annual-channel-2018.md#version-1708-july-10)   |
@@ -109,7 +110,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 ||4. Oktober  <br/> | [Version 1609 (Build 7369.2024)](monthly-channel-2016.md#version-1609-october-4)  <br/> |  <br/> |  <br/> |
 ||26. September  <br/> |[Version 1608 (Build 7341.2035)](monthly-channel-2016.md#version-1608-september-26)  <br/> |  <br/> |  <br/> |
 ||21. September  <br/> |[Version 1608 (Build 7341.2032)](monthly-channel-2016.md#version-1608-september-21)  <br/> |  <br/> |  <br/> |
-||13. September  <br/> |[Version 1607 (Build 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |[Version 1605 (Build 6965.2084)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [Version 1602 (Build 6741.2071)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [Version 1509 (Build 6001.1090)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
+||13. September  <br/> |[Version 1607 (Build 7167.2060)](monthly-channel-2016.md#version-1607-september-13)  <br/> |[Version 1605 (Build 6965.2084)](semi-annual-channel-targeted-2016.md#version-1605-september-13)  <br/> | [Version 1602 (Build 6741.2071)](semi-annual-channel-2016.md#version-1602-september-13)  <br/>  [Version 1607 (Build 7167.2060)](semi-annual-channel-2016.md#version-1509-september-13)  <br/> |
 ||6. September  <br/> |[Version 1607 (Build 7167.2055)](monthly-channel-2016.md#version-1607-september-6)  <br/> |  <br/> |  <br/> |
 ||31. August  <br/> |[Version 1607 (Build 7167.2047)](monthly-channel-2016.md#version-1607-august-31)  <br/> |  <br/> |  <br/> |
 ||16. August  <br/> |[Version 1607 (Build 7167.2040)](monthly-channel-2016.md#version-1607-august-16)  <br/> |  <br/> |  <br/> |
@@ -127,7 +128,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 ||10. Mai  <br/> |[Version 1604 (Build 6868.2062)](monthly-channel-2016.md#version-1604-may-10)  <br/> |[Version 1602 (Build 6741.2037)](semi-annual-channel-targeted-2016.md#version-1602-may-10)  <br/> |[Version 1509 (Build 6001.1078)](semi-annual-channel-2016.md#version-1509-may-10)  <br/> |
 ||4. Mai  <br/> |[Version 1604 (Build 6868.2060)](monthly-channel-2016.md#version-1604-may-4)  <br/> |  <br/> |  <br/> |
 ||3. Mai  <br/> |  <br/> |[Version 1602 (Build 6741.2033)](semi-annual-channel-targeted-2016.md#version-1602-may-3)  <br/> |  <br/> |
-||28. April  <br/> |[Version 1603 (Build 6769.2040)](monthly-channel-2016.md#version-1603-april-28)  <br/> |  <br/> |  <br/> |
+||28. April  <br/> |[Version 1602 (Build 6741.2033)](monthly-channel-2016.md#version-1603-april-28)  <br/> |  <br/> |  <br/> |
 ||12. April  <br/> |[Version 1603 (Build 6769.2017)](monthly-channel-2016.md#version-1603-april-12)  <br/> |[Version 1602 (Build 6741.2026) ](semi-annual-channel-targeted-2016.md#version-1602-april-12) <br/> |[Version 1509 (Build 6001.1073)](semi-annual-channel-2016.md#version-1509-april-12)  <br/> |
 ||4. April  <br/> |[Version 1603 (Build 6769.2015)](monthly-channel-2016.md#version-1603-april-4)  <br/> |[Version 1602 (Build 6741.2025)](semi-annual-channel-targeted-2016.md#version-1602-april-4)  <br/> |  <br/> |
 ||24. März  <br/> |[Version 1602 (Build 6741.2021)](monthly-channel-2016.md#version-1602-march-24)  <br/> |  <br/> |  <br/> |
