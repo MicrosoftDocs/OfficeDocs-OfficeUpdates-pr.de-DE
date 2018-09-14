@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
 ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 54d6714d1475760fbdc61dff43d252883dfbf505
+ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23848383"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23954821"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
