@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/5/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: d4ec019cd46b154156dfc78e1aa4b9eb321a2913
-ms.sourcegitcommit: fa4c6a1da115d4003b0d0f6a2d0fa1805e7829c6
+ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/06/2018
-ms.locfileid: "23839213"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952425"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -24,6 +24,20 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
+
+## <a name="version-1808-september-11"></a>Version 1808: 11. September
+*Version 1808 (Build 10730.20102)*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen
+
+### <a name="word-security-updates"></a>Word: Sicherheitsupdates
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Sicherheitsanfälligkeit in Word-PDF bezüglich Remotecodeausführung
+
+### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Sicherheitsanfälligkeit in Win32k-Grafik bezüglich Remotecodeausführung
+
 
 ## <a name="version-1808-september-5"></a>Version 1808: 5. September
 *Version 1808 (Build 10730.20088)*
@@ -36,19 +50,19 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  
 ### <a name="visio-feature-updates"></a>Visio: Feature-Updates
  - **Genießen Sie in Ihrem nächsten Diagramm einen ikonischen Moment** Wählen Sie aus 26 neuen Schablonen mit Symbolen aus den Kategorien Analytik, Kunst, Festlichkeit, Gesichter, Sport und vieles mehr. 
- - **Erstellenen eines Word-Dokuments aus Visio-Shapes** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie anschließend das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Erstellen eines Word-Dokuments aus Visio-Shapes** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie anschließend das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
  - **Visio und Power BI: ein starkes Team** In ein paar Klicks verwandeln Sie Ihr Visio-Diagramm in eine interaktive Power BI-Visualisierung. [Weitere Informationen](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: Feature-Updates
  - **Finden Sie weitere Informationen über die Task Board-Karten** Wenn der Titel allein die Geschichte nicht erzählt, passen Sie Ihr Task Board so an, dass es die wichtigsten Informationen anzeigt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
-- Behebt ein Problem in Excel, aufgrund dessen die gepunktete Linie, die einen Bereich, den der Benutzer zum Kopieren ausgewählt hat, nicht verschwindet und in der Zwischenablage verbleibt, selbst wenn ein nachfolgender Benutzer einen Vorgang wie Einfügen ausführt. 
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+-  Behebt ein Problem in Excel, aufgrund dessen die gepunktete Linie, die einen Bereich, den der Benutzer zum Kopieren ausgewählt hat, nicht verschwindet und in der Zwischenablage verbleibt, selbst wenn ein nachfolgender Benutzer einen Vorgang wie Einfügen ausführt. 
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
  - Behebt ein Problem, aufgrund dessen die Verknüpfung „Mehr anzeigen ...“ in der Ergebnisliste für Benutzer mit mehreren konfigurierten Exchange-Konten fehlt.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
  - Behebung eines Fehlers, bei dem das Installieren eines Updates unter bestimmten Umständen sehr lange dauert.
  
 ### <a name="lync-non-security-updates"></a>Lync: Nicht sicherheitsrelevante Updates
@@ -64,10 +78,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel – Sicherheitsrisiko bei der Veröffentlichung von Informationen 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office - Intensiver Schutz - Update 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office - Intensives Schutz - Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen 
@@ -94,7 +108,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1806-july-17"></a>Version 1806: 17. Juli
 *Version 1806 (Build 10228.20134)*
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
  - Korrektur einiger Leistungsprobleme.
 
 ## <a name="version-1806-july-10"></a>Version 1806: 10. Juli
@@ -113,15 +127,15 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1806-june-25"></a>Version 1806: 25. Juni
 *Version 1806 (Build 10228.20080)*
 
-### <a name="excel-feature-updates"></a>Excel: Feature-Updates
- - **Verbesserte Bearbeitung für Zellen und Fomelleiste:**  Mit STRG + A kann nun Text in einer Zelle oder der Formelleiste ausgewählt werden. Verbesserte Unterstützung für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+ - **Verbesserte Bearbeitung für Zellen und Formelleiste:** Mit STRG + A kann nun Text in einer Zelle oder der Formelleiste ausgewählt werden. Verbesserte Unterstützung für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
  - **Serienstandard:** Im Dialogfeld „Terminserie“ (unter „Seriendauer“) ist „Endet am“ die Standardeinstellung (anstelle von „Kein Enddatum“); dies ist auch die erste aufgeführte Einstellung, und es ist ein Standardenddatum festgelegt.
  - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Nachrichten zugreifen können. [Weitere Informationen](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
-### <a name="powerpoint-feature-updates"></a>PowerPoint: Feature-Updates
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  - **Einfügen von Titeln für Ihre Folien mit einem Stift:** Verwenden Sie den Stift, um per Freihand einen Titel einzugeben, und sehen Sie zu, wie PowerPoint diesen in Text konvertiert. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -164,7 +178,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 - Behebt ein Problem, bei dem eine Anwendung, die die MAPI-API aufruft, zu einem Absturz führen könnte.
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Updates
 
 - Behebt ein Problem, bei dem verhindert wird, dass Sie ein Unterprojekt speichern, wenn Sie damit im Kontext eines Masterprojekts arbeiten.
 

@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2018
+ms.date: 9/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: f7d33739981dcbe14a9a940ea09c93ba9e9a46fc
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.openlocfilehash: f1f0e3b40a49db9d2c3b66c7d07fab2fb864902b
+ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "23520657"
+ms.lasthandoff: 09/12/2018
+ms.locfileid: "23952445"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2018
 
@@ -24,21 +24,51 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Der halbjährliche Kanal wurde vor Januar 2018 verzögerter Kanal genannt.
+> - Der halbjährliche Kanal hieß vor Januar 2018 verzögerter Kanal.
 
-## <a name="version-1803-august-14"></a>Version 1803: August 14
+## <a name="version-1803-september-11"></a>Version 1803: September 11
+*Version 1803 (Build 9126.2282)*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen
+
+### <a name="word-security-updates"></a>Word: Sicherheitsupdates
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Sicherheitsanfälligkeit in Word-PDF bezüglich Remotecodeausführung
+
+### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Sicherheitsanfälligkeit in Win32k-Grafik bezüglich Remotecodeausführung
+
+
+## <a name="version-1708-september-11"></a>Version 1708: September 11
+*Version 1708 (Build 8431.2309)*
+
+*Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2282), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen
+
+### <a name="word-security-updates"></a>Word: Sicherheitsupdates
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Sicherheitsanfälligkeit in Word-PDF bezüglich Remotecodeausführung
+
+### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Sicherheitsanfälligkeit in Win32k-Grafik bezüglich Remotecodeausführung
+
+
+## <a name="version-1803-august-14"></a>Version 1803: 14. August
 *Version 1803 (Build 9126.2275)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel – Sicherheitsrisiko bei der Veröffentlichung von Informationen 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office - Intensiver Schutz - Update 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office Defense - Tiefgreifendes Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen 
@@ -50,15 +80,15 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2275), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel – Sicherheitsrisiko bei der Veröffentlichung von Informationen 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office - Intensiver Schutz - Update 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office Defense - Tiefgreifendes Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen 
@@ -369,10 +399,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1708-july-10"></a>Version 1708: 10. Juli
 *Version 1708 (Build 8431.2280)*
 
-*Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2259), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+*Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 9126.2259), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko der Manipulation in Microsoft Office
@@ -587,7 +617,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
 -   [Empfehlung 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office – Intensiver Schutz – Update
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Excel abstürzt, wenn nach der programmgesteuerten Erstellung einer PivotTable eine programmgesteuerte Aktualisierung ausgeführt wird.
 -   Behebung eines Problems, aufgrund dessen die Fehlermeldung „Schwerwiegender Fehler“ beim Öffnen einer Office 2007- oder älteren Arbeitsmappe (XLS oder XLA) mit Makros nicht richtig angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen beim Öffnen einer Arbeitsmappe über die Befehlszeile das Rich-Text-Format einer Zelle möglicherweise verloren ging.
