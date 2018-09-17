@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: 29b3aad0a46edfb8dbd767259ed0362204b13a24
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 8e99458552d1532dbac1a71391b2f081a8da1b65
+ms.sourcegitcommit: 7cae3bec4f951ad7b10bd88c53c5b99a8dd66643
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936661"
+ms.locfileid: "23940306"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -31,7 +31,7 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
   
 |**Veröffentlichungsdatum**|**Version**|**Weitere Informationen**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
-|11. September 2018  <br/> |4.3.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> |[MAU 4.2.0 herunterladen](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
+|11. September 2018  <br/> |4.3.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> |[MAU 4.3.0 herunterladen](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> |
 |14. August 2018  <br/> |4.2.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#august-2018-release) <br/> |[MAU 4.2.0 herunterladen](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> |
 |10. Juli 2018  <br/> |4.1.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#july-2018-release) <br/> |[MAU 4.1.0 herunterladen](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.1.18070902_Updater.pkg) <br/> |
 |12. Juni 2018  <br/> |4.0.0  <br/> |||
