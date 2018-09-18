@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: dcd67d8313f05a51c041799cd3a3c642334e98d8
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: d67b2e60def009d3a266de701b939e901fdc6935
+ms.sourcegitcommit: 8389afa2087ea4470d99634b931baa28e35c7cd1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954821"
+ms.lasthandoff: 09/13/2018
+ms.locfileid: "23965141"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -101,7 +101,8 @@ Die neueste Version ist Version 1806 (Build 10228.20104).
 |Version 1805 (Build 9330.2124)  <br/> |13. Juni 2018  <br/> |149  <br/> |
 |Version 1805 (Build 9330.2118)  <br/> |12. Juni 2018  <br/> |401  <br/> |
 |Version 1805 (Build 9330.2087)  <br/> |24. Mai 2018  <br/> |150  <br/> |
-
+  
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 Die neueste Version ist Version 1803 (Build 9126.2259).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|

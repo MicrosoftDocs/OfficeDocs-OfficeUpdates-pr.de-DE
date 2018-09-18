@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 9/17/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: aee606abc436b2408e274e04faf903e762de5ee7
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 03c65ea79f989e380f4c51dc1bcade10ee609e01
+ms.sourcegitcommit: 4e2cd8fc9a9a4dca73f59bacfffc286048fe9aee
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952425"
+ms.lasthandoff: 09/17/2018
+ms.locfileid: "23991933"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -30,7 +30,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Sicherheitsrisiko in Microsoft Excel bei der Veröffentlichung von Informationen
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Sicherheitsanfälligkeit in Word-PDF bezüglich Remotecodeausführung
@@ -42,24 +42,24 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1808-september-5"></a>Version 1808: 5. September
 *Version 1808 (Build 10730.20088)*
 
-### <a name="access-feature-updates"></a>Access: Feature-Updates
+### <a name="access-feature-updates"></a>Access: Featureupdates
  - **Verknüpfte Tablellen aktualisieren, neu verknüfen oder löschen** Verwaltung aller Datenquellen und verknüpfter Tabellen im aktualisierten Tabellenverknüpfungs-Manager. [Weitere Informationen](https://support.office.com/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
 
-### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
  - **Deaktivieren der Anrufweiterleitung für eine Besprechung** Verhindern, dass Teilnehmer Ihre Besprechung an andere Personen weiterleiten. Wechseln Sie einfach zu der Multifunktionsleiste und klicken Sie auf Antwort-Optionen. [Weitere Informationen](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F)
  
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
  - **Genießen Sie in Ihrem nächsten Diagramm einen ikonischen Moment** Wählen Sie aus 26 neuen Schablonen mit Symbolen aus den Kategorien Analytik, Kunst, Festlichkeit, Gesichter, Sport und vieles mehr. 
  - **Erstellen eines Word-Dokuments aus Visio-Shapes** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie anschließend das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
  - **Visio und Power BI: ein starkes Team** In ein paar Klicks verwandeln Sie Ihr Visio-Diagramm in eine interaktive Power BI-Visualisierung. [Weitere Informationen](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
- ### <a name="project-feature-updates"></a>Project: Feature-Updates
+ ### <a name="project-feature-updates"></a>Project: Featureupdates
  - **Finden Sie weitere Informationen über die Task Board-Karten** Wenn der Titel allein die Geschichte nicht erzählt, passen Sie Ihr Task Board so an, dass es die wichtigsten Informationen anzeigt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -  Behebt ein Problem in Excel, aufgrund dessen die gepunktete Linie, die einen Bereich, den der Benutzer zum Kopieren ausgewählt hat, nicht verschwindet und in der Zwischenablage verbleibt, selbst wenn ein nachfolgender Benutzer einen Vorgang wie Einfügen ausführt. 
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
  - Behebt ein Problem, aufgrund dessen die Verknüpfung „Mehr anzeigen ...“ in der Ergebnisliste für Benutzer mit mehreren konfigurierten Exchange-Konten fehlt.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -78,16 +78,16 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Sicherheitsrisiko in Microsoft Excel bei der Veröffentlichung von Informationen 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office - Intensives Schutz - Update 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office Defense - Tiefgreifendes Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen 
 
 ## <a name="version-1807-july-25"></a>Version 1807: 25. Juli
-*Version 1807 (Build 10325.20082)*
+*Version 1807: 25. Juli*
 
 ### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
 - **Outlook-Add-In-Warnungen:** Gelegentlich können bei einem Outlook-COM-Add-In Probleme auftreten, die Outlook insgesamt verlangsamen. Diese Probleme können in der Latenz von Ereignissen begründet sein, z. B. beim Wechseln zwischen Outlook-Ordnern, Eintreffen neuer E-Mails, Öffnen von Kalenderelementen usw. Wenn diese Probleme auftreten, zeigt Outlook eine Warnung in der Benachrichtigungsleiste an.
@@ -128,7 +128,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Version 1806 (Build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
- - **Verbesserte Bearbeitung für Zellen und Formelleiste:** Mit STRG + A kann nun Text in einer Zelle oder der Formelleiste ausgewählt werden. Verbesserte Unterstützung für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **Verbesserte Bearbeitung für Zellen und Bearbeitungsleiste:** Mit STRG + A kann nun Text in einer Zelle oder der Bearbeitungsleiste ausgewählt werden. Verbesserte Unterstützung für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
@@ -196,10 +196,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="access-feature-updates"></a>Access: Featureupdates
  - **Daten mit neuen Diagrammen visualisieren:** Treffen Sie eine Auswahl aus 11 Diagrammen, und fügen Sie ein Diagramm zu Ihren Formularen und Berichten hinzu, um die Daten besser zu visualisieren und fundierte Entscheidungen zu treffen. [Weitere Informationen](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
 
-### <a name="excel-feature-updates"></a>Excel: Feature-Updates
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
  - **Während der Bearbeitung mit Mitautoren chatten:** Arbeiten Sie noch effizienter zusammen, indem Sie mit Mitautoren chatten, ohne Excel verlassen zu müssen. Beachten Sie, dass dieses Feature in einigen Regionen nicht verfügbar ist.[Weitere Informationen](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
  - **Automatische Eingabe:** Diktieren Sie Ihre E-Mails ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **3 Zeitzonen anzeigen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um die Verfügbarkeit von Personen anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Einfache Kalenderfreigabe:** Das Freigeben Ihrer Kalender ist ganz einfach; über Outlook Desktop freigegebene Kalender sind nun auch in Outlook Mobile verfügbar. [Weitere Informationen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
@@ -292,12 +292,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Sicherheitsanfälligkeit in Microsoft Office bezüglich Veröffentlichung von Informationen
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
-
+-   **Für Flash, Silverlight und Shockwave Steuerelemente wurde aus Sicherheitsgründen die Aktivierung in Office blockiert:** Aus Sicherheitsgründen blockieren neue Builds von Microsoft Office für Office 365 auf Windows die Aktivierung von Silverlight und Shockwave Flash-Steuerelementen.  Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Version 1803: 27. März
 *Version 1803 (Build 9126.2116)*
 
-### <a name="excel-feature-updates"></a>Excel: Feature-Updates
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätzen in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -308,7 +308,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Problem behoben, bei dem OneDrive for Business (Groove.exe) die Auslastung eines einzelnen Kerns (zum Beispiel 25 % bei einer CPU mit 4 Kernen) für längere Zeit im Task Manager beanspruchte.
 
-### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Blind Carbon Copy(Bcc)-Warnung: **Eine Warnung wird angezeigt, wenn Sie „Allen antworten“ für eine Nachricht auswählen, für die Sie auf Bcc gesetzt wurden.
 -   **Intelligentere Zeile „An“: **Beim Klicken auf die Zeile „An:“, um den Empfänger der Nachricht zu wählen, werden wahrscheinliche Empfänger vorgeschlagen. Darüber hinaus werden Bilder der Empfänger angezeigt, um sicherzugehen, dass Sie die Nachricht an die richtige Person senden. 
 
@@ -343,7 +343,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1802-february-26"></a>Version 1802: 26. Februar
 *Version 1802 (Build 9029.2167)*
 
-### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Andere Besprechungsteilnehmer kennen:** Sie können jetzt die Antworten anderer Personen auf eine Besprechungsanfrage sehen, selbst wenn Sie nicht der Organisator sind.
 -   **Einfaches Sortieren Ihrer E-Mails:** Aufgrund Ihres Feedbacks bieten wir für Benutzer, die den Posteingang mit Fokus nicht verwenden, wieder das Sortieren der Nachrichtenliste und den Filter für ungelesene Nachrichten an.
 
@@ -414,14 +414,14 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1712-january-17"></a>Version 1712: 17. Januar
 *Version 1712 (Build 8827.2148)*
 
-### <a name="excel-feature-updates"></a>Excel: Feature-Updates
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
 -   **Aufheben der Auswahl von Zellen:** Treffen Sie eine Auswahl im Arbeitsblatt, und heben Sie die Auswahl von Zellen auf, auf die Sie versehentlich geklickt haben, ohne von vorne beginnen zu müssen.
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Arbeitsmappenverweise fehlschlagen, wenn Sie mehrere Arbeitsmappen durch Doppelklicken auf die Dateinamen im Datei-Explorer öffnen.
 
-### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
 -   **Verbesserungen bei Office 365-Gruppen:** Das Lesen von und Antworten auf Gruppen-Chats ist einfacher als je zuvor, da Sie auf eine Gruppennachricht doppelklicken können, um sie in einem eigenen Fenster zu öffnen.
 
@@ -488,4 +488,4 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen VBA-Code in Projekten verloren geht.
 
 > [!NOTE]
-> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen; alternativ können Sie sich auch an den [Support](https://support.microsoft.com/contactus) wenden.
+> Wir empfehlen Ihnen, wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen. Sie können sich auch an den [Support](https://support.microsoft.com/contactus) wenden.
