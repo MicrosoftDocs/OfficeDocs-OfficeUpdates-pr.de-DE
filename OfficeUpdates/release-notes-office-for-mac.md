@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/12/2018
+ms.date: 9/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 5ec4d94714d59fe29735faa4c5f138b14d8f7304
-ms.sourcegitcommit: 5b6837d06af9089e443466b04c286f104411c6c9
+ms.openlocfilehash: 866eaf85ce6be9e85b035e515bf321802941e112
+ms.sourcegitcommit: c58f7bb10aa58c3eb9d9d498bc3c0f27b5d17752
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/13/2018
-ms.locfileid: "23959330"
+ms.lasthandoff: 09/14/2018
+ms.locfileid: "23976906"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -31,7 +31,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 > - Downloadlinks sind nur für die aktuellen Releases verfügbar.
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
-## <a name="september-2018-release"></a>September 2018 Version
+## <a name="september-2018-release"></a>September 2018-Version
 
  **Datum der Veröffentlichung:** 11. September 2018 
   
@@ -42,14 +42,14 @@ Dieses Release umfasst die folgenden Updates.
   
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|
-|Word  <br/> |**Erhalten Sie Aufmerksamkeit mit \@Erwähnungen:** Verwenden Sie @mentions in Kommentaren, damit Kollegen wissen, dass Sie deren Input brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>|||UNTRANSLATED_CONTENT_START|||**Custom shortcuts are back:** We heard you!|||UNTRANSLATED_CONTENT_END||| Auf Ihren Wunsch haben wir benutzerdefinierte Tastenkombinationen wieder eingeführt. [Weitere Informationen](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |**Erhalten Sie Aufmerksamkeit mit \@Erwähnungen:** Verwenden Sie @mentions in Kommentaren, damit Kollegen wissen, dass Sie deren Input brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren.[Erfahren Sie mehr](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Die Schriftart, die Sie wählen, ist die Schriftart, die sie sehen:** Betten Sie Ihre benutzerdefinierten Schriften in Ihre Dateien ein, sodass, wo immer sie hingehen, Ihre Schriften auch folgen. [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
+|Word  <br/> |**Machen Sie auf sich aufmerksam mit \@mentions:** Verwenden Sie @mentions in Kommentaren, um Mitarbeiter wissen zu lassen, dass Sie ihre Eingaben brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Benutzerdefinierte Tastenkombinationen sind wieder da:** Wir haben auf Sie gehört! Auf Ihren Wunsch haben wir benutzerdefinierte Tastenkombinationen wieder eingeführt. [Weitere Informationen](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel – Sicherheitsrisiko bei der Veröffentlichung von Informationen <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung <br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |**Machen Sie auf sich aufmerksam mit \@mentions:** Verwenden Sie @mentions in Kommentaren, um Mitarbeiter wissen zu lassen, dass Sie ihre Eingaben brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren.[Erfahren Sie mehr](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Die Schriftart, die Sie wählen, ist die Schriftart, die sie sehen:** Betten Sie Ihre benutzerdefinierten Schriften in Ihre Dateien ein, sodass, wo immer sie hingehen, Ihre Schriften auch folgen. [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
-|Microsoft AutoUpdate 4.2  <br/> |||[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
-|Office-Suite  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung <br/>||
+|Microsoft AutoUpdate 4.3  <br/> |||[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
+|Office-Suite  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Sicherheitsanfälligkeit in Microsoft Graphics bezüglich Remotecodeausführung <br/>||
 
-## <a name="august-2018-release"></a>August 2018 Version
+## <a name="august-2018-release"></a>August 2018-Version
 
  **Veröffentlichungsdatum:** 14. August 2018 
   
