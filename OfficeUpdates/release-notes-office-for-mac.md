@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: c06385280194586ef995851505ac9faa9817409f
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 8db9d034e7a95d69e9d0eca05731e57e217f6bcc
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056144"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004452"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -23,11 +23,13 @@ ms.locfileid: "24056144"
 Das in einem Office 365-Abonnement enthaltene Office für Mac wird in regelmäßigen Abständen aktualisiert, um neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates zur Verfügung zu stellen.
   
 Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Microsoft AutoUpdate starten Sie eine Office-Anwendung wie z. B. Word, und wählen Sie dann **Hilfe** > **Nach Updates suchen**. Wenn Sie ein Administrator sind und die Computer in Ihrer Organisation mit den vorhandenen Softwarebereitstellungstools aktualisieren möchten, können Sie die Updatepakete für jede Anwendung herunterladen und bereitstellen.
+
   
 > [!NOTE]
 > - Eine Liste aller Office für Mac-Releases und weitere Downloadlinks finden Sie unter [Updateverlauf für Office für Mac](update-history-office-for-mac.md). 
 > - Wenn Sie ein Office Insider sind, lesen Sie die [Versionshinweise zu Insider Fast-Builds](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
-> - Diese Informationen gelten auch für Office 2016 for Mac, d. h. die unbefristete Version von Office for Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist.  Ältere Versionen bis zu und einschließlich 16.16 können mit einer Office for Mac 2016 Volumenlizenz aktiviert werden. Neuere Versionen ab der 16.17 der 2016 Volumenlizenz sind jedoch nicht mehr kompatibel.
+> - Beginnend mit der Version 16.17 gelten diese Release Notes auch für Office für Mac 2019, d. h. die Version von Office for Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist. Einige der in den Release Notes aufgelisteten Funktionen sind jedoch nur verfügbar, wenn Sie über ein Office 365-Abonnement verfügen.
+> - Die Anmerkungen zur Version 16.16 und früher gelten auch für Office für Mac 2016, dies ist auch eine Version von Office für Mac, die als Einzelkauf verfügbar ist. Ältere Versionen bis zu und einschließlich 16.16 können mit einer Office für Mac 2016 Volumenlizenz aktiviert werden. Sie können die Version 16.17 oder höher nicht mit einer Office für Mac 2016 Volumenlizenz aktivieren. 
 > - Downloadlinks sind nur für die aktuellen Releases verfügbar.
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
@@ -43,13 +45,13 @@ Dieses Release umfasst die folgenden Updates.
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Machen Sie auf sich aufmerksam mit \@mentions:** Verwenden Sie @mentions in Kommentaren, um Mitarbeiter wissen zu lassen, dass Sie ihre Eingaben brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53) <br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/>||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/>|
-|Excel  <br/> |**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Benutzerdefinierte Tastenkombinationen sind wieder da:** Wir haben auf Sie gehört! Auf Ihren Wunsch haben wir benutzerdefinierte Tastenkombinationen wieder eingeführt. [Weitere Informationen](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel – Sicherheitsrisiko bei der Veröffentlichung von Informationen <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung <br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
+|Excel  <br/> |**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Benutzerdefinierte Tastenkombinationen sind wieder da:** Wir haben auf Sie gehört! Auf Ihren Wunsch haben wir benutzerdefinierte Tastenkombinationen wieder eingeführt. [Weitere Informationen](https://support.office.com/article/6bbeb90e-96d9-4e03-b199-fc026ebdc321) <br/>|[CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel – Sicherheitsrisiko bei der Veröffentlichung von Informationen <br/><br/>[CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich der Remotecodeausführung <br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/>|
 |PowerPoint  <br/> |**Machen Sie auf sich aufmerksam mit \@mentions:** Verwenden Sie @mentions in Kommentaren, um Mitarbeiter wissen zu lassen, dass Sie ihre Eingaben brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd) <br/><br/>**Mit Freihand zeichnen:** Mit der Maus oder dem Touchpad und den Stiften auf der Registerkarte Zeichnen können Sie schreiben, zeichnen und markieren.[Erfahren Sie mehr](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)<br/><br/>**Einfügen von 3D-Modellen, um alle Winkel zu sehen:** Einfaches Einfügen eines 3D-Modells und anschließendes Drehen um 360 Grad. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a) <br/><br/>**Die Schriftart, die Sie wählen, ist die Schriftart, die sie sehen:** Betten Sie Ihre benutzerdefinierten Schriften in Ihre Dateien ein, sodass, wo immer sie hingehen, Ihre Schriften auch folgen. [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/>||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/>|
 |Outlook  <br/> |||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.17.18090901_Updater.pkg) <br/>|
 |Microsoft AutoUpdate 4.3  <br/> |||[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.3.18090901_Updater.pkg) <br/> | 
 |Office-Suite  <br/> ||[CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung <br/>||
 
-## <a name="august-2018-release"></a>Version August 2018
+## <a name="august-2018-release"></a>August 2018 Version
 
  **Veröffentlichungsdatum:** 14. August 2018 
   
@@ -66,7 +68,7 @@ Dieses Release umfasst die folgenden Updates.
 |Microsoft AutoUpdate 4.2  <br/> ||[CVE-2018-8412](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8412): Sicherheitsrisiko in Microsoft AutoUpdate bezüglich Rechteerweiterungen  <br/>|[Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.2.18081201_Updater.pkg) <br/> | 
 |Office-Suite  <br/> ||||
 
-## <a name="july-2018-release"></a>Veröffentlichung Juli 2018
+## <a name="july-2018-release"></a>Release vom Juli 2018
 
  **Veröffentlichungsdatum:** 10. Juli 2018 
   
