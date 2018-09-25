@@ -3,19 +3,19 @@ title: Updateverlauf für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/20/2018
+ms.date: 9/24/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten Informationen über aktuelle Updates für Office für Mac zur Verfügung, einschließlich Links zum Herunterladen von Paketen und einen Updateverlauf.
-ms.openlocfilehash: 3cfecfaadaa03e8f1177cbcdc8a578a0a6958015
-ms.sourcegitcommit: 4f616612841c5fb841dc171d84528f9423967e5d
+ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
+ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/20/2018
-ms.locfileid: "24056134"
+ms.lasthandoff: 09/25/2018
+ms.locfileid: "25004442"
 ---
 # <a name="update-history-for-office-for-mac"></a>Updateverlauf für Office für Mac
 
@@ -29,7 +29,8 @@ In der folgenden Tabelle sind Informationen über die aktuelle Version von Offic
 16.17 (18090901)  <br/> |11. September 2018  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - Diese Informationen gelten auch für Office 2016 for Mac, d. h. die unbefristete Version von Office for Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist.  Ältere Versionen bis zu und einschließlich 16.16 können mit einer Office for Mac 2016 Volumenlizenz aktiviert werden. Neuere Versionen ab der 16.17 der 2016 Volumenlizenz sind jedoch nicht mehr kompatibel.
+> - Beginnend mit der Version 16.17 gelten diese Informationen auch für Office 2016 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist.
+> - Die Updateverlaufsinformationen für Version 16.16 und früher gelten auch für Office 2016 für Mac, eine weitere verfügbare Einzelkauf-Version von Office für Mac. Ältere Versionen bis zu und einschließlich 16.16 können mit einer Office 2016 for Mac Volumenlizenz aktiviert werden. Sie können die Version 16.17 oder höher nicht mit einer Office 2016 für Mac-Volumenlizenz aktivieren.
 > - Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates in einem bestimmten Release von Office für Mac finden Sie in den [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md).
 > - Wenn Sie frühzeitig auf neue Releases zugreifen möchten, treten Sie dem [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)-Programm bei.
 
