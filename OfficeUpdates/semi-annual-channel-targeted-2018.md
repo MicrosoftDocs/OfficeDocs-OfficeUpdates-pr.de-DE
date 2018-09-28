@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/26/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2018 zur Verfügung
-ms.openlocfilehash: c67197a9d1c431e33fe79ab608bdd097e311007f
-ms.sourcegitcommit: db43e848b1320ec6d5f32094facaf0b6994a1046
+ms.openlocfilehash: 7ec2469aa05f6885be6187cb3a733968c992a401
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/26/2018
-ms.locfileid: "25092113"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341390"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2018
 
@@ -36,7 +36,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
  - **Gemeinsame Bearbeitung:** Arbeiten Sie gleichzeitig mit anderen Personen in einer Arbeitsmappe. [Weitere Informationen](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
- - **AutoSpeichern für Cloud-Dateien ist jetzt standardmäßig aktiviert:** AutoSpeichern ist in der September 2018 halbjährliche DDE-Kanal (gezielte)-Version standardmäßig aktiviert. Dank dieser Änderung müssen sich Benutzer keine Sorgen machen, dass ihre Änderungen in Dokumenten, die auf OneDrive oder in SharePoint Online gespeichert sind, verloren gehen. Änderungen werden automatisch in der Cloud gespeichert und Benutzer müssen nicht mehr explizit Strg + S oder die Schaltfläche Speichern drücken. Allerdings müssen sie diese Änderung im Speicher-Verhalten verstehen, damit sie keine versehentlichen Änderungen an Dokumenten vornehmen. Beachten Sie, dass Benutzer die Funktion AutoSpeichern mit dem AutoSpeichern-Ein-/Ausschalter oben in der Anzeige deaktivieren können. Wir empfehlen, dass Sie Ihre Benutzer über diese bevorstehende Änderung informieren und sie darüber unterrichten, wie sie die Vorteile dieser neuen Funktion in Office 365 am besten nutzen können. [Erfahren Sie mehr über AutoSpeichern](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Erfahren Sie mehr darüber, was IT-Administratoren über AutoSpeichern wissen sollten](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
+ - **AutoSpeichern für Cloud-Dateien ist jetzt standardmäßig aktiviert:** AutoSpeichern ist in der September 2018 halbjährliche DDE-Kanal (gezielte) Version standardmäßig aktiviert. Dank dieser Änderung müssen sich Benutzer keine Sorgen machen, dass ihre Änderungen in Dokumenten, die auf OneDrive oder in SharePoint Online gespeichert sind, verloren gehen. Änderungen werden automatisch in der Cloud gespeichert und Benutzer müssen nicht mehr explizit Strg + S oder die Schaltfläche Speichern drücken. Allerdings müssen sie diese Änderung im Speicher-Verhalten verstehen, damit sie keine versehentlichen Änderungen an Dokumenten vornehmen. Beachten Sie, dass Benutzer die Funktion AutoSpeichern mit dem AutoSpeichern-Ein-/Ausschalter oben in der Anzeige deaktivieren können. Wir empfehlen, dass Sie Ihre Benutzer über diese bevorstehende Änderung informieren und sie darüber unterrichten, wie sie die Vorteile dieser neuen Funktion in Office 365 am besten nutzen können. [Erfahren Sie mehr über AutoSpeichern](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Erfahren Sie mehr darüber, was IT-Administratoren über AutoSpeichern wissen sollten](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Verbesserte Bearbeitung von Zellen und Bearbeitungsleisten:** Sie können nun mit STRG+A Text in einer Zelle oder der Bearbeitungsleiste auswählen. Verbesserter Support für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Arbeitsmappen zugreifen können. [Weitere Informationen](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Unerwünschte Änderungen vermeiden:** Legen Sie fest, dass Ihre Arbeitsmappen schreibgeschützt geöffnet werden, um versehentliche Änderungen zu verhindern. Wählen Sie Datei > Info > Arbeitsmappe schützen > Immer schreibgeschützt geöffnet
@@ -79,7 +79,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **Markieren Sie gelöschte Elemente als gelesen:** Sie können jetzt jede Nachricht, die Sie löschen, als gelesen markieren. Klicken Sie hierfür auf „Datei \> Optionen \> E-Mail \> Andere“.
 - **Drei Zeitzonen anzeigen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um die Verfügbarkeit von Personen anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
 - **Verbesserte Benutzeroberfläche für die Erstellung einer Gruppe:** Wir haben die Benutzeroberfläche für die Erstellung einer Gruppe verfeinert, damit sie moderner und übersichtlicher aussieht.[Erfahren Sie mehr](https://support.office.com/article/04d0c9cf-6864-423c-a380-4fa858f27102)
-- **Blind Carbon Copy(Bcc)-Warnung:** Eine Warnung wird angezeigt, wenn Sie „Allen antworten“ für eine Nachricht auswählen, für die Sie auf Bcc gesetzt wurden.
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
 -   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko bezüglich der Manipulation in Microsoft Office
@@ -92,20 +91,18 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, welches beim Wechseln zum Ordner „Postausgang“ oder „Gesendete Elemente“ den Absturz von Outlook verursacht.
 -   Behebung eines Problems, aufgrund dessen alle Teilnehmer Besprechungsaktualisierungen erhalten, wenn sich der Besprechungstext oder Anlagen ändern, statt optional eine Besprechungsaktualisierung an die Teilnehmer zu senden.
 -   Behebung eines Problems, aufgrund dessen Benutzer aufgrund einer Änderung in der Benutzer-Agent-Zeichenfolge keine Verbindung zu EWS- und REST-Endpunkten herstellen können.
--   Problem behoben, bei dem nach Aktualisierung des Besprechungsorts den Teilnehmern weiterhin der alte Ort angezeigt wurde, anstelle des neuen.
+-   Problem behoben, bei dem nach Aktualisierung des Besprechungorts den Teilnehmern weiterhin der alte Ort angezeigt wurde, anstelle des neuen.
 -   Problem behoben, bei dem bei der Vorschau einer Anlage im Lesebereich ein Fehler angezeigt wurde.
 -   Problem behoben, bei dem Outlook beim Auflösen von Anzeigenamen in E-Mail-Adressen abstürzte, wenn der Benutzer eine E-Mail verfasste.
 -   Problem behoben, bei dem einige Benutzer die von Ihrem Mandantenadministrator aktivierten Supportfunktionen nicht nutzen konnten.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates 
 - **AutoSpeichern für Cloud-Dateien ist jetzt standardmäßig aktiviert:** AutoSpeichern ist in der September 2018 halbjährliche DDE-Kanal (gezielte)-Version standardmäßig aktiviert. Dank dieser Änderung müssen sich Benutzer keine Sorgen machen, dass ihre Änderungen in Dokumenten, die auf OneDrive oder in SharePoint Online gespeichert sind, verloren gehen. Änderungen werden automatisch in der Cloud gespeichert und Benutzer müssen nicht mehr explizit Strg + S oder die Schaltfläche Speichern drücken. Allerdings müssen sie diese Änderung im Speicher-Verhalten verstehen, damit sie keine versehentlichen Änderungen an Präsentationen vornehmen. Beachten Sie, dass Benutzer die Funktion AutoSpeichern mit dem AutoSpeichern-Ein-/Ausschalter oben in der Anzeige deaktivieren können. Wir empfehlen, dass Sie Ihre Benutzer über diese bevorstehende Änderung informieren und sie darüber unterrichten, wie sie die Vorteile dieser neuen Funktion in Office 365 am besten nutzen können. [Erfahren Sie mehr über AutoSpeichern](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Erfahren Sie mehr darüber, was IT-Administratoren über AutoSpeichern wissen sollten](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
-- **Verbesserte Bearbeitung von Zellen und Bearbeitungsleisten:** Sie können nun mit STRG+A Text in einer Zelle oder der Bearbeitungsleiste auswählen. Verbesserter Support für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Verbesserte Bearbeitung von Zellen und Bearbeitungsleisten:** Sie können nun mit STRG+A Text in einer Zelle oder der Bearbeitungsleiste auswählen. Verbesserte Unterstützung für Emojis und andere komplexe Zeichen.[Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Freihandkonvertierung:** Konvertieren Sie Notizen und Zeichnungen in lesbaren Text und gestochen scharfe Formen, um eine ansprechende Präsentation zu erstellen. [Weitere Informationen](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
 - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Einfügen von Titeln für Ihre Folien mit einem Stift:** Verwenden Sie den Stift, um per Freihand einen Titel einzugeben, und sehen Sie zu, wie PowerPoint diesen in Text konvertiert. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Unerwünschte Änderungen vermeiden:** Legen Sie fest, dass Ihre Arbeitsmappen schreibgeschützt geöffnet werden, um versehentliche Änderungen zu verhindern. Wählen Sie Datei > Info > Arbeitsmappe schützen > Immer schreibgeschützt geöffnet
-- **Veröffentlichen in Microsoft Stream:** Geben Sie eine Präsentation mithilfe von Microsoft Stream noch sicherer als Video innerhalb Ihrer Organisation frei. [Weitere Informationen](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83?#bkmk_microsoftstream)
-- **Microsoft Forms:** Fügen Sie ein Quiz oder eine Umfrage einer Folie hinzu. Office sammelt und speichert die Antworten für Sie. [Weitere Informationen](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Präsentationen zugreifen können. [Weitere Informationen](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
@@ -171,7 +168,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Sicherheitsrisiko in Microsoft Office bezüglich Remotecodeausführung
 -   **Für Flash, Silverlight und Shockwave Steuerelemente wurde aus Sicherheitsgründen die Aktivierung in Office blockiert:** Aus Sicherheitsgründen blockieren neue Builds von Microsoft Office für Office 365 auf Windows die Aktivierung von Silverlight und Shockwave Flash-Steuerelementen. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -  Behebung eines Fehlers, bei dem das Installieren eines Updates unter bestimmten Umständen sehr lange dauert.
 -  Behebung eines Problems, aufgrund dessen beim Öffnen einer Anwendung eine Meldung über das Starten im abgesicherten Modus angezeigt wird und die Anwendung nicht geöffnet werden kann.
 -  Korrektur einiger Leistungsprobleme.
@@ -411,7 +408,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Hinzufügen eines Termins zu einem Gruppenkalender:** Jetzt können Sie alle Benutzer in Ihrer Gruppe informieren, dass Sie abwesend sein werden, ohne eine Besprechung in einer E-Mail senden zu müssen.
 -   **Herunterladen von Cloudanlagen:** Wenn Sie OneDrive-Anlagen auf Ihrem Computer speichern oder mit Drag & Drop dort ablegen, wird die Datei für Sie heruntergeladen.
 -   **Hilfreiche Sounds verbessern die Barrierefreiheit:** Aktivieren Sie Audiohinweise, um Sie bei der Arbeit zu unterstützen. Sie finden sie unter „Datei“ \> „Optionen“ \> „Erleichterte Bedienung“. Kein Add-In erforderlich. [Weitere Informationen](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
--   **Posteingang mit Fokus:** Der Posteingang ist in zwei Registerkarten unterteilt: „Fokus“ und „Andere“. Nachrichten werden basierend auf dem Inhalt der Nachricht und dem Benutzer sortiert, mit dem Sie am häufigsten interagieren. [Weitere Informationen](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
+-   **Posteingang mit Relevanz:** Der Posteingang ist in zwei Registerkarten unterteilt: „Relevant“ und „Andere“. Nachrichten werden basierend auf dem Inhalt der Nachricht und dem Benutzer sortiert, mit dem Sie am häufigsten interagieren. [Weitere Informationen](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978)
 -   **Schneller Zugriff auf Ihre am häufigsten verwendeten Gruppen:** Gruppen, mit denen Sie wahrscheinlich am häufigsten interagieren, werden nun am Anfang der Liste unter „Gruppen“ im Ordnerbereich angezeigt.
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
@@ -457,7 +454,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit diesem Fix wird Benutzern jetzt eine Fehlermeldung angezeigt, und der Upload wird nicht fortgesetzt.
 
 ### <a name="project-feature-updates"></a>Project: Featureupdates
--   **Task Board-Ansicht:** Sortieren Sie Aufgaben auf Karten in der Task Board-Ansicht. Ordner Sie Karten neu an, und verschieben Sie sie zwischen den Spalten im Board, genau wie in Agile-Projekten.
+-   **Task Board-Ansicht:** Sortieren Sie Aufgaben auf Karten in der Task Board-Ansicht. Ordnen Sie Karten neu an, und verschieben Sie sie zwischen den Spalten im Board, genau wie in Agile-Projekten.
 -   **Agile-Projekte:** Verwalten Sie Ihre Agile-Projekte mit Backlogs, Task Boards, Sprints usw. Sowohl Scrum- als auch Kanban-Methoden werden unterstützt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 -   **Verwalten einer Aufgabe im Planer:** Verknüpfen Sie eine Projektaufgabe mit dem Planer, und erstellen Sie einen Plan dafür. Unterteilen Sie die Aufgabe in Teilaufgaben, fügen Sie ein Team hinzu, weisen Sie Aufgaben zu, und verwalten Sie die Arbeit auf einem Task Board.
 
@@ -577,10 +574,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office – Sicherheitsrisiko durch Remotecodeausführung
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office – Sicherheitsrisiko durch  Remotecodeausführung
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
--   [Empfehlung 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz-Update
+-   [Empfehlung 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz – Update
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Öffnen einer Anwendung eine Meldung über das Starten im abgesicherten Modus angezeigt wird und die Anwendung nicht geöffnet werden kann.
@@ -616,7 +613,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
--   [Empfehlung 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office – Intensiver Schutz-Update
+-   [Empfehlung 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office – Intensiver Schutz – Update
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Excel abstürzt, wenn nach der programmgesteuerten Erstellung einer PivotTable eine programmgesteuerte Aktualisierung ausgeführt wird.
