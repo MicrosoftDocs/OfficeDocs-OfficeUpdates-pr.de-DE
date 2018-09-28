@@ -3,19 +3,19 @@ title: Updateverlauf für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/24/2018
+ms.date: 9/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten Informationen über aktuelle Updates für Office für Mac zur Verfügung, einschließlich Links zum Herunterladen von Paketen und einen Updateverlauf.
-ms.openlocfilehash: 5b6bc3cb28625ebe85523e3a75f97fa6bebad0d6
-ms.sourcegitcommit: d561f3f10cc54c9852f8bb903687803c77f71218
+ms.openlocfilehash: b143ab1be848e0efe17709fcce92302e04855c2a
+ms.sourcegitcommit: d14086363fa72dc14ac0e56a379471ade069de85
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/25/2018
-ms.locfileid: "25004442"
+ms.lasthandoff: 09/27/2018
+ms.locfileid: "25341380"
 ---
 # <a name="update-history-for-office-for-mac"></a>Updateverlauf für Office für Mac
 
@@ -29,10 +29,10 @@ In der folgenden Tabelle sind Informationen über die aktuelle Version von Offic
 16.17 (18090901)  <br/> |11. September 2018  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> |
   
 > [!NOTE]
-> - Beginnend mit der Version 16.17 gelten diese Informationen auch für Office 2016 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist.
-> - Die Updateverlaufsinformationen für Version 16.16 und früher gelten auch für Office 2016 für Mac, eine weitere verfügbare Einzelkauf-Version von Office für Mac. Ältere Versionen bis zu und einschließlich 16.16 können mit einer Office 2016 for Mac Volumenlizenz aktiviert werden. Sie können die Version 16.17 oder höher nicht mit einer Office 2016 für Mac-Volumenlizenz aktivieren.
+> - Ab dem Release 16.17 im September 2018 gelten diese Informationen auch für Office 2019 für Mac, eine Version von Office für Mac, die als Einmalkauf im Einzelhandel oder im Rahmen eines Volumenlizenzvertrags erhältlich ist.
+> - Die Informationen zum Updateverlauf für Version 16.16 und früher gelten auch für Office 2016 für Mac, die ebenfalls eine Version von Office für Mac ist, die als Einmalkauf erhältlich ist. Ältere Versionen bis einschließlich 16.16 können mit einer Office 2016 für Mac Volumenlizenz aktiviert werden. Sie können Version 16.17 oder höher nicht mit einer Office 2016 für Mac Volumenlizenz aktivieren. Informationen zu den Versionen von Office 2016 für Mac ab September finden Sie in den [Versionshinweisen zu Office 2016 für Mac](release-notes-office-2016-mac.md)
 > - Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates in einem bestimmten Release von Office für Mac finden Sie in den [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md).
-> - Wenn Sie frühzeitig auf neue Releases zugreifen möchten, treten Sie dem [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)-Programm bei.
+> - Wenn Sie frühzeitig auf neue Versionen zugreifen möchten, treten Sie dem [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)-Programm bei.
 
 ## <a name="most-current-packages-for-office-for-mac"></a>Aktuelle Pakete für Office für Mac
 
@@ -41,7 +41,7 @@ In der folgenden Tabelle werden die aktuellen Pakete für Office für Mac und di
   
 |**Anwendung**|**Version**|**Downloadlinks**|**SHA1-Hash für Installationspaket**|
 |:-----|:-----|:-----|:-----|
-|Office-Suite (alle Anwendungen)  <br/> |16.17.0 (18090901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |AA986C84B22B082E42D8A2C7C1176820336B19AB  <br/> |
+|Office-Sammlung (alle Anwendungen)  <br/> |16.17.0 (18090901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> |AA986C84B22B082E42D8A2C7C1176820336B19AB  <br/> |
 |Word  <br/> |16.17.0 (18090901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.17.18090901_Updater.pkg) <br/> |34B945836A628A820D96995DB7FE056D20ECB000  <br/> |
 |Excel  <br/> |16.17.0 (18090901)   <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.17.18090901_Updater.pkg) <br/> |0FFFD3AFCF9CD425379B5904B74766DBE4E8FC74  <br/> |
 |PowerPoint  <br/> |16.17.0 (18090901)   <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.17.18090901_Updater.pkg) <br/> |9290E6C7CED0986D9B573C364229DEBB71C91D09 <br/> |
@@ -55,16 +55,16 @@ Die folgende Tabelle enthält Informationen zu den aktuellen Paketen (einschlie�
   
 |**Programm**|**Version**|**Paket**|**SHA1-Hash**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|:-----|
-|Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Dieses Updatepaket ist eine 64-Bit-Version. <br/><br/>[Releaseverlauf für MAU](release-history-microsoft-autoupdate.md) |
-|Skype for Business  <br/> |16.21.0.65  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | 31235D956A16159A7552B5351A26704074A10722 <br/> |Die aktuelle Version wurde am 14. Spetember 2018 veröffentlicht. <br/><br/>[Aktuelle Updates](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
-|Remotedesktop | 10.2.1 (1143) | [Herunterladen](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Dieses Installationspaket ist eine 64-Bit-Version. <br/> <br/>[Neuerungen](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
-|Intune-Unternehmensportal |1.5 (52.1805002.000) [180509] | [Herunterladen](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Neuerungen in Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
-|Microsoft SharePoint (lokal) Safari-Browser-Plug-In für Office 2016 für Mac  <br/> |15.32.0 (170309)  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Dieses Installationspaket ist eine 64-Bit-Version.  <br/> |
+|Microsoft AutoUpdate (MAU)  <br/> |4.3 (18090901)  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> | 8DBABB5F9BEE7269491AC3A3A87A6E3FEC90689C  <br/> | Dieses Updatepaket ist eine 64-Bit-Version. <br/><br/>[Versionsverlauf für MAU](release-history-microsoft-autoupdate.md) |
+|Skype for Business  <br/> |16.21.0.75  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=832978) <br/> | A530ADCB7DEF1EFDB9590B159CDB27DE571D1269 <br/> |Die aktuelle Version wurde am 26. Spetember 2018 veröffentlicht. <br/><br/>[Aktuelle Updates](https://support.office.com/article/cece9f93-add1-4d93-9a38-56cc598e5781#OS_Type=Mac) <br/> |
+|Remote-Desktop | 10.2.1 (1143) | [Herunterladen](https://go.microsoft.com/fwlink/?linkid=868963) | a9df9b5d37707d0eeca3c9368d1219726f323d99 | Dieses Installationspaket ist eine 64-Bit-Version. <br/> <br/>[Neuigkeiten](https://itunes.apple.com/us/app/microsoft-remote-desktop-10/id1295203466?mt=12) |
+|Intune-Unternehmensportal |1.5 (52.1805002.000) [180509] | [Herunterladen](https://go.microsoft.com/fwlink/?linkid=869655)| 6aa67dc0accea7a3745e29133d2591568ff9f1cb | [Neuigkeiten in Microsoft Intune](https://docs.microsoft.com/intune/whats-new)|
+|Microsoft SharePoint lokal Safari-Browser-Plug-In für 2016 Office für Mac  <br/> |15.32.0 (170309)  <br/> |[Herunterladen](https://go.microsoft.com/fwlink/p/?linkid=800050) <br/> |45af4855ee23157b8f0a909e60a7e97865d1f8c0  <br/> | Dieses Installationspaket ist eine 64-Bit-Version.  <br/> |
    
 
 ## <a name="release-history-for-office-for-mac"></a>Releaseverlauf für Office für Mac
 
-Die folgende Tabelle enthält Informationen zum Releaseverlauf und Downloadlinks für Office für Mac. Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle. Das Builddatum ist im Format JJMMTT in Klammern hinter der Versionsnummer angegeben. Alle Releases nach dem 22. August 2016 sind ausschließlich 64-Bit-Version. Alle Releases vor dem 22. August 2016 sind ausschließlich 32-Bit-Version.
+Die folgende Tabelle enthält Informationen zum Versionsverlauf und Downloadlinks für Office für Mac. Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle. Das Builddatum ist im Format JJMMTT in Klammern hinter der Versionsnummer angegeben. Alle Versionen nach dem 22. August 2016 sind ausschließlich 64-Bit-Version. Alle Versionen vor dem 22. August 2016 sind ausschließlich 32-Bit-Version.
 
 > [!NOTE]
 > Downloadlinks sind nur für die aktuellen Releases verfügbar.
@@ -105,16 +105,16 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf und Downloadlinks
 |15. November 2016  <br/> |15.28.0 (16111501)  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#november-2016-release) <br/> |||
 |15. November 2016  <br/> |15.28.0 (161113)  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#november-2016-release) <br/> |||
 |11. Oktober 2016  <br/> |15.27.0 (161010)  <br/> |[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> |||
-|16. September 2016  <br/> |15.26.1 (160916)  <br/> |Fix für öffentliche Ordner für Outlook  <br/> |||
+|16. September 2016  <br/> |15.26.1 (160916)  <br/> |Korrektur des öffentlichen Ordners für Outlook  <br/> |||
 |13. September 2016  <br/> |15.26.0 (160910)  <br/> |[KB 3186807](https://support.microsoft.com/kb/3186807) <br/> |||
-|26. August 2016  <br/> |15.25.1 (160826)  <br/> |Fix für Makros für Excel  <br/>  |||
+|26. August 2016  <br/> |15.25.1 (160826)  <br/> |Korrektur für Makros für Excel  <br/>  |||
 |22. August 2016  <br/> |15.25.0 (160817)  <br/> |[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> |||
 |22. August 2016  <br/> |15.25.0 (160818)  <br/> |[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> |||
 |12. Juli 2016  <br/> |15.24.0 (160709)  <br/> |[KB 3170460](https://support.microsoft.com/kb/3170460) <br/> |||
-|25. Juni 2016  <br/> |15.23.2 (160624)  <br/> |Hotfix für MRU-Dienst  <br/> |||
-|18. Juni 2016  <br/> |15.23.1 (160617)  <br/> |Makro-Hotfix für Japanisch  <br/>  |||
+|25. Juni 2016  <br/> |15.23.2 (160624)  <br/> |MRU-Dienst Fehlerbehebung  <br/> |||
+|18. Juni 2016  <br/> |15.23.1 (160617)  <br/> |Makro-Fehlerbehebung für Japanisch  <br/>  |||
 |14. Juni 2016  <br/> |15.23.0 (160611)  <br/> |[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> |||
-|13. Mai 2016  <br/> |15.22.1 (160512)  <br/> |Fix für EndNote-Kompatibilität  <br/>  |||
+|13. Mai 2016  <br/> |15.22.1 (160512)  <br/> |Korrektur für EndNote-Kompatibilität  <br/>  |||
 |10. Mai 2016  <br/> |15.22.0 (160506)  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> |||
 |12. April 2016  <br/> |15.21.1 (160411)  <br/> |[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> |||
 |16. März 2016  <br/> |15.20.0 (160315)  <br/> |[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> |||
