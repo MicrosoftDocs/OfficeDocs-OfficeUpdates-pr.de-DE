@@ -1,25 +1,10 @@
 ---
-title: Versionshinweise für Veröffentlichungen im monatlichen Kanal im Jahr 2018
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
-ms.date: 9/28/2018
-ms.audience: ITPro
-ms.topic: reference
-ms.service: o365-proplus-itpro
-localization_priority: Critical
-ms.collection: RelNotes_ProPlus
-description: Stellt IT-Experten Versionshinweise für Veröffentlichungen im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung
-ms.openlocfilehash: 60d4edfce49b15246cccf5ecbc441db2e0cfeb79
-ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
-ms.translationtype: HT
-ms.contentlocale: de-DE
-ms.lasthandoff: 09/28/2018
-ms.locfileid: "25347011"
+title: "Anmerkungen für monatliche Channel-Releases im Jahr 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Kritische ms.collection: RelNotes_ProPlus description: "Bietet IT-Profis Versionshinweise für monatliche Channel-Releases für Office 365 ProPlus im Jahr 2018".
 ---
+
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Versionshinweise für Veröffentlichungen im monatlichen Kanal im Jahr 2018
 
-Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in Office 365 ProPlus-Updates im Rahmen des monatlichen Kanals im Jahr 2018 enthalten sind.
+Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in Office 365 ProPlus-Updates im Rahmen des monatlichen Kanals im Jahr 2018 enthalten sind.
  
  > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
@@ -30,18 +15,18 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 - **Schnellsuche** Wir haben für Ihre Berechnungen auf MATCH, VLOOKUP und HLOOKUP den Turbo geladen, so dass Sie Antworten schneller erhalten können.
-- **Weitere Informationen zu Ihren Daten** Office 365 Apps sind mit künstlicher Intelligenz ausgestattet, die Sie unterstützt, die besten Ergebnisse Ihrer Arbeit zu erhalten. Der Bereich Ideen verwendet AI für die intelligente Erstellung bearbeitungsfähiger Vorschläge, die Zeit sparen und Ihre Inhalte verbessern.[Erfahren Sie mehr](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Aufruf an alle Get & Transform-Fans** Wenn Sie Get & Transform häufig verwenden, wird es Sie freuen, zu erfahren, dass die Spalte für die Beispiel-Funktion verbessert wurde. Und viele Connectors wurden ebenfalls verbessert. [Weitere Informationen](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Weitere Informationen zu Ihren Daten** Office 365 Apps sind mit KI (AI) durchzogen, die Sie unterstützt, die besten Ergebnisse Ihrer Arbeit zu erhalten. Der Bereich Ideen verwendet AI für die intelligente Erstellung bearbeitungsfähiger Vorschläge, die Zeit sparen und Ihre Inhalte verbessern.[Erfahren Sie mehr](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+- **Aufruf an alle Get & Transform-Fans** Wenn Sie viel Get & Transform verwenden, wird es Sie freuen, zu erfahren, dass die Spalte für die Beispiel-Funktion verbessert wurde. Und viele Connectors wurden ebenfalls verbessert. [Weitere Informationen](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Finden Sie heraus, welche Neuerungen demnächst kommen** Probieren Sie neue Benutzererlebnisse aus, bevor sie veröffentlicht werden und teilen Sie uns Ihre Meinung mit. [Weitere Informationen](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Siehe hinter der URL sichere Links** Sichere Links schützt Sie vor schädlichen URLs, die Sie per E-Mail empfangen, aber die ursprüngliche URL ausblenden. Um das Original anzuzeigen, fahren Sie nun mit dem Mauszeiger über eine URL, auch wenn Links mit Sichere Links geschützt sind.
+- **Siehe hinter der URL sichere Links** Sichere Links schützt Sie vor schädlichen URLs, die Sie per E-Mail empfangen, aber die ursprüngliche URL ausblenden. Jetzt fahren Sie einfach mit dem Mauszeiger über eine URL, um sich das Original anzuzeigen, auch in Links, die durch Safe Links geschützt werden.
 - **Abruf der Suche zu Rechtschreibvorschlägen** Nach Durchführung einer Suche schlägt Outlook eine Suchabfrage mit Rechtschreibkorrektur vor.
-- **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles wie gewohnt. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
-- **Neue Werkzeuge für das Korrekturlesen** Belasten Sie nicht mit der Rechtschreibung. PowerPoint bietet nun Grammatik und Rechtschreib-Vorschläge. [Weitere Informationen](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **New Tools für das Korrekturlesen** Belasten Sie nicht mit der Retschreibung. PowerPoint bietet nun Grammatik und Rechtschreib-Vorschläge. [Weitere Informationen](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -54,7 +39,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Sicherheitsrisiko in Microsoft Excel bei der Veröffentlichung von Informationen
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Sicherheitsanfälligkeit in Word-PDF bezüglich Remotecodeausführung
@@ -75,12 +60,12 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates
  - **Genießen Sie in Ihrem nächsten Diagramm einen ikonischen Moment** Wählen Sie aus 26 neuen Schablonen mit Symbolen aus den Kategorien Analytik, Kunst, Festlichkeit, Gesichter, Sport und vieles mehr. 
  - **Erstellen eines Word-Dokuments aus Visio-Shapes** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie anschließend das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
- - **Visio und Power BI: ein starkes Team** In ein paar Klicks verwandeln Sie Ihr Visio-Diagramm in eine interaktive Power BI-Visualisierung. [Weitere Informationen](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+ - **Visio und Power BI: ein starkes Team** Mit nur wenigen Klicks verwandeln Sie Ihr Visio-Diagramm in eine interaktive Power BI-Visualisierung. [Weitere Informationen](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: Featureupdates
  - **Finden Sie weitere Informationen über die Task Board-Karten** Wenn der Titel allein die Geschichte nicht erzählt, passen Sie Ihr Task Board so an, dass es die wichtigsten Informationen anzeigt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -  Behebt ein Problem in Excel, aufgrund dessen die gepunktete Linie, die einen Bereich, den der Benutzer zum Kopieren ausgewählt hat, nicht verschwindet und in der Zwischenablage verbleibt, selbst wenn ein nachfolgender Benutzer einen Vorgang wie Einfügen ausführt. 
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -102,10 +87,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
 -   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Sicherheitsrisiko in Microsoft Excel bezüglich der Veröffentlichung von Informationen 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel Sicherheitsrisiko bei der Veröffentlichung von Informationen 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office Defense - Tiefgreifendes Update 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office - Intensives Schutz - Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen 
@@ -120,7 +105,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Linkfarben:** Links sind nicht mehr nur blau. Sie können eine beliebige Schriftfarbe anwenden. [Weitere Informationen](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
  - **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -169,10 +154,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
  - **Neue Möglichkeit zum Verwalten von Sprints:** Verwenden Sie einen agilen Ansatz zum Arbeiten mit Taskboards. In der Sprintverwaltung können Sie Sprints hinzufügen und entfernen, wenn sich Ihr Projekt weiterentwickelt.
 
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
  - Es wurde ein Problem behoben, bei dem beim Speichern von Unterprojekten aus Hauptprojekten ein Fehler auftritt.
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
  - **Mehr Schablonen, mehr Symbole, mehr Auswahl:** Wir haben 26 Schablonen hinzugefügt, darunter Analysen, Kunst, Feierlichkeiten, Gesichter, Orte, Medizin, Natur, Menschen, Sport, Wetter und Jahreszeiten und vieles mehr.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -224,7 +209,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
  - **Während der Bearbeitung mit Mitautoren chatten:** Arbeiten Sie noch effizienter zusammen, indem Sie mit Mitautoren chatten, ohne Excel verlassen zu müssen. Beachten Sie, dass dieses Feature in einigen Regionen nicht verfügbar ist.[Weitere Informationen](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
- - **Freisprech-Eingabe:** Diktieren Sie Ihre E-Mails ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+ - **Freihand-Eingabe:** Diktieren Sie Ihre E-Mails ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **3 Zeitzonen anzeigen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um die Verfügbarkeit von Personen anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Einfache Kalenderfreigabe:** Das Freigeben Ihrer Kalender ist ganz einfach; über Outlook Desktop freigegebene Kalender sind nun auch in Outlook Mobile verfügbar. [Weitere Informationen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
@@ -236,11 +221,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
  - **Freisprech-Eingabe:** Diktieren Sie Ihre Präsentationen ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **Microsoft Forms:** Fügen Sie einer Folie einen Quiz oder eine Umfrage hinzu. Office sammelt und speichert die Antworten für Sie. [Weitere Informationen](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
  - Behebung eines Problems, bei dem Projekt beim ersten Speichern eines Projekts in der Projekt Web App möglicherweise abstürzte.
 
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
  - **Starter-Diagramme:** Das Organigramm, Brainstormingdiagramm und SDL-Vorlagen haben neue Starter-Diagramme für einen leichteren Einstieg.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -306,7 +291,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, bei dem das gemeinsame Arbeiten mehrerer Benutzer an einer Präsentation in einer falschen Duplikation der Folienmaster resultierte.
 -   Behebung eines Problems, bei dem das Öffnen einer in OneDrive gespeicherten Datei im Absturz von PowerPoint beim Beenden der geschützten Ansicht resultierte.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems im Zusammenhang mit der Unterstützung von TLS 1.2.
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
@@ -322,9 +307,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1803 (Build 9126.2116)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätze in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
+-   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätzen in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Problem behoben, bei dem die Verwendung des Schnelldrucks für eine Excel-Arbeitsmappe, die einer Outlook-E-Mail angefügt war, nicht funktionierte.
 -   Problem behoben, bei dem Excel beim Klicken auf einen Link möglicherweise abstürzte.
 -   Problem behoben, bei dem Excel beim Verwenden der Cubefunktionen abstürzte.
@@ -337,18 +322,18 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Intelligentere Zeile „An“:** Wenn Sie auf die Zeile „An:“ klicken, um den Empfänger der Nachricht zu wählen, werden wahrscheinliche Empfänger vorgeschlagen. Darüber hinaus werden Bilder der Empfänger angezeigt, um sicherzugehen, dass Sie die Nachricht an die richtige Person senden. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
--   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätze in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
+-   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätzen in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
 -   **Verbesserte Unterstützung für hoch auflösende Displays**: Wenn Sie mehrere Monitore oder ein Laptop Dock verwenden, werden Office-Apps nun auf jedem Display präziser angezeigt, auch wenn die Displays verschiedene Skalierungseinstellungen haben. [Weitere Informationen](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems beim Hinzufügen von Benutzern, bei dem durch das Auswählen von „Skype-Anruf“ in einem Meeting ein Fehler verursacht wird.
 -   Entfernung einer Eingabeaufforderung, in welcher der Benutzer aufgefordert wurde, Skype-Koordinaten zu einer Besprechung hinzuzufügen, wenn ein Skype-Raum als Ort hinzugefügt wurde und die Besprechung bereits Besprechungskoordinaten für ein Team enthält.
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
 -   **Verbesserte Unterstützung für hoch auflösende Displays**: Wenn Sie mehrere Monitore oder ein Laptop Dock verwenden, werden Office-Apps nun auf jedem Display präziser angezeigt, auch wenn die Displays verschiedene Skalierungseinstellungen haben. [Weitere Informationen](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
--   **Verbesserte Unterstützung für hoch auflösende Displays**: Wenn Sie mehrere Monitore oder ein Laptop Dock verwenden, werden Office-Apps nun auf jedem Display präziser angezeigt, auch wenn die Displays verschiedene Skalierungseinstellungen haben. [Weitere Informationen](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
+-   **Verbesserte Unterstützung für hochauflösende Displays**: Wenn Sie mehrere Monitore oder ein Laptop-Dock verwenden, werden Office-Apps nun auf jedem Display präziser angezeigt, auch wenn die Displays verschiedene Skalierungseinstellungen haben. [Weitere Informationen](https://support.office.com/article/6720ca0e-be59-41f6-b629-1369f549279d)
 
 
 ## <a name="version-1802-march-13"></a>Version 1802: 13. März
@@ -371,7 +356,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Andere Besprechungsteilnehmer kennenlernen:** Sie können jetzt die Antworten anderer Personen auf eine Besprechungsanfrage sehen, selbst wenn Sie nicht der Organisator sind.
 -   **Einfaches Sortieren Ihrer E-Mails:** Aufgrund Ihres Feedbacks bieten wir für Benutzer, die den Posteingang mit Fokus nicht verwenden, wieder das Sortieren der Nachrichtenliste und den Filter für ungelesene Nachrichten an.
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem der Wert MOD\_DATUM durch Festlegen von mehr als einer Grundlinie in einer Sitzung als identisch festgelegt wird.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -380,7 +365,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, bei dem Outlook (ausgeführt auf einem Terminalserver) einfriert, während eine Skype for Business-Besprechung erstellt wird.
 -   Ändern Sie den Standardwert „EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket“ auf „TRUE“.
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
 -   **Integrierte Datenbankmodelldiagramme:** Verwenden Sie die neue Vorlage „Datenbankmodelldiagramm“, um Ihre Datenbank akkurat als Visio-Diagramm zu modellieren. Kein Add-In erforderlich.
 -   **Weitere Schablonen für Geschäftsdiagramme:** Verwenden Sie moderne Shapes, vergleichen Sie Daten mit einem Venn-Diagramm, oder erstellen Sie Zyklus-, Matrix- oder Pyramidendiagramme, um Ihre Geschichte zu erzählen.
 -   **Synchronisierung von Diagrammen und Datenquellen:** Wenn Sie ein Datenschnellansichtsdiagramm in Visio bearbeiten, haben Sie die Möglichkeit, die verknüpften Excel-Quelldaten entsprechend dem neusten Diagramminhalt zu aktualisieren.
@@ -404,20 +389,20 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1801-february-7"></a>Version 1801: 7. Februar
 *Version 1801 (Build 9001.2144)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Excel beim Auswählen einer neuen Schriftart auf der Registerkarte „Start“ oder beim Bearbeiten nicht mehr reagiert, wenn Ihre Bearbeitungssprache Japanisch, Chinesisch oder Koranisch ist.
 
 
 ## <a name="version-1801-february-1"></a>Version 1801: 1. Februar
 *Version 1801 (Build 9001.2138)*
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Ist-Arbeit weiterhin in den Berichterstellungstabellen angezeigt wird, nachdem es in einer „Für die Freigabe speichern“-Sitzung entfernt wurde.
 -   Behebung eines Problems in der deutschen Version, bei dem die Verwendung des Wochen-Datumsformats einen Fehler bei der Planung zurückgibt.
 -   Behebung eines Problems, bei dem beim Bearbeiten von Enddatumsangaben im Planungs-Webpart Aufgaben bei 8 Stunden pro Tag bleiben und nicht über einen Zeitraum aufgeteilt werden.
 -   Behebung eines Problems, bei dem „Fortschrittspunkt-Form“ an einer unerwarteten Position gezeichnet wird.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem die Schaltflächen „Weitere Optionen“ und „Weitere Personen einladen“ ausgeblendet sind, wenn sich eine Besprechung im Vollbildmodus befindet.
 -   Behebung eines Problems, bei dem das P2P-Audioanruffenster oder das Telefonkonferenzfenster transparent wird, wenn Sie versuchen, an dem Anruf teilzunehmen.
 -   Behebung eines Problems, bei dem anstehende Skype-Besprechungen nicht auf der Registerkarte „Besprechungen“ angezeigt werden.
@@ -428,7 +413,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1712-january-30"></a>Version 1712: 30. Januar
 *Version 1712 (Build 8827.2179)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Bildlaufleisten fehlen, wenn eine Arbeitsmappe geöffnet wird, wenn Excel minimiert ist.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -439,21 +424,21 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1712 (Build 8827.2148)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Struktur ändern können.
+-   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
 -   **Aufheben der Auswahl von Zellen:** Treffen Sie eine Auswahl im Arbeitsblatt, und heben Sie die Auswahl von Zellen auf, auf die Sie versehentlich geklickt haben, ohne von vorne beginnen zu müssen.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Arbeitsmappenverweise fehlschlagen, wenn Sie mehrere Arbeitsmappen durch Doppelklicken auf die Dateinamen im Datei-Explorer öffnen.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Struktur ändern können.
+-   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
 -   **Verbesserungen bei Office 365-Gruppen:** Das Lesen von und Antworten auf Gruppen-Chats ist einfacher als je zuvor, da Sie auf eine Gruppennachricht doppelklicken können, um sie in einem eigenen Fenster zu öffnen.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **3D-Animationen:** Erwecken Sie Ihre 3D-Modelle mit Animationen wie leichtem Schwingen oder Springen und Drehen zum Leben.
--   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Struktur ändern können.
+-   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Hinzufügen einer Schaltfläche zur Anrufweiterleitung in der Popup-Benutzeroberfläche für eingehende PSTN-Anrufe.
 -   Sie können Benutzer benachrichtigen, dass Anrufe und Chat an Teams gesendet werden, wenn ChatDefaultClient und CallDefaultClient auf „Teams“ festgelegt sind.
 -   Die Anwesenheit eines Benutzers kann als „Offline“ angezeigt werden, wenn ein Benutzer nicht an einer Besprechung teilnimmt, in Skype for Business deaktiviert ist und die Benutzeroberfläche für die Teilnahme an einer Besprechung auf den nativen eingeschränkten Client festgelegt ist.
@@ -462,11 +447,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen das Suchen nach Nachrichten in PChat nach Datum fehlschlägt, wenn das Datumsformat auf ein anderes als das US-Format (mm/tt/jj) festgelegt ist.
 -   Behebung eines Problems, aufgrund dessen bei auf "false" festgelegter EnableExternalP2PFileTransfer-Richtlinie Benutzer weiterhin Dateien in Besprechungen anfügen können.
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
 -   **Verwenden von Excel-Vorlagen zum Exportieren in ein Visio-Diagramm:** Verwenden Sie Ihre Visio-Flussdiagramme. Geben Sie Ihre Daten in eine der Excel-Prozessplanvorlagen ein, und exportieren Sie sie nach Visio, um das Diagramm automatisch zu erstellen. Erfordert Visio Pro für Office 365.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
--   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Struktur ändern können.
+-   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
 
 
 ## <a name="version-1711-january-9"></a>Version 1711: 9. Januar
@@ -501,15 +486,15 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1711-january-2"></a>Version 1711: 2. Januar
 *Version 1711 (Build 8730.2165)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem die programmgesteuerte Erstellung einer PivotTabelle von einer programmgesteuerten Aktualisierung gefolgt wird, die zum Absturz von Excel führt
 -   Behebung eines Problems, aufgrund dessen der programmgesteuerte Aufruf von Workbook.Open() zum Absturz von Excel führen kann.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen das Entfernen von Dokumenteigenschaften und persönlichen Informationen dazu führt, dass beim Speichern in SharePoint ein Fehler auftritt.
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen VBA-Code in Projekten verloren geht.
 
 > [!NOTE]
-> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
+> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen; alternativ können Sie sich auch an den [Support](https://support.microsoft.com/contactus) wenden.
