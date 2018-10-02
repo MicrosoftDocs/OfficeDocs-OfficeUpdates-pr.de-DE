@@ -3,30 +3,30 @@ title: Versionsinformationen zu Updates für Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/18
+ms.date: 9/28/18
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Office 365 ProPlus für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: 86a81b16337785d3d33046cd9e52edd0f26538c1
-ms.sourcegitcommit: b0f5d03ceb73cdcf64fd8583ffa401ced6193fb4
+ms.openlocfilehash: 56d4196a2927ab36e3f6155b9e47e02f58d2efcc
+ms.sourcegitcommit: aab293ffb82e0d84b3c9e8d80ca96c3368514d42
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23952385"
+ms.lasthandoff: 09/28/2018
+ms.locfileid: "25346981"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Versionsinformationen zu Updates für Office 365 ProPlus
 
-Office 365 ProPlus wird regelmäßig mit neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates aktualisiert. Diese Updates werden über [Updatekanäle](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus) veröffentlicht. Jeder Veröffentlichung in den einzelnen Updatekanälen ist eine Versions- und Buildnummer zugewiesen. 
+Office 365 ProPlus wird regelmäßig mit neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates aktualisiert. Diese Updates werden über [Updatekanäle](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus) veröffentlicht. Jeder Veröffentlichung in den einzelnen Updatekanälen ist eine Versions- und Buildnummer zugewiesen. 
 
 In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version und die aktuelle Buildnummer aufgeführt. Die Buildnummer ist direkt mit den Anmerkungen zur Version für das jeweilige Release verknüpft. 
 
   
-|**Kanal**|**Version**|**Erstellen**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
+|**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich  <br/> |1808  <br/> |[10730.20102](monthly-channel-2018.md#version-1808-september-11)  <br/> | 11. September 2018  <br/> |Version 1809 wird veröffentlicht <br/>|
+|Monatlich  <br/> |1809  <br/> |[10827.20138](monthly-channel-2018.md#version-1809-september-27)  <br/> | 27. September 2018  <br/> |Veröffentlichung von Version 1810 <br/>|
 |Halbjährlich (gezielt)  <br/> |1808  <br/> |[10730.20102](semi-annual-channel-targeted-2018.md#version-1808-September-11)  <br/> | 11. September 2018  <br/> | 13. März 2019 <br/>|
 |Halbjährlich <br/> |1803  <br/> | [9126.2282](semi-annual-channel-2018.md#version-1803-september-11) <br/> | 11. September 2018  <br/> | 10. September 2019 <br/>|
 |Halbjährlich <br/> |1708  <br/> |[8431.2309](semi-annual-channel-2018.md#version-1708-september-11)  <br/> | 11. September 2018  <br/> | 13. März 2019 <br/>|
@@ -35,7 +35,7 @@ Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem 
 
 > [!NOTE]
 > - Diese Versions- und Buildnummern gelten auch für Office 365 Business, Visio Pro für Office 365 und Project Online-Desktopclient. Office 365 Business ist die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Nicht in der Tabelle aufgeführten Versionen der Updatekanäle werden nicht mehr unterstützt. Version 1704 des monatlichen Kanals wird z. B. nicht mehr unterstützt. 
+> - Nicht in der Tabelle aufgeführte Versionen der Updatekanäle werden nicht mehr unterstützt. Version 1704 des monatlichen Kanals wird z. B. nicht mehr unterstützt. 
 
 
 ## <a name="update-history-for-office-365-proplus-releases"></a>Updateverlauf für Office 365 ProPlus-Releases
@@ -53,7 +53,7 @@ Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr f
 
 ## <a name="office-for-mac-release-information"></a>Releaseinformationen für Office für Mac
 
-Informationen zu Updates für Office für Mac, das in jedem Office 365-Abonnementplan enthalten ist, der Office 365 ProPlus umfasst ist, finden Sie in den folgenden Artikeln:
+Informationen zu Updates für Office für Mac, das in jedem Office 365-Abonnementplan enthalten ist, der Office 365 ProPlus umfasst, finden Sie in den folgenden Artikeln:
  - [Updateverlauf für Office für Mac](update-history-office-for-mac.md)
  - [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md)
 
