@@ -1,10 +1,25 @@
 ---
-title: "Anmerkungen für monatliche Channel-Releases im Jahr 2018" ms.author: andrewmo author: andymosten manager: andrewmo ms.date:10/1/2018 ms.audience: ITPro ms.topic: reference ms.service: o365-proplus-itpro localization_priority: Kritische ms.collection: RelNotes_ProPlus description: "Bietet IT-Profis Versionshinweise für monatliche Channel-Releases für Office 365 ProPlus im Jahr 2018".
+title: Versionshinweise für Veröffentlichungen im monatlichen Kanal im Jahr 2018
+ms.author: andrewmo
+author: andymosten
+manager: andrewmo
+ms.date: 10/3/2018
+ms.audience: ITPro
+ms.topic: reference
+ms.service: o365-proplus-itpro
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Stellt IT-Experten Versionshinweise für Veröffentlichungen im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung
+ms.openlocfilehash: bdd37742401a72802e5e347cb9263d8e4a40eeda
+ms.sourcegitcommit: 3d0d776ed955ab7c8cc52c8f68986048c1f4b7e3
+ms.translationtype: HT
+ms.contentlocale: de-DE
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362710"
 ---
-
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Versionshinweise für Veröffentlichungen im monatlichen Kanal im Jahr 2018
 
-Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in Office 365 ProPlus-Updates im Rahmen des monatlichen Kanals im Jahr 2018 enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in Office 365 ProPlus-Updates im Rahmen des monatlichen Kanals im Jahr 2018 enthalten sind.
  
  > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
@@ -14,25 +29,25 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 *Version 1809 (Build 10827.20138)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
-- **Schnellsuche** Wir haben für Ihre Berechnungen auf MATCH, VLOOKUP und HLOOKUP den Turbo geladen, so dass Sie Antworten schneller erhalten können.
-- **Weitere Informationen zu Ihren Daten** Office 365 Apps sind mit KI (AI) durchzogen, die Sie unterstützt, die besten Ergebnisse Ihrer Arbeit zu erhalten. Der Bereich Ideen verwendet AI für die intelligente Erstellung bearbeitungsfähiger Vorschläge, die Zeit sparen und Ihre Inhalte verbessern.[Erfahren Sie mehr](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
-- **Aufruf an alle Get & Transform-Fans** Wenn Sie viel Get & Transform verwenden, wird es Sie freuen, zu erfahren, dass die Spalte für die Beispiel-Funktion verbessert wurde. Und viele Connectors wurden ebenfalls verbessert. [Weitere Informationen](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
+- **Schnellsuche** Wir haben für Ihre Berechnungen auf MATCH, VLOOKUP und HLOOKUP den Turbo geladen, sodass Sie schneller Antworten erhalten können. [Weitere Informationen](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
+- **Aufruf an alle Get & Transform-Fans** Wenn Sie viel Get & Transform verwenden, wird es Sie freuen, zu erfahren, dass die Spalte für die Beispielfunktion verbessert wurde. Und viele Connectors wurden ebenfalls verbessert. [Weitere Informationen](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Finden Sie heraus, welche Neuerungen demnächst kommen** Probieren Sie neue Benutzererlebnisse aus, bevor sie veröffentlicht werden und teilen Sie uns Ihre Meinung mit. [Weitere Informationen](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Siehe hinter der URL sichere Links** Sichere Links schützt Sie vor schädlichen URLs, die Sie per E-Mail empfangen, aber die ursprüngliche URL ausblenden. Jetzt fahren Sie einfach mit dem Mauszeiger über eine URL, um sich das Original anzuzeigen, auch in Links, die durch Safe Links geschützt werden.
+- **Siehe hinter der URL sichere Links** Sichere Links schützt Sie vor schädlichen URLs, die Sie per E-Mail empfangen, aber die ursprüngliche URL ausblenden. Um das Original anzuzeigen, fahren Sie nun mit dem Mauszeiger über eine URL, auch wenn Links mit Sichere Links geschützt sind.
 - **Abruf der Suche zu Rechtschreibvorschlägen** Nach Durchführung einer Suche schlägt Outlook eine Suchabfrage mit Rechtschreibkorrektur vor.
-- **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
+- **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles wie gewohnt. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
-- **New Tools für das Korrekturlesen** Belasten Sie nicht mit der Retschreibung. PowerPoint bietet nun Grammatik und Rechtschreib-Vorschläge. [Weitere Informationen](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
+- **Beobachten Sie, wie Ihrer Folien lebendig werden** Fügen Sie animierte 3D-Grafiken ein, damit Sie über dem Bildschirm Herzschlag, kreisende Planeten und einen randalierenden T-Rex sehen können.  [Weitere Informationen](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **New Tools für das Korrekturlesen** Belasten Sie sich nicht mit der Rechtschreibung. PowerPoint bietet nun Grammatik und Rechtschreib-Vorschläge. [Weitere Informationen](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 - **Machen Sie auf sich aufmerksam mit \@mentions:** Verwenden Sie @mentions in Kommentaren, um Mitarbeiter wissen zu lassen, wann Sie ihre Beiträge brauchen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Formel-Editor-Konverter** Der Konverter ermöglicht Benutzern, Formeln zu konvertieren, die mit dem Microsoft Formel-Editor zum Office Math ML-Format erstellt wurden, um die Bearbeitung aktivieren. 
+- **Formel-Editor-Konverter** Der Konverter ermöglicht Benutzern, Formeln zu konvertieren, die mit dem Microsoft Formel-Editor zum Office Math ML-Format erstellt wurden, um die Bearbeitung aktivieren.
 
 ## <a name="version-1808-september-11"></a>Version 1808: 11. September
 *Version 1808 (Build 10730.20102)*
@@ -105,7 +120,7 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Linkfarben:** Links sind nicht mehr nur blau. Sie können eine beliebige Schriftfarbe anwenden. [Weitere Informationen](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
  - **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -154,7 +169,7 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
  - **Neue Möglichkeit zum Verwalten von Sprints:** Verwenden Sie einen agilen Ansatz zum Arbeiten mit Taskboards. In der Sprintverwaltung können Sie Sprints hinzufügen und entfernen, wenn sich Ihr Projekt weiterentwickelt.
 
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
  - Es wurde ein Problem behoben, bei dem beim Speichern von Unterprojekten aus Hauptprojekten ein Fehler auftritt.
 
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates
@@ -208,8 +223,8 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
  - **Während der Bearbeitung mit Mitautoren chatten:** Arbeiten Sie noch effizienter zusammen, indem Sie mit Mitautoren chatten, ohne Excel verlassen zu müssen. Beachten Sie, dass dieses Feature in einigen Regionen nicht verfügbar ist.[Weitere Informationen](https://support.office.com/article/1ecc6c7f-0b02-4baa-b9d9-c9d67023bedd)
 
-### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
- - **Freihand-Eingabe:** Diktieren Sie Ihre E-Mails ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
+### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
+ - **Freisprech-Eingabe:** Diktieren Sie Ihre E-Mails ganz einfach, ohne zu tippen. [Weitere Informationen](https://support.office.com/article/d4fd296e-8f15-4168-afec-1f95b13a6408)
  - **3 Zeitzonen anzeigen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um die Verfügbarkeit von Personen anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/5ab3e10e-5a6c-46af-ab48-156fedf70c04)
  - **Einfache Kalenderfreigabe:** Das Freigeben Ihrer Kalender ist ganz einfach; über Outlook Desktop freigegebene Kalender sind nun auch in Outlook Mobile verfügbar. [Weitere Informationen](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
 
@@ -225,7 +240,7 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
  - Behebung eines Problems, bei dem Projekt beim ersten Speichern eines Projekts in der Projekt Web App möglicherweise abstürzte.
 
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
  - **Starter-Diagramme:** Das Organigramm, Brainstormingdiagramm und SDL-Vorlagen haben neue Starter-Diagramme für einen leichteren Einstieg.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -256,8 +271,8 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich der Umgehung von Sicherheitsfunktionen
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Sicherheitsrisiko in Microsoft Office bezüglich Remotecodeausführung
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Sicherheitsanfälligkeit in Microsoft Office bezüglich der Remotecodeausführung
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Sicherheitsrisiko in Microsoft Office bezüglich der Remotecodeausführung
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Sicherheitsrisiko in Microsoft Office bezüglich der Remotecodeausführung
 
 
 ## <a name="version-1804-april-25"></a>Version 1804: 25. April
@@ -307,9 +322,9 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 *Version 1803 (Build 9126.2116)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätzen in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
+-   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätze in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Problem behoben, bei dem die Verwendung des Schnelldrucks für eine Excel-Arbeitsmappe, die einer Outlook-E-Mail angefügt war, nicht funktionierte.
 -   Problem behoben, bei dem Excel beim Klicken auf einen Link möglicherweise abstürzte.
 -   Problem behoben, bei dem Excel beim Verwenden der Cubefunktionen abstürzte.
@@ -389,7 +404,7 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 ## <a name="version-1801-february-7"></a>Version 1801: 7. Februar
 *Version 1801 (Build 9001.2144)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem Excel beim Auswählen einer neuen Schriftart auf der Registerkarte „Start“ oder beim Bearbeiten nicht mehr reagiert, wenn Ihre Bearbeitungssprache Japanisch, Chinesisch oder Koranisch ist.
 
 
@@ -424,7 +439,7 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 *Version 1712 (Build 8827.2148)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Textur ändern können.
+-   **Konvertieren von SVG-Symbolen in Formen:** Wandeln Sie alle SVG-Bilder und -Symbole in Office-Formen um, sodass Sie deren Farbe, Größe oder Struktur ändern können.
 -   **Aufheben der Auswahl von Zellen:** Treffen Sie eine Auswahl im Arbeitsblatt, und heben Sie die Auswahl von Zellen auf, auf die Sie versehentlich geklickt haben, ohne von vorne beginnen zu müssen.
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
@@ -486,14 +501,14 @@ Diese Release Notes enthalten Informationen zu neuen Features, Sicherheitsupdate
 ## <a name="version-1711-january-2"></a>Version 1711: 2. Januar
 *Version 1711 (Build 8730.2165)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem die programmgesteuerte Erstellung einer PivotTabelle von einer programmgesteuerten Aktualisierung gefolgt wird, die zum Absturz von Excel führt
 -   Behebung eines Problems, aufgrund dessen der programmgesteuerte Aufruf von Workbook.Open() zum Absturz von Excel führen kann.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen das Entfernen von Dokumenteigenschaften und persönlichen Informationen dazu führt, dass beim Speichern in SharePoint ein Fehler auftritt.
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen VBA-Code in Projekten verloren geht.
 
 > [!NOTE]
