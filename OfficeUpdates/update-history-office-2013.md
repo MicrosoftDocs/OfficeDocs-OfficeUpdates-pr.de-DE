@@ -3,26 +3,26 @@ title: Updateverlauf für Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: c1227107084ba85f142c4a5941168f58707f09a0
-ms.sourcegitcommit: f965e1176a976c8f7333cbcb49445bc5a953417f
+ms.openlocfilehash: 1723306ef27882f0df9662266397740509eb6a76
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2018
-ms.locfileid: "23936697"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456709"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Die meisten Office 2013-Produkte werden automatisch mithilfe der Technologie „Klick-und-Los“ auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5067.1000**, die am 11. Spetember 2018 veröffentlicht wurde. 
+> Die aktuellste Version von Office 2013 ist **15.0.5075.1001**, die am 9. Oktober 2018 veröffentlicht wurde. 
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -32,7 +32,7 @@ Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
     
 3. Prüfen Sie unter **Produktinformationen** die Versionsnummer unter **Office-Updates**.
     
-    Wenn die Versionsnummer der aktuellsten Version entspricht, verwenden Sie die neuste Version. Wenn dies nicht der Fall, können Sie manuell ein Update auf die aktuellste Version von Office 2013 durchführen. [Gehen Sie folgendermaßen vor,](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013) um Office zu aktualisieren.
+    Wenn die Versionsnummer der aktuellsten Version entspricht, verwenden Sie die neueste Version. Wenn dies nicht der Fall, können Sie manuell ein Update auf die aktuellste Version von Office 2013 durchführen. [Gehen Sie folgendermaßen vor,](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2013) um Office zu aktualisieren.
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2013-updates"></a>Liste der Veröffentlichungsdaten, Versionsnummern und Informationen zu Fixes für Office 2013-Updates
 
@@ -41,12 +41,13 @@ Die folgende Tabelle enthält eine Liste der Updates für Office 2013, wobei die
 Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 
 > [!NOTE]
-> Die nachstehend aufgeführten KB-Artikel KB dienen nur zu Informationszwecken. Klick-und-Los-Updates enthalten alle in den KB-Artikeln aufgeführten Fixes. Sie müssen die in den KB-Artikeln aufgeführten Updates nicht separat herunterladen.
+> Die nachstehend aufgeführten KB-Artikel dienen nur zu Informationszwecken. Klick-und-Los-Updates enthalten alle in den KB-Artikeln aufgeführten Fixes. Sie müssen die in den KB-Artikeln aufgeführten Updates nicht separat herunterladen.
 
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2018 |11. September   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
+|2018 |9. Oktober   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/en-us/help/4464656)  |
+| |11. September   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/en-us/help/4459402)  |
 ||14. August   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/en-us/help/4346823)  |
 ||10. Juli   |15.0.5049.1000   |[KB 4340798](https://support.microsoft.com/en-us/help/4340798)  |
 ||12. Juni   |15.0.5041.1001   |[KB 4299875](https://support.microsoft.com/en-us/help/4299875)  |
@@ -89,7 +90,7 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 ||8. September   |15.0.4753.1003   |[KB 3092181](https://support.microsoft.com/kb/3092181)  |
 ||11. August   |15.0.4745.1002   |[KB 3083805](https://support.microsoft.com/kb/3083805)  |
 ||14. Juli   |15.0.4737.1003   |[KB 3077012](https://support.microsoft.com/kb/3077012)  |
-||09. Juni   |15.0.4727.1003   |[KB 3068507](https://support.microsoft.com/kb/3068507)  |
+||9. Juni   |15.0.4727.1003   |[KB 3068507](https://support.microsoft.com/kb/3068507)  |
 ||12. Mai   |15.0.4719.1002   |[KB 3061974](https://support.microsoft.com/kb/3061974)  |
 ||14. April   |15.0.4711.1003   |[KB 3050766](https://support.microsoft.com/kb/3050766)  |
 ||10. März   |15.0.4701.1002   |[KB 3040794](https://support.microsoft.com/kb/3040794)  |

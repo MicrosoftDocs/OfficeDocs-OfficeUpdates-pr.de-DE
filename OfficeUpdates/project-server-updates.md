@@ -1,9 +1,9 @@
 ---
-title: Project Server-Updates
+title: Project Server Updates
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 9/11/2018
+ms.date: 10/09/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,23 +13,24 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: a855804aeb3f9ffc07bf2dcf85a74239123f4738
-ms.sourcegitcommit: 6fd38e73cb0d5051b1107f30e1aaa10f6213ccb1
+ms.openlocfilehash: 7f60ab20da58872a0d7b284b058f148ec533bcba
+ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2018
-ms.locfileid: "23954791"
+ms.lasthandoff: 10/10/2018
+ms.locfileid: "25456699"
 ---
-# <a name="project-server-updates"></a>Project Server-Updates
+# <a name="project-server-updates"></a>Project Server Updates
 
 Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Server 2013- und Project Server 2010-Updates zu erhalten und um die Updates herunterzuladen. 
 > [!NOTE]
-> Updateinformationen für Project Server 2016 finden Sie unter [SharePoint-Updates](sharepoint-updates.md), da Project Server 2016 Teil von SharePoint Server 2016 Enteprise Edition ist.
+> Updateinformationen für Project Server 2016 finden Sie unter [SharePoint Updates](sharepoint-updates.md), da Project Server 2016 ein Teil der SharePoint Server 2016 Enteprise Edition ist.
   
 ## <a name="project-server-2013-update-history"></a>Project Server 2013-Updateverlauf
   
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Oktober 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |September 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |August 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
 |Juli 2018  <br/> |[KB4022240](https://support.microsoft.com/kb/4022240) <br/>|
@@ -80,6 +81,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Oktober 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |September 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |August 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|
 |Juli 2018  <br/>  |[KB4032219](https://support.microsoft.com/kb/4032219) <br/> |
@@ -130,5 +132,5 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-- [Exchange Server-Updates](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
-- [SharePoint-Updates](sharepoint-updates.md)
+- [Exchange Server Updates](https://technet.microsoft.com/library/hh135098(v=exchg.150).aspx)
+- [SharePoint Updates](sharepoint-updates.md)
