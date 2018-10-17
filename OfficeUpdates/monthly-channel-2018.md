@@ -3,19 +3,19 @@ title: Versionshinweise für Veröffentlichungen im monatlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/10/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Veröffentlichungen im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung
-ms.openlocfilehash: f84a3e87d99fec1687ef447f488ed9767313bbf0
-ms.sourcegitcommit: 1bbcc1cc115559c0a1f9c6a26584590203930f2e
+ms.openlocfilehash: 092384d86793b9b3920009006865ab692a68db19
+ms.sourcegitcommit: a4fa28004f92de8169a06d2453fb67060c7fd6ff
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25493871"
+ms.lasthandoff: 10/12/2018
+ms.locfileid: "25504987"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Versionshinweise für Veröffentlichungen im monatlichen Kanal im Jahr 2018
 
@@ -42,7 +42,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office - Intensives Schutz - Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics Components – Sicherheitsrisiko bei Remotecodeausführung 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics Components – Sicherheitsrisiko bei Remote-Codeausführung 
 
 
 ## <a name="version-1809-september-27"></a>Version 1809: 27. September
@@ -61,7 +61,6 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 - **Beobachten Sie, wie Ihrer Folien lebendig werden** Fügen Sie animierte 3D-Grafiken ein, damit Sie über dem Bildschirm Herzschlag, kreisende Planeten und einen randalierenden T-Rex sehen können.  [Weitere Informationen](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
-- **New Tools für das Korrekturlesen** Belasten Sie sich nicht mit der Rechtschreibung. PowerPoint bietet nun Grammatik und Rechtschreib-Vorschläge. [Weitere Informationen](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 - **Die Menüband-Symbole haben ein neues Aussehen** Keine Sorge, es funktioniert alles identisch. Darüber hinaus sie sehen auf Bildschirmen aller Größen großartig aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -140,7 +139,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Linkfarben:** Links sind nicht mehr nur blau. Sie können eine beliebige Schriftfarbe anwenden. [Weitere Informationen](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
  - **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -260,7 +259,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
  - Behebung eines Problems, bei dem Projekt beim ersten Speichern eines Projekts in der Projekt Web App möglicherweise abstürzte.
 
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
  - **Starter-Diagramme:** Das Organigramm, Brainstormingdiagramm und SDL-Vorlagen haben neue Starter-Diagramme für einen leichteren Einstieg.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -298,7 +297,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1804-april-25"></a>Version 1804: 25. April
 *Version 1804 (Build 9226.2114)*
 
-### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
+### <a name="outlook-feature-updates"></a>Outlook: Feature-Updates
 -   **Abhören Ihrer E-Mails:** Outlook kann Ihre E-Mails laut vorlesen und den Text während des Lesens hervorheben. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **So verpassen Sie keine Erinnerung mehr:** Legen Sie Erinnerungen so fest, dass sie über Fenstern angezeigt werden, in denen Sie arbeiten. Andernfalls blinkt Outlook in der Taskleiste, damit Sie darauf aufmerksam werden.[Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Markieren Sie gelöschte Elemente als gelesen:** Sie können jetzt jede Nachricht, die Sie löschen, als gelesen markieren. Klicken Sie hierfür auf „Datei \> Optionen \> E-Mail \> Andere“.
