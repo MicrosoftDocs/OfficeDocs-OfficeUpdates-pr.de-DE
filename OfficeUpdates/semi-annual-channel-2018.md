@@ -3,19 +3,19 @@ title: Anmerkungen zu Freigaben im Halbjährlichen Kanal 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/9/2018
+ms.date: 10/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Freigaben im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 34d206085cf959c7dca3ab3e4cb2881efdb818b9
-ms.sourcegitcommit: 939cf28550ccb4a6a448ff315071f7f906b204b5
+ms.openlocfilehash: b86989758569962d53d3bc3314ad3d5293dee79a
+ms.sourcegitcommit: 315bbe7877eefa63817f05967b5521a3047d8916
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25459422"
+ms.lasthandoff: 10/11/2018
+ms.locfileid: "25498266"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zu Freigaben im Halbjährlichen Kanal 2018
 
@@ -45,6 +45,9 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates 
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics Components – Sicherheitsrisiko bei Remotecodeausführung 
 
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+-   Es wurde ein Problem behoben, bei dem Anwendungen Animationen zeigten, obwohl sie Animationen über Barrierefreiheit und Leistungseinstellungen deaktiviert wurden.
+-   Es wurde ein Problem behoben, bei dem der Hintergrund bei der Verwendung des Zeichenwerkzeugs für Textmarker leer wurde.
 
 ## <a name="version-1708-october-9"></a>Version 1708: 9. Oktober
 *Version 1708 (Build 8431.2316)*
@@ -102,7 +105,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Version 1803 (Build 9126.2275)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsrisiko in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
@@ -122,7 +125,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2275), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsrisiko in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung 
@@ -141,7 +144,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
 -   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Sicherheitsanfälligkeit in Microsoft Access bezüglich der Remotecodeausführung
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsrisiko in Microsoft Access bezüglich Remotecodeausführung 
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung 
 
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Öffnen einer Access-Laufzeitanwendung (ACCDE-Datei) die Fehlermeldung „Diese Datenbank weist ein unbekanntes Format auf“ ausgegeben und die Anwendung nicht geöffnet wird.
@@ -163,7 +166,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Stiftanpassung:** Wählen Sie einen persönlichen Satz von Stiften und Textmarkern für die Freihandeingabe aus. Ihr benutzerdefinierter Satz steht Ihnen dann auf all Ihren Windows-PCs zur Verfügung.
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Microsoft Excel – Sicherheitsrisiko bei Featureumgehung
+-   [CVE-2017-11877](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11877): Umgehung von Sicherheitsfunktionen in Microsoft Office Excel
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
@@ -226,10 +229,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Microsoft Outlook – Sicherheitsrisiko bei Rechteerweiterungen
 -   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich der Umgehung von Sicherheitsfunktionen
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Microsoft Outlook – Sicherheitsrisiko bei Rechteerweiterungen
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310):  Sicherheitsrisiko in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich der Rechteerweiterungen
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko bezüglich Manipulation in Microsoft Office
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen das Wechseln zum Ordner „Postausgang“ oder „Gesendete Elemente“ den Absturz von Outlook verursacht.
 -   Behebung eines Problems, aufgrund dessen alle Teilnehmer Besprechungsaktualisierungen erhalten, wenn sich der Besprechungstext oder Anlagen ändern, statt optional eine Besprechungsaktualisierung an die Teilnehmer zu senden.
 -   Behebung eines Problems, aufgrund dessen Benutzer aufgrund einer Änderung in der Benutzer-Agent-Zeichenfolge keine Verbindung zu EWS- und REST-Endpunkten herstellen können.
@@ -278,14 +281,14 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem das gemeinsame Arbeiten mehrerer Benutzer an einer Präsentation zu einer falschen Duplikation der Folienmaster führte.
 -   Behebung eines Problems, bei dem es beim Öffnen einer Datei, die in OneDrive gespeichert ist, in der geschützten Ansicht zu einem Absturz von PowerPoint kam. Behebung eines Problems, bei dem nach dem Entfernen von Dokumenteigenschaften und persönlichen Informationen das Speichern in SharePoint fehlschlug.
 -   Behebung eines Problems, aufgrund dessen bei Verweisen auf Flash Player-basierte YouTube-Einbindungscodes ein neues Fenster zum Wiedergeben des Videos geöffnet wird. Alte Einbindungscodes wurden aktualisiert und verweisen jetzt auf HTML5-basierte YouTube-Videos, sodass diese korrekt im gleichen Fenster wiedergegeben werden.
--   ​Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.​
+-   Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.
 
 ### <a name="project-feature-updates"></a>Project: Featureupdates
 -   **Task Board-Ansicht:** Sortieren Sie Aufgaben auf Karten in der Task Board-Ansicht. Ordnen Sie Karten neu an, und verschieben Sie sie zwischen den Spalten im Board, genau wie in Agile-Projekten.
 -   **Agile-Projekte:** Verwalten Sie Ihre Agile-Projekte mit Backlogs, Task Boards, Sprints usw. Sowohl Scrum- als auch Kanban-Methoden werden unterstützt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 -   **Verwalten einer Aufgabe im Planer:** Verknüpfen Sie eine Projektaufgabe mit dem Planer, und erstellen Sie einen Plan dafür. Unterteilen Sie die Aufgabe in Teilaufgaben, fügen Sie ein Team hinzu, weisen Sie Aufgaben zu, und verwalten Sie die Arbeit auf einem Task Board.
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem eine Kostenressource nicht ordnungsgemäß aktualisiert wird, wenn eine Aufgabe mit einer Kostenressource geteilt wurde, und die Kosten verloren gingen.
 -   Behebung eines Problems, aufgrund dessen nur Aufgaben aus dem ersten Sammelvorgang im Dialogfenster angezeigt werden, wenn vorhandene Aufgaben einer Zeitachse in der Zeitachsenansicht hinzugefügt werden.
 -   Behebung eines Problems, bei dem die Speicherung im XML-Format für Hauptprojekte in Project Online oder Project Server fehlschlägt.
@@ -302,7 +305,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen Project bei Verwendung des Features „Aufgabenpfad“ nicht mehr reagiert.
 -   Behebung eines Problems, aufgrund dessen an der Zeitskala die Zeitskalabeschriftungen nicht angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen grafische Berichte unvollständige Informationen enthalten oder gar nicht erstellt werden.
--   Behebung eines Problems, aufgrund dessen eine Datei bei Problemen beim Speichern beschädigt wurde und Projekt beim Öffnen abstürzte.
+-   Behebung eines Problems, aufgrund dessen eine Datei bei Problemen beim Speichern beschädigt wurde und Project beim Öffnen abstürzte.
 -   Behebung eines Problems, aufgrund dessen Aufgaben in den Ansichten „Zeitachse“ und „Timeplaner“ nicht gezogen werden konnten.
 -   Behebung eines Problems, aufgrund dessen die Ressourcenverfügbarkeit nicht in Team Builder angezeigt wird.
 -   Behebung eines Problems, aufgrund dessen grafische Indikatoren nicht ordnungsgemäß angezeigt werden.
@@ -320,7 +323,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems im Zusammenhang mit der Unterstützung von TLS 1.2.
--   Behebung eines Problems beim Hinzufügen von Benutzern, bei dem durch das Auswählen von „Skype-Anruf“ in einem Meeting ein Fehler verursacht wird.
+-   Behebung eines Problems, in dem bewirkt, dass das Hinzufügen von Benutzern durch Auswählen von "Skype-Anruf" in einer Besprechung eines Fehlers
 -   Behebung eines Problems beim Hinzufügen von Benutzern, bei dem durch das Auswählen von „Skype-Anruf“ in einem Meeting ein Fehler verursacht wird.
 -   Entfernung einer Eingabeaufforderung, in welcher der Benutzer aufgefordert wurde, Skype-Koordinaten zu einer Besprechung hinzuzufügen, wenn ein Skype Room als Ort hinzugefügt wurde und die Besprechung bereits Besprechungskoordinaten für ein Team enthält.
 -   Behebung eines Problems, bei dem der Standort eingetragen wird, selbst wenn „UseLocationForE911Only“ auf „true“ festgelegt wird.
@@ -329,7 +332,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Ändern Sie den Standardwert „EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket“ auf „TRUE“.
 -   Behebung eines Problems, bei dem die Schaltflächen „Weitere Optionen“ und „Weitere Personen einladen“ ausgeblendet sind, wenn sich eine Besprechung im Vollbildmodus befindet.
 -   Behebung eines Problems, bei dem das P2P-Audioanruffenster oder das Telefonkonferenzfenster transparent wird, wenn Sie versuchen, an dem Anruf teilzunehmen.
--   Behebung eines Problems, bei dem anstehende Skype-Besprechungen nicht auf der Registerkarte „Besprechungen“ angezeigt werden.
+-   Eine Behebung eines Problems, in dem in Kürze verfügbare Skype-Besprechungen nicht in der Registerkarte Besprechungen angezeigt.
 -   Behebung eines Problems, bei dem beim Hinzufügen von Audio zu einer Besprechung ein neuer P2P-Anruf mit dem Benutzer selbst initiiert wird anstatt Audio zu der bestehenden Besprechung hinzuzufügen, wenn Skype for Business so konfiguriert ist, dass es ohne Audio an Besprechungen teilnehmen kann.
 -   Behebung eines Problems bei dem der Benutzer die Fehlermeldung „Diese Skype-Besprechung wurde nicht gefunden“ erhält, wenn er in einer Besprechungsanfrage in Outlook auf den Link „An Skype-Besprechung teilnehmen“ klickt.
 -   Hinzufügen einer Schaltfläche zur Anrufweiterleitung in der Popup-Benutzeroberfläche für eingehende PSTN-Anrufe.
@@ -378,7 +381,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **3D-Modelle:** Verwenden Sie 3D, um den visuellen Eindruck und die kreativen Möglichkeiten der Dokumente zu erhöhen.  Fügen Sie auf einfache Weise ein 3D-Modell ein, das Sie um 360 Grad drehen können. [Weitere Informationen](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a)
 -   **Neue Freihand-Effekte:** Bringen Sie Ihre Ideen mit Metallic-Stiften und Freihand-Effekten wie Regenbogen, Galaxy, Lava, Ozean, Gold, Silber und vielen mehr auf den Punkt.
 -   **Benutzeroberfläche für Dateifreigabe:** Wenn Benutzer bei OneDrive for Business- oder SharePoint-Dateien auf die Schaltfläche „Freigeben“ in der oberen rechte Ecke des Menübands klicken oder „Datei“ \> „Freigeben“ wählen, wird ein vereinfachtes und verbessertes Freigabedialogfeld geöffnet. Für neue oder lokal gespeicherte Dateien ermöglicht die Benutzeroberfläche das problemlose Hochladen von Dateien auf OneDrive, um mit der Zusammenarbeit zu beginnen.
--   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
+-   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Weitere Informationen](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 -   **Bearbeiten mit Lerntools:** Lerntools sind jetzt im Weblayout von Word verfügbar. Sie können während der Bearbeitung den Textabstand anpassen und Silben anzeigen. In jeder Ansicht wird das jeweilige Wort hervorgehoben, wenn das Dokument laut vorgelesen wird. [Weitere Informationen](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 -   **LaTeX-Syntax:** Erstellen und bearbeiten Sie mathematische Formeln mit LaTeX-Syntax.
 -   **Hilfreiche Sounds verbessern die Barrierefreiheit:** Aktivieren Sie Audiohinweise, um Sie bei der Arbeit zu unterstützen. Sie finden sie unter „Datei“ \> „Optionen“ \> „Erleichterte Bedienung“. Kein Add-In erforderlich. [Weitere Informationen](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
@@ -409,18 +412,18 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem Aufzählungszeichen in Listen nicht gedruckt wurden.
 -   Behebung eines Problems, aufgrund dessen Word abstürzt, wenn ein Benutzer versucht, ein vorhandenes Dokument mit „Speichern unter“ auf OneDrive for Business zu speichern und den Speichervorgang dann abbricht oder versucht, vorhandene Änderungen zusammenzuführen.
 -   Behebung eines Problems, aufgrund dessen es beim Filtern von Datenquellenfeldern mit Nullwerten (leer) zu Fehlern kommt, wenn der Seriendruck-Assistent ausgeführt wird.
--   ​Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.​
+-   Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit diesem Fix wird Benutzern jetzt eine Fehlermeldung angezeigt, und der Upload wird nicht fortgesetzt.
 -   Behebung eines Problems, aufgrund dessen beim Entfernen des IRM-Schutzes für ein Dokument der Schutz nicht entfernt wird.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office – Sicherheitsrisiko durch Remotecodeausführung
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office – Sicherheitsrisiko durch  Remotecodeausführung
 -   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-1030: Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030)
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
 -   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
 -   [Empfehlung 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz – Update
@@ -444,10 +447,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 9126.2259), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Sicherheitsrisiko in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312): Microsoft Access-Remotecode ausführung, der das Use-After-Free-Sicherheitsrisiko verwendet
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310):  Sicherheitsrisiko in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko bezüglich Manipulation in Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
@@ -495,8 +498,8 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich der Umgehung von Sicherheitsfunktionen
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Sicherheitsrisiko in Microsoft Office bezüglich der Remotecodeausführung
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office – Sicherheitsrisiko bezüglich der Remotecodeausführung
 
 
 
@@ -515,8 +518,8 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich der Umgehung von Sicherheitsfunktionen
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Sicherheitsrisiko in Microsoft Office bezüglich der Remotecodeausführung
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Microsoft Office – Sicherheitsrisiko bezüglich der Remotecodeausführung
 
 
 
@@ -524,7 +527,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Version 1708 (Build 8431.2242)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Sicherheitsrisiko in Microsoft Excel bezüglich der Remotecodeausführung
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems im Zusammenhang mit der Unterstützung von TLS 1.2.
@@ -532,7 +535,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office – Sicherheitsrisiko bezüglich der Remotecodeausführung
 
 
 
@@ -542,12 +545,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Dies ist die verzögerte Kanalversion, die seit September 2017 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Juli 2018. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1708 (Build 8431.2242), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Sicherheitsrisiko in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Sicherheitsrisiko in Microsoft Office bezüglich Veröffentlichung von Informationen
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office – Sicherheitsrisiko bezüglich Remotecodeausführung
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Microsoft Office – Sicherheitsrisiko bezüglich der Remotecodeausführung
 
 
 
@@ -635,7 +638,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Verbesserungen für „Spalte aus Beispielen hinzufügen“:** Unterstützt mehr Transformationen für Datum/Uhrzeit, Mathematik und Indexspalte.
 -   **Leistungsverbesserungen:** Excel öffnet komplexe Arbeitsmappen mit mehreren Blättern schneller, damit Sie Formeln mit großen Bereiche analysieren, eine Vielzahl von Zeilen schneller filtern oder kopieren und einfügen können.
--   **Onlinebilder einfügen:** Es gibt eine neue Zielseite für die Auswahl von Bildern, wobei Zusatzinformationen automatisch mit dem Bild eingefügt werden.
+-   **Onlinebilder einfügen:** Es gibt eine neue Zielseite für die Auswahl von Bildern, und Zusatzinformationen werden automatisch mit dem Bild eingefügt.
 -   **Azure Data Lake Store-Connector:** Benutzer können nun Daten aus Azure Data Lake Store importieren.
 -   **Verbesserungen für „Spalte aus Beispielen hinzufügen“:** Unterstützt Vorschläge, weitere Datums-/Uhrzeitvorgänge und zusätzliche Transformationen.
 -   **Registerkarte „Daten“**: Menübandschaltflächen auf der Registerkarte „Daten“ wurden in zwei neuen Gruppen angeordnet: „Abrufen und Transformieren von Daten“ und „Abfragen und Verbindungen“
@@ -670,7 +673,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen die erste Arbeitsmappe, die beim Start von Excel erstellt wird, beim Öffnen oder Erstellen einer neuen Arbeitsmappe nicht geschlossen wird.
 -   Behebung eines Problems, aufgrund dessen die Platzierung der QuickInfo beim Ziehen oder Füllen durch Ziehen nicht korrekt ausgerichtet ist.
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer Arbeitsmappe mit „Datei“ \> „Speichern unter“ Dateinamen mit Punkten im Dialogfeld „Datei speichern“ leer oder abgeschnitten angezeigt werden.
--   ​Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.​
+-   ​Behebung eines Problems, aufgrund dessen Office beim Speichern einer durch Synchronisieren gesicherten Datei die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.​
 -   Behebung eines Problems beim Rendering, das aufgrund eines fehlerhaften Grafiktreibers zur Anzeige von schwarzen Linien und Kopfzeilen führt.
 -   Behebung eines Problems, aufgrund dessen Excel nach dem Einfügen eines Diagramms abstürzt oder die Arbeitsmappe nicht gespeichert werden kann.
 -   Behebung eines Problems, aufgrund dessen die Seitenumbruchlinie in der Seitenumbruchvorschau falsch positioniert ist.
@@ -696,7 +699,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Unterstützung für lokale Anlagen:** Dateien von einem lokalen SharePoint Server werden unter „Nachrichten“ \> „Datei anfügen“ als zuletzt verwendete Dateien angezeigt, lokale OneDrive for Business- und SharePoint-Teamwebsites werden unter „Datei anfügen“ \> „Webspeicherorte durchsuchen“ angezeigt, und lokale Dateien können in lokale OneDrive for Business-Websites hochgeladen werden.
 -   **Branchen für Gruppen:**  Eine vom Mandantenadministrator definierte Branchenebene, z. B. „Vertraulich“, kann beim Erstellen oder Bearbeiten einer Gruppe zugewiesen werden, wobei diese Branche wird im Gruppenkopf angezeigt wird.
 -   **Gastzugriff auf Office 365-Gruppen:** Sie können mit Personen außerhalb der Organisation zusammenarbeiten, indem Sie ihnen Zugriff auf Gruppenunterhaltungen, Dateien, Kalendereinladungen und das Gruppennotizbuch gewähren. [Weitere Informationen](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
--   **Aktionen erfordernde Nachrichten:** Entwickler können Nachrichten erstellen, die Benutzern ermöglichen, einfache oder schnelle Aktionen direkt in Outlook auszuführen, ohne zu einer externen Website oder einer separaten App zu wechseln. [Weitere Informationen](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
+-   **Aktionen erfordernde Nachrichten:** Entwickler können Nachrichten erstellen, die es Benutzern ermöglichen, einfache oder schnelle Aktionen direkt in Outlook auszuführen, ohne zu einer externen Website oder einer separaten App zu wechseln. [Weitere Informationen](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
 -   [CVE-2017-8571](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8571): Microsoft Outlook – Sicherheitsrisiko bei Featureumgehung
@@ -704,7 +707,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2017-8663](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8663): Microsoft Office Outlook – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2017-11774](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11774): Microsoft Outlook – Sicherheitsrisiko bei Featureumgehung
 -   [CVE-2017-11776](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11776): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen
--   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office – Sicherheitsrisiko bei der Veröffentlichung von Informationen
+-   [CVE-2017-11939](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11939): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
 -   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
 -   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
 
@@ -719,7 +722,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Onlinebilder einfügen:** Es gibt eine neue Zielseite für die Auswahl von Bildern, wobei Zusatzinformationen automatisch mit dem Bild eingefügt werden.
--   **Untertitel für Videos: **Fügen Sie einem Video Untertitel hinzu, damit die Barrierefreiheit [verbessert wird. Weitere Informationen](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
+-   **Untertitel für Videos: Fügen Sie einem Video Untertitel hinzu, damit die Barrierefreiheit verbessert wird. Weitere Informationen**[](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Audiokommentare für Aufzeichnungen:** Schließen Sie ein Video von sich selbst beim Sprechen ein, wenn Sie eine Aufzeichnung einer Präsentation erstellen. Aufzeichnungen können Animationen, Freihandelemente, Audio und Video enthalten.
 -   **Aktivität freigegebener Dateien:** Wählen Sie die Schaltfläche „Aktivität“ in der oberen rechten Ecke der Datei, um anzuzeigen, wenn eine in OneDrive for Business oder SharePoint freigegebene Datei geteilt, bearbeitet, umbenannt oder wiederhergestellt wurde.
 -   **Alternativtexterstellung:** Ein cloudbasierten Dienst generiert automatisch Alternativtext für Bilder in einer Präsentation.
@@ -730,7 +733,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft Office – Sicherheitsrisiko bei der Veröffentlichung von Informationen
+-   [CVE-2017-11934](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11934): Microsoft PowerPoint – Sicherheitsrisiko bei der Offenlegung von Informationen
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
 -   ​Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.​
@@ -739,7 +742,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen PowerPoint abstürzt, wenn eine Präsentation von einem SharePoint-Server mit einer älteren Version als SharePoint Server 2016 geöffnet wird.
 -   Behebung eines Problems, bei dem vom Endbenutzer definierte Zeichen (End-User Definded Characters, EUDCs), die mit Schriftarten verknüpft sind, nicht angezeigt werden.
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen benutzerdefinierte Felddaten auf Projektebene möglicherweise beim Speichern verloren gehen.
 -   Behebung eines Problems, aufgrund dessen eine Datei bei Problemen beim Speichern beschädigt wurde und Projekt beim Öffnen abstürzte.
 -   Behebung eines Problems, aufgrund dessen das Öffnen eines Projektplans möglicherweise zu einem Absturz führte.
@@ -825,7 +828,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Word abstürzt, wenn ein Benutzer versucht, ein vorhandenes Dokument mit „Speichern unter“ auf OneDrive for Business zu speichern und den Speichervorgang dann abbricht oder versucht, vorhandene Änderungen zusammenzuführen.
--   ​Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.​
+-   Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit dieser Problembehebung wird Benutzern jetzt eine Fehlermeldung angezeigt und der Upload wird abgebrochen.
 -   Behebung eines Problems, aufgrund dessen Word evtl. nicht mehr reagiert, wenn der Benutzer kurz nach dem Öffnen von Word zur Registerkarte „Einfügen“ wechselt.
 -   Behebung eines Problems, aufgrund dessen nach dem Klicken auf den Rand neu eingegebene Zeichen in der oberen linken Ecke des Bildschirms angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen Word abstürzt, wenn das Aktivitätenfenster für ein Dokument geöffnet wird, das von einem SharePoint-Server mit einer älteren Version als SharePoint Server 2016 geöffnet wurde.
@@ -842,7 +845,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2017-11825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11825): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
 -   [CVE-2017-11882](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11882): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Microsoft Office – Sicherheitsrisiko durch Remotecodeausführung
--   [Empfehlung 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz – Update
+-   [Empfehlung 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz-Update
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Hinzufügen von Unterstützung für einmaliges Anmelden (SSO) für Domänenbenutzer für Office 365 Deutschland-Pläne, bei denen die Identität mit einem lokalen Active Directory verbunden ist.
