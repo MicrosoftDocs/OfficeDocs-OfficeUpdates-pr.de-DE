@@ -3,37 +3,49 @@ title: Updateverlauf für Office 365 ProPlus (nach Datum)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/17/2018
+ms.date: 10/18/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Release Notes
-ms.openlocfilehash: 6dc23cbac49f4443bc0110b555e31fe39f51440f
-ms.sourcegitcommit: a9e626dc692bca5e768bae6aefc02d881bc777c5
+ms.openlocfilehash: bd92012c83b7438edac74990f3e18608d96fe251
+ms.sourcegitcommit: b9ddc8fa9e1993a95425dd2f89c1f369ed41a473
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/18/2018
-ms.locfileid: "25607322"
+ms.locfileid: "25638175"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
-Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Office 365 ProPlus, das in den folgenden Updatekanälen veröffentlicht wurde: monatlich, halbjährlich (gezielt) und halbjährlich. Jeder Eintrag in der Tabelle ist direkt mit den Release Notes für das betreffende Release verknüpft. Die Release Notes enthalten Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Office 365 ProPlus enthalten sind.
+Office 365 ProPlus wird regelmäßig mit neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates aktualisiert. Diese Updates werden über [Updatekanäle](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus) veröffentlicht. Jeder Veröffentlichung in den einzelnen Updatekanälen ist eine Versions- und Buildnummer zugewiesen. 
 
 
 > [!NOTE]
 > - Diese Versions- und Buildnummern gelten auch für Office 365 Business, Visio Pro für Office 365 und Project Online-Desktopclient. Office 365 Business ist die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle. 
-> - Die fett formatierte Versions- und Buildnummer gibt die aktuelle Versions- und Buildnummer für den jeweiligen Updatekanal an.
 > - Weitere Informationen zu Updatekanälen finden Sie unter [Übersicht über die Updatekanäle für Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
+Die folgende Tabelle enthält die unterstützte Version und die aktuelle Buildnummer für jeden Updatekanal. 
+ 
+|**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
+|:-----|:-----|:-----|:-----|:-----|
+|Monatlich  <br/> |1809  <br/> |10827.20181 <br/> | 16. Oktober 2018  <br/> |Veröffentlichung von Version 1810 <br/>|
+|Halbjährlich (gezielt)  <br/> |1808  <br/> |10730.20155 <br/> | 9. Oktober 2018  <br/> | 13. März 2019 <br/>|
+|Halbjährlich <br/> |1803  <br/> | 9126.2295<br/> |9. Oktober 2018  <br/> | 10. Dezember 2019 <br/>|
+|Halbjährlich <br/> |1708  <br/> |8431.2316  <br/> |9. Oktober 2018  <br/> | 13. März 2019 <br/>|
+
+Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Office 365 ProPlus auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
+
+
+Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Office 365 ProPlus, das in den folgenden Updatekanälen veröffentlicht wurde: monatlich, halbjährlich (gezielt) und halbjährlich. Jeder Eintrag in der Tabelle ist direkt mit den Veröffentlichungshinweisen für die betreffende Veröffentlichung verknüpft. Die Veröffentlichungshinweise enthalten Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Office 365 ProPlus enthalten sind.
 
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
-|2018|16. Oktober |[**Version 1809 (Build 10827.20181)**](monthly-channel-2018.md#version-1809-october-16)| | |
-|2018|9. Oktober |[Version 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[**Version 1808 (Build 10730.20155)**](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[**Version 1803 (Build 9126.2295)**](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Version 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
+|2018|16. Oktober |[Version 1809 (Build 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | |
+|2018|9. Oktober |[Version 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)|[Version 1808 (Build 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Version 1803 (Build 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Version 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
 |2018|27. September   |[Version 1809 (Build 10827.20138)](monthly-channel-2018.md#version-1809-september-27)| | |
 |2018|11. September   |[Version 1808 (Build 10730.20102)](monthly-channel-2018.md#version-1808-september-11)|[Version 1808 (Build 10730.20102)](semi-annual-channel-targeted-2018.md#version-1808-september-11) |[Version 1803 (Build 9126.2282)](semi-annual-channel-2018.md#version-1803-september-11)  <br/>  [Version 1708 (Build 8431.2309)](semi-annual-channel-2018.md#version-1708-september-11)   |
 |2018|5. September   |[Version 1808 (Build 10730.20088)](monthly-channel-2018.md#version-1808-september-5) | | |
