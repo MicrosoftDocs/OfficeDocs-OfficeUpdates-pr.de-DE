@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: dec4a8e8af5cc2cb4e15a47df3c9047f5e7cc8e4
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841251"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031644"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -33,6 +33,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates 
 
 - **Zusammenarbeiten mit Kommentaren:** Halten Sie die Unterhaltung mit dem integrierten Antwortfeld direkt in Ihrem Arbeitsblatt aufrecht. [Weitere Informationen](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
+- **Aktienkurse immer zur Hand:** Abrufen der neuesten Aktienkurse, Preisänderungen und mehr mit dem neuen Datentyp Aktien. Es gibt auch ein neuen Datentyp für „Geografie“. [Weitere Informationen](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
 - **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einem Arbeitsblatt, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles. [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Einfache Bearbeitung in der Bearbeitungsleiste:** Sie können Sie nun STRG+A verwenden, um Text in einer Zelle oder in der Bearbeitungsleiste auszuwählen. Es gibt auch eine verbesserte Unterstützung für Emojis und andere komplexe Zeichen. [Weitere Informationen](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
