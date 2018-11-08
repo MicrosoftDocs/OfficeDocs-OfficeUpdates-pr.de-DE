@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: f959ab56025359a9af925ed9a99029e551ffb133
-ms.sourcegitcommit: 9755a5a5122430a8617c72d87d0cdba0247f2877
+ms.openlocfilehash: e46a3b9deddf184a382d8eec5cdeb1276d550a21
+ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/10/2018
-ms.locfileid: "25456739"
+ms.lasthandoff: 11/06/2018
+ms.locfileid: "26024569"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -35,27 +35,27 @@ Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt
     
   - [Exchange 2016 – Systemanforderungen](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
-  - [Exchange 2013 – Systemanforderungen](https://technet.microsoft.com/en-us/library/aa996719%28v=exchg.150%29.aspx)
+  - [Exchange 2013 – Systemanforderungen](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Exchange 2010 – Systemanforderungen](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Exchange 2010 – Systemanforderungen](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016-Updates
 
-|**Neuestes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
+|**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|Nicht zutreffend  <br/> |Öffentliches Update vom March 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Oktober 2018 <br/>[KB4461440](https://support.microsoft.com/help/4461440) <br/><br/> Öffentliches Update vom August 2016 für Outlook 2016-Junk-E-Mail-Filter  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
+|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Oktober 2018 <br/>[KB4461440](https://support.microsoft.com/help/4461440) <br/><br/> Öffentliches Update vom August 2016 für Outlook 2016-Junk-E-Mail-Filter  <br/>[KB3115407](https://support.microsoft.com/help/3115407) <br/> |
    
 ## <a name="outlook-2013-updates"></a>Outlook 2013-Updates
 
-|**Neuestes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
+|**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Öffentliches Update vom December 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Öffentliches Update vom Oktober 2018 <br/>[KB4092477](https://support.microsoft.com/help/4092477) <br/><br/>  Öffentliches Update vom August 2016 für Outlook 2013-Junk-E-Mail-Filter <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Öffentliches Update vom Dezember 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Öffentliches Update vom Oktober 2018 <br/>[KB4092477](https://support.microsoft.com/help/4092477) <br/><br/>  Öffentliches Update vom August 2016 für Outlook 2013-Junk-E-Mail-Filter <br/> [KB3115404](https://support.microsoft.com/kb/3115404) <br/> |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010-Updates
 
-|**Neuestes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
+|**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/en-us/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Öffentliches Update vom Oktober 2018 <br/>[KB4227170](https://support.microsoft.com/help/4227170) <br/><br/>  Öffentliches Update vom August 2016 für Outlook 2010-Junk-E-Mail-Filter <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/de-DE/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Öffentliches Update vom Oktober 2018 <br/>[KB4227170](https://support.microsoft.com/help/4227170) <br/><br/>  Öffentliches Update vom August 2016 für Outlook 2010-Junk-E-Mail-Filter <br/> [KB3115475](https://support.microsoft.com/kb/3115475) <br/> |
    
 

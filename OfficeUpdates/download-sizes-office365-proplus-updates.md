@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 51e73f96f003e915c46031c0e39ccfda17abc885
-ms.sourcegitcommit: 6658c0f5db7d3600c6c6a3dd8030ee1f1d5c72a4
+ms.openlocfilehash: cdef21f3a216ef3e53d9c61fa6d5b3887edd92dd
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2018
-ms.locfileid: "25857153"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031664"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -35,6 +35,36 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - Es werden nur Versionen der letzten vier Monate aufgelistet.
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre. 
+
+
+## <a name="november-11-2018"></a>11. November 2018
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die vorläufige Version ist Version 1810 <(Build 11001.20094)>. 
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1809 (Build 10827.20181)  <br/> |16. Oktober 2018  <br/> |188<br/> |
+|Version 1809 (Build 11001.20074)  <br/> |29. Oktober 2018  <br/> |61<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die vorläufige Version ist Version 1803 <(Build 9126.2315)>.
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1803 (Build 9126.2282) <br/> |9. Oktober 2018  <br/> |61 <br/> |
+|Version 1803 (Build 9126.2282)  <br/> |11. September 2018  <br/> |58<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die vorläufige Version ist Version 1808 <(Build 10730.20205)>.
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1803 (Build 10730.20102)  <br/> |9. Oktober 2018  <br/> |92 <br/> |
+|Version 1808 (Build 10730.20102)  <br/> |11. September 2018  <br/>   |84  <br/>|
 
 ## <a name="october-29-2018"></a>29. Oktober 2018
 

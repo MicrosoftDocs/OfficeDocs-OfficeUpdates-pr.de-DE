@@ -3,19 +3,19 @@ title: Updateverlauf für Office 365 ProPlus (nach Datum)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/29/2018
+ms.date: 11/6/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 8fd677a9fc2db7e44bfc771a062f4f4f8d0e88e8
-ms.sourcegitcommit: 8459bd8fb06c343e3664415b92a968c1912e925b
+ms.openlocfilehash: c58289c4e240af9a182bd82fc253e7f0df57bf23
+ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2018
-ms.locfileid: "25841261"
+ms.lasthandoff: 11/07/2018
+ms.locfileid: "26031654"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -32,9 +32,9 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
 |Monatlich  <br/> |1810  <br/> |11001.20074<br/> | 29. Oktober 2018  <br/> |Version 1811 veröffentlicht <br/>|
-|Halbjährlich (gezielt)  <br/> |1808  <br/> |10730.20155 <br/> | 9. Oktober 2018  <br/> | 13. März 2019 <br/>|
-|Halbjährlich <br/> |1803  <br/> | 9126.2295<br/> |9. Oktober 2018  <br/> | 10. Dezember 2019 <br/>|
-|Halbjährlich <br/> |1708  <br/> |8431.2316  <br/> |9. Oktober 2018  <br/> | 13. März 2019 <br/>|
+|Halbjährlich (gezielt)  <br/> |1808  <br/> |10730.20155 <br/> | 9. Oktober 2018  <br/> | 12. März 2019 <br/>|
+|Halbjährlich <br/> |1803  <br/> | 9126.2295<br/> |9. Oktober 2018  <br/> |  10. September 2019 <br/>|
+|Halbjährlich <br/> |1708  <br/> |8431.2316  <br/> |9. Oktober 2018  <br/> |  12. März 2019 <br/>|
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Office 365 ProPlus auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
