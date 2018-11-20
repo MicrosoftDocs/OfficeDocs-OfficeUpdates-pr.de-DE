@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/19/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 4877f865b77fa11161c7180d1203bd2ee4066f59
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
+ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526410"
+ms.lasthandoff: 11/19/2018
+ms.locfileid: "26618435"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2018
 
@@ -63,6 +63,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - Es wurde ein Problem behoben, aufgrund dessen Benutzer die Schaltfläche zur Kontensteuerung nicht verwenden konnten, um zwischen Konten in benutzerdefinierten Formularen zu wechseln.
 - Es wurde ein Problem behoben, bei dem bei Verwendung von ScanPST zum Reparieren einer OST-/PST-Datei ein Absturz auftrat.
 - Es wurde ein Problem behoben, aufgrund dessen das CC-Feld in bestimmten E-Mail-Nachrichten für Benutzer mit Onlinemodusprofilen nicht angezeigt wurde.
+
+### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates 
+
+- Es wurde ein Stabilitätsproblem gelöst, das im Zusammenhang mit dem Synchronisieren und dem Navigieren zu einem gelöschten Abschnitt auftreten kann.
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates 
 
