@@ -3,7 +3,7 @@ title: Project Server-Updates
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/09/2018
+ms.date: 11/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: d8e5e8801d639d8a2b48ade63dc62571aed2c782
-ms.sourcegitcommit: 6782299423eaf5303519f637783555eab656fde2
+ms.openlocfilehash: 138bb48526568fd0349f270b9ee7f4f89afaaf3d
+ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/06/2018
-ms.locfileid: "26024589"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296615"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -30,6 +30,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
   
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|November 2018  <br/> |[KB4461509](https://support.microsoft.com/kb/4461509) <br/>|
 |Oktober 2018  <br/> |[KB4461456](https://support.microsoft.com/kb/4461456) <br/>|
 |September 2018  <br/> |[KB4092475](https://support.microsoft.com/kb/4092475) <br/>|
 |August 2018  <br/> |[KB4032245](https://support.microsoft.com/kb/4032245) <br/>|
@@ -81,6 +82,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|November 2018  <br/>  |[KB4461525](https://support.microsoft.com/kb/4461525) <br/>|
 |Oktober 2018  <br/>  |[KB4461463](https://support.microsoft.com/kb/4461463) <br/>|
 |September 2018  <br/>  |[KB4092484](https://support.microsoft.com/kb/4092484) <br/>|
 |August 2018  <br/>  |[KB4092438](https://support.microsoft.com/kb/4092438) <br/>|

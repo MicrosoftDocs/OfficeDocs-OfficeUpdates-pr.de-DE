@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/6/2018
+ms.date: 11/14/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 817aad039b91c3b23eceaf95123b02605825cbd4
-ms.sourcegitcommit: d424b313f8bc17c77251dda90f8afb7041a0e771
+ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
+ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2018
-ms.locfileid: "26031644"
+ms.lasthandoff: 11/15/2018
+ms.locfileid: "26526390"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -24,8 +24,42 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. 
-  [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1810-november-13"></a>Version 1810: 13. November
+*Version 1810 (Build 11001.20108)* 
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8574): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8577): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
+
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8522): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8524): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8576): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8582): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+
+### <a name="project-security-updates"></a>Project: Sicherheitsupdates 
+
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8575): Sicherheitsanfälligkeit in Microsoft Project bezüglich Remotecodeausführung 
+
+### <a name="word-security-updates"></a>Word: Sicherheitsupdates  
+
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8573): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+
+### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates 
+
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8546): Sicherheitsanfälligkeit in Microsoft Skype for Business bezüglich Verweigerung des Dienstes 
+
+ ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+
+ - Es wurde ein Problem behoben, bei dem beim Speichern/Veröffentlichen eines Projekts in Project Online die Statusleiste nicht immer aktualisiert wurde, um den aktuellen Status anzuzeigen.
+ - Es wurde ein Problem behoben, bei dem beim Arbeiten mit Project-Dateien in einer SharePoint-Dokumentbibliothek, die sich in der modernen Oberfläche befand, die Aktionen „Auschecken erforderlich“ und „Schreibgeschützt“ nicht korrekt ausgeführt wurden.
+
 
 ## <a name="version-1810-october-29"></a>Version 1810: 29. Oktober
 *Version 1810 (Build 11001.20074)* 
@@ -33,9 +67,9 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates 
 
 - **Zusammenarbeiten mit Kommentaren:** Halten Sie die Unterhaltung mit dem integrierten Antwortfeld direkt in Ihrem Arbeitsblatt aufrecht. [Weitere Informationen](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)
-- **Aktienkurse immer zur Hand:** Abrufen der neuesten Aktienkurse, Preisänderungen und mehr mit dem neuen Datentyp Aktien. Es gibt auch ein neuen Datentyp für „Geografie“. [Weitere Informationen](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
-- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einem Arbeitsblatt, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles. [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-- **Einfache Bearbeitung in der Bearbeitungsleiste:** Sie können Sie nun STRG+A verwenden, um Text in einer Zelle oder in der Bearbeitungsleiste auszuwählen. Es gibt auch eine verbesserte Unterstützung für Emojis und andere komplexe Zeichen. [Weitere Informationen](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
+- **Aktienkurse immer zur Hand:** Abrufen der neuesten Aktienkurse, Preisänderungen und mehr mit dem neuen Datentyp Aktien. Es gibt auch einen neuen Datentyp für „Geografie“. [Weitere Informationen](https://support.office.com/article/61a33056-9935-484f-8ac8-f1a89e210877)
+- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einem Arbeitsblatt, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles! [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Einfache Bearbeitungsleiste in der Bearbeitungsleiste:** Sie können nun STRG + A zum Auswählen von Text in einer Zelle oder in der Bearbeitungsleiste verwenden. Außerdem wurde die Unterstützung von Emojis und anderen komplexen Zeichen verbessert. [Weitere Informationen](https://support.office.com/article/402d8c2a-354c-4690-bacf-1c319c4ec2fb)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates 
 
@@ -45,13 +79,13 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates 
 
-- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild auf einer Folie, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles. [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einer Folie, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles! [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Neue Tools zum Korrekturlesen:** Machen Sie sich keine Sorgen mehr über Ihre Texte. PowerPoint bietet jetzt Grammatik- und Textvorschläge.
 - **Sie skizzieren, wir polieren:** Wir wandeln von Hand geschriebenen Text und handgezeichnete Shapes in optimierte Diagramme um. Wählen Sie einfach Ihre Freihandstriche aus, um loszulegen. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates 
 
-- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einem Dokument, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles. [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
+- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einem Dokument, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles! [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
 - **Verleihen Sie Ihren Dokumenten mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex über die Seite stampft. [Weitere Informationen](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 
 ### <a name="access-feature-updates"></a>Access: Featureupdates 
@@ -60,7 +94,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="publisher-feature-updates"></a>Publisher: Featureupdates 
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
-### <a name="project-feature-updates"></a>Projekt: Featureupdates 
+### <a name="project-feature-updates"></a>Project: Featureupdates 
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates 
@@ -104,12 +138,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Sehen Sie sich an, was in Kürze verfügbar ist** Probieren Sie neue Benutzeroberflächen aus, bevor diese veröffentlicht werden, und teilen Sie uns Ihre Meinung mit. [Weitere Informationen](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Die URL hinter sicheren Links** Sichere Links bieten Ihnen Schutz vor bösartigen URLs, die Sie in E-Mails empfangen haben, blenden dabei aber die ursprüngliche URL aus. Nun können Sie die Maus einfach über eine URL bewegen, um die ursprüngliche URL zu sehen, sogar in Links, die mit „Sichere Links“ geschützt sind.
+- **Die URL hinter sicheren Links** Sichere Links bieten Ihnen Schutz vor bösartigen URLs, die Sie in E-Mails empfangen haben, blenden dabei aber die ursprüngliche URL aus.Nun können Sie die Maus einfach über eine URL bewegen, um die ursprüngliche URL zu sehen, sogar in Links, die mit „Sichere Links“ geschützt sind.
 - **Rechtschreibvorschläge bei der Suche** Nach dem Durchführen einer Suche bietet Outlook eine vorgeschlagene Suchabfrage mit korrigierter Rechtschreibung an.
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
-- **Verleihen Sie Ihren Folien mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex über den Bildschirm stampft.  [Weitere Informationen](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
+- **Verleihen Sie Ihren Folien mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex über den Bildschirm stampft. [Weitere Informationen](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -142,7 +176,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates
  - **Ein ikonischer Moment im nächsten Diagramm** Treffen Sie eine Auswahl aus 26 neuen Schablonen mit Symbolen für Analysen, Kunst, Feierlichkeiten, Gesichter, Sport usw. 
- - **Ein Word-Dokument aus Visio-Shapes erstellen** Fügen Sie automatisch Diagramminhalte, einschließlich Shapes und Metadaten, zu einem Word-Dokument hinzu. Passen Sie dann das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+ - **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
  - **Visio und Power BI: eine unschlagbare Kombination** Verwandeln Sie Ihr Visio-Diagramm mit nur wenigen Klicks in eine interaktive Power BI-Visualisierung. [Weitere Informationen](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
 
  ### <a name="project-feature-updates"></a>Project: Featureupdates
@@ -220,7 +254,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Version 1806 (Build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
- - **Verbesserte Bearbeitung von Zellen und der Bearbeitungsleiste:** Sie können Sie nun STRG+A verwenden, um Text in einer Zelle oder in der Bearbeitungsleiste auszuwählen. Es gibt auch eine verbesserte Unterstützung für Emojis und andere komplexe Zeichen. [Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+ - **Verbesserte Bearbeitungsleiste für Zellen: ** Sie können nun STRG + A zum Auswählen von Text in einer Zelle oder in der Bearbeitungsleiste verwenden. Außerdem wurde die Unterstützung von Emojis und anderen komplexen Zeichen verbessert. [Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
  - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
@@ -348,7 +382,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Abhören Ihrer E-Mails:** Outlook kann Ihre E-Mails laut vorlesen und den Text während des Lesens hervorheben. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
--   **Nie wieder eine Erinnerung verpassen:** Legen Sie Erinnerungen so fest, dass sie über Fenstern angezeigt werden, in denen Sie arbeiten. Andernfalls blinkt Outlook in der Taskleiste, damit Sie darauf aufmerksam werden. [Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
+-   **So verpassen Sie keine Erinnerung mehr:** Legen Sie Erinnerungen so fest, dass sie über Fenstern angezeigt werden, in denen Sie arbeiten. Andernfalls blinkt Outlook in der Taskleiste, damit Sie darauf aufmerksam werden. [Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Markieren Sie gelöschte Elemente als gelesen:** Sie können jetzt jede Nachricht, die Sie löschen, als gelesen markieren. Klicken Sie hierfür auf „Datei \> Optionen \> E-Mail \> Andere“.
 -   **Verschlüsselungsoption:** Benutzer der Office 365-Nachrichtenverschlüsselung können Nachrichten verschlüssel und an eine beliebige Person innerhalb oder außerhalb ihrer Organisation senden. Die Verschlüsselungsoption wird beim Erstellen einer Nachrichten unter „Optionen \> Berechtigungen“ angezeigt. [Weitere Informationen](https://aka.ms/omeoverview)
 
@@ -383,9 +417,9 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   [CVE-2018-0950](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0950): Sicherheitsanfälligkeit in Microsoft Office bezüglich Veröffentlichung von Informationen
 -   [CVE-2018-1026](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-1030): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
--   **Flash-, Silverlight- und Shockwave-Steuerelemente können in Office aus Sicherheitsgründen nicht aktiviert werden:** Aus Sicherheitsgründen wird in neuen Builds von Microsoft Office für Office 365 unter Windows die Aktivierung von Flash-, Silverlight- und Shockwave-Steuerelemente blockiert.  
-  [Hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US) erhalten Sie weitere Informationen.
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-1030): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   
+  **Flash-, Silverlight- und Shockwave-Steuerelemente können in Office aus Sicherheitsgründen nicht aktiviert werden:** Aus Sicherheitsgründen wird in neuen Builds von Microsoft Office für Office 365 unter Windows die Aktivierung von Flash-, Silverlight- und Shockwave-Steuerelemente blockiert. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="version-1803-march-27"></a>Version 1803: 27. März
 *Version 1803 (Build 9126.2116)*
