@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 11/27/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 80104d351a68861aa16cc4054f5ca99f6c73e78c
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
+ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526390"
+ms.lasthandoff: 11/27/2018
+ms.locfileid: "26706649"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -25,6 +25,28 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="version-1811-november-27"></a>Version 1811: 27. November
+*Version 1811 (Build 11029.20079)* 
+
+### <a name="access-feature-updates"></a>Access: Featureupdates
+
+- **Schwarz färben, grau färben:** Ändern Sie das Erscheinungsbild von Access so oft wie gewünscht. Vier Designs zur Auswahl: Farbig, Dunkelgrau, Schwarz oder Weiß. [Weitere Informationen](https://support.office.com/article/9d76a8b4-bfff-48a9-b8c8-8e133461bc94)
+
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
+
+- **Zoomen und Übernehmen:** Anstatt den Zoom jedes Mal anzupassen, wenn Sie eine Nachricht lesen, wählen Sie einen Standardwert für alle Nachrichten.  [Weitere Informationen](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
+- **Outlook-Nachrichten asynchron verschieben:** Verschieben Sie Nachrichten asynchron, um die Produktivität für Outlook-Benutzer zu erhöhen.
+- **Überarbeitung der Aktivieren- und Deaktivieren-Erfahrung des Posteingangs mit Fokus:** Kennzeichnen von E-Mails als „Ungelesen“, damit sie in allen Ordnern und nicht nur im Posteingang angezeigt werden, wenn Posteingang mit Fokus deaktiviert ist. „Sortieren nach Kennzeichnungsstatus“ wurde hinzugefügt. Bessere Interaktion des Posteingangs mit Fokus mit der Suche: Posteingang mit Fokus bleibt bis zum Beginn einer Suche. Ergebnistext wird angezeigt, nachdem die Suche abgeschlossen ist.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Foliennummer auf gedruckten Handzetteln anzeigen:** Fügen Sie die Foliennummer zur ausgedruckten Kopie Ihres Handzettels hinzu. [Weitere Informationen](https://support.office.com/article/91c62c83-9032-497c-ab76-cae8f3e1a402)
+
+### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
+
+- **Freigeben und Laden Ihrer Dokumente mit den unter Info neu verfügbar gemachten Schaltflächen:** Zuvor waren die Schaltflächen Freigeben, Pfad in die Zwischenablage kopieren und Dateispeicherort öffnen nur über den Dokument-Speicherpfad verfügbar. Jetzt werden die Schaltflächen deutlich unter Info angezeigt. Navigieren Sie wie gehabt zu Datei > Info, um diese neuen Schaltflächen anzuzeigen.
+
 
 ## <a name="version-1810-november-13"></a>Version 1810: 13. November
 *Version 1810 (Build 11001.20108)* 
