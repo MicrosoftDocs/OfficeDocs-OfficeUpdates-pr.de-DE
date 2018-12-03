@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 11/29/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: f221cf3ff6a67cdf36940de61c1c2be2aa450b7a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
+ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706649"
+ms.lasthandoff: 11/29/2018
+ms.locfileid: "26987095"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -37,7 +37,8 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 - **Zoomen und Übernehmen:** Anstatt den Zoom jedes Mal anzupassen, wenn Sie eine Nachricht lesen, wählen Sie einen Standardwert für alle Nachrichten.  [Weitere Informationen](https://support.office.com/article/351EF767-00C1-4B9F-8744-1391DCB8F974)
 - **Outlook-Nachrichten asynchron verschieben:** Verschieben Sie Nachrichten asynchron, um die Produktivität für Outlook-Benutzer zu erhöhen.
-- **Überarbeitung der Aktivieren- und Deaktivieren-Erfahrung des Posteingangs mit Fokus:** Kennzeichnen von E-Mails als „Ungelesen“, damit sie in allen Ordnern und nicht nur im Posteingang angezeigt werden, wenn Posteingang mit Fokus deaktiviert ist. „Sortieren nach Kennzeichnungsstatus“ wurde hinzugefügt. Bessere Interaktion des Posteingangs mit Fokus mit der Suche: Posteingang mit Fokus bleibt bis zum Beginn einer Suche. Ergebnistext wird angezeigt, nachdem die Suche abgeschlossen ist.
+- **Anzeigen der LinkedIn-Details von Benutzern in Outlook:** Sie können nun beim Öffnen der Profilkarte eines Kontakts mehr über diesen Kontakt erfahren, indem Sie dessen LinkedIn-Profil ansehen.
+- **Professionelles Aktivieren und Deaktivieren des Posteingangs mit Relevanz:** Benutzer, die den Posteingang mit Relevanz nicht verwenden, können wieder die Registerkarte „Ungelesen“ in der Nachrichtenliste in allen Ordnern verwenden. Wir haben auch eine Kennzeichnung für die Sortierung hinzugefügt, damit gekennzeichnete Elemente leichter zu finden sind. Posteingang mit Relevanz weist ein besseres Interaktionsmodell mit der Suche auf: Posteingang mit Relevanz ist solange aktiviert, bis ein Benutzer eine Suche ausführt. Die Ergebnisse werden nach Abschluss der Suche angezeigt.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
