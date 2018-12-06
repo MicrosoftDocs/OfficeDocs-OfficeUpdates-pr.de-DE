@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/29/2018
+ms.date: 12/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 197357d549a52efaf45a42ca8aea667b3b63e18a
-ms.sourcegitcommit: c5b53c9081a44a6ce9e10f7c6d0469101a1f397e
+ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
+ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/29/2018
-ms.locfileid: "26987095"
+ms.lasthandoff: 12/05/2018
+ms.locfileid: "27154823"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -25,6 +25,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
 
 ## <a name="version-1811-november-27"></a>Version 1811: 27. November
 *Version 1811 (Build 11029.20079)* 
@@ -39,6 +40,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **Outlook-Nachrichten asynchron verschieben:** Verschieben Sie Nachrichten asynchron, um die Produktivität für Outlook-Benutzer zu erhöhen.
 - **Anzeigen der LinkedIn-Details von Benutzern in Outlook:** Sie können nun beim Öffnen der Profilkarte eines Kontakts mehr über diesen Kontakt erfahren, indem Sie dessen LinkedIn-Profil ansehen.
 - **Professionelles Aktivieren und Deaktivieren des Posteingangs mit Relevanz:** Benutzer, die den Posteingang mit Relevanz nicht verwenden, können wieder die Registerkarte „Ungelesen“ in der Nachrichtenliste in allen Ordnern verwenden. Wir haben auch eine Kennzeichnung für die Sortierung hinzugefügt, damit gekennzeichnete Elemente leichter zu finden sind. Posteingang mit Relevanz weist ein besseres Interaktionsmodell mit der Suche auf: Posteingang mit Relevanz ist solange aktiviert, bis ein Benutzer eine Suche ausführt. Die Ergebnisse werden nach Abschluss der Suche angezeigt.
+- **Standardmäßiges Blockieren des Downloads externer Inhalte in SMIME-verschlüsselten und signierten E-Mails:** Aufgrund einer Schwachstelle im SMIME-Protokoll blockiert Outlook den Download externer Inhalte in Nachrichten, die über SMIME verschlüsselt oder signiert wurden. Benutzer können daher als Schutzmaßnahme vor dieser Sicherheitslücke externe Inhalte nicht mit einem einzelnen Klick über die Outlook-Benutzeroberfläche herunterladen. Es ist eine neue Option im Dialogfeld „Optionen“ vorhanden, mit der Benutzer zum alten Verhalten zurückkehren können. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
