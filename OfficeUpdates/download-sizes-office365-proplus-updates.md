@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: f57083dce6e2dcba5a728a92d634fa7a9ff4737a
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
+ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706639"
+ms.lasthandoff: 12/06/2018
+ms.locfileid: "27180775"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -35,6 +35,31 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - Es werden nur Versionen der letzten vier Monate aufgelistet.
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre. 
+
+
+## <a name="december-11-2018"></a>11. Dezember 2018
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die erwartete Version ist Version 1811 (Build 11029.20090). 
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1811 (Build 11001.20108)  <br/> |13. November 2018  <br/> |168<br/> |
+|Version 1810 (Build 11029.20079)  <br/> |27. November 2018  <br/> |84<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Ungefähre Downloadgröße TBD
+  
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die erwartete Version ist Version 1808 (Build 10730.20234).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1803 (Build 10730.20155)  <br/> |9. Oktober 2018  <br/> |90 <br/> |
+|Version 1808 (Build 10730.20205)  <br/> |13. November 2018  <br/>   |83  <br/>|
 
 ## <a name="november-27-2018"></a>27. November 2018
 
