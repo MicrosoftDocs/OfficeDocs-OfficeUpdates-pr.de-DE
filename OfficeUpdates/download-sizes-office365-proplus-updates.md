@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 0d3dc6744b2811e69316afeeecfb34ad55a669fb
-ms.sourcegitcommit: 9aeaa78dc9be8f3dc8b2bdad0e3c203341e5ad1c
+ms.openlocfilehash: 17a7e5458382394128e85b024315cb19886c5eba
+ms.sourcegitcommit: 3c5daa87f8ef4e8dbc0185c2ab9080caf9cbd325
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2018
-ms.locfileid: "27180775"
+ms.lasthandoff: 12/07/2018
+ms.locfileid: "27194916"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -90,7 +90,7 @@ Die neueste Version ist Version 1803 (Build 9126.2315).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 1803 (Build 9126.2282) <br/> |9. Oktober 2018  <br/> |61 <br/> |
+|Version 1803 (Build 9126.2295) <br/> |9. Oktober 2018  <br/> |61 <br/> |
 |Version 1803 (Build 9126.2282)  <br/> |11. September 2018  <br/> |58<br/> |
 
 ### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
@@ -192,7 +192,7 @@ Die neueste Version ist Version 1803 (Build 9126.2282).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 1803 (Build 9126.2259)  <br/> |10. Juli 2018  <br/> |99  <br/> |
-|Version 1708 (Build 9126.2275)  <br/> |14. August 2018  <br/> |99 <br/> |
+|Version 1803 (Build 9126.2275)  <br/> |14. August 2018  <br/> |99 <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Halbjähriger Kanal (gezielt)
@@ -233,8 +233,8 @@ Die neueste Version ist Version 1803 (Build 9126.2275).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 1803 (Build 8431.2259)  <br/> |10. Juli 2018  <br/> |86  <br/> |
-|Version 1708 (Build 8431.2270)  <br/> |12. Juni 2018  <br/> |279  <br/> |
+|Version 1803 (Build 9126.2259)  <br/> |10. Juli 2018  <br/> |86  <br/> |
+|Version 1708 (Build 8431.2280)  <br/> |10. Juli 2018  <br/> |279  <br/> |
 
   
 ### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
