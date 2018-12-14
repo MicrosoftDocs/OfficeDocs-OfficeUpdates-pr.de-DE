@@ -3,19 +3,19 @@ title: Releaseverlauf für Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/032018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: ccc2c87990f913a220359d54331e3b807ee5bc04
-ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
+ms.openlocfilehash: 0a63a09cd202c0ae6cec9031cc44d6dc9d869221
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "27134246"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241296"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -26,14 +26,15 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 
 > [!NOTE]
 > - Die aktuelle Version von Microsoft AutoUpdate steht immer unter [https://go.microsoft.com/fwlink/p/?linkid=830196](https://go.microsoft.com/fwlink/p/?linkid=830196) zur Verfügung.
-> - Downloadlinks sind nur für die aktuellen Releases von Microsoft AutoUpdate verfügbar.
+> - Downloadlinks sind nur für die aktuelle Release von Microsoft AutoUpdate verfügbar.
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
   
 |**Veröffentlichungsdatum**|**Version**|**Weitere Informationen**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
-|14. November 2018 <br/> |4.5.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#november-2018-release) <br/> |[MAU 4.5.0 herunterladen](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
-|16. Oktober 2018 <br/> |4.4.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#october-2018-release) <br/> |<br/> |
-|11. September 2018  <br/> |4.3.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> |> |
+|11. Dezember 2018 <br/>|4.6.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#december-2018-release) <br/> |[MAU 4.6.0 herunterladen](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|14. November 2018 <br/> |4.5.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#november-2018-release) <br/> | |
+|16. Oktober 2018 <br/> |4.4.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#october-2018-release) <br/> | |
+|11. September 2018  <br/> |4.3.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> | |
 |14. August 2018  <br/> |4.2.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#august-2018-release) <br/> | |
 |10. Juli 2018  <br/> |4.1.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#july-2018-release) <br/> | |
 |12. Juni 2018  <br/> |4.0.0  <br/> |||

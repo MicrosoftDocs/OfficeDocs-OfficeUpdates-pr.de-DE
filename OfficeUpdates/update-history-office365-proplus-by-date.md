@@ -3,19 +3,19 @@ title: Updateverlauf für Office 365 ProPlus (nach Datum)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/27/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 60a0e8914a33ff22c72d81633018e5fd41b4aa82
-ms.sourcegitcommit: d8df1436c1d2ce683cdac42bd4e14cf3407e2bf1
+ms.openlocfilehash: 751079b24cfe9ac537ad2dc61f4c79ee637e5a1a
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/27/2018
-ms.locfileid: "26706629"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241426"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -31,10 +31,10 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
  
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich  <br/> |1811  <br/> |11029.20079<br/> | 27. November 2018  <br/> |Version 1812 veröffentlicht <br/>|
-|Halbjährlich (gezielt)  <br/> |1808  <br/> |10730.20205 <br/> | 13. November 2018  <br/> | 12. März 2019 <br/>|
-|Halbjährlich <br/> |1803  <br/> | 9126.2315<br/> | 13. November 2018  <br/> |  10. September 2019 <br/>|
-|Halbjährlich <br/> |1708  <br/> | 8431.2329  <br/> | 13. November 2018  <br/> |  12. März 2019 <br/>|
+|Monatlich  <br/> |1811  <br/> |11029.20108<br/> | 11. Dezember 2018  <br/> |Version 1812 veröffentlicht <br/>|
+|Halbjährlich (gezielt)  <br/> |1808  <br/> |10730.20262 <br/> | 11. Dezember 2018  <br/> | 12. März 2019 <br/>|
+|Halbjährlich <br/> |1803  <br/> | 9126.2336<br/> | 11. Dezember 2018 <br/> |  10. September 2019 <br/>|
+|Halbjährlich <br/> |1708  <br/> | 8431.2351  <br/> | 11. Dezember 2018 <br/> |  12. März 2019 <br/>|
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Office 365 ProPlus auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
@@ -44,6 +44,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2018|11. Dezember |[Version 1811 (Build 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[Version 1808 (Build 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Version 1803 (Build 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Version 1708 (Build 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27. November   |[Version 1811 (Build 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
 |2018|13. November |[Version 1810 (Build 11001.20108)](monthly-channel-2018.md#version-1810-november-13)|[Version 1808 (Build 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Version 1803 (Build 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Version 1708 (Build 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018|29. Oktober |[Version 1810 (Build 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | |

@@ -3,19 +3,19 @@ title: Neueste Updates für Office-Versionen, die Windows Installer (MSI) verwen
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2018
+ms.date: 12/12/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: cf815da75d3c17ca073dee38bc4b196fe4df8165
-ms.sourcegitcommit: 16edba1a25e04ae704903a63fcedefc31400ff05
+ms.openlocfilehash: bb972a0d36409cbd683925dd48f5d6d788b37ed9
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296555"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241266"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
@@ -32,23 +32,25 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
 
 |**Versionen und Produkte**|**Neustes Service Pack (SP)**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |–  <br/> |November 2018 PU  <br/> [KB4469617](https://support.microsoft.com/help/4469617) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |–  <br/> |Öffentliches Update vom Dezember 2018  <br/> [KB4477615](https://support.microsoft.com/help/4477615) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013-Updates
 
 |**Versionen und Produkte**|**Neustes Service Pack (SP)**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |November 2018 PU  <br/> [KB4469617](https://support.microsoft.com/help/4469617) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Öffentliches Update vom Dezember 2018  <br/> [KB4477615](https://support.microsoft.com/help/4477615) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010-Updates
 
 |**Versionen und Produkte**|**Neustes Service Pack (SP)**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010-Produktfamilien  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010-Server  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010-Produkte  <br/> Project Server 2010  <br/> FAST Search Server 2010 für SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |November 2018 PU <br/>[KB4469617](https://support.microsoft.com/help/4469617) <br/>|
+|**2010** <br/> Office 2010-Produktfamilien  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010-Server  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010-Produkte  <br/> Project Server 2010  <br/> FAST Search Server 2010 für SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Öffentliches Update vom Dezember 2018 <br/>[KB4477615](https://support.microsoft.com/help/4477615) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>In den letzten 12 Monaten veröffentlichte Updates
+
+[Sicherheits- und nicht sicherheitsrelevante Updates vom Dezember 2018: KB4477615](https://support.microsoft.com/help/4477615)
 
 [Sicherheits- und nicht sicherheitsrelevante Updates vom November 2018: KB4469617](https://support.microsoft.com/help/4469617)
 
@@ -71,14 +73,4 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
 [Sicherheits- und nicht sicherheitsrelevante Updates vom Februar 2018: KB4077965](https://support.microsoft.com/help/4077965)  
   
 [Sicherheits- und nicht sicherheitsrelevante Updates vom Januar 2018: KB4058103](https://support.microsoft.com/help/4058103)   
-  
-[Sicherheits- und nicht sicherheitsrelevante Updates vom Dezember 2017: KB4055454](https://support.microsoft.com/help/4055454)   
-  
-  
-  
-    
-
-  
-
-   
   
