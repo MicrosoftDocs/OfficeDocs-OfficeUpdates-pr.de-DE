@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: c38a599be2719cd869d4265c1a387ae1764d3635
-ms.sourcegitcommit: 635e48db44bb7ba94f298748ad90dfc55843fb5c
+ms.openlocfilehash: f32d92ccff3db5b15e8d640e917ae48dd9c9c982
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/04/2018
-ms.locfileid: "27134266"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241476"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -33,6 +33,24 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 > - Downloadlinks sind nur für die aktuellen Releases verfügbar.
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+## <a name="december-2018-release"></a>Release von Dezember 2018
+
+ **Veröffentlichungsdatum:** 11. Dezember 2018 
+  
+ *Version 16.20.0 (Build 18120801)* 
+  
+Dieses Release umfasst die folgenden Updates:
+
+|**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
+|:-----|:-----|:-----|
+|Word  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Beibehalten Sie den Look Ihres Texts bei:** Betten Sie Schriftarten ein, um sicherzustellen, dass der Texts in Ihrem Dokument auf jedem Computer gleich aussieht. Keine bösen Überraschungen mehr! [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Im Handumdrehen von iPhone zu PowerPoint:** Verwenden Sie die Continuity Camera von Apple, um ein Foto von Ihrem iPhone in Ihre Folie einzufügen. macOS Mojave erforderlich. [Weitere Informationen](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Outlook  <br/>|  **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Freigeben Ihres Kalenders:** Geben Sie Ihren Kalender für Familie, Freunde und Kollegen frei. Öffnen Sie für Sie freigegebene Kalender in Mac-, PC- oder Cloud-Versionen von Outlook. [Weitere Informationen](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Deaktivieren der Weiterleitung für eine Besprechung** Verhindern Sie, dass Teilnehmer Ihre Besprechung an andere weiterleiten. [Weitere Informationen](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Verwenden von Teams zum Herstellen einer Verbindung mit Ihren Besprechungen:** Sie arbeiten mit Remoteteams? Vewrenden Sie Teams in Outlook, um Onlinebesprechungen zu planen und an diesen teilzunehmen. [Weitere Informationen](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Sehen, wer an der Besprechung teilnimmt:** Klicken Sie auf eine Besprechung oder ein Ereignis in Ihrem Kalender, um zu sehen, wer daran teilnehmen wird.<br/><br/> **Anzeigen von drei Zeitzonen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um ganz einfach die Verfügbarkeit aller Teilnehmer anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
+|Microsoft Auto Update 4.6 <br/>| Sicherheitskataloge wurden aktualisiert und enthalten nun SHA-256-Hashes anstelle von SHA-1. <br/>|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
+|Office-Suite  <br/>| |<br/>||
+
 
 ## <a name="november-2018-release"></a>Release vom November 2018
 
@@ -62,7 +80,7 @@ Dieses Release umfasst die folgenden Updates:
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|
 |Word  <br/>|||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.18.18101400_Updater.pkg) <br/>|
-|Excel  <br/>|**Zusammenarbeiten mit Kommentaren:** Halten Sie die Unterhaltung mit dem integrierten Antwortfeld direkt in Ihrem Arbeitsblatt aufrecht. [Weitere Informationen](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/> **Erfahren Sie mehr über Ihre Daten:** Die neue Schaltfläche „Ideen“ sucht in Ihren Daten nach Muster und verwendet diese, um intelligente, persönliche Vorschläge zu erstellen. [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) <br/><br/> **Mehr Automatisierung in AutoVervollständigen:** Wenn Sie eine Formel eingeben, wird die hilfreiche Menü „AutoVervollständigen“ angezeigt, in dem Argumentoptionen angezeigt werden, aus denen Sie eine Auswahl treffen können.  <br/><br/> **Jetzt verbessert: VoiceOver-Navigation:** Sie verwenden VoiceOver in Excel? Bewegen Sie sich zwischen Blättern, indem Sie VO+U drücken. Sie können hierfür auch die macOS-Trackpad-Steuerung aktivieren. <br/> ||[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
+|Excel  <br/>|**Zusammenarbeiten mit Kommentaren:** Halten Sie die Unterhaltung mit dem integrierten Antwortfeld direkt in Ihrem Arbeitsblatt aufrecht. [Weitere Informationen](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8 ) <br/> <br/>  **Mehr Automatisierung in AutoVervollständigen:** Wenn Sie eine Formel eingeben, wird die hilfreiche Menü „AutoVervollständigen“ angezeigt, in dem Argumentoptionen angezeigt werden, aus denen Sie eine Auswahl treffen können.  <br/><br/> **Jetzt verbessert: VoiceOver-Navigation:** Sie verwenden VoiceOver in Excel? Bewegen Sie sich zwischen Blättern, indem Sie VO+U drücken. Sie können hierfür auch die macOS-Trackpad-Steuerung aktivieren. <br/> ||[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.18.18101400_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Einfacherer Zugriff auf Ihre Bilder:** Wenn Sie ein Bild einfügen, schlägt Office Beschriftungen vor, die von Personen mit Sehbehinderungen gelesen werden können.  <br/><br/> **Animationstrigger jetzt verfügbar:** Ihr Wunsch ist uns Befehl. Animationstrigger sind nicht mehr nur in Windows zu finden, sie sind jetzt auch auf der Registerkarte „Animation“ verfügbar. [Weitere Informationen](https://support.office.com/article/651726d6-9454-4bfd-b8e5-11d84767a6da) <br/><br/> ||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.18.18101400_Updater.pkg) <br/>|
 |Outlook  <br/>|**Verbesserte Suche:** Wählen Sie das Suchfeld für schnelle Vorschläge basierend auf Ihrem aktuellen Suchverlauf aus. Keine Eingabe erforderlich. [Weitere Informationen](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1) <br/><br/> ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.18.18101400_Updater.pkg) <br/>|
 |Office-Suite  <br/>| |[CVE-2018-8432](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics Component – Sicherheitsrisiko bei der Remotecodeausführung <br/>||

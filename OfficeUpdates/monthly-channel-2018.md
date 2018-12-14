@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/04/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 70ed82679a17446751d9e9e4e3d7cc8a056ce668
-ms.sourcegitcommit: d37f49e4efc9d1b4187711951bcb7049e18138bb
+ms.openlocfilehash: f2e1c394266de2b07acaad5ae95d6d19cfc17684
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2018
-ms.locfileid: "27154823"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241486"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -25,6 +25,27 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+ > [!NOTE]
+> - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+
+## <a name="version-1811-december-11"></a>Version 1811: 11. Dezember
+*Version 1811 (Build 11029.20108)* 
+
+ ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Remotecodeausführung 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
 
 
 ## <a name="version-1811-november-27"></a>Version 1811: 27. November

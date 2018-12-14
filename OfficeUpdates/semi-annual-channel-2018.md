@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/14/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 8018fdf91a14b24f725f19a80298f951a14be7c0
-ms.sourcegitcommit: 7828d94c163b3cdb37305da2390d8a73964fdb51
+ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2018
-ms.locfileid: "26526430"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241496"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2018
 
@@ -25,6 +25,62 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Der halbjährliche Kanal hieß vor Januar 2018 verzögerten Kanal.
+
+> [!NOTE]
+> - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+
+## <a name="version-1803-december-11"></a>Version 1803: 11. Dezember
+*Version 1803 (Build 9126.2336)*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Remotecodeausführung 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
+
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Ein Problem, aufgrund dessen Outlook unerwartet beendet wird, wenn bestimmte Kontaktfelder aktualisiert werden, wurde behoben.
+- Behebt ein Problem, das dazu führte, dass Benutzern beim Öffnen des Dialogfelds „Regeln und Warnungen verwalten“ ein Fehler angezeigt wird.
+- Behebt ein Problem, aufgrund dessen bei Outlook-Benutzern Abstürze beim Ausführen einiger Add-Ins auftraten.
+
+
+## <a name="version-1708-december-11"></a>Version 1708: 11. Dezember
+*Version 1708 (Build 8431.2351)*
+
+*Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1803 (Build 16.0.9126.2336), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Remotecodeausführung 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Ein Problem, aufgrund dessen Outlook unerwartet beendet wird, wenn bestimmte Kontaktfelder aktualisiert werden, wurde behoben.
+- Behebt ein Problem, das dazu führte, dass Benutzern beim Öffnen des Dialogfelds „Regeln und Warnungen verwalten“ ein Fehler angezeigt wird.
+- Behebt ein Problem, aufgrund dessen bei Outlook-Benutzern Abstürze beim Ausführen einiger Add-Ins auftraten.
+
 
 ## <a name="version-1803-november-13"></a>Version 1803: 13. November
 *Version 1803 (Build 9126.2315)*

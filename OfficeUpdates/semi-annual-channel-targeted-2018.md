@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/19/2018
+ms.date: 12/11/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 376dad984a376a21ee22e24647e72bd4bff95872
-ms.sourcegitcommit: fb77f95b01d2803216e0c57760085cea78f3b73f
+ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
+ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2018
-ms.locfileid: "26618435"
+ms.lasthandoff: 12/12/2018
+ms.locfileid: "27241516"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2018
 
@@ -24,6 +24,55 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
+
+ 
+> [!NOTE]
+> - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+
+## <a name="version-1808-december-11"></a>Version 1808: 11. Dezember
+*Version 1808 (Build 10730.20262)*
+
+### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates 
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+
+### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Remotecodeausführung 
+
+### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates 
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates 
+
+- Behebung eines Problems in Sitzungen der gemeinsamen Dokumenterstellung, bei dem ein Slicer nicht korrekt aktualisiert wird, nachdem ein anderer Benutzer einen Spaltenfilter auf die Daten in diesem Slicer angewendet hat.
+- Behebung eines Problems in einer Sitzung der gemeinsamen Dokumenterstellung, bei dem einer der Benutzer die Beschriftung für einen Slicer löscht, wodurch verursacht wird, dass bei einem anderen Benutzer in der Sitzung der gemeinsamen Dokumenterstellung Excel abstürzt.
+- Es wurde ein möglicher Absturz beim Erstellen mehrerer Tabellenslicer, die an dieselbe Datenspalte gebunden sind, und beim anschließendes Löschen dieser Datenspalte behoben.
+- Behebung eines Problems, aufgrund dessen Excel beim Aktualisieren einer gefilterten Abfragetabelle, die umbrochenen Text in Zellen enthält, manchmal abstürzt, wenn die Option zum automatischen Anpassen der Spaltenbreite deaktiviert wurde.
+- Behebung eines Problems, bei dem in Excel 2007 gespeicherte Slicer einen Absturz verursachen können, wenn sie in neueren Versionen von Excel geöffnet werden, wenn sich die Anzahl von im Slicer angezeigten Elementen ändert.
+- Behebung eines Problems, aufgrund dessen bei Benutzern Abstürze beim Öffnen des Ordners „Unterhaltungsverlauf“ auftraten.
+- Führt Unterstützung für die Schaltfläche „Diagnose abrufen“ ein, um die Untersuchung von Supportanfragen zu erleichtern.
+
+### <a name="outlook-non-secirity-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebung eines Problems, aufgrund dessen Benutzern beim Öffnen des Dialogfelds „Regeln und Warnungen verwalten“ ein Fehler angezeigt wird.
+- Behebung eines Problems, aufgrund dessen Benutzer bei Verwendung einer getakteten Verbindung keine Verbindung zu ihren Postfächern über DirectAccess herstellen konnten.
+- Behebung eines Problems, aufgrund dessen freie Dokumente, die in öffentlichen Ordnern gespeichert sind, fälschlicherweise in der „Geschützten Ansicht“ geöffnet werden.
+- Behebung eines Problems, aufgrund dessen Benutzern unerwartete Anlagen beim Weiterleiten von Elementen mit Inline-Anlagen angezeigt werden.
+- Behebung eines Problems, aufgrund dessen OFT-Dateien nach dem Senden als Anlage nicht ordnungsgemäß gerendert werden.
+- Behebung eines Problems, aufgrund dessen bei einigen Add-In-Benutzern Abstürze beim Hinzufügen einer Besprechung zu einem freigegebenen Kalender auftreten.
+
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebung eines Problems im Zusammenhang mit der Unterstützung einer neuen venezolanischen Währung in Project behoben.
+- Behebung eines Problems, bei dem Project möglicherweise hängen bleibt, wenn ein Surface 4-Tablet verwendet wird, das an einen externen Monitor angeschlossen ist.
+- Behebung eines Problems, bei dem Project beim Speichern des Projekts im XML-Format möglicherweise abstürzt.
+- Behebung eines Problems, aufgrund dessen benutzerdefinierte Felder von Unternehmensressourcen nach der Bearbeitung eines Ressourcenkalenders möglicherweise gelöscht werden.
+- Behebung eines Problems, aufgrund dessen bei Benutzern beim Suchen nach koreanischen Anzeigenamen Abstürze auftraten.
 
 ## <a name="version-1808-november-13"></a>Version 1808: 13. November
 *Version 1808 (Build 10730.20205)*
