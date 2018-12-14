@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office 2016 für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office 2016 für Mac-Releases ab September 2018 zur Verfügung.
-ms.openlocfilehash: b8cb6bab1926df1803f210df04ab8885066d1e6e
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 02d05f36f123836b81a66ea1ba3646d88ab05b69
+ms.sourcegitcommit: 7941e614327f57d4269e7840cbbc276fac781297
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241336"
+ms.lasthandoff: 12/13/2018
+ms.locfileid: "27258471"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Anmerkungen zur Version für Office 2016 für Mac
 
@@ -37,11 +37,11 @@ In der folgenden Tabelle werden die aktuellen Pakete für Office 2016 für Mac u
 |**Anwendung**|**Version**|**Downloadlinks**|**SHA256-Hashes für Installationspaket**|
 |:-----|:-----|:-----|:-----|
 |Office-Suite (alle Anwendungen)  <br/> |16.16.5 (18120901) <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> |0EDCD514D578FFF9A998B117B8BCD7E2C34F3111DFBB83842D975CE6D85766DF  <br/> |
-|Word  <br/> |16.16.5 (18120901)   <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18120901_Updater.pkg) <br/> |DFFDE425F9D113D2718C4227E974BFC4FB07D160CAEA611FB6FC18230AB3E2DF <br/>|
-|Excel  <br/> |16.16.5 (18120901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/> |6851775F9B0C3F6D23A182861C63578DFF70167D413A70910D76281317BDAD25 <br/>  |
-|PowerPoint  <br/> |16.16.5 (18120901)   <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/> | 9BE23E5ECD9B0EECB940E36FCF78DB42A958DEC97D897F6890F999426FE754F4<br/> |
-|Outlook  <br/> |16.16.5 (18120901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/> | FB6A29B8EF79B987FA5F0D843F7EA0493554807CA64CAA8E9180BE34A1CF43D5 <br/> |
-|OneNote  <br/> |16.16.5 (18120901)   <br/> |[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18120901_Updater.pkg) <br/> |Nicht zutreffend <br/> |
+|Word  <br/> |16.16.5 (18120901)   <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.18120901_Updater.pkg) <br/> |DFFDE425F9D113D2718C4227E974BFC4FB07D160CAEA611FB6FC18230AB3E2DF <br/>|
+|Excel  <br/> |16.16.5 (18120901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871750) <br/><br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/> |6851775F9B0C3F6D23A182861C63578DFF70167D413A70910D76281317BDAD25 <br/>  |
+|PowerPoint  <br/> |16.16.5 (18120901)   <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871751) <br/><br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/> | 9BE23E5ECD9B0EECB940E36FCF78DB42A958DEC97D897F6890F999426FE754F4<br/> |
+|Outlook  <br/> |16.16.5 (18120901)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871753) <br/> <br/>[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/> | FB6A29B8EF79B987FA5F0D843F7EA0493554807CA64CAA8E9180BE34A1CF43D5 <br/> |
+|OneNote  <br/> |16.16.5 (18120901)   <br/> |[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.18120901_Updater.pkg) <br/> |Nicht zutreffend <br/> |
 
 
 ## <a name="december-2018-release"></a>Release von Dezember 2018
@@ -54,11 +54,11 @@ Dieses Release umfasst die folgenden Updates:
   
 |**Anwendung**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|
-|Word  <br/> ||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18120901_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen|[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
-|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung  <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
-|Outlook  <br/> ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/>|
-|OneNote <br/> ||[Updatepaket für OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18120901_Updater.pkg)|
+|Word  <br/> ||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.18120901_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung  <br/> <br/>[CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen|[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.16.18120901_Updater.pkg) <br/>|
+|PowerPoint  <br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung  <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.16.18120901_Updater.pkg) <br/>|
+|Outlook  <br/> ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.16.18120901_Updater.pkg) <br/>|
+|OneNote <br/> ||[Updatepaket für OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.16.18120901_Updater.pkg)|
 |Office-Suite  <br/> | <br/>||
 
 
@@ -72,8 +72,8 @@ Dieses Release umfasst die folgenden Updates:
   
 |**Anwendung**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|
-|Word  <br/> ||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/>|
-|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8574): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8577): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/> |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
+|Word  <br/> ||[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777OfficeMac/Microsoft_Word_16.16.18111001_Updater.pkg) <br/>|
+|Excel  <br/> |[CVE-2018-8574](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8574): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8577): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/> |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OffoiceMac/Microsoft_Excel_16.16.18111001_Updater.pkg) <br/>|
 |PowerPoint  <br/> ||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_PowerPoint_16.16.18111001_Updater.pkg) <br/>|
 |Outlook  <br/> ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_Outlook_16.16.18111001_Updater.pkg) <br/>|
 |OneNote <br/> ||[Updatepaket für OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/OfficeMac/Microsoft_OneNote_16.16.18111001_Updater.pkg)|
