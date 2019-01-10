@@ -10,12 +10,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2019-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 455b94312ee32139602ed925eb92f1389338f179
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: 7b4a0334bc9ad63c7fb28f8111cab157fb38ea08
+ms.sourcegitcommit: 19bde490bd56c4b49a6ed51d62a24048792bbf3b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27770046"
+ms.lasthandoff: 01/10/2019
+ms.locfileid: "27791643"
 ---
 # <a name="update-history-for-office-2019"></a>Updateverlauf für Office 2019
 
@@ -37,7 +37,6 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 ## <a name="volume-licensed-versions-of-office-2019"></a>Volumenlizenzierte Versionen von Office 2019
 Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 2019, z. B. Office Professional Plus 2019, das Sie über einen Volumenlizenzvertrag erworben haben.
 
-  
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
 |8. Januar 2019   |Version 1808 (Build 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0585) <br/> |
