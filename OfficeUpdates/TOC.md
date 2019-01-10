@@ -13,12 +13,14 @@
 #### [2016](monthly-channel-2016.md)
 #### [2015](monthly-channel-2015.md)
 
-### Halbjähriger Kanal
+### Halbjährlicher Kanal
+#### [2019](semi-annual-channel-2019.md)
 #### [2018](semi-annual-channel-2018.md)
 #### [2017](semi-annual-channel-2017.md)
 #### [2016](semi-annual-channel-2016.md)
 
-### Halbjähriger Kanal (gezielt)
+### Halbjährlicher Kanal (gezielt)
+#### [2019](semi-annual-channel-targeted-2019.md)
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
