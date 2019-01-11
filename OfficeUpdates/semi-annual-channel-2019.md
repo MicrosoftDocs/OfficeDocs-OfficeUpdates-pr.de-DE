@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: da269198a90b18ef62ae293273028d7206efd330
-ms.sourcegitcommit: 3a7ca9d5320f8d2b01d8ba7f0ee3b09dc41d2a7e
+ms.openlocfilehash: e6c20afbeb967d0fc3c559e5be7f798b51b6d7bd
+ms.sourcegitcommit: 3cabf1996522b156bf438969f8aa086f54baec7d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/08/2019
-ms.locfileid: "27773188"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27777451"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -31,6 +31,11 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ## <a name="version-1808-january-8"></a>Version 1808: 8. Januar
 *Version 1808 (Build 10730.20264)*
+
+### <a name="access-feature-updates"></a>Access: Featureupdates
+
+ - **Daten mit neuen Diagrammen visualisieren:** Treffen Sie eine Auswahl aus 11 Diagrammen, und fügen Sie ein Diagramm zu Ihren Formularen und Berichten hinzu, um die Daten besser zu visualisieren und fundierte Entscheidungen zu treffen. [Weitere Informationen](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
+
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
  - **Gemeinsame Bearbeitung:** Arbeiten Sie gleichzeitig mit anderen Personen in einer Arbeitsmappe. [Weitere Informationen](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
