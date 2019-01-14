@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/8/2019
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 6ac26aaa333a9391e72ccc75b5319bf659540801
-ms.sourcegitcommit: c61c91086d5d030946c9a1bfed0a3b5613fed14c
+ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
+ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/11/2019
-ms.locfileid: "27801492"
+ms.lasthandoff: 01/12/2019
+ms.locfileid: "27992119"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -109,6 +109,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **Einfügen von Titeln für Ihre Folien mit einem Stift:** Verwenden Sie den Stift, um per Freihand einen Titel einzugeben, und sehen Sie zu, wie PowerPoint diesen in Text konvertiert. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Vermeiden unerwünschter Bearbeitungen:** Legen Sie fest, dass Ihre Arbeitsmappen schreibgeschützt geöffnet werden, um versehentliche Änderungen zu verhindern. Wechseln Sie zu „Datei“ > „Info“ > „Arbeitsmappe schützen“ > „Immer schreibgeschützt öffnen“.
 - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Präsentationen zugreifen können. [Weitere Informationen](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
+-  **Befragen Sie Ihr Publikum mit einem Quiz oder einer Umfrage:** Fügen Sie ein Quiz oder eine Umfrage einer Folie hinzu. Office sammelt und speichert die Antworten für Sie. [Weitere Informationen](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 - Das Problem möglicher Dateibeschädigungen beim Speichern von Dateien mit ActiveX-Inhalt wurde behoben.
@@ -144,6 +145,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **AutoSpeichern für Clouddateien ist nun standardmäßig aktiviert:** Diese Änderung bedeutet, dass Benutzer sich keine Sorgen darüber machen müssen, dass Änderungen in Dokumenten verloren gehen, die in OneDrive oder SharePoint Online gespeichert sind. Änderungen werden automatisch in der Cloud gespeichert, und Benutzer müssen nicht mehr explizit STRG + S drücken oder auf die Schaltfläche „Speichern“ klicken. Allerdings müssen die Benutzer diese Verhaltensänderung verstehen, damit sie keine versehentlichen Änderungen an Präsentationen vornehmen. Beachten Sie, dass Benutzer das automatische Speichern mithilfe der Umschalttaste „AutoSpeichern“ deaktivieren können. Es wird empfohlen, dass Sie Ihre Benutzer über diese bevorstehende Änderung informieren und sie dahingehend schulen, wie dieses neue Feature in Office 365 optimal genutzt werden kann.[Weitere Informationen zu AutoSpeichern](https://support.office.com/article/What-is-AutoSave-6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5) [Erfahren Sie, was IT-Administratoren über AutoSpeichern wissen sollten](https://support.office.com/article/what-it-administrators-should-know-about-autosave-88e0f80f-e5ea-441b-9c5a-259f08490ae7)
 - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Dokumente zugreifen können. [Weitere Informationen](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
 - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Verwandeln Sie ihr Dokument von statisch in erstaunlich:** Verwandeln Sie Ihr Dokument in eine interaktive, einfach freizugebende Webseite, die auf jedem Gerät großartig aussieht. [Weitere Informationen](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 - Behebung eines Problems, durch das eine Meldung zu nicht ausreichend Speicher angezeigt wurde.
