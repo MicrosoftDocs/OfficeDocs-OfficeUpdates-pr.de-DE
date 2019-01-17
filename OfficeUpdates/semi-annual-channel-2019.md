@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 990e7afafea208c46e58d2e2b11dd6ec7555c7af
-ms.sourcegitcommit: 213c572ed7392c994fc8c902bfb9d1e5aa412a4b
+ms.openlocfilehash: 27022231bfcf8d5cff8ca82f0ac2a1e05cce3939
+ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/12/2019
-ms.locfileid: "27992119"
+ms.lasthandoff: 01/16/2019
+ms.locfileid: "28325435"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -151,6 +151,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - Behebung eines Problems, durch das eine Meldung zu nicht ausreichend Speicher angezeigt wurde.
 - Es wurde eine Reihe von Problemen behoben, die einige Benutzer am Öffnen von IRM-geschützten Dokumenten und E-Mails hinderten, die von Personen in anderen Organisationen für sie freigegeben wurden.
 - Probleme mit der Leistung wurden behoben.
+- Verbessert die Leistung beim Öffnen.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 - Behebung eines Problems im Zusammenhang mit der Unterstützung von TLS 1.2. (Hinweis: Dies ist dieselbe Lösung, die in Hinweisen vom 10. April erwähnt wurde; diese wird hier im Rahmen des September-Rollups erneut erwähnt.)
