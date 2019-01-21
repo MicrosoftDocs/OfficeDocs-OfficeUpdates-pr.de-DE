@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: b92a6a2af96d694576bcc4a51c31de0ba06b8140
-ms.sourcegitcommit: 2a4ac53fe0504a8bd82b83fd2802343af1d66105
+ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/16/2019
-ms.locfileid: "28325455"
+ms.lasthandoff: 01/18/2019
+ms.locfileid: "28726708"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -49,6 +49,9 @@ Dieses Release umfasst die folgenden Updates:
 |PowerPoint  <br/>| **Drucken der Foliennummer in Handzetteln:** Wenn Sie eine Präsentation auf Handzetteln drucken, wird auf jeder Folie eine begleitende Foliennummer angezeigt. <br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Präsentationen:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Präsentationen anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/> | <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
 |Outlook  <br/>| **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Nachrichten:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Nachrichten anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>  ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| Der AutoUpdate-Daemon wird jetzt im Rahmen des Installationsprozesses gestartet. Dadurch werden verwirrende Sicherheitsdialogfelder beseitigt, die bisher für Benutzer angezeigt wurden. <br/><br/> Die Sicherheitsfeatures von Microsoft AutoUpdate wurden so verbessert, dass nun SHA256-Zertifikate unterstützt werden. <br/>|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
+
+> [!NOTE]
+> Ab Version 16.21 wird Microsoft Teams standardmäßig für ***neue*** Installationen installiert. Weitere Informationen finden Sie unter [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Release von Dezember 2018
