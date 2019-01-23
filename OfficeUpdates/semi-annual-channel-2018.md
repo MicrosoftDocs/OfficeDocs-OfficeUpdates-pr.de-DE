@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: ff46d626dc9c767e19da8e1a5bfacf7522c54b27
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: d7b404c7485bb526ae9cd153a5ebe9e012a6502a
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241496"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27264116"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2018
 
@@ -48,7 +48,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 
 - Ein Problem, aufgrund dessen Outlook unerwartet beendet wird, wenn bestimmte Kontaktfelder aktualisiert werden, wurde behoben.
 - Behebt ein Problem, das dazu führte, dass Benutzern beim Öffnen des Dialogfelds „Regeln und Warnungen verwalten“ ein Fehler angezeigt wird.
@@ -75,7 +75,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 
 - Ein Problem, aufgrund dessen Outlook unerwartet beendet wird, wenn bestimmte Kontaktfelder aktualisiert werden, wurde behoben.
 - Behebt ein Problem, das dazu führte, dass Benutzern beim Öffnen des Dialogfelds „Regeln und Warnungen verwalten“ ein Fehler angezeigt wird.
