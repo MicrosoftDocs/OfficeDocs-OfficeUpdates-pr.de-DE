@@ -3,26 +3,26 @@ title: Updateverlauf für Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/20/2018
+ms.date: 01/09/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 1115ae73e04ab24b5059323f1ffc517e318a0045
-ms.sourcegitcommit: 521ec634035dc680126a01d94c513493df7251a2
+ms.openlocfilehash: 681c3077e784f7ae9ab0b6855fbdd91533967225
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/19/2018
-ms.locfileid: "27378535"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27770136"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Die meisten Office 2013-Produkte werden automatisch mithilfe der Technologie „Klick-und-Los“ auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die neueste Version von Office 2013 ist **15.0.5093.1001**, die am 19. Dezember 2018 veröffentlicht wurde. 
+> Die aktuellste Version von Office 2013 ist **15.0.5101.1002**, die am 8. Januar 2019 veröffentlicht wurde. 
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -46,6 +46,7 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
+|2019|8. Januar   |15.0.5101.1002   |[4484800 KB](https://support.microsoft.com/de-DE/help/4484800)  |
 |2018|19. Dezember   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/de-DE/help/4477615)  |
 ||13. November   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/de-DE/help/4469617)  |
 ||9. Oktober   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/de-DE/help/4464656)  |
