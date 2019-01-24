@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/04/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 30e3215285589e1e576ab79efad70dd425585923
-ms.sourcegitcommit: 37c86e1ba884e8750c7376862b6b1d0151e62921
+ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27733112"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442081"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -36,11 +36,22 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre. 
 
+## <a name="january-14-2019"></a>14. Januar 2019
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1812 (Build 11126.20266). 
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1812 (Build 11126.20188)  <br/> |3. Januar 2019  <br/> | Noch nicht festgelegt<br/> |
+|Version 1812 (Build 11126.20196)  <br/> |8. Januar 2019 <br/> |Noch nicht festgelegt<br/> |
+
 ## <a name="january-8-2019"></a>8. Januar 2019
 
 ### <a name="monthly-channel"></a>Monatlicher Kanal
 
-Die erwartete Version ist Version 1812 (Build 11126.20196). 
+Die neueste Version ist Version 1812 (Build 11126.20196). 
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -49,7 +60,7 @@ Die erwartete Version ist Version 1812 (Build 11126.20196).
 
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 
-Die erwartete Version ist Version 1808 (Build 10730.20264).
+Die neueste Version ist Version 1808 (Build 10730.20264).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -58,7 +69,7 @@ Die erwartete Version ist Version 1808 (Build 10730.20264).
   
 ### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
 
-Die erwartete Version ist Version 1808 (Build 10730.20264).
+Die neueste Version ist Version 1808 (Build 10730.20264).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|

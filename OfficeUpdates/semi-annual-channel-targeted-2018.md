@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 12/11/2018
+ms.date: 12/13/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 86d500a64c2d4cf56ffa3562a5eb2eccc7e4844b
-ms.sourcegitcommit: 14fcf06c2bb5a3dd23c34bcc701093816e8f4f53
+ms.openlocfilehash: 0a1b2bece50e0ff9b7c4bfe825881a0ecae8cd46
+ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/12/2018
-ms.locfileid: "27241516"
+ms.lasthandoff: 01/23/2019
+ms.locfileid: "27258501"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2018
 
@@ -54,10 +54,9 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - Es wurde ein möglicher Absturz beim Erstellen mehrerer Tabellenslicer, die an dieselbe Datenspalte gebunden sind, und beim anschließendes Löschen dieser Datenspalte behoben.
 - Behebung eines Problems, aufgrund dessen Excel beim Aktualisieren einer gefilterten Abfragetabelle, die umbrochenen Text in Zellen enthält, manchmal abstürzt, wenn die Option zum automatischen Anpassen der Spaltenbreite deaktiviert wurde.
 - Behebung eines Problems, bei dem in Excel 2007 gespeicherte Slicer einen Absturz verursachen können, wenn sie in neueren Versionen von Excel geöffnet werden, wenn sich die Anzahl von im Slicer angezeigten Elementen ändert.
-- Behebung eines Problems, aufgrund dessen bei Benutzern Abstürze beim Öffnen des Ordners „Unterhaltungsverlauf“ auftraten.
 - Führt Unterstützung für die Schaltfläche „Diagnose abrufen“ ein, um die Untersuchung von Supportanfragen zu erleichtern.
 
-### <a name="outlook-non-secirity-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 
 - Behebung eines Problems, aufgrund dessen Benutzern beim Öffnen des Dialogfelds „Regeln und Warnungen verwalten“ ein Fehler angezeigt wird.
 - Behebung eines Problems, aufgrund dessen Benutzer bei Verwendung einer getakteten Verbindung keine Verbindung zu ihren Postfächern über DirectAccess herstellen konnten.
@@ -65,6 +64,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - Behebung eines Problems, aufgrund dessen Benutzern unerwartete Anlagen beim Weiterleiten von Elementen mit Inline-Anlagen angezeigt werden.
 - Behebung eines Problems, aufgrund dessen OFT-Dateien nach dem Senden als Anlage nicht ordnungsgemäß gerendert werden.
 - Behebung eines Problems, aufgrund dessen bei einigen Add-In-Benutzern Abstürze beim Hinzufügen einer Besprechung zu einem freigegebenen Kalender auftreten.
+- Behebung eines Problems, aufgrund dessen bei Benutzern Abstürze beim Öffnen des Ordners „Unterhaltungsverlauf“ auftraten.
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 
