@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: d65d738bdfd0f1a36cf2f09cdb4f1d9935099409
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: 81fe906a9b9a26ec2a6465c0c8047e304c0eeb2d
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442081"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530260"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -44,8 +44,8 @@ Die neueste Version ist Version 1812 (Build 11126.20266).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 1812 (Build 11126.20188)  <br/> |3. Januar 2019  <br/> | Noch nicht festgelegt<br/> |
-|Version 1812 (Build 11126.20196)  <br/> |8. Januar 2019 <br/> |Noch nicht festgelegt<br/> |
+|Version 1812 (Build 11126.20196)  <br/> |8. Januar 2019 <br/> |81<br/> |
+|Version 1812 (Build 11126.20188)  <br/> |11. Dezember 2018 <br/> |162<br/> |
 
 ## <a name="january-8-2019"></a>8. Januar 2019
 
