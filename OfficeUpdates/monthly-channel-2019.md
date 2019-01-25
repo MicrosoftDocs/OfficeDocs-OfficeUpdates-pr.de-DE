@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/03/2019
+ms.date: 01/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 7162611e9e525c7ee33ca23e9bd7f7f44712b51a
-ms.sourcegitcommit: c678859ea543fb458e78de8dc43592159cc9c08b
+ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
+ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2019
-ms.locfileid: "27724919"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29442061"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -29,11 +29,20 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
 
+## <a name="version-1812-january-14"></a>Version 1812: 14. Januar
+*Version 1812 (Build 11126.20266)* 
+
+Nur nicht sicherheitsrelevante Updates. Weitere Informationen sind in Kürze verfügbar.
+
+
+## <a name="version-1812-january-8"></a>Version 1812: 8. Januar
+*Version 1812 (Build 11126.20196 )* 
+
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+- Es wurde ein Problem behoben, bei dem Sie die Kritisch-, Spät- und Pufferzeit-Balkenarten für das Gantt-Diagramm nicht deaktivieren konnten, nachdem eine aktiviert wurde.
+
 ## <a name="version-1812-january-3"></a>Version 1812: 3. Januar
 *Version 1812 (Build 11126.20188)* 
-
-### <a name="access-feature-updates"></a>Access: Featureupdates
-- **Intelligenter mit Microsoft Graph:** Importieren oder verknüpfen Sie intelligente Daten und erschaffen Sie Ihre Desktop-Datenbank mit intelligenter Technologie neu. [Weitere Informationen](https://support.office.com/article/448d8bf1-0f54-46c4-91bc-490d5ebfdadd)
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
@@ -61,3 +70,5 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
+> [!NOTE]
+> Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
