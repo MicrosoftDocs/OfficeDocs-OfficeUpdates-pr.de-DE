@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/16/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 0bfbfe046a56b45c90653b90a9bc4db46dd2fe8f
-ms.sourcegitcommit: 163843a8a048b11477780449fc9946fd3a90c296
+ms.openlocfilehash: f8b981f23c1d18c9f7da435d95314844a1ab4165
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28726708"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530290"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -36,7 +36,26 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ## <a name="january-2019-release"></a>Release vom Januar 2019
 
- **Veröffentlichungsdatum:** 16. Januar 2019 
+ **Veröffentlichungsdatum:** 24. Januar 2019 
+  
+ *Version 16.21.0 (Build 19011700)*
+
+ Dieses Release umfasst die folgenden Updates:
+
+|**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
+|:-----|:-----|:-----|
+|Word  <br/>| Ein Problem mit der chinesischen Lokalisierung wurde behoben.<br/><br/>| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Outlook  <br/>| Ein Problem mit der chinesischen Lokalisierung wurde behoben.<br/><br/>  | |[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
+
+ **Veröffentlichungsdatum:** 23. Januar 2019 
+  
+ *Version 16.21.0 (Build 190102303)* Dieses Release umfasst die folgenden Updates:
+ 
+|**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
+ |:-----|:-----|:-----|
+ |Excel  <br/>| Eine Regression im Zeichenabstand beim Kombinieren von Unicode und Nicht-Unicode wurde behoben. <br/><br/> | <br/><br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19012303_Updater.pkg) <br/>|
+
+ **Veröffentlichungsdatum:** 16. Januar 2019 
   
  *Version 16.21.0 (Build 190101500)* 
   

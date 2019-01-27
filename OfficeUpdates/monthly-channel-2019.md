@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 01/23/2019
+ms.date: 01/24/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 9ea61602012e64525ef3e7c1a862c156597c4aa3
-ms.sourcegitcommit: 90b289350fc88e9f753464991feaa1c4c09b82c1
+ms.openlocfilehash: a49be8a79deb7b44c24411b17532f1b85d9760d3
+ms.sourcegitcommit: 17dbbdb71de9317f8a692128f49386123846393c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29442061"
+ms.lasthandoff: 01/25/2019
+ms.locfileid: "29530250"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -32,7 +32,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1812-january-14"></a>Version 1812: 14. Januar
 *Version 1812 (Build 11126.20266)* 
 
-Nur nicht sicherheitsrelevante Updates. Weitere Informationen sind in Kürze verfügbar.
+Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 
 
 ## <a name="version-1812-january-8"></a>Version 1812: 8. Januar
