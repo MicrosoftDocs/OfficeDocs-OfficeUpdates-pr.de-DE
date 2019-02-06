@@ -11,7 +11,7 @@
 #### [2018](monthly-channel-2018.md)
 #### [2017](monthly-channel-2017.md)
 #### [2016](monthly-channel-2016.md)
-
+#### [2015](monthly-channel-2015.md)
 
 ### Halbjährlicher Kanal
 #### [2019](semi-annual-channel-2019.md)
@@ -24,11 +24,12 @@
 #### [2018](semi-annual-channel-targeted-2018.md)
 #### [2017](semi-annual-channel-targeted-2017.md)
 #### [2016](semi-annual-channel-targeted-2016.md)
+#### [2015](semi-annual-channel-targeted-2015.md)
 
-
-### Office Insider-Programm
+### Office Insider-Programm  
 #### [Updateverlauf – Insider-Kanal](update-history-office-insider.md)
 #### [Updateverlauf – Monatlicher Kanal (gezielt)](update-history-monthly-channel-targeted.md)
+####[Versionshinweise – Insider-Kanal](release-notes-office-insider.md)
 
 # Office für Mac
 ## [Updateverlauf (Office 365, 2019)](update-history-office-for-mac.md)
