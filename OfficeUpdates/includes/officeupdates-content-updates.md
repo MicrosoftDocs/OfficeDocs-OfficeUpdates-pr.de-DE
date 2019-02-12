@@ -3,17 +3,6 @@
 
 
 
-## <a name="week-of-december-31-2018"></a>Woche vom 31 Dezember 2018
-
-
-| Veröffentlicht am |Titel des Themas | Änderung |
-|------|------------|--------|
-| 1/3/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
-| 1/3/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | hinzugefügt |
-| 1/3/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
-| 1/4/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
-
-
 ## <a name="week-of-january-07-2019"></a>Woche vom 7. Januar 2019
 
 
@@ -87,3 +76,13 @@
 | 2/1/2019 | [Updateverlauf für Office Monatlicher Kanal (gezielt)](/OfficeUpdates/update-history-monthly-channel-targeted) | hinzugefügt |
 | 2/1/2019 | [Updateverlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | hinzugefügt |
 | 2/1/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
+
+
+## <a name="week-of-february-04-2019"></a>Woche vom 04 Februar 2019
+
+
+| Veröffentlicht am |Titel des Themas | Änderung |
+|------|------------|--------|
+| 2/5/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
+| 2/5/2019 | [Updateverlauf für Office für Mac](/OfficeUpdates/release-notes-office-insider) | hinzugefügt |
+| 2/5/2019 | [Versionshinweise für Office-Insider](/OfficeUpdates/release-notes-office-insider) | Geändert |
