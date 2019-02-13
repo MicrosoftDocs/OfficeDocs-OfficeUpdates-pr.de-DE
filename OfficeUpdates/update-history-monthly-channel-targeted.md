@@ -3,19 +3,19 @@ title: Updateverlauf für Office Monatlicher Kanal (gezielt)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/01/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 0541583a6f29669e876b4cbdd97aa34a479b9e86
-ms.sourcegitcommit: af5ea1735bfc8cdead34a90d557fd348044afaab
+ms.openlocfilehash: c449a12e4146d47f564b81fd3b8b43164aef3975
+ms.sourcegitcommit: 395ea1e35ceea09a9782884f26016073945e1ec0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29708733"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29964537"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -24,6 +24,8 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 ## <a name="office-insider-versions-and-builds"></a>Office Insider-Versionen und -Builds
 
 Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Monatlichen Kanals (gezielt) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, lesen Sie [Neuerungen für Office-Insider](https://support.office.com/de-DE/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+
+**12. Februar 2019**<br/> Version 1901 (Build 11231.20174)<br/>
 
 **31. Januar 2019**<br/> Version 1901 (Build 11231.20130)<br/> 
 
