@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 1/29/2019
+ms.date: 02/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: f63a635d72c11c940f295fe05be2ac12ed58a2d5
-ms.sourcegitcommit: f9a57be62ba54fec2bf99224ac02b3d279867844
+ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
+ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29690727"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29954057"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -28,6 +28,68 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+> - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+## <a name="version-1808-february-12"></a>Version 1808: 12. Februar
+*Version 1808 (Build 10730.20280)*
+
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates 
+
+- Dieses Update bietet Unterstützung für neue japanische Zeiträume für Access.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates 
+
+- Behebt ein Problem, aufgrund dessen Benutzern mit Regeln, die auf einen Ordner verweisen, der nicht mehr vorhanden ist, 1. eine Fehlermeldung angezeigt wird, wenn sie versuchen, Regeln zu verwalten, und 2. angezeigt wird, dass clientseitige Regeln nicht ausgeführt werden.
+- Behebt ein Problem, aufgrund dessen das Programm bei Benutzern mit zwischengespeicherten delegierten Postfächern in unvorhersehbaren Abständen häufig hängen bleibt.
+- Behebt ein Problem, aufgrund dessen ganztägige Ereignisse in einigen Anzeigen so angezeigt werden, dass sie mehr Tage als beabsichtigt umfassen, weil die Endzeit der Besprechung auf Mitternacht des folgenden Tages festgelegt wurde.
+- Beim Erstellen von neuen Terminen oder Besprechungen, die auf japanische Zeiträume verweisen, wurde ein Absturz beseitigt.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
+
+
+## <a name="version-1803-february-12"></a>Version 1803: 12. Februar
+*Version 1803 (Build 9126.2356)*
+
+*Dies ist die halbjährliche Kanalversion, die seit Juli 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis September 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1808 (Build 10730.20280), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates 
+
+- Dieses Update bietet Unterstützung für neue japanische Zeiträume für Access.
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates 
+
+- Dieses Update bietet Unterstützung für neue japanische Zeiträume für Excel.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Beim Erstellen von neuen Terminen oder Besprechungen, die auf japanische Zeiträume verweisen, wurde ein Absturz beseitigt.
+
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+- Dieses Update bietet Unterstützung für neue japanische Zeiträume für Project.
+
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Dieses Update bietet Unterstützung für neue japanische Zeiträume für Word.
+
+### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Updates
+
+- Dieses Update bietet Unterstützung für neue japanische Zeiträume für Visio.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
+
+## <a name="version-1708-february-12"></a>Version 1708: 12. Februar
+*Version 1708 (Build 8431.2372)*
+
+*Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1808 (Build 10730.20280), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
+
 
 ## <a name="version-1808-january-8"></a>Version 1808: 8. Januar
 *Version 1808 (Build 10730.20264)*
@@ -35,7 +97,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="access-feature-updates"></a>Access: Featureupdates
 
  - **Daten mit neuen Diagrammen visualisieren:** Treffen Sie eine Auswahl aus 11 Diagrammen, und fügen Sie ein Diagramm zu Ihren Formularen und Berichten hinzu, um die Daten besser zu visualisieren und fundierte Entscheidungen zu treffen. [Weitere Informationen](https://support.office.com/article/1a463106-65d0-4dbb-9d66-4ecb737ea7f7)
-
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
  - **Gemeinsame Bearbeitung:** Arbeiten Sie gleichzeitig mit anderen Personen in einer Arbeitsmappe. [Weitere Informationen](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)
