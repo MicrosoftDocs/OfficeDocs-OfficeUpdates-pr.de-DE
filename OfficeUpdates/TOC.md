@@ -38,14 +38,14 @@
 ## [MAU-Versionsverlauf](release-history-microsoft-autoupdate.md)
 
 # Office (unbefristet)
-## [Office 2019-Updates](update-history-office-2019.md)
-## [Updates für Office 2010, 2013 und 2016 (MSI)](office-updates-msi.md)
-## [Updates für Outlook 2010, 2013 und 2016 (MSI)](outlook-updates-msi.md)
+## [Updates für Office 2016 und 2019 (C2R)](update-history-office-2019.md)
 ## [Office 2013-Updates (C2R)](update-history-office-2013.md)
 ## [Office 2010-Updates (C2R)](update-history-office-2010-click-to-run.md)
+## [Updates für Office 2010, 2013 und 2016 (MSI)](office-updates-msi.md)
+## [Updates für Outlook 2010, 2013 und 2016 (MSI)](outlook-updates-msi.md)
+## [Office 2016-MSP-Dateien (MSI)](msp-files-office-2016.md)
+## [Office 2013-MSP-Dateien (MSI)](msp-files-office-2013.md)
 ## [Skype for Business-Updates (MSI)](https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates)
-## [Office 2016-MSP-Dateien](msp-files-office-2016.md)
-## [Office 2013-MSP-Dateien](msp-files-office-2013.md)
 
 # Office-Serverprodukte
 ## [Exchange Server-Updates](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
