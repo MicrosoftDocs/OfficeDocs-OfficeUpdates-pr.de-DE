@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 1290a8938e6d6308d2f59be900dd6d4e49105fd9
-ms.sourcegitcommit: 659d2bbb04f8ccfc7e03a9a23758e3feed9d5075
+ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
+ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29954057"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466112"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -227,8 +227,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **Synchronisierung von Diagrammen und Datenquellen:** Wenn Sie ein Datenschnellansichtsdiagramm in Visio bearbeiten, haben Sie die Möglichkeit, die verknüpften Excel-Quelldaten entsprechend dem neusten Diagramminhalt zu aktualisieren.
 - **Auditvorlage für Datenschnellansicht:** Importieren Sie Inhalte aus Excel und erstellen Sie Auditdiagramme für finanzielle Transaktionen, Bestandsverwaltung und mehr.
 - **Startdiagramme:** Das Organigramm, Brainstormingdiagramm und SDL-Vorlagen verfügen über neue Startdiagramme für einen leichteren Einstieg.
- - **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
+- **Erstellen eines Word-Dokuments aus Visio-Shapes:** Fügen Sie einem Word-Dokument automatisch Diagramminhalte wie Shapes und Metadaten hinzu. Passen Sie dann das Dokument an, um Vorgangsanleitungen und Betriebshandbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
+### <a name="office-suite-security-update"></a>Office-Suite: Sicherheitsupdate
+
+- 
+  **Flash-, Silverlight- und Shockwave-Steuerelemente können in Office aus Sicherheitsgründen nicht aktiviert werden:** Aus Sicherheitsgründen wird in neuen Builds von Microsoft Office für Office 365 unter Windows die Aktivierung von Flash-, Silverlight- und Shockwave-Steuerelemente blockiert. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 - Behebung eines Problems, bei dem das Installieren eines Updates unter bestimmten Umständen sehr lange dauert.
