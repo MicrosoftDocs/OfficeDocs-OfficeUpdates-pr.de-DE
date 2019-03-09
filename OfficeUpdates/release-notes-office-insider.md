@@ -1,5 +1,5 @@
 ---
-Title: "Release Notes for Office Insider" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/07/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
+Title: "Release Notes for Office Insider" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/08/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Versionshinweise für Office-Insider
@@ -7,8 +7,56 @@ Title: "Release Notes for Office Insider" MS. Author: andrewmo Author: mikho Man
 Dieser Artikel enthält Anmerkungen zur Version für Insider-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche werden interessante neue Features, wichtige Fixes und alle wichtigen Probleme hervorgehoben, über die wir Sie informieren möchten. Beachten Sie, dass wir häufig Features (und manchmal sogar Fixes) für Insider über einen bestimmten Zeitraum bereitstellen. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden.  
 
 > [!NOTE]
-> - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein. 
-> - Das Veröffentlichungsdatum der Veröffentlichungshinweise stimmt möglicherweise nicht mit dem tatsächlichen Erstellungsdatum überein.
+> - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
+> - Veröffentlichungsdatum der Veröffentlichungshinweise stimmt möglicherweise nicht mit dem tatsächlichen Erstellungsdatum überein
+
+
+## <a name="march-8-2019"></a>8. März 2019 
+Version 1903 (Build 11425,20036)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="word"></a>Word
+
+### <a name="find-what-youre-looking-for-with-microsoft-search"></a>Suchen nach dem, was Sie suchen, mit der Microsoft-Suche
+
+Mit der Microsoft-Suche finden Sie alle Dateien, Aktionen, Personen und Hilfe, die Sie benötigen, um Ihre Arbeit zu erledigen.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+- Das Feature wird am oberen Rand der Benutzeroberfläche in der Kopfzeile angezeigt.
+
+#### <a name="scenarios-to-try"></a>Zu verwendende Szenarien:
+
+- Suchen nach einer Hochschule, einem aktuellen Dokument oder suchen nach den am häufigsten verwendeten menübandbefehlen
+- Nachschlagen eines Themas oder eines Betreffs, um weitere Informationen dazu zu erhalten
+
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="word"></a>Word 
+- Beim Drücken von "ESC" bei Optionen wurde ein Problem mit dem Absturz behoben.
+- Bei der Beantwortung von Kommentaren wurde ein Problem beim Absturz behoben.
+- Es wurde ein Problem mit Copy & Paste from Word to PowerPoint Online behoben.
+
+### <a name="excel"></a>Excel
+- Es wurde ein Problem behoben, bei dem beim Kopieren einer Zelle in Excel beim Öffnen des geschützten Dokuments und des bearbeitbaren Dokuments eine hohe CPU-Auslastung verursacht wurde.
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
+### <a name="outlook"></a>Outlook
+- Es wurde ein Problem behoben, bei dem die Outlook-Suche die ausgewählte chronologische Sortierung nicht honoriert hat.
+- Es wurde ein Problem behoben, bei dem die Schaltfläche "diesen Task öffnen" nicht für bestimmte e-Mails reagierte.
+- Es wurde ein Problem behoben, bei dem Outlook in den Räumen der Räume nicht gelöscht wurde, nachdem Benutzer einen verfügbaren Raum im Raum Finder ausgewählt haben.
+
+### <a name="access"></a>Access
+- Wir haben das gespeicherte Import/Export-Dialogfeld mit weißem Text auf weißem Hintergrund in dunklem Design korrigiert.
+- Es wurde ein Problem behoben, bei dem Benutzer die DisplayControl-Eigenschaft für ein Feld Ja/Nein im Tabellenentwurf auf TextBox festlegen konnten.
+
+### <a name="project"></a>Project
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
 
 ## <a name="march-1-2019"></a>1. März 2019 
 Version 1903 (Build 11414,20014)
