@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 8d4c70ac17accd1aee22812aa9265264ffb10ee0
-ms.sourcegitcommit: 59cdc09af985820a6466d9ca24cd9736cf9e7517
+ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
+ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379360"
+ms.lasthandoff: 03/08/2019
+ms.locfileid: "30509298"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -46,10 +46,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 
-- **Bauen Sie Pausen zwischen aufeinander folgenden Besprechungen ein:** Geben Sie den Teilnehmern Zeit für eine Atempause oder den Weg zwischen verschiedenen Besprechungsorten, indem Sie festlegen, dass Besprechungen standardmäßig 5–10 Minuten früher enden. [Mehr erfahren Sie hier](https://support.office.com/article/5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) [und hier](https://support.office.com/article/BE84396A-0903-4E25-B31C-1C99CE0DACF2).
+- 
+  **Einbauen einer Zeitspanne zwischen unmittelbar aufeinander folgenden Besprechungen:** Geben Sie den Teilnehmern Zeit für eine Atempause und oder den Weg zwischen verschiedenen Besprechungsorten, indem Sie festlegen, dass Besprechungen standardmäßig 5–10 Minuten früher enden.[Weitere Informationen](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Verwenden Sie "Laut vorlesen", um sich Ihre E-Mails vorlesen zu lassen:** Outlook kann Ihre E-Mail laut vorlesen und den jeweils vorgelesenen Text hervorheben. Um "Laut vorlesen" zu aktivieren, navigieren Sie zu den Einstellungen für die Barrierefreiheit. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-- **Nachrichtenverschlüsselung: neue IRM-Richtlinie "nur verschlüsseln":** Die neue Option "nur verschlüsseln" wird im Menü "Optionen" > "Berechtigungen" für Benutzer der Office 365-Nachrichtenverschlüsselung angezeigt. Mithilfe dieser Option können Sie eine Nachricht verschlüsseln und sie an beliebige Empfänger senden, einschließlich Personen außerhalb Ihrer Organisation. [Weitere Informationen](https://aka.ms/omeoverview)
-- **Neuer Standardwert für Seriendauer:** Der Standardwert für die Seriendauer war im Dialogfeld "Serie" bisher auf "Kein Enddatum" festgelegt. Dies erleichtert die Erstellung lang andauernder Wiederholungsserien, die aber im Lauf der Zeit beschädigt werden können. Wir haben den Standardwert für das Dialogfeld "Serie" auf "Ende am" aktualisiert, so dass unser Standardwert mit den empfohlenen bewährten Methoden für die Kalenderverwaltung übereinstimmt.
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
@@ -65,7 +65,8 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  
 ### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 
-- **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/DeployOffice/teams-install)
+- 
+  **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901: 12. Februar
 *Version 1901 (Build 11231.20174)* 
