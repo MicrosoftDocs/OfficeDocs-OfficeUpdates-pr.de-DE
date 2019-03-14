@@ -3,23 +3,29 @@ title: Updateverlauf für Office Insider-Kanal
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/07/2019
+ms.date: 03/08/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: c79980e18332acfd94b4859ff6d2734179ad77b9
-ms.sourcegitcommit: 12fe89697c04c4f9094c60cbc410e44426a38069
+ms.openlocfilehash: f8aef9345c96956c144922e07fa39bf208287a25
+ms.sourcegitcommit: 1efbc1c32ff19eed3fee3eb9ae5d67f1d6c036c7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30482448"
+ms.lasthandoff: 03/09/2019
+ms.locfileid: "30512794"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Updateverlauf für Office Insider-Kanal
 
 Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben, oder wenn Sie nach einer Liste von aktuellen Insider-Builds suchen, sind Sie am richtigen Ort. Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum Insider-Programm zu erhalten.
+
+> [!NOTE]
+> - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet
+> - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen.
+
+
 
 ## <a name="office-insider-versions-and-builds"></a>Office Insider-Versionen und -Builds
 
