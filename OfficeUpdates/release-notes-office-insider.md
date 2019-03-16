@@ -1,5 +1,5 @@
 ---
-Title: "Release Notes for Office Insider" MS. Author: andrewmo Author: mikho Manager: andrewmo ms. Date: 3/08/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
+Title: "Anmerkungen zu Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Versionshinweise für Office-Insider
@@ -10,6 +10,32 @@ Dieser Artikel enthält Anmerkungen zur Version für Insider-Builds von Word, Ex
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Veröffentlichungsdatum der Veröffentlichungshinweise stimmt möglicherweise nicht mit dem tatsächlichen Erstellungsdatum überein
 
+## <a name="march-15-2019"></a>15. März 2019 
+Version 1904 (Build 11504,20000)
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="word"></a>Word 
+- Es wurde ein Problem behoben, bei dem Bilder in einem Dokument, das als PDF gespeichert wurde, die falsche DPI-Auflösung aufweisen.
+
+### <a name="excel"></a>Excel
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
+### <a name="powerpoint"></a>PowerPoint
+- Es wurde ein Problem behoben, bei dem der Kommentarbereich nicht richtig geöffnet oder geschlossen wurde.
+- Es wurde ein Problem behoben, bei dem die Anwendung beim Löschen eines Videos abstürzte.
+- Es wurde ein Problem behoben, bei dem in einigen Fällen die Anwendung nicht gestartet werden konnte.
+
+### <a name="outlook"></a>Outlook
+- Es wurde ein Problem behoben, bei dem Lesebestätigungen falsch waren, wenn Sie in Japanisch angezeigt wurden.
+
+### <a name="access"></a>Access
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
+### <a name="project"></a>Project
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
+</BR></BR>
 
 ## <a name="march-8-2019"></a>8. März 2019 
 Version 1903 (Build 11425,20036)
