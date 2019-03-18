@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/28/2019
+ms.date: 3/12/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: b9588f15460d0f7cf09b0148fea33273e054cdb0
-ms.sourcegitcommit: 3d11a3ea3ecd0c6bd397bed9297f6d16571a8161
+ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/08/2019
-ms.locfileid: "30509298"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568308"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -28,6 +28,11 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+
+## <a name="version-1902-march-12"></a>Version 1902: 12. März
+*Version 1902 (Build 11328.20158)* 
+
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 ## <a name="version-1902-march-4"></a>Version 1902: 4. März
 *Version 1902 (Build 11328.20146)* 
@@ -47,26 +52,26 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 
 - 
-  **Einbauen einer Zeitspanne zwischen unmittelbar aufeinander folgenden Besprechungen:** Geben Sie den Teilnehmern Zeit für eine Atempause und oder den Weg zwischen verschiedenen Besprechungsorten, indem Sie festlegen, dass Besprechungen standardmäßig 5–10 Minuten früher enden.[Weitere Informationen](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
+  **Einbauen einer Zeitspanne zwischen unmittelbar aufeinander folgenden Besprechungen:** Geben Sie den Teilnehmern Zeit für eine Atempause und oder den Weg zwischen verschiedenen Besprechungsorten, indem Sie festlegen, dass Besprechungen standardmäßig 5–10 Minuten früher enden.[Weitere Informationen](https://support.office.com/de-DE/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F#BKMK_endmeetingsearly)
 - **Verwenden Sie "Laut vorlesen", um sich Ihre E-Mails vorlesen zu lassen:** Outlook kann Ihre E-Mail laut vorlesen und den jeweils vorgelesenen Text hervorheben. Um "Laut vorlesen" zu aktivieren, navigieren Sie zu den Einstellungen für die Barrierefreiheit. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
-
+- **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
 - **Das Einfügen von Onlinevideos ist jetzt einfacher denn je:** Möchten Sie auf Ihrer Folie ein Video von Vimeo oder YouTube einfügen? Hierfür benötigen Sie nur den Link zur Videoseite. [Weitere Informationen](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 - **Sie berechnen, wir formatieren:** Von Hand gezeichnete mathematische Ausdrücke werden in Standardzeichen umgewandelt. Wählen Sie einfach "Freihand in Gleichung" und Ihre handschriftlichen Notizen aus, um loszulegen. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Speichern Sie Ihre Änderungen, während sie entstehen:** Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
-- **Hyperlinks in lebendigen Farben:** Hyperlinks sind nicht mehr nur blau. Sie können eine beliebige Schriftfarbe anwenden. [Weitere Informationen](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8) ÄNDERUNG 24843
+- **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
 - **Speichern Sie Ihre Änderungen, während sie entstehen:** Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 - **Finden Sie heraus, warum das automatische Speichern nicht aktiviert ist!** Beim Klicken auf den ausgeschalteten AutoSpeichern-Umschalter wird jetzt eine nützliche Legende mit den möglichen Gründen angezeigt, warum AutoSpeichern deaktiviert ist. Falls der einzige Grund für nicht aktives AutoSpeichern darin besteht, dass das Dokument sich nicht auf OneDrive oder SharePoint befindet, bieten wir an, es mit einem Klick auf eine Schaltfläche zu verschieben!
+- **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
  
-### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
+### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 
-- 
-  **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/en-us/DeployOffice/teams-install)
+- **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901: 12. Februar
 *Version 1901 (Build 11231.20174)* 
