@@ -3,19 +3,19 @@ title: Updateverlauf für Office 2016 C2R und Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 02/13/2019
+ms.date: 03/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: d7c215682cf2677e7a98d5d81ebaf78aede21eef
-ms.sourcegitcommit: a6a3f8b01c2856eacc1af871687d561cf68b92a8
+ms.openlocfilehash: 0cbfdc1fa882ee62fcf514abaa6c0ff5afd5c27f
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/21/2019
-ms.locfileid: "30178314"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568078"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -30,7 +30,7 @@ Wenn Sie prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie
 Wenn die Versionsnummer der aktuellen Version entspricht, sind Sie auf dem neuesten Stand. Andernfalls können Sie eine manuelle Aktualisierung vornehmen, um die neueste Office-Version zu erhalten. Zum Aktualisieren von Office [führen Sie diese Schritte aus](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-Die folgende Tabelle enthält den Updateverlauf für die volumenlizenzierte Version von Office 2019 sowie die Einzelhandelsversionen von Office 2016 C2R und Office 2019, wobei die neueste Version zuerst aufgeführt wird. Die Tabelle umfasst die Versions- und Buildnummer für die Version und listet die Sicherheitsupdates auf, die in der Version enthalten sind, sowie einen Link zu mehr Informationen über das Sicherheitsupdate.
+Die folgende Tabelle enthält den Updateverlauf für die volumenlizenzierte Version von Office 2019 sowie die Einzelhandelsversionen von Office 2016 C2R und Office 2019, wobei die neueste Version zuerst aufgeführt wird. Die Tabelle umfasst die Versions- und Buildnummer für die Version und listet die Sicherheitsupdates auf, die in der Version enthalten sind, sowie einen Link zu mehr Informationen über das Sicherheitsupdate. 
 
 Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 
@@ -39,6 +39,7 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|12. März 2019   |Version 1808 (Build 10342.20010)  |Nur nicht sicherheitsrelevante Updates <br/> |
 |12. Februar 2019   |Version 1808 (Build 10341.20010)  |[CVE-2019-0540](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0540) <br/> [CVE-2019-0582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0582) <br/> [CVE-2019-0669](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0669) <br/> [CVE-2019-0671](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0671) <br/> [CVE-2019-0672](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0672) <br/> [CVE-2019-0673](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0673) <br/> [CVE-2019-0674](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0674) <br/> |
 |8. Januar 2019   |Version 1808 (Build 10340.20017)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0585) <br/> |
 |11. Dezember 2018   |Version 1808 (Build 10339.20026)  |[CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587) <br/> [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597) <br/> [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598) <br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627) <br/> [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628) <br/> [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636) <br/>|
@@ -50,8 +51,10 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|12. März 2019   |Version 1902 (Build 11328.20158)  |Nur nicht sicherheitsrelevante Updates <br/> |
 |12. Februar 2019   |Version 1901 (Build 11231.20174)  |[CVE-2019-0540](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0540) <br/> [CVE-2019-0582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0582) <br/> [CVE-2019-0669](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0669) <br/> [CVE-2019-0671](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0671) <br/> [CVE-2019-0672](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0672) <br/> [CVE-2019-0673](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0673) <br/> [CVE-2019-0674](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0674) <br/> |
 |8. Januar 2019   |Version 1812 (Build 11126.20196)  |[CVE-2019-0541](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0541) <br/> [CVE-2019-0559](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0559) <br/> [CVE-2019-0560](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0560) <br/> [CVE-2019-0561](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0561) <br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0585) <br/> |
 |11. Dezember 2018   |Version 1811 (Build 11029.20108)  |[CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587) <br/> [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597) <br/> [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598) <br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627) <br/> [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628) <br/> [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636) <br/>|
 |13. November 2018   |Version 1810 (Build 11001.20108)  |[CVE-2018-8522](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8522) <br/> [CVE-2018-8524](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8524) <br/> [CVE-2018-8546](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8546) <br/> [CVE-2018-8558](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8558) <br/> [CVE-2018-8573](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8573) <br/> [CVE-2018-8574](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8574) <br/> [CVE-2018-8575](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8575) <br/> [CVE-2018-8576](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8576) <br/> [CVE-2018-8577](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8577) <br/> [CVE-2018-8579](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8579) <br/> [CVE-2018-8582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8582) <br/>|
 |9. Oktober 2018   |Version 1809 (Build 10827.20150)  |[CVE-2018-8432](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8432) <br/> [CVE-2018-8501](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8501) <br/> [CVE-2018-8502](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8502) <br/> [CVE-2018-8504](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8504) <br/> [ADV-180026](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV180026) <br/>|
+

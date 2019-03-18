@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 02/12/2019
+ms.date: 3/6/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 458fa2e39114be16e1d5c0beb6e34db775b6d21a
-ms.sourcegitcommit: da035c849558e458f9c7603fe0646915a5702f26
+ms.openlocfilehash: e08933da489cc58552762b002cd2f6bf942cf76d
+ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466112"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30568358"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -29,6 +29,25 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
 > - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+## <a name="version-1808-march-12"></a>Version 1808: 12. März
+*Version 1808 (Build 10730.20304)*
+
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Ein Problem wurde behoben, bei dem VBA eine falsche Seitenzahl zurückgibt.
+- Verbessern der erforderlichen Zeit zum Speichern in eine lokalen Word-Datei. 
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Registrierungsschlüssel zum Deaktivieren der Option "Nur Verschlüsseln" im Office 365-Nachrichtenverschlüsselungsmenü bereitgestellt.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+
+- Es wurde ein Problem behoben, bei dem das Office-Update beim Herunterladen für einige Zeit nicht mehr reagiert.
+
+## <a name="version-1803-march-12"></a>Version 1803: 12. März 
+In diesem Monat gibt es keine Updates.
 
 ## <a name="version-1808-february-12"></a>Version 1808: 12. Februar
 *Version 1808 (Build 10730.20280)*
