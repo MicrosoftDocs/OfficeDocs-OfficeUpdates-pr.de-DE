@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/13/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: ce3df05b49a2ab538401ef5133381855a34528eb
-ms.sourcegitcommit: 54d1b258be39cf29a0c62c0dbfe9a2b8292a991d
+ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/20/2019
-ms.locfileid: "30697623"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737565"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -184,7 +184,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Sehen Sie sich an, was in Kürze verfügbar ist** Probieren Sie neue Benutzeroberflächen aus, bevor diese veröffentlicht werden, und teilen Sie uns Ihre Meinung mit. [Weitere Informationen](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
-- **Die URL hinter sicheren Links** Sichere Links bieten Ihnen Schutz vor bösartigen URLs, die Sie in E-Mails empfangen haben, blenden dabei aber die ursprüngliche URL aus.Nun können Sie die Maus einfach über eine URL bewegen, um die ursprüngliche URL zu sehen, sogar in Links, die mit „Sichere Links“ geschützt sind.
+- **Die URL hinter sicheren Links:** Sichere Links bieten Ihnen Schutz vor bösartigen URLs, die Sie in E-Mails empfangen haben, blenden dabei aber die ursprüngliche URL aus. Wenn Sie das Original anzeigen möchten, zeigen Sie mit dem Mauszeiger auf die URL. Eine Advanced Threat Protection-Lizenz ist erforderlich. [Weitere Informationen](https://products.office.com/de-DE/exchange/advance-threat-protection)
 - **Rechtschreibvorschläge bei der Suche** Nach dem Durchführen einer Suche bietet Outlook eine vorgeschlagene Suchabfrage mit korrigierter Rechtschreibung an.
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 

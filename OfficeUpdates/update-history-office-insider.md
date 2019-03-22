@@ -3,19 +3,19 @@ title: Updateverlauf für Office Insider-Kanal
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 03/12/2019
+ms.date: 03/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: df55a06dc21013ee1d061f0031d5d9db312f45f8
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568148"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737515"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Updateverlauf für Office Insider-Kanal
 
@@ -33,7 +33,9 @@ Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates m
 
 Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](https://docs.microsoft.com/de-DE/OfficeUpdates/release-notes-office-insider).
 
-**12. März 2019**<br/> Version 1903 (Build 11425.20096)<br/>
+**18. März 2019**<br/> Version 1904 (Build 11520.20004)<br/>
+
+**11. März 2019**<br/> Version 1904 (Build 11504.20000)<br/>
 
 **1. März 2019**<br/> Version 1903 (Build 11425.20036)<br/> 
 

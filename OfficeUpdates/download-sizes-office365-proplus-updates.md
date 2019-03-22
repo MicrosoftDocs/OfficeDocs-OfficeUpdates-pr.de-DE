@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 3/10/2019
+ms.date: 3/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: c543451237304a048c53ff87923d28ba92807b18
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 649c2c37850c1a764515bd0dfb1217452d8640ab
+ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568198"
+ms.lasthandoff: 03/21/2019
+ms.locfileid: "30737545"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -29,7 +29,7 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 
   
 > [!NOTE]
-> - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x86-Version (Englisch USA) von Office 365 ProPlus. 
+> - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x64-Version (Englisch USA) von Office 365 ProPlus. (Alle Versionen vor 13 März 2019 zeigen x86-Größen an.)
 > - Alle Downloadgrößen sind nur ungefähre Angaben. Die tatsächlichen Downloadgrößen können abweichen, möglicherweise um bis zu 50 MB. 
 > - Bei kursiv gedruckten und in die Symbole „\<“ und „\>“ eingeschlossenen Veröffentlichungsdaten und Buildnummern sind Änderungen vorbehalten. 
 > - Es werden nur Versionen der letzten vier Monate aufgelistet.
