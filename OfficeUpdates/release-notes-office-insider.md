@@ -1,5 +1,5 @@
 ---
-Title: "Anmerkungen zu Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/15/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
+Title: "Anmerkungen zu Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
 ---
 
 # <a name="release-notes-for-office-insiders"></a>Versionshinweise für Office-Insider
@@ -10,7 +10,36 @@ Dieser Artikel enthält Anmerkungen zur Version für Insider-Builds von Word, Ex
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Veröffentlichungsdatum der Veröffentlichungshinweise stimmt möglicherweise nicht mit dem tatsächlichen Erstellungsdatum überein
 
-## <a name="march-15-2019"></a>15. März 2019 
+## <a name="march-22-2019"></a>22. März 2019
+Version 1904 (Build 11514,20004)
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="word"></a>Word 
+- Es wurde ein Problem behoben, bei dem die Benutzeroberfläche ständig "Überprüfen auf Änderungen" angezeigt würde.
+
+### <a name="excel"></a>Excel
+- Es wurde ein Problem behoben, bei dem die Anwendung nach dem Bewegen eines Arbeitsblatts abstürzen konnte.
+- Es wurde ein Problem behoben, bei dem die Anwendung nach dem Speichern als PDF-Datei abstürzte.
+- Es wurde ein Problem behoben, bei dem im Dialogfeld "Speichern" einige koreanische Zeichen nicht akzeptiert wurden.
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
+### <a name="outlook"></a>Outlook
+- Verschiedene Leistungs-und Stabilitäts Fixes
+
+### <a name="access"></a>Access
+- Die Fehlermeldung in Access wurde behoben, bei der eine zusätzliche Verknüpfung mit Access erstellt wurde.
+- Es wurde ein Problem behoben, bei dem Daten aus einem verknüpften SharePoint falsch angezeigt werden.
+
+### <a name="project"></a>Project
+- Es wurde ein Problem behoben, bei dem die Spracheinstellungen von Chinesisch zu Englisch gewechselt würden.
+- Es wurde ein Problem behoben, bei dem die Anwendung beim Synchronisieren mit SharePoint abstürzte.
+
+</BR></BR>
+
+## <a name="march-15-2019"></a>15. März 2019
 Version 1904 (Build 11504,20000)
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
