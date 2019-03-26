@@ -11,10 +11,10 @@ localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2010-Versionen, die Klick-und-Los verwenden.
 ms.openlocfilehash: b069b4ccaaf6c3750d9ef162961b108f419e8984
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
-ms.translationtype: MT
+ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/14/2019
+ms.lasthandoff: 03/19/2019
 ms.locfileid: "30568178"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Updateverlauf für Office 2010-Klick-und-Los-Produkte
@@ -30,7 +30,7 @@ Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Kli
 Wenn Sie eines dieser Produkte verwenden und prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie Ihre Office-Versionsnummer und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die neueste Version von Office 2010 ist **14.0.7230.5000**, die am 12. März 2019 veröffentlicht wurde. 
+> Die aktuelle Version von Office 2010 ist **14.0.7230.5000**, die am 12. März 2019 veröffentlicht wurde. 
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -54,18 +54,18 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2019|12. März  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/en-us/help/4491754) <br/> |
-||15. Februar  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/en-us/help/4488446) <br/> |
-||8. Januar  <br/> |14.0.7228.5000  <br/> |[4484800 KB](https://support.microsoft.com/en-us/help/4484800) <br/> |
-|2018|13. November  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/en-us/help/4469617) <br/> |
-||9. Oktober  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/en-us/help/4464656) <br/> |
-| |11. September  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/en-us/help/4459402) <br/> |
-||14. August  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/en-us/help/4346823) <br/> |
-||10. Juli  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/en-us/help/4340798) <br/> |
-||12. Juni  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/en-us/help/4299875) <br/> |
-||8. Mai  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/en-us/help/4133083) <br/> |
-||10. April  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/en-us/help/4098622) <br/> |
-||13. März  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/en-us/help/4090988) <br/> |
+|2019|12. März  <br/> |14.0.7230.5000  <br/> |[KB 4491754](https://support.microsoft.com/de-DE/help/4491754) <br/> |
+||15. Februar  <br/> |14.0.7229.5000  <br/> |[KB 4488446](https://support.microsoft.com/de-DE/help/4488446) <br/> |
+||8. Januar  <br/> |14.0.7228.5000  <br/> |[4484800 KB](https://support.microsoft.com/de-DE/help/4484800) <br/> |
+|2018|13. November  <br/> |14.0.7224.5000  <br/> |[KB 4469617](https://support.microsoft.com/de-DE/help/4469617) <br/> |
+||9. Oktober  <br/> |14.0.7214.5000  <br/> |[KB 4464656](https://support.microsoft.com/de-DE/help/4464656) <br/> |
+| |11. September  <br/> |14.0.7213.5000  <br/> |[KB 4459402](https://support.microsoft.com/de-DE/help/4459402) <br/> |
+||14. August  <br/> |14.0.7212.5000  <br/> |[KB 4346823](https://support.microsoft.com/de-DE/help/4346823) <br/> |
+||10. Juli  <br/> |14.0.7211.5000  <br/> |[KB 4340798](https://support.microsoft.com/de-DE/help/4340798) <br/> |
+||12. Juni  <br/> |14.0.7210.5000  <br/> |[KB 4299875](https://support.microsoft.com/de-DE/help/4299875) <br/> |
+||8. Mai  <br/> |14.0.7209.5000  <br/> |[KB 4133083](https://support.microsoft.com/de-DE/help/4133083) <br/> |
+||10. April  <br/> |14.0.7197.5000  <br/> |[KB 4098622](https://support.microsoft.com/de-DE/help/4098622) <br/> |
+||13. März  <br/> |14.0.7196.5000  <br/> |[KB 4090988](https://support.microsoft.com/de-DE/help/4090988) <br/> |
 ||13. Februar  <br/> |14.0.7194.5000  <br/> |[KB 4077965](https://support.microsoft.com/help/4077965) <br/> |
 ||9. Januar  <br/> |14.0.7193.5000  <br/> |[KB 4058103](https://support.microsoft.com/help/4058103) <br/> |
 |2017  <br/> |12. Dezember  <br/> |14.0.7191.5000  <br/> |[KB 4055454](https://support.microsoft.com/help/4055454) <br/> |
@@ -78,7 +78,7 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 ||9. Mai  <br/> |14.0.7181.5002  <br/> |[KB 4020152](https://support.microsoft.com/help/4020152) <br/> |
 ||11. April  <br/> |14.0.7180.5002  <br/> |[KB 4016803](https://support.microsoft.com/help/4016803) <br/> |
 ||14. März  <br/> |14.0.7179.5002  <br/> |[KB 4013886](https://support.microsoft.com/help/4013886) <br/> |
-|2016  <br/> |13. Dezember  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/en-us/kb/3208595) <br/> |
+|2016  <br/> |13. Dezember  <br/> |14.0.7177.5000  <br/> |[KB 3208595](https://support.microsoft.com/de-DE/kb/3208595) <br/> |
 ||8. November  <br/> |14.0.7176.5000  <br/> |[KB 3200802](https://support.microsoft.com/kb/3200802) <br/> |
 ||11. Oktober  <br/> |14.0.7174.1001  <br/> |[KB 3194160](https://support.microsoft.com/kb/3194160) <br/> |
 ||13. September  <br/> |14.0.7173.1001  <br/> |[KB 3188548](https://support.microsoft.com/kb/3188548) <br/> |

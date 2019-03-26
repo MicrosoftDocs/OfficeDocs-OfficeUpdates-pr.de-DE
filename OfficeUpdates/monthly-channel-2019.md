@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/12/2019
+ms.date: 3/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 1c03ce02014c0b324678016cdb10e1c88f09da7b
-ms.sourcegitcommit: 1a16abe585bc6842498153c3d87220ddccf0b8a5
+ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
+ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30568308"
+ms.lasthandoff: 03/26/2019
+ms.locfileid: "30800525"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -28,6 +28,11 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+
+## <a name="version-1902-march-25"></a>Version 1902: 25. März
+*Version 1902 (Build 11328.20222)*
+
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 ## <a name="version-1902-march-12"></a>Version 1902: 12. März
 *Version 1902 (Build 11328.20158)* 
