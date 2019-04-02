@@ -3,31 +3,47 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/25/2019
+ms.date: 4/1/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 3936eadcf64bfcc75b5b7ea0afc6f57a848f2d5f
-ms.sourcegitcommit: 81fc7c2e457664fe0c50ef8877de61fa5fd21538
+ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
+ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30800525"
+ms.lasthandoff: 04/02/2019
+ms.locfileid: "31027885"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
-Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in Office 365 ProPlus-Updates im Rahmen des monatlichen Kanals im Jahr 2019 enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den monatlichen Channel-Updates für Office 365 ProPlus im Jahre 2019 enthalten sind, einschließlich Visio Pro für Office 365 und Project Online Desktop Client.
  
  > [!NOTE]
-> - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+
+## <a name="version-1903-april-01"></a>Version 1903: 01. April
+*Version 1903 (Build 11425.20202)*
+
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+
+- **Erhöhen Sie die Reichweite Ihrer Inhalte:** Sie müssen Ihre Tabellen barrierefrei gestalten? Die Barrierefreiheitsprüfung kann dies für Sie im Auge behalten, ohne Ihnen dabei in die Quere zu kommen. Probieren Sie es aus, indem Sie auf „Überprüfen“ > „Barrierefreiheit überprüfen“ klicken. Wir werden Sie in der Statusleiste informieren, wenn wir etwas finden, dass Sie sich ansehen müssen.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Bessere Formwandlung** Geben Sie Ihren Shapes einen Namen, um mehr Kontrolle über ihr Morphen zu haben. [Weitere Informationen](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
+
+- **Erhöhen Sie die Reichweite Ihrer Inhalte:** Möchten Sie Ihre Präsentationen barrierefrei gestalten? Die Barrierefreiheitsprüfung kann dies für Sie im Auge behalten, ohne Ihnen dabei in die Quere zu kommen. Probieren Sie es aus, indem Sie auf „Überprüfen“ > „Barrierefreiheit überprüfen“ klicken. Wir werden Sie in der Statusleiste informieren, wenn wir etwas finden, dass Sie sich ansehen müssen.
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- **Erhöhen Sie die Reichweite Ihrer Inhalte:** Möchten Sie Ihre Dokumente barrierefrei gestalten? Die Barrierefreiheitsprüfung kann dies für Sie im Auge behalten, ohne Ihnen dabei in die Quere zu kommen. Probieren Sie es aus, indem Sie auf „Überprüfen“ > „Barrierefreiheit überprüfen“ klicken. Wir werden Sie in der Statusleiste informieren, wenn wir etwas finden, dass Sie sich ansehen müssen.
 
 ## <a name="version-1902-march-25"></a>Version 1902: 25. März
 *Version 1902 (Build 11328.20222)*
