@@ -1,7 +1,22 @@
 ---
-Title: "Anmerkungen zu Office Insider" MS. Author: andrewmo Author: v-almuzz Manager: andrewmo ms. Date: 3/22/2019 ms. Audience: Win32 fast ms. Topic: Reference ms. Service: o365-ProPlus-localization_priority: Critical ms. Collection: RelNotes_ ProPlus Description: "bietet Insidern eine schnelle Benutzergruppe mit der aktuellen Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
+title: Versionshinweise für Office-Insider
+ms.author: andrewmo
+author: v-almuzz
+manager: andrewmo
+ms.date: 3/22/2019
+ms.audience: Win32 Fast
+ms.topic: reference
+ms.service: o365-proplus-
+localization_priority: Critical
+ms.collection: RelNotes_ProPlus
+description: Bietet Insider schnelle Benutzergruppe mit der neuesten Liste der wichtigsten neuen Features, Fixes oder bekannten Problemen
+ms.openlocfilehash: b73a8554aa9ec08c7d496af45707b970ada83046
+ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/05/2019
+ms.locfileid: "31478542"
 ---
-
 # <a name="release-notes-for-office-insiders"></a>Versionshinweise für Office-Insider
 
 Dieser Artikel enthält Anmerkungen zur Version für Insider-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche werden interessante neue Features, wichtige Fixes und alle wichtigen Probleme hervorgehoben, über die wir Sie informieren möchten. Beachten Sie, dass wir häufig Features (und manchmal sogar Fixes) für Insider über einen bestimmten Zeitraum bereitstellen. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden.  
@@ -127,7 +142,7 @@ Version 1903 (Build 11414,20014)
 - Es wurde ein Problem behoben, bei dem beim Kopieren einer Zelle in Excel beim Öffnen des geschützten Dokuments und des bearbeitbaren Dokuments eine hohe CPU-Auslastung verursacht wurde.
 
 ### <a name="powerpoint"></a>PowerPoint
-- Bei Verwendung von @Mentions in PowerPoint wurde ein Problem mit der Größe des Folien Bilds behoben.
+- Bei der Verwendung @Mentions in PowerPoint wurde ein Problem mit der Größe des Folien Bilds behoben.
 
 ### <a name="outlook"></a>Outlook
 - Es wurde ein Problem behoben, bei dem die Outlook-Suche die ausgewählte chronologische Sortierung nicht honoriert hat.
