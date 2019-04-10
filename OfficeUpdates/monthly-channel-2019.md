@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/2/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: c8b1d204a39c443fe45feb087b99886ef1b2078d
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027885"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516460"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -65,7 +65,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
-- **Ziehen Sie die Aufmerksamkeit mit \@Erwähnungen** auf sich: Verwenden Sie @Erwähnungen in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Ziehen Sie die Aufmerksamkeit mit \@mentions auf sich:** Verwenden Sie @mentions in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Erfahren Sie mehr über Ihre Daten:** Die neue Schaltfläche "Ideen" sucht in Ihren Daten nach Mustern und verwendet diese, um intelligente, persönliche Vorschläge zu erstellen. [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Speichern Sie Ihre Änderungen, während sie entstehen:** Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 - **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -125,7 +125,7 @@ Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführ
 Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 
 ## <a name="version-1812-january-8"></a>Version 1812: 8. Januar
-*Version 1812 (Build 11126.20196 )* 
+*Version 1812 (Build 11126.20196)* 
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 - Es wurde ein Problem behoben, bei dem Sie die Kritisch-, Spät- und Pufferzeit-Balkenarten für das Gantt-Diagramm nicht deaktivieren konnten, nachdem eine aktiviert wurde.

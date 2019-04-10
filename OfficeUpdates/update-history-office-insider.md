@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: cd4a6dd474302e7dc4f0896c5e9f6ab4480a340d
-ms.sourcegitcommit: 1e6a6868eec0b2e43ba2d06c469bf07907c89b9e
+ms.openlocfilehash: c7ed3256c7253f2b1d42267447909a10479b636b
+ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/21/2019
-ms.locfileid: "30737515"
+ms.lasthandoff: 04/08/2019
+ms.locfileid: "31516470"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Updateverlauf für Office Insider-Kanal
 
@@ -32,6 +32,8 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates mit neuen Features und Verbesserungen. Die nachstehende Liste zeigt einen Verlauf der aktuellen Insider-Versionen und -Builds mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. 
 
 Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](https://docs.microsoft.com/de-DE/OfficeUpdates/release-notes-office-insider).
+
+**1. April 2019**<br/> Version 1904 (Build 11527.20004)<br/>
 
 **18. März 2019**<br/> Version 1904 (Build 11520.20004)<br/>
 
@@ -66,9 +68,7 @@ Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windo
 **Office Insider auf Twitter**<br/> Auf @OfficeInsider posten wir häufig Informationen zu Insider-Versionen und hosten besondere Ereignisse für Insider.<br/> 
 [Folgen Sie uns auf Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-
-  [
-  ![Abbildung des Facebook-Symbols. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
+[![IAbbildung des Facebook-Symbols. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)
 
 
 **Neue Features zuerst erhalten**
