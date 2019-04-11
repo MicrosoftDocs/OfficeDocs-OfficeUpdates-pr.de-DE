@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 68384248cc9385dc03a9f67408a5e0603e1e9986
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: e72fac101cd74306e818790d2a90db01dc9c36c4
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478552"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751496"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -27,6 +27,26 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features und Nicht-S
  
 > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+
+## <a name="version-1902-april-9"></a>Version 1902: 09. April
+*Version 1902 (Build 11328.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebt ein Problem, das einen Absturz beim Laden von Bildern auf der Visitenkarte verursacht.
+- Behebt ein Problem, das beim Start von Office-Programmen in einigen Fällen Abstürze verursachte.
+- Behebt ein Problem, bei dem Windows nicht am richtigen Speicherort angezeigt wird, wenn die Taskleiste am linken oder oberen Rand des Bildschirms gespeichert wurde.
+
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Wenn eine Datei im schreibgeschützten Modus geöffnet ist und Sie auf "Speichern unter" im Bereich "Info" klicken, wird das Problem behoben, sodass das Speichermenü angezeigt wird.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebt ein Problem, bei dem übermäßig viele Anmeldeaufforderungen auf Geräten mit Windows 10 (Version 1803 oder höher) angezeigt werden.
+- Repariert die Regression, die beim Herunterladen von verknüpften Grafiken Abstürze verursachte.
+- Die Unschärfe großer in Word, Excel und PowerPoint eingefügter EMF-Dateien wird behoben.
+- Der Fehler in der Analyselogik des Versionsverlaufs wird behoben, der in einigen Fällen dazu führte, dass Dokumente im schreibgeschützten Modus geöffnet wurden.
 
 ## <a name="version-1902-march-12"></a>Version 1902: 12. März
 *Version 1902 (Build 11328.20158)*

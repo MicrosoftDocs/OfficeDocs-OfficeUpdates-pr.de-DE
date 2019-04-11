@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/9/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: d97398deefa5cca33463b26f8e4611392e7d59fe
-ms.sourcegitcommit: f6ed754e15781f220dd27086f75f6d6be06254b9
+ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
+ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31478572"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31745547"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -27,6 +27,18 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
 > - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+## <a name="version-1808-april-9"></a>Version 1808: 09. April
+*Version 1808 (Build 10730.20334)*
+
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Ein Problem wurde behoben, bei dem der Benutzer Dokumente anonym in Internet Explorer oder Edge öffnen kann.
+- Ein Problem wurde behoben, bei dem die auf alle Kopf-/Fußzeilen-PAGE- und/oder -NUMPAGES-Felder angewandten Farbformatierungen für die Texthervorherbung die Felder schwarz anstatt in der verwendeten Hervorhebungsfarbe für Text renderte.
+- In Word (Japanisch) wurde Unterstützung für das Postkarten-Assistent-Add-In für das neue japanische Zeitalter hinzugefügt. 
+
+## <a name="version-1803-april-9"></a>Version 1803: 09. April
+In diesem Monat gibt es keine Updates.
 
 ## <a name="version-1808-march-12"></a>Version 1808: 12. März
 *Version 1808 (Build 10730.20304)*
