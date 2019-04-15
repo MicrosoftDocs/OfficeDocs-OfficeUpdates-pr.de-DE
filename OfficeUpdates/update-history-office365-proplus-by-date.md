@@ -3,19 +3,19 @@ title: Updateverlauf für Office 365 ProPlus (nach Datum)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/1/2019
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 05f442b7b9a8ec761f737b9e982e81d8b8b368e5
-ms.sourcegitcommit: 7570500edd26426af50494223a56be02390cdc05
+ms.openlocfilehash: 17a39855ca7e302eeb92f0ca642dfd55db422b7d
+ms.sourcegitcommit: 8b72fc05ade3ae80861905f9b83e26c60b85741b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31027895"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31751506"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -31,10 +31,10 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
  
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich  <br/> |1903 <br/> |11425.20202 <br/> | 01. April, 2019 <br/> |Version 1904 veröffentlicht <br/>|
-|Halbjährlich (gezielt)  <br/> |1902  <br/> |11328.20158 <br/> |  12. März 2019 <br/> | 10. September 2019 <br/>|
-|Halbjährlich <br/> |1808  <br/> | 10730.20304<br/> | 12. März 2019  <br/> |  10. März 2020 <br/>|
-|Halbjährlich <br/> |1803  <br/> | 9126.2356  <br/> | 12. Februar 2019  <br/> |  10. September 2019 <br/>|
+|Monatlich  <br/> |1903 <br/> |11425.20204 <br/> | 9. April 2019 <br/> |Version 1904 veröffentlicht <br/>|
+|Halbjährlich (gezielt)  <br/> |1902  <br/> |11328.20230 <br/> |  9. April 2019 <br/> | 10. September 2019 <br/>|
+|Halbjährlich <br/> |1808  <br/> | 10730.20334<br/> | 9. April 2019  <br/> |  10. März 2020 <br/>|
+|Halbjährlich <br/> |1803  <br/> | 9126.2382  <br/> | 9. April 2019  <br/> |  10. September 2019 <br/>|
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Office 365 ProPlus auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
@@ -44,6 +44,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|9. April |[Version 1903 (Build 11425.20204)](monthly-channel-2019.md#version-1903-april-9)|[Version 1902 (Build 11328.20230)](semi-annual-channel-targeted-2019.md#version-1903-april-9) |[Version 1808 (Build 10730.20334)](semi-annual-channel-2019.md#version-1808-april-9)  <br/>  [Version 1803 (Build 9126.2382)](semi-annual-channel-2019.md#version-1803-april-9) |
 |2019|01. April |[Version 1903 (Build 11425.20202)](monthly-channel-2019.md#version-1903-april-01)| | |
 |2019|25. März |[Version 1902 (Build 11328.20222)](monthly-channel-2019.md#version-1902-march-25)| | |
 |2019|12. März |[Version 1902 (Build 11328.20158)](monthly-channel-2019.md#version-1902-march-12)|[Version 1902 (Build 11328.20158)](semi-annual-channel-targeted-2019.md#version-1902-march-12) |[Version 1808 (Build 10730.20304)](semi-annual-channel-2019.md#version-1808-march-12)  <br/> | |
@@ -51,7 +52,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2019|12. Februar |[Version 1901 (Build 11231.20174)](monthly-channel-2019.md#version-1901-february-12)|[Version 1808 (Build 10730.20280)](semi-annual-channel-targeted-2019.md#version-1808-february-12) |[Version 1808 (Build 10730.20280)](semi-annual-channel-2019.md#version-1808-february-12)  <br/>  [Version 1803 (Build 9126.2356)](semi-annual-channel-2019.md#version-1803-february-12)  <br/> [Version 1708 (Build 8431.2372)](office365-proplus-security-updates.md#february-12-2019) |
 |2019|31. Januar   |[Version 1901 (Build 11231.20130)](monthly-channel-2019.md#version-1901-january-31)| | |
 |2019|14. Januar   |[Version 1812 (Build 11126.20266)](monthly-channel-2019.md#version-1812-january-14)| | |
-|2019|8. Januar |[Version 1812 (Build 11126.20196 )](monthly-channel-2019.md#version-1812-january-8)|[Version 1808 (Build 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Version 1808 (Build 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Version 1803 (Build 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Version 1708 (Build 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
+|2019|8. Januar |[Version 1812 (Build 11126.20196)](monthly-channel-2019.md#version-1812-january-8)|[Version 1808 (Build 10730.20264)](semi-annual-channel-targeted-2019.md#version-1808-january-8) |[Version 1808 (Build 10730.20264)](semi-annual-channel-2019.md#version-1808-january-8)  <br/>  [Version 1803 (Build 9126.2351)](semi-annual-channel-2019.md#version-1803-january-8)  <br/> [Version 1708 (Build 8431.2366)](office365-proplus-security-updates.md#january-8-2019) |
 |2019|3. Januar   |[Version 1812 (Build 11126.20188)](monthly-channel-2019.md#version-1812-january-3)| | |
 |2018|11. Dezember |[Version 1811 (Build 11029.20108)](monthly-channel-2018.md#version-1811-december-11)|[Version 1808 (Build 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Version 1803 (Build 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Version 1708 (Build 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27. November   |[Version 1811 (Build 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | |
@@ -88,7 +89,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 ||17. Januar   | [Version 1712 (Build 8827.2148)](monthly-channel-2018.md#version-1712-january-17)   |   |   |
 ||9. Januar   | [Version 1711 (Build 8730.2175)](monthly-channel-2018.md#version-1711-january-9)   | [Version 1708 (Build 8431.2153)](semi-annual-channel-targeted-2018.md#version-1708-january-9)   | [Version 1708 (Build 8431.2153)](semi-annual-channel-2018.md#version-1708-january-9)  <br/>   [Version 1705 (Build 8201.2217)](semi-annual-channel-2018.md#version-1705-january-9)   |
 ||2. Januar   | [Version 1711 (Build 8730.2165)](monthly-channel-2018.md#version-1711-january-2)   |   |   |
-|2017|12. Dezember  <br/> | [Version 1711 (Build 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [Version 1708 (Build 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Version 1705 (Build 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [Version 1701 (Build 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
+|2017|12. Dezember  <br/> | [Version 1711 (Build 8730.2127)](monthly-channel-2017.md#version-1711-december-12)  <br/> | [ Version 1708 (Build 8431.2131)](semi-annual-channel-targeted-2017.md#version-1708-december-12)  <br/> | [Version 1705 (Build 8201.2213)](semi-annual-channel-2017.md#version-1705-december-12)  <br/>  [Version 1701 (Build 7766.2130)](semi-annual-channel-2017.md#version-1701-december-12)  <br/> |
 ||6. Dezember  <br/> | [Version 1711 (Build 8730.2122)](monthly-channel-2017.md#version-1711-december-6)  <br/> |  <br/> |  <br/> |
 ||27. November  <br/> | [Version 1710 (Build 8625.2139)](monthly-channel-2017.md#version-1710-november-27)  <br/> |  <br/> |  <br/> |
 ||24. November  <br/> |  <br/> |  <br/> |[Version 1705 (Build 8201.2209)](semi-annual-channel-2017.md#version-1705-november-24)  <br/> |
@@ -129,7 +130,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 ||25. Januar  <br/> | [Version 1612 (Build 7668.2066)](monthly-channel-2017.md#version-1612-january-25)  <br/> |  <br/> |  <br/> |
 ||10. Januar  <br/> |  <br/> | [Version 1609 (Build 7369.2102)](semi-annual-channel-targeted-2017.md#version-1609-january-10)  <br/> | [Version 1605 (Build 6965.2117)](semi-annual-channel-2017.md#version-1605-january-10)  <br/>  [Version 1602 (Build 6741.2105)](semi-annual-channel-2017.md#version-1602-january-10)  <br/> |
 ||4. Januar  <br/> | [Version 1611 (Build 7571.2109)](monthly-channel-2017.md#version-1611-january-4)  <br/> |  <br/> |  <br/> |
-|2016|13. Dezember  <br/> | [Version 1611 (Build 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[Version 1609 (Build 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [Version 1605 (Build 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [Version 1602 (Build 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
+|2016|13. Dezember  <br/> | [Version 1611 (Build 7571.2075)](monthly-channel-2016.md#version-1611-december-13)  <br/> |[ Version 1609 (Build 7369.2095)](semi-annual-channel-targeted-2016.md#version-1609-december-13)  <br/> | [Version 1605 (Build 6965.2115)](semi-annual-channel-2016.md#version-1605-december-13)  <br/> [Version 1602 (Build 6741.2098)](semi-annual-channel-2016.md#version-1602-december-13)  <br/> |
 ||6. Dezember  <br/> | [Version 1611 (Build 7571.2072)](monthly-channel-2016.md#version-1611-december-6)  <br/> |  <br/> |  <br/> |
 ||10. November  <br/> | [Version 1610 (Build 7466.2038)](monthly-channel-2016.md#version-1610-november-10)  <br/> |  <br/> |  <br/> |
 ||8. November  <br/> |[Version 1609 (Build 7369.2055)](monthly-channel-2016.md#version-1609-november-8)  <br/> | [Version 1609 (Build 7369.2055)](semi-annual-channel-targeted-2016.md#version-1609-november-8)  <br/> | [Version 1605 (Build 6965.2105)](semi-annual-channel-2016.md#version-1605-november-8)  <br/>  [Version 1602 (Build 6741.2088)](semi-annual-channel-2016.md#version-1602-november-8)  <br/> |
