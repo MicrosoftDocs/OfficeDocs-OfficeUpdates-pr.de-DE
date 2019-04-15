@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/2/2019
+ms.date: 4/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 7affb1cafbd86b6d2ac2098af501fd56079a7aa3
-ms.sourcegitcommit: d4f64674c19638db73a9706b105299dc0559ea64
+ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
+ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/08/2019
-ms.locfileid: "31516460"
+ms.lasthandoff: 04/11/2019
+ms.locfileid: "31818502"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -28,8 +28,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
 
-## <a name="version-1903-april-01"></a>Version 1903: 01. April
-*Version 1903 (Build 11425.20202)*
+## <a name="version-1903-april-9"></a>Version 1903: 9. April
+*Version 1903 (Build 11425.20204)* 
+
+Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführt
+
+## <a name="version-1903-april-01"></a>Version 1903: 1. April 
+*Version 1903 (Build 11425.20202)* 
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
@@ -40,6 +45,15 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 - **Bessere Formwandlung** Geben Sie Ihren Shapes einen Namen, um mehr Kontrolle über ihr Morphen zu haben. [Weitere Informationen](https://support.office.com/article/9bc7f48ff-f152-4ee8-9081-d3121788024f)
 
 - **Erhöhen Sie die Reichweite Ihrer Inhalte:** Möchten Sie Ihre Präsentationen barrierefrei gestalten? Die Barrierefreiheitsprüfung kann dies für Sie im Auge behalten, ohne Ihnen dabei in die Quere zu kommen. Probieren Sie es aus, indem Sie auf „Überprüfen“ > „Barrierefreiheit überprüfen“ klicken. Wir werden Sie in der Statusleiste informieren, wenn wir etwas finden, dass Sie sich ansehen müssen.
+
+- **Warum neu erstellen, wenn Sie etwas wiederverwenden können?**  Sparen Sie Zeit, indem Sie Folien, die Sie erstellt haben oder die andere für Sie freigegeben haben, erneut verwenden.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Behebung des Problems, das verursachte, dass Skype for Business beim Antworten auf Chatbenachrichtigungen nicht mehr reagiert, wenn eine SfB-/Lync-SDK-App von einem Drittanbieter vorhanden ist.
+- Behebung eines App-Absturzes, wenn bestimmte Inhalte der Zwischenablage in einen Chat kopiert werden.
+- Behebung eines Problems, das die Anzeige der Informationen „Angenommen von“ für eine Anrufwarteschleife verhinderte, die von einem der Telefonberater angenommen wurde.
+- Behebung eines Problems, aufgrund dessen Anrufsymbole ausgeblendet wurden, wenn ein Teams-Benutzer einer Skype for Business-Besprechung beitritt.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
