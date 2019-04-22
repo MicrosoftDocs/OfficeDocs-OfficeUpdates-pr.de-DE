@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: d3a3f5ad4a4c7dd0caeb8b3fc268d00bd50590b2
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: f76fdeaa8a9d6e26cbdc9f26ae4a74b91567d4e2
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818502"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912571"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -27,6 +27,16 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+
+## <a name="version-1903-april-17"></a>Version 1903: 17. April
+*Version 1903 (Build 11425.20228)*
+
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
+
+## <a name="version-1903-april-16"></a>Version 1903: 16. April
+*Version 1903 (Build 11425.20218)*
+
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 ## <a name="version-1903-april-9"></a>Version 1903: 9. April
 *Version 1903 (Build 11425.20204)* 
@@ -79,7 +89,7 @@ Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführ
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
-- **Ziehen Sie die Aufmerksamkeit mit \@mentions auf sich:** Verwenden Sie @mentions in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
+- **Ziehen Sie die Aufmerksamkeit mit \@Erwähnungen** auf sich: Verwenden Sie @Erwähnungen in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Erfahren Sie mehr über Ihre Daten:** Die neue Schaltfläche "Ideen" sucht in Ihren Daten nach Mustern und verwendet diese, um intelligente, persönliche Vorschläge zu erstellen. [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 - **Speichern Sie Ihre Änderungen, während sie entstehen:** Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 - **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -139,7 +149,7 @@ Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführ
 Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 
 ## <a name="version-1812-january-8"></a>Version 1812: 8. Januar
-*Version 1812 (Build 11126.20196)* 
+*Version 1812 (Build 11126.20196 )* 
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 - Es wurde ein Problem behoben, bei dem Sie die Kritisch-, Spät- und Pufferzeit-Balkenarten für das Gantt-Diagramm nicht deaktivieren konnten, nachdem eine aktiviert wurde.

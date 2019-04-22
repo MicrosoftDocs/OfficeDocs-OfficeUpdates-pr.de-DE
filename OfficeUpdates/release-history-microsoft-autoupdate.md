@@ -3,19 +3,19 @@ title: Releaseverlauf für Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 3/14/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: a4b0d70349ba1e6dfb8fc587b606b007298fdae8
-ms.sourcegitcommit: e9d79e90009b8984fdabd8aec267b0e767525f98
+ms.openlocfilehash: 9f162b040f05b1fb845bef0a0d3a8de251abe3a4
+ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2019
-ms.locfileid: "30641400"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31924343"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -31,7 +31,8 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
   
 |**Veröffentlichungsdatum**|**Version**|**Weitere Informationen**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
-|14. März 2019 <br/>|4.9.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#march-2019-release) <br/> |[MAU 4.9.0 herunterladen](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|16. April 2019 <br/>|4.10 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#April-2019-release) <br/> |[MAU 4.10 herunterladen](https://go.microsoft.com/fwlink/p/?linkid=830196) <br/> |
+|14. März 2019 <br/>|4.9.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |26. Februar 2019 <br/>|4.8.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#january-2019-release) <br/> |<br/> |
 |16. Januar 2019 <br/>|4.7.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11. Dezember 2018 <br/>|4.6.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#december-2018-release) <br/> ||

@@ -3,23 +3,23 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/18/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: ec4cd8df8f0d3fdd4e3abc957024af699d6058f2
-ms.sourcegitcommit: d1d427499eb9d1f82196e239281ff77e64cc0f87
+ms.openlocfilehash: 9f631b58e9828ba60a1950f2f2b95581890c671b
+ms.sourcegitcommit: 3ebcb7f15a717f52cc33ec12e57792c00da09e10
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31763723"
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31912581"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
-In den nachfolgenden Tabellen sind die ungefähren Downloadgrößen bei Updates von einer früheren Version von Office 365 ProPlus auf die neueste Version aufgeführt, geordnet nach Veröffentlichungsdatum und Updatekanal. 
+In den nachfolgenden Tabellen sind die ungefähren Downloadgrößen bei Updates von einer früheren Version von Office 365 ProPlus auf die neueste Version aufgeführt, geordnet nach Veröffentlichungsdatum und Updatekanal.
   
 Wir stellen diese Informationen bereits vor dem tatsächlichen Veröffentlichungsdatum bereit, damit Unternehmenskunden die Verfügbarkeit der für diese Kanalupdates notwendigen Netzwerkbandbreite gewährleisten können. Beachten Sie, dass einige der Angaben am tatsächlichen Veröffentlichungstermin unter Umständen nicht mehr korrekt sein werden.
   
@@ -35,6 +35,26 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - Es werden nur Versionen der letzten vier Monate aufgelistet.
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
+
+## <a name="april-17-2019"></a>17. April 2019
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1903 (Build 11425.20228). 
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1903 (Build 11425.20218)  <br/> |16. April 2019  <br/> |187<br/> |
+|Version 1903 (Build 11425.20204)  <br/> |9. April 2019  <br/> |243<br/> |
+
+## <a name="april-16-2019"></a>16. April 2019
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1903 (Build 11425.20218). 
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1903 (Build 11425.20204)  <br/> |9. April 2019  <br/> |307<br/> |
+|Version 1903 (Build 11425.20202)  <br/> |1. April 2019  <br/> |307<br/> |
 
 ## <a name="april-9-2019"></a>9. April 2019
 ### <a name="monthly-channel"></a>Monatlicher Kanal
