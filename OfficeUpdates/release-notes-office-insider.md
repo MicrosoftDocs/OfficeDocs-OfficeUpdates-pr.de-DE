@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/11/2019
+ms.date: 4/19/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: cecd509883c6738c9640dabe15ec6f31ad5baf64
-ms.sourcegitcommit: 2e379740ddeb6f2e8f51da1d06002ffb2ddad02d
+ms.openlocfilehash: b5d7bffcab3fd526fbf059f8868f86f8d5ff80fd
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/11/2019
-ms.locfileid: "31818512"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958136"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -25,7 +25,60 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
-## <a name="april-11-2019"></a>11. April 2019
+## <a name="april-19-2019"></a>19. April 2019
+Version 1905 (Build 11609.20002)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="excel"></a>Excel
+
+#### <a name="improved-filled-maps-experience-using-data-types"></a>Verbesserte Benutzererfahrung für ausgefüllte Karten durch die Verwendung von Datentypen
+
+Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+- Dieses Feature ist eine Verbesserung der vorhandenen Funktionen in Excel. Verwenden der Verbesserung: Konvertieren Sie Orte in Rich-Entitäten und stellen Sie sie durch ausgefüllte Karten dar. 
+
+##### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+- Benutzer können Städte, Staaten, Landkreise, Länder und Postleitzahlen zuordnen. 
+
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all-applications"></a>Alle Anwendungen
+- Es wurde ein Fehler behoben, bei dem der Dialog der ersten Ausführung beim Start einer Anwendung immer angezeigt wurde.
+- Es wurde ein Problem behoben, bei dem ein SharePoint-Link im Dialogfeld "Speichern unter" in manchen Fällen nicht vorhanden war.
+- Es wurde ein Fehler behoben, bei dem Benutzern fälschlicherweise der Dialog "Jetzt reparieren" angezeigt wurde.
+
+### <a name="word"></a>Word 
+- Es wurde ein Fehler behoben, bei dem einige Benutzer beim Anfordern einer Schriftart die Fehlermeldung erhielten, dass nicht genügend Arbeitsspeicher oder Speicherplatz vorhanden sei.
+- Es wurde ein Fehler behoben, bei dem ein Fenster beim Umschalten vom Bereich "Kommentare" unscharf wurde.
+
+### <a name="excel"></a>Excel
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="powerpoint"></a>PowerPoint
+- Es wurde ein Fehler behoben, der bewirkte, dass die Größe von Formen mit Branding nicht angepasst werden konnte.
+- Es wurde ein Fehler behoben, bei dem PowerPoint abstürzen konnte, wenn eine Datei im geschützten Ansichtsmodus geöffnet wurde.
+
+### <a name="outlook"></a>Outlook
+- Wir haben ein Problem behoben, aufgrund dessen einige Benutzer keine chinesischen Wörter auswählen konnten.
+- Wir haben ein Problem behoben, bei dem Ablaufdaten nicht korrekt berechnet wurden.
+
+### <a name="access"></a>Access
+- Wir haben ein Problem behoben, aufgrund dessen einige Benutzer nicht den Makro-Generator benutzen konnten.
+- Wir haben ein Problem behoben, aufgrund dessen beim Drucken eines Berichts nur die erste Seite ausgedruckt wurde.
+- Es wurde ein Problem behoben, bei dem die Anwendung beim Fahren über einen Hyperlink abstürzen konnte.
+- Wir haben ein Problem behoben, das bewirkte, dass in der Ansicht "Beziehungen" einige Elemente außerhalb des Fensters angezeigt wurden.
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+</BR></BR>
+
+## <a name="april-12-2019"></a>12. April 2019
 Version 1905 (Build 11601.20042)
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
@@ -213,7 +266,7 @@ Version 1903 (Build 11414.20014)
 - Ein Problem wurde behoben, bei dem das Kopieren einer Zelle in Excel zu einer hohen CPU-Auslastung führte, wenn geschützte Dokumente und editierbare Dokumente geöffnet wurden
 
 ### <a name="powerpoint"></a>PowerPoint
-- Ein Problem mit der Folienbildgröße bei Verwendung von @Mentions in PowerPoint wurde behoben.
+- Ein Problem mit der Folienbildgröße bei Verwendung von @Erwähnungen in PowerPoint wurde behoben
 
 ### <a name="outlook"></a>Outlook
 - Ein Problem wurde behoben, bei dem die Outlook-Suche die ausgewählte chronologische Sortierung nicht einhielt
