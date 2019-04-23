@@ -3,19 +3,19 @@ title: Updateverlauf für Office Monatlicher Kanal (gezielt)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 03/29/2019
+ms.date: 04/17/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: fdced22eae18b138ae8a0ae59449c1131207a0e4
-ms.sourcegitcommit: bc2b4e9dc112c3d123c2e4fd50e5533032ee5471
+ms.openlocfilehash: 7e50142c1c0e404ef9693f19cd6a5fccfefa0b42
+ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31026386"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31958116"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -28,6 +28,14 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > [!NOTE]
 > - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen
+
+[//]: # (NICHT ENTFERNEN)
+
+**16. April 2019**<br/>
+Version 1903 (Build 11425.20218)<br/>
+
+**9. April 2019**<br/>
+Version 1903 (Build 11425.20204)<br/>
 
 **29. März 2019**<br/> Version 1903 (Build 11425.20202)<br/>
 
