@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office 2016 für Mac-Releases ab September 2018 zur Verfügung.
-ms.openlocfilehash: 801964703a2a43f721a31b7692d1dd24f69450d0
-ms.sourcegitcommit: 90d2b3259604e27f5fe860221d1a89d3da28fe5a
+ms.openlocfilehash: 7b46ce1be815d252ab4493630ac18989282cbcb5
+ms.sourcegitcommit: 5a3394599c426087999ef0a7044a7a511405b665
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31924333"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "32460140"
 ---
 # <a name="release-notes-for-office-2016-for-mac"></a>Anmerkungen zur Version für Office 2016 für Mac
 
@@ -35,9 +35,9 @@ Updates für Office 2016 für Mac sind über Microsoft AutoUpdate (MAU) verfügb
 In der folgenden Tabelle werden die aktuellen Pakete für Office 2016 für Mac und die einzelnen Anwendungen wie Word und Excel aufgeführt. Alle Pakete sind nur als 2016-Bit-Version erhältlich. Das Builddatum ist im Format JJMMTT in Klammern hinter der Versionsnummer angegeben. Das Installationspaket wird verwendet, wenn die Anwendung noch nicht installiert ist, während das Updatepaket zur Aktualisierung einer vorhandenen Installation dient.
 
 ### <a name="april-16-2019"></a>16. April 2019
-Version 16.16 (19041201)
+Version 16.16.9 (19041201)
 
-|**Application**|**Downloadlinks**|**SHA256-Hashes für Installationspaket**|
+|**Anwendung**|**Downloadlinks**|**SHA256-Hashes für Installationspaket**|
 |:-----|:-----|:-----|:-----|
 |Office-Suite (alle Anwendungen)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871743) <br/> | 249E708A9432092D5BDEFE9AE81AFC108C19E43EBB96EAA8CCCF79F4FDA8F5B8 <br/> |
 |Word  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=871748) <br/> <br/>[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.16.19041201_Updater.pkg) <br/> | 8A7B53137D85A1E053F341E5E5CF9F90124F8BD0265A7F19FD5636194BAACC00 <br/>|
@@ -50,7 +50,7 @@ Version 16.16 (19041201)
 
  **Veröffentlichungsdatum:** 16. April 2019 
   
- *Version 16.16 (Build 19041201)* 
+ *Version 16.16.9 (Build 19041201)* 
   
 Dieses Release umfasst die folgenden Updates.
   
