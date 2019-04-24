@@ -1,5 +1,5 @@
 ---
-title: Versionshinweise für Versionen in 2016 Semikolons jährlichen Channel (gezielte)
+title: Release Notes for Semi-Annual Channel (Targeted) Releases in 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Spezialisten mit Anmerkungen zu dieser Version Versionen Semikolons jährlichen Channel (gezielte) für Office 365 ProPlus in 2016
+description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanäle (Zielversionen) für Office 365 proPlus in 2016
 ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556103"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439000"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Versionshinweise für Versionen in 2016 Semikolons jährlichen Channel (gezielte)
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Release Notes for Semi-Annual Channel (Targeted) Releases in 2016
 
-Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in Semikolons jährlichen Channel (gezielte) Updates für Office 365 ProPlus in 2016 enthalten sind.
+Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in den halbjährlichen Kanal Updates (gezielt) für Office 365 proPlus in 2016 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Semikolons jährlichen Channel (gezielte) hieß erste Version für Kanal vor September 2017 zurückgestellt.
+> - Halbjährlicher Kanal (gezielt) wurde als erste Version für verzögerten Kanal vor September 2017.
 
-## <a name="version-1609-december-13"></a>Version 1609: Dezember 13
+## <a name="version-1609-december-13"></a>Version 1609:13. Dezember
 *Version 1609 (Build 7369.2095)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -37,7 +37,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, aufgrund dessen PowerPoint abstürzte, wenn der Benutzer versuchte, eine Datei zu öffnen oder zu speichern.
--   Eine Behebung eines Problems, ist, wenn die Foliengröße anpassen, die Thai Übersetzung für die Abkürzung "Zoll" falsch. 
+-   Fix an issue where, when customizing the slide size, the Thai translation for the abbreviation of “inches” is incorrect. 
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem der Bildschirm schwarz bleibt, wenn ein Benutzer Windows 7 ausführt und zuerst den Hauptmonitor freigibt und dann einen zweiten Monitor freigeben möchte.
@@ -57,7 +57,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1609-november-8"></a>Version 1609: November 8
+## <a name="version-1609-november-8"></a>Version 1609:8. November
 *Version 1609 (Build 7369.2055)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -68,7 +68,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1609-november-2"></a>Version 1609: November 2
+## <a name="version-1609-november-2"></a>Version 1609:2. November
 *Version 1609 (Build 7369.2054)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -84,7 +84,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 -   **Aktualisierte visuelle Elemente:** Änderungen an Symbolen und Farben zur Verbesserung der Barrierefreiheit. [Weitere Informationen](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Aktualisierung der Benutzeroberfläche auf „Freigeben“:** Änderung von „Präsentieren“ in „Freigeben“ in Benutzeroberflächenelementen, z. B. „Desktop präsentieren“ in „Bildschirm freigeben“ und „Programm präsentieren“ in „Fenster freigeben“.
+-   **Aktualisieren der Benutzeroberfläche auf "freigeben":** ändern von "präsentieren" in "freigeben" in Benutzeroberflächenelementen, wie beispielsweise Ändern des "vorhandenen Desktops" in "Freigeben des Desktops" und "Programm präsentieren" auf "Freigeben eines Fensters".
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Benutzer nach der Migration zu Exchange Online keine Verbindung mit Exchange herstellen kann, um Informationen zum Unterhaltungsverlauf, zu Kontakten oder Voicemail zu erhalten.
@@ -108,13 +108,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1609-october-11"></a>Version 1609: Oktober 11
+## <a name="version-1609-october-11"></a>Version 1609:11. Oktober
 *Version 1609 (Build 7369.2038)*
 
 ### <a name="access-feature-updates"></a>Access: Featureupdates
 -   **dBASE-Unterstützung:** Unterstützung für das Importieren von oder Verknüpfen mit Daten, die in dBASE-Datenbanken (DBF) gespeichert sind. [Weitere Informationen](https://blogs.office.com/2016/09/07/back-by-popular-demand-dbase-file-support-in-access/)
 
-### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
+### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die App beim Ausführen einer Abfrage mit einer Sortierung unter Verwendung des Access-Datenbankmoduls abstürzte, z. B. in der Access-App oder mit einem Add-In, die bzw. das das Access-Datenbankmodul als Datenanbieter verwendet.
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigt, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben kann.
 
@@ -163,7 +163,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen das Löschen eines Tabelle zu einem Absturz von OneNote führte.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@erwähnt:** Stellen Sie sicher, dass Empfänger kennen, sie werden zur Eingabe oder Aktion durch das Einbeziehen von gefragt wird dem @-Zeichen, gefolgt von den Namen der Person, in den Textkörper eines Elements e-Mail oder Kalender. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person in den Textkörper eines e-Mail-oder Kalenderelements einbinden. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Zusammenfassungskarten für Reisereservierungen und Pakete:** Prüfen und verfolgen Sie Reisereservierungen sowie Paketzustellungen, indem Sie Zusammenfassungskarten verwenden, die automatisch im Posteingang und im Kalender erstellt wurden. [Weitere Informationen](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-Vorschau für angefügte Fotos**: Wenn ein Foto an eine E-Mail-Nachricht angefügt ist, wird in Outlook eine kleine Vorschau des Fotos in der Nachricht angezeigt.
 -   **Link zum Wiederherstellen gelöschter Objekte:** Im Ordner „Gelöschte Elemente“ wird der Link „Elemente wiederherstellen, die aus diesem Ordner gelöscht wurden“ oberhalb der Liste gelöschter Elemente angezeigt. Außerdem wird beim Klicken auf den Link das Dialogfeld „Gelöschte Elemente wiederherstellen“ aufgerufen.
@@ -295,7 +295,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-september-13"></a>Version 1605: September 13
+## <a name="version-1605-september-13"></a>Version 1605:13. September
 *Version 1605 (Build 6965.2084)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -330,7 +330,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-august-9"></a>Version 1605: 9. August
+## <a name="version-1605-august-9"></a>Version 1605:9. August
 *Version 1605 (Build 6965.2076)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -354,7 +354,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-july-21"></a>Version 1605: Juli 21
+## <a name="version-1605-july-21"></a>Version 1605:21. Juli
 *Version 1605 (Build 6965.2069)*
 
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
@@ -369,7 +369,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-july-12"></a>Version 1605: Juli 12
+## <a name="version-1605-july-12"></a>Version 1605:12. Juli
 *Version 1605 (Build 6965.2066)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -389,7 +389,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-june-30"></a>Version 1605: 30. Juni
+## <a name="version-1605-june-30"></a>Version 1605:30. Juni
 *Version 1605 (Build 6965.2063)*
 
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
@@ -414,11 +414,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-june-14"></a>Version 1605: Juni 14
+## <a name="version-1605-june-14"></a>Version 1605:14. Juni
 *Version 1605 (Build 6965.2058)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **& Transformieren Verbesserungen abrufen:** Neuen oder verbesserten Datentransformation und Data Connectivity-Features für Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Verbesserungen der &-Transformation:** Neue oder verbesserte Daten Transformations-und Datenverbindungsfeatures für Power Query. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Zusätzliche Datenverbindungen:** Abfragen von Daten aus JSON- und Azure SQL Data Warehouse-Quellen.
 -   **Power Query-Verbesserungen:** Verbesserte und neue Funktionen zur Datentransformation und -konnektivität. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Umfangreiche Address Aware-Unterstützung:** 32-Bit-Versionen von Excel können mehr Speicher verwenden, falls verfügbar. [Weitere Informationen](https://support.microsoft.com/kb/3160741)
@@ -444,12 +444,12 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Vereinfachte Profilerstellung:** Eine vereinfachte-Benutzeroberfläche (UI) zum Einrichten von zusätzlichen Outlook-Profilen für Office 365-Postfächer, wenn Sie mit einem Office 365-Konto angemeldet sind.
 
-    Hinweis: Dieses Feature wurde über einen Zeitraum für Abonnenten bereitgestellt. Es ist möglich, dass dieses Feature nicht sofort angezeigt wird. Der Zeitpunkt, ab dem dieses Feature angezeigt wird hängt auch davon ab, wie Office-Aktualisierungen in Ihrer Organisation durchgeführt werden.
+    Hinweis: dieses Feature wird über einen längeren Zeitraum für Abonnenten bereitgestellt, sodass Sie dieses Feature möglicherweise nicht sofort sehen. Der Zeitpunkt, zu dem Sie dieses Feature erhalten, hängt auch davon ab, wie Ihre Organisation Office aktualisiert.
 
 -   **Liste mit Anlagen für Unterhaltungen:** Alle Anlagen für eine Unterhaltung in einer Office 365-Gruppe sind in einer Dropdownliste in der rechten oberen Ecke des Lesebereichs verfügbar.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
--   Behebung eines Problems, in dem verwendet beantworten und Weiterleiten Schriftfarbe schwarz anstatt eine neue Farbe, obwohl "Andere Farbe beim Antworten oder Weiterleiten" unter Datei ausgewählt ist \> Optionen \> Mail \> Briefpapier und Schriftarten.
+-   Fix an issue where replying or forwarding uses black font color instead of picking a new color, even though "Pick a new color when replying or forwarding" is selected under File \> Options \> Mail \> Stationery and Fonts.
 -   Die Erkennung einer möglichen bevorstehenden Beschädigung der PST-Datei wurde verbessert, und es wurden Schritte hinzugefügt, um das Auftreten dieser Beschädigung zu verhindern.
 -   Behebung eines Problems, aufgrund dessen die erweiterten Symbolzeichen beim Senden einer E-Mail im RTF-Format zu „1“ geändert wurden.
 -   Behebung eines Problems, bei dem der Link zur Ansicht älterer Nachrichten auf dem Server nicht am Ende der Nachrichtenliste im Ordner (z. B. „Posteingang“ oder „Gelöschte Elemente“) angezeigt wird.
@@ -527,7 +527,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-june-7"></a>Version 1602: Juni 7
+## <a name="version-1602-june-7"></a>Version 1602:7. Juni
 *Version 1602 (Build 6741.2047)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -541,7 +541,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-may-23"></a>Version 1602: Mai 23
+## <a name="version-1602-may-23"></a>Version 1602:23. Mai
 *Version 1602 (Build 6741.2042)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -558,7 +558,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-may-10"></a>Version 1602: Mai 10
+## <a name="version-1602-may-10"></a>Version 1602:10. Mai
 *Version 1602 (Build 6741.2037)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -594,7 +594,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-may-3"></a>Version 1602: 3. Mai
+## <a name="version-1602-may-3"></a>Version 1602:3. Mai
 *Version 1602 (Build 6741.2033)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -610,8 +610,8 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-april-12"></a>Version 1602: April 12
-*Version 1602 (Build 6741.2026)*
+## <a name="version-1602-april-12"></a>Version 1602:12. April
+*Version 1602 (Build 6741,2026)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
@@ -621,7 +621,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-april-4"></a>Version 1602: Mai 4
+## <a name="version-1602-april-4"></a>Version 1602:4. April
 *Version 1602 (Build 6741.2025)*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -629,7 +629,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-march-23"></a>Version 1602: März 23
+## <a name="version-1602-march-23"></a>Version 1602:23. März
 *Version 1602 (Build 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -637,7 +637,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-march-16"></a>Version 1602: März 16
+## <a name="version-1602-march-16"></a>Version 1602:16. März
 *Version 1602 (Build 6741.2017)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -645,7 +645,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-march-14"></a>Version 1602: März 14
+## <a name="version-1602-march-14"></a>Version 1602:14. März
 *Version 1602 (Build 6741.2015)*
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -653,7 +653,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-march-8"></a>Version 1602: März 8
+## <a name="version-1602-march-8"></a>Version 1602:8. März
 *Version 1602 (Build 6741.2014)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
@@ -729,7 +729,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebt ein Problem,bei dem Elemente in der Dropdownliste „Von“ im Modus für hohen Kontrast nicht vollständig hervorgehoben werden.
 -   Behebt ein Problem, bei dem nur der erste Anhang ausgewählt wird, wenn Sie UMSCHALT + KLICK zum Auswählen mehrerer Anhänge verwenden.
 -   Behebung eines Problems, aufgrund dessen bei Verwendung von POP3 alle E-Mails auf dem Server aus dem Posteingang gelöscht wurden, nachdem Outlook die E-Mails heruntergeladen hat. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
--   Eine Behebung eines Problems, werden bei der Verwendung von POP3 konfiguriert, e-Mail-Nachrichten mehrere Male heruntergeladen doppelte Elemente verursacht. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
+-   BeHebung eines Problems, bei dem e-Mail-Nachrichten bei der Konfiguration für die Verwendung von POP3 mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 -   Behebung eines Problems, aufgrund dessen Benutzer nicht auf öffentliche Ordner zugreifen konnten, die auf Exchange Server 2010 gehostet wurden.
 -   Behebung eines Problems, bei dem Bilder in der falschen Größe beim Senden von E-Mails zwischen einem Gerät mit hoher DPI und einem Monitor mit normaler DPI angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen beim Ziehen der Bildlaufleiste in der Nachrichtenliste zum Ende der Liste gewechselt wurde.
@@ -743,7 +743,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Für diesen Dienst ist eine Internetverbindung erforderlich. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Um dieses Feature zu deaktivieren, [verwenden Sie die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
@@ -834,7 +834,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Sortierfunktion in Datei \> Öffnen:** Sortieren nach Name oder Änderungsdatum in „Datei“ \> „Öffnen“ in allen Apps außer Outlook. Für Word, Excel und PowerPoint ist die Sortierung auch unter „Datei“ \> „Speichern unter“ verfügbar.
 -   **Funktion zum Durchsuchen von Ordnern in Datei \> Speichern unter:** Verwenden Sie die vollständige Ordnernavigation in Datei \> Speichern unter in Word, Excel und PowerPoint für OneDrive-Ordner, OneDrive for Business-Ordner und „Dieser PC“.
 -   **Optionen für „Senden an“:** Senden eines Dokuments als Anlage oder als PDF-Datei aus dem Bereich „Freigeben“ in Word oder PowerPoint.
--   **-API-Bild einfügen:**  Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Methode "Document.setselecteddataasync"](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl-Objekten](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absatz](https://msdn.microsoft.com/library/office/mt598682.aspx)undBereichen .
+-   **Bild-API einfügen:**  Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Document. setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen Office. js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl-Objekten](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absatz](https://msdn.microsoft.com/library/office/mt598682.aspx)undBereichen .
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
@@ -878,11 +878,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung einer sr-latn-cr-Installation auf Office 2016 die Clientsprache nicht in sr-latn-rs konvertiert wurde.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung während der Aktualisierungsvorbereitung ein Fehler auftrat, wenn mehrere SKUs von Office auf dem Computer installiert waren.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen Fehlermeldungen angezeigt wurden, wenn ein manuelles Update gestartet wurde, während die automatische Aktualisierung noch ausgeführt wurde.
--   Aktualisierung der Verweise auf „Add-Ins“ in der Benutzeroberfläche des Produkts an Stellen, an denen die Großschreibung des Begriffs falsch war.
+-   Aktualisierung der Verweise in „Add-Ins“ auf der Benutzeroberfläche des Produkts, wo die Großschreibung des Begriffs falsch war.
 
 
 
-## <a name="version-1509-february-9"></a>Version 1509: Februar 9
+## <a name="version-1509-february-9"></a>Version 1509:9. Februar
 *Version 1509 (Build 6001.1061)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -893,7 +893,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-january-12"></a>Version 1509: Januar 12
+## <a name="version-1509-january-12"></a>Version 1509:12. Januar
 *Version 1509 (Build 6001.1054)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates

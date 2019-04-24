@@ -1,5 +1,5 @@
 ---
-title: Versionshinweise für monatlich Channel-Releases im 2015
+title: Release Notes for Monthly Channel Releases in 2015
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,28 +9,28 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Spezialisten mit Anmerkungen zur Version monatlich Channel für Office 365 ProPlus in 2015 frei
+description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 proPlus in 2015
 ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556098"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438809"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Versionshinweise für monatlich Channel-Releases im 2015
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Release Notes for Monthly Channel Releases in 2015
 
-Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in monatlich Channel-Updates für Office 365 ProPlus in 2015 enthalten sind.
+Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in monatlichen Kanal Updates für Office 365 proPlus in 2015 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Monatlich Channel hieß aktueller Channel vor September 2017.
+> - Der monatliche Kanal wurde vor dem 2017.
 
-## <a name="version-1511-december-11"></a>Version 1511: Dezember 11
+## <a name="version-1511-december-11"></a>Version 1511:11. Dezember
 *Version 1511 (Build 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **BI-Vorlagen:** Drei neue Vorlagen, die über die Business Intelligence (BI)-Funktionen von Excel nutzen: [Kalender Insights](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Stock Analyse](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [Meine Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI-Vorlagen:** Drei neue Vorlagen, die die Business Intelligence (BI)-Funktionen von Excel nutzen: [Kalender](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)Einblicke, [Aktienanalyse](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [mein Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen das Ziehen eines Ausfüllkästchens einer mit einer Zahl für das Langformat für Datum formatierten Zelle zu einem Absturz von Excel führte.
@@ -55,7 +55,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Für diesen Dienst ist eine Internetverbindung erforderlich. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Um dieses Feature zu deaktivieren, [verwenden Sie die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen SmartArt mit Animationen nicht in der erwarteten Reihenfolge in der Bildschirmpräsentationsansicht mit der Referentenansicht angezeigt wurden.
@@ -69,7 +69,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 -   **Optionen für „Senden als“**: Senden eines Dokuments als Anlage oder als PDF-Datei aus dem Bereich „Freigeben“ in Word oder PowerPoint.
--   **Bild-API einfügen**: Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Methode "Document.setselecteddataasync"](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die Word-JavaScript-API bietet Host-spezifische Methoden mit der Bezeichnung insertInlinePictureFromBase64() um eingebettete Bilder [Body](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absätzen](https://msdn.microsoft.com/library/office/mt598682.aspx)und Range-Objekte festzulegen.
+-   **Einfügen der Bild-API**: Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [document.setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die JavaScript-API für Word stellt hostspezifische Methodennamens insertInlinePictureFromBase64 () zum Festlegen von Inlinebildern für [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)-, [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)-, [Paragraph](https://msdn.microsoft.com/library/office/mt598682.aspx)-und Range-Objekte bereit.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen das Änderungsdatum beim Klicken auf „Öffnen“ oder „Speichern unter“ abgeschnitten war.
@@ -82,7 +82,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen die Aktualisierung auf Office 2016 auf einem Windows 7 OEM-Computer mit dem Office-Preinstallation Kit im Überwachungsmodus zum Fehler 0x80070005 bei der Aktivierung führte.
 
 
-## <a name="version-1509-december-8"></a>Version 1509: Dezember 8
+## <a name="version-1509-december-8"></a>Version 1509:8. Dezember
 *Version 1509 (Build 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -111,7 +111,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-november-10"></a>Version 1509: November 10
+## <a name="version-1509-november-10"></a>Version 1509:10. November
 *Version 1509 (Build 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
@@ -180,7 +180,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-october-21"></a>Version 1509: Oktober 21
+## <a name="version-1509-october-21"></a>Version 1509:21. Oktober
 *Version 1509 (Build 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -223,7 +223,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-october-5"></a>Version 1509: Oktober 5
+## <a name="version-1509-october-5"></a>Version 1509:5. Oktober
 *Version 1509 (Build 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -244,11 +244,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung einer sr-latn-cr-Installation auf Office 2016 die Clientsprache nicht in sr-latn-rs konvertiert wurde.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung während der Aktualisierungsvorbereitung ein Fehler auftrat, wenn mehrere SKUs von Office auf dem Computer installiert waren.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen Fehlermeldungen angezeigt wurden, wenn ein manuelles Update gestartet wurde, während die automatische Aktualisierung noch ausgeführt wurde.
--   Aktualisierung der Verweise auf „Add-Ins“ in der Benutzeroberfläche des Produkts an Stellen, an denen die Großschreibung des Begriffs falsch war.
+-   Aktualisierung der Verweise in „Add-Ins“ auf der Benutzeroberfläche des Produkts, wo die Großschreibung des Begriffs falsch war.
 
 
 
-## <a name="version-1509-september-22"></a>Version 1509: September 22
+## <a name="version-1509-september-22"></a>Version 1509:22. September
 *Version 1509 (Build 4229.1024)*
 
 Dies ist die erste Version für diesen Kanal. In dieser Version sind zum ersten Mal die Office 2016-Anwendungen verfügbar.
