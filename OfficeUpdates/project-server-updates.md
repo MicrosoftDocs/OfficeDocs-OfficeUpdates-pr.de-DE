@@ -14,11 +14,11 @@ ms.collection:
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
 ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745477"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438798"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 

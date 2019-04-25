@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
 ms.openlocfilehash: 882dc4c4d0767b4f0260d552f30b96e036130127
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745487"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32438750"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -33,7 +33,7 @@ Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt
     
 - Für lokale Exchange-Bereitstellungen halten Sie die Systemanforderungen für Ihre Version von Outlook ein:
     
-  - [Exchange 2016 – Systemanforderungen](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Exchange 2016 – Systemanforderungen](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
     
   - [Exchange 2013 – Systemanforderungen](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
@@ -56,6 +56,6 @@ Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/en-us/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |März 2019 PU <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/de-DE/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |März 2019 PU <br/>[KB4462229](https://support.microsoft.com/help/4462229) <br><br><br><br/>|
    
 
