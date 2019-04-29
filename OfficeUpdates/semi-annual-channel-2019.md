@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 20
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/10/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 994e266b351e3a8c8ca39fae5460473248d99a2b
-ms.sourcegitcommit: 9a194fb74c040cbb43079af22e756911754fb7ba
+ms.openlocfilehash: 0e8641b742db196ed58dc4ede93ee684ba5fce90
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31745547"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33234897"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -31,6 +31,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ## <a name="version-1808-april-9"></a>Version 1808: 09. April
 *Version 1808 (Build 10730.20334)*
 
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+- Behebt ein Problem in Lync (Skype for Business) bei dem bei jedem Online-Meeting mit mehr als 7 Teilnehmern das Meeting-Fenster ausgeblendet werden kann.
+
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 
 - Ein Problem wurde behoben, bei dem der Benutzer Dokumente anonym in Internet Explorer oder Edge öffnen kann.
@@ -38,7 +41,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 - In Word (Japanisch) wurde Unterstützung für das Postkarten-Assistent-Add-In für das neue japanische Zeitalter hinzugefügt. 
 
 ## <a name="version-1803-april-9"></a>Version 1803: 09. April
-In diesem Monat gibt es keine Updates.
+- Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführt
 
 ## <a name="version-1808-march-12"></a>Version 1808: 12. März
 *Version 1808 (Build 10730.20304)*
@@ -57,7 +60,7 @@ In diesem Monat gibt es keine Updates.
 - Es wurde ein Problem behoben, bei dem das Office-Update beim Herunterladen für einige Zeit nicht mehr reagiert.
 
 ## <a name="version-1803-march-12"></a>Version 1803: 12. März 
-In diesem Monat gibt es keine Updates.
+- Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführt
 
 ## <a name="version-1808-february-12"></a>Version 1808: 12. Februar
 *Version 1808 (Build 10730.20280)*
@@ -115,7 +118,7 @@ In diesem Monat gibt es keine Updates.
 
 *Dies ist die halbjährliche Kanalversion, die seit Januar 2018 zur Verfügung steht. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis März 2019. Es ist jetzt jedoch eine neue halbjährliche Kanalversion verfügbar, Version 1808 (Build 10730.20280), die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates umfasst.*
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 
 - Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
 

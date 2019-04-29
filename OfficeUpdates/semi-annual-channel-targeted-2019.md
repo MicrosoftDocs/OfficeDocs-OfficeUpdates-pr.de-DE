@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/19/2019
+ms.date: 4/25/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: cdf78723e289a421c81986fd3ccc15e199fbb6ef
-ms.sourcegitcommit: a9bf63c589b511ddc8c66c9221d20ea9654d60ea
+ms.openlocfilehash: 3afa1ce5d224beef17b8f7c2c4bdee8db7c05b9c
+ms.sourcegitcommit: 94e693acd861203b45043692b477f270f1610fe9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31958046"
+ms.lasthandoff: 04/24/2019
+ms.locfileid: "33235245"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -31,11 +31,26 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features und Nicht-S
 ## <a name="version-1902-april-9"></a>Version 1902: 09. April
 *Version 1902 (Build 11328.20230)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 
+- Behebung eines Problems, bei dem das Drücken der Tabulatortaste nicht zur nächsten Zelle führte, wenn die Zelle eine Formel enthält, die mit einem definierten Namen endet.
+- Behebung eines Problems, bei dem die Zellformatierung die Dateigröße unnötig vergrößerte.
+- Behebung eines Problems, bei dem das Ausschneiden und Einfügen einer PivotTable zwischen Arbeitsmappen zum Einfügen der Daten führen kann, ohne daß eine PivotTable für andere, mit denen Sie zusammenarbeiten, vorhanden ist.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+
+- Behebt ein Problem, bei dem Windows nicht am richtigen Speicherort angezeigt wird, wenn die Taskleiste am linken oder oberen Rand des Bildschirms gespeichert wurde.
 - Behebt ein Problem, das einen Absturz beim Laden von Bildern auf der Visitenkarte verursacht.
 - Behebt ein Problem, das beim Start von Office-Programmen in einigen Fällen Abstürze verursachte.
 - Behebt ein Problem, bei dem Windows nicht am richtigen Speicherort angezeigt wird, wenn die Taskleiste am linken oder oberen Rand des Bildschirms gespeichert wurde.
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+
+- Behebt ein Problem in Lync (Skype for Business) bei dem bei jedem Online-Meeting mit mehr als 7 Teilnehmern das Meeting-Fenster ausgeblendet werden kann.
+
+### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Updates
+
+- Behebt ein Problem, das zu Problemen mit der Fensterhierarchie für Lösungen von Drittanbietern führte, die Visio erweitern, indem sie die dynamische DPI-Funktion deaktivieren.
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 
@@ -43,6 +58,9 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features und Nicht-S
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 
+- Behebt ein Problem, bei dem Teile eines Office-Updates nicht das Peercaching der Übermittlungsoptimierung verwenden. 
+  [Weitere Informationen]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+- Behebung eines Fehlers, der dazu führen konnte, dass Produkte entfernt oder nicht aktiviert wurden, wenn Office mit dem Office-Bereitstellungstool installiert wurde und es zu abweichender Groß- und Kleinschreibung kam.
 - Behebt ein Problem, bei dem übermäßig viele Anmeldeaufforderungen auf Geräten mit Windows 10 (Version 1803 oder höher) angezeigt werden.
 - Repariert die Regression, die beim Herunterladen von verknüpften Grafiken Abstürze verursachte.
 - Die Unschärfe großer in Word, Excel und PowerPoint eingefügter EMF-Dateien wird behoben.
