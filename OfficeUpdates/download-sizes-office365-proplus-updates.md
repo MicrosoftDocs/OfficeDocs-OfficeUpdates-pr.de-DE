@@ -3,19 +3,19 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/24/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 4d636864a4fc00efcdd232e47bd36cb5e7401ce2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370217"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480117"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -35,6 +35,18 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - Es werden nur Versionen der letzten vier Monate aufgelistet.
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
+
+## <a name="april-29-2019"></a>29. April 2019
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1904 (Build 11601.20144). 
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1903 (Build 11425.20228)  <br/> |17. April 2019  <br/> |156<br/> |
+|Version 1903 (Build 11425.20244)  <br/> |22. April 2019  <br/> |146<br/> |
+
+
 
 ## <a name="april-22-2019"></a>22. April 2019
 ### <a name="monthly-channel"></a>Monatlicher Kanal
