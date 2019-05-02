@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 4/25/2019
+ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 6c0b086c3dffe6f8942359714b304e81a711b360
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: 83962a846ab8671d147ed55681d982fe905455af
+ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370287"
+ms.lasthandoff: 04/30/2019
+ms.locfileid: "33480087"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -27,6 +27,30 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
  > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+
+## <a name="version-1904-april-29"></a>Version 1904: 29. April
+*Version 1904 (Build 11601.20144)* 
+
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+
+- **Schnelle Dateisuche:** Sie suchen nach einer Datei, an der Sie kürzlich gearbeitet haben? Geben Sie einfach in das Suchfeld unter „Datei“ > „Start“ den Namen der gesuchten Datei ein.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Schnelle Dateisuche:** Sie suchen nach einer Datei, an der Sie kürzlich gearbeitet haben? Geben Sie einfach in das Suchfeld unter „Datei“ > „Start“ den Namen der gesuchten Datei ein.
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- **Schnelle Dateisuche:** Sie suchen nach einer Datei, an der Sie kürzlich gearbeitet haben? Geben Sie einfach in das Suchfeld unter „Datei“ > „Start“ den Namen der gesuchten Datei ein.
+
+### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
+
+- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+
+- **Neue Office-App-Symbole:** App-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Oberfläche von Office widerzuspiegeln.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+Behebung eines Problems, aufgrund dessen der neue Zeitname „Reiwa“ in Hiragana und Kanji als Rechtschreibfehler oder Grammatikfehler eingestuft wurde.
 
 ## <a name="version-1903-april-23"></a>Version 1903: 23. April
 *Version 1903 (Build 11425.20244)*
