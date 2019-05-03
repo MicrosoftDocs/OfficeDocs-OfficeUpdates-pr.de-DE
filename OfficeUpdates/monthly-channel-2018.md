@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: be158a65c166e7f40dc9e0cd9729d2eb7e211e93
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 0996cd0e78e8c04af4323a41d85cbee106f4eeab
+ms.sourcegitcommit: bceb0947711b9919ad002bf0901af77e285cebc7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438720"
+ms.lasthandoff: 05/03/2019
+ms.locfileid: "33568605"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -59,7 +59,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 - **Zoomen und Übernehmen:** Anstatt den Zoom jedes Mal anzupassen, wenn Sie eine Nachricht lesen, wählen Sie einen Standardwert für alle Nachrichten.  [Weitere Informationen](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Arbeiten während des Verschiebens von Nachrichten:** Outlook verschiebt Nachrichten nun im Hintergrund, sodass Sie weiterarbeiten können, während viele Nachrichten zwischen Ordnern verschoben werden.
-- **Anzeigen der LinkedIn-Details von Benutzern in Outlook:** Sie können nun beim Öffnen der Profilkarte eines Kontakts mehr über diesen Kontakt erfahren, indem Sie dessen LinkedIn-Profil ansehen.
 - **Professionelles Aktivieren und Deaktivieren des Posteingangs mit Relevanz:** Benutzer, die den Posteingang mit Relevanz nicht verwenden, können wieder die Registerkarte „Ungelesen“ in der Nachrichtenliste in allen Ordnern verwenden. Wir haben auch eine Kennzeichnung für die Sortierung hinzugefügt, damit gekennzeichnete Elemente leichter zu finden sind. Posteingang mit Relevanz weist ein besseres Interaktionsmodell mit der Suche auf: Posteingang mit Relevanz ist solange aktiviert, bis ein Benutzer eine Suche ausführt. Die Ergebnisse werden nach Abschluss der Suche angezeigt.
 - **Standardmäßiges Blockieren des Downloads externer Inhalte in SMIME-verschlüsselten und signierten E-Mails:** Aufgrund einer Schwachstelle im SMIME-Protokoll blockiert Outlook den Download externer Inhalte in Nachrichten, die über SMIME verschlüsselt oder signiert wurden. Benutzer können daher als Schutzmaßnahme vor dieser Sicherheitslücke externe Inhalte nicht mit einem einzelnen Klick über die Outlook-Benutzeroberfläche herunterladen. Es ist eine neue Option im Dialogfeld „Optionen“ vorhanden, mit der Benutzer zum alten Verhalten zurückkehren können. 
 
