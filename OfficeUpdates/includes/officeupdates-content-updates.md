@@ -3,23 +3,6 @@
 
 
 
-## <a name="week-of-march-25-2019"></a>Woche vom 25. März 2019
-
-
-| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
-|------|------------|--------|
-| 3/25/2019 | [Updateverlauf für Office Monatlicher Kanal (gezielt)](/OfficeUpdates/update-history-monthly-channel-targeted) | Geändert |
-| 3/25/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
-| 3/27/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
-| 3/27/2019 | [Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019](/OfficeUpdates/semi-annual-channel-2019) | Geändert |
-| 3/27/2019 | [Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | Geändert |
-| 3/27/2019 | [Anmerkungen zur Version für Office für Mac](/OfficeUpdates/release-notes-office-for-mac) | Geändert |
-| 3/27/2019 | [Updateverlauf für Office für Mac](/OfficeUpdates/update-history-office-for-mac) | Geändert |
-| 3/27/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
-| 3/27/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
-| 3/28/2019 | [Updateverlauf für Office für Mac](/OfficeUpdates/update-history-office-for-mac) | Geändert |
-
-
 ## <a name="week-of-april-01-2019"></a>Woche vom 01. April 2019
 
 
@@ -88,19 +71,19 @@
 | 4/19/2019 | [Anmerkungen zur Version für Office für Mac](/OfficeUpdates/release-notes-office-for-mac) | Geändert |
 
 
-## <a name="week-of-april-22-2019"></a>Woche vom 2019
+## <a name="week-of-april-22-2019"></a>Woche vom 22. April 2019
 
 
 | Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
 |------|------------|--------|
-| 4/23/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
-| 4/23/2019 | [Updateverlauf für Office Monatlicher Kanal (gezielt)](/OfficeUpdates/update-history-monthly-channel-targeted) | Geändert |
-| 4/23/2019 | [Update Verlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | Geändert |
-| 4/23/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
-| 4/23/2019 | [Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | Geändert |
-| 4/23/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
-| 4/23/2019 | [Anmerkungen zur Version für Office 2016 für Mac](/OfficeUpdates/release-notes-office-2016-mac) | Geändert |
-| 4/23/2019 | [Updateverlauf für Office für Mac](/OfficeUpdates/update-history-office-for-mac) | Geändert |
+| 23.04.2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
+| 23.04.2019 | [Updateverlauf für Office Monatlicher Kanal (gezielt)](/OfficeUpdates/update-history-monthly-channel-targeted) | Geändert |
+| 23.04.2019 | [Update Verlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | Geändert |
+| 23.04.2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
+| 23.04.2019 | [Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | Geändert |
+| 23.04.2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
+| 23.04.2019 | [Anmerkungen zur Version für Office 2016 für Mac](/OfficeUpdates/release-notes-office-2016-mac) | Geändert |
+| 23.04.2019 | [Updateverlauf für Office für Mac](/OfficeUpdates/update-history-office-for-mac) | Geändert |
 | 4/24/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
 | 4/24/2019 | [Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019](/OfficeUpdates/semi-annual-channel-2019) | Geändert |
 | 4/24/2019 | [Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019](/OfficeUpdates/semi-annual-channel-targeted-2019) | Geändert |
@@ -110,3 +93,19 @@
 | 4/26/2019 | [Anmerkungen zu dieser Version für Office-Insider](/OfficeUpdates/release-notes-office-insider) | Geändert |
 | 4/26/2019 | [Anmerkungen zur Version für Office für Mac](/OfficeUpdates/release-notes-office-for-mac) | Geändert |
 | 4/27/2019 | [Updateverlauf für Office Monatlicher Kanal (gezielt)](/OfficeUpdates/update-history-monthly-channel-targeted) | Geändert |
+
+
+## <a name="week-of-april-29-2019"></a>Woche vom 2019
+
+
+| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
+|------|------------|--------|
+| 4/29/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
+| 4/29/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
+| 4/29/2019 | [Update Verlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | Geändert |
+| 4/29/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
+| 5/1/2019 | [Anmerkungen zur Version für Office für Mac](/OfficeUpdates/release-notes-office-for-mac) | Geändert |
+| 5/2/2019 | [Update Verlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | Geändert |
+| 5/2/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018](/OfficeUpdates/monthly-channel-2018) | Geändert |
+| 5/3/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
+| 5/3/2019 | [Anmerkungen zu dieser Version für Office-Insider](/OfficeUpdates/release-notes-office-insider) | Geändert |
