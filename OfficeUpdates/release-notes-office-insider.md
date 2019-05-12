@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 4/26/2019
+ms.date: 5/10/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 8832e521d85c7049518bd5063250b934a7938fd2
-ms.sourcegitcommit: 50fa013c6f09b90f3e606df3b540f257410c7905
+ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
+ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/28/2019
-ms.locfileid: "33370187"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33882764"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -24,6 +24,65 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
+
+## <a name="may-10-2019"></a>10. Mai 2019
+Version 1906 (Build 11702.20000)
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+- Ein Problem wurde behoben, bei dem im Dialogfeld "Speichern unter" manchmal ein falscher Pfad angezeigt wurde.
+
+### <a name="word"></a>Word 
+- Ein Problem wurde behoben, bei dem einige Auswahloptionen aus der Funktion "Was möchten Sie tun?" nicht eingefügt wurden.
+
+### <a name="excel"></a>Excel
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, bei dem Aufgaben-IDs manchmal nur angezeigt wurden, wenn sie markiert wurden.
+
+</BR></BR>
+
+## <a name="may-3-2019"></a>3. Mai 2019
+Version 1906 (Build 11629.20008)
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+- Ein Problem wurde behoben, bei dem bei einigen Benutzern Probleme beim Synchronisieren mit OneDrive for Business auftraten.
+
+### <a name="word"></a>Word 
+
+### <a name="excel"></a>Excel
+- Ein Problem wurde behoben, bei dem externe Links nach dem Upgrade auf eine neuere Version von Excel manchmal aus Arbeitsmappen entfernt wurden.
+- Ein Problem wurde behoben, bei dem einige Benutzern Schwierigkeiten beim Auswählen von Zellen in einer neuen Arbeitsmappen hatten.
+
+### <a name="powerpoint"></a>PowerPoint
+- Ein Problem wurde behoben, bei dem Schriftgrade beim Konvertieren von Freihandzeichnungen in Text nicht konsistent waren.
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, bei dem das Speichern eines Kontakts aus einer VCF-Datei zu leeren Feldern führen konnte.
+- Ein Problem wurde behoben, bei dem eine Nachricht im Ordner "Postausgang" stecken blieb, obwohl sie gesendet wurde.
+- Ein Problem wurde behoben, bei dem Outlook beim Anzeigen einer DRM-Meldung abstürzte.
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, bei dem der Editor von Chinesisch auf Englisch wechselte.
+- Ein Problem wurde behoben, bei dem unveröffentlichte Aufgaben manchmal in der veröffentlichten Kopie eines Hauptprojekts angezeigt wurden.
+
+</BR></BR>
 
 ## <a name="april-26-2019"></a>26. April 2019
 Version 1905 (Build 11617.20002)
