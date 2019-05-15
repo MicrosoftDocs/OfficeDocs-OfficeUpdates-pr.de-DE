@@ -3,19 +3,18 @@ title: Downloadgrößen für Updates von Office 365 ProPlus
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 7020dd834265b708888f8bc7fc1caf5a48ccb652
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: a9580e323499f1e3493a4fd07646363ba228e8d2
+ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480117"
+ms.lasthandoff: 05/15/2019
+ms.locfileid: "34034481"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -27,7 +26,7 @@ Unser Ziel ist es, eine Woche vor einer Veröffentlichung Informationen zur Upda
 
 Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates in einer bestimmten Version finden Sie in den [Anmerkungen zur Version für Office 365 ProPlus](release-notes-office365-proplus.md).
 
-  
+ 
 > [!NOTE]
 > - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x64-Version (Englisch USA) von Office 365 ProPlus. (Alle Versionen vor 13 März 2019 zeigen x86-Größen an.)
 > - Alle Downloadgrößen sind nur ungefähre Angaben. Die tatsächlichen Downloadgrößen können abweichen, möglicherweise um bis zu 50 MB. 
@@ -36,6 +35,34 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
 
+## <a name="may-14-2019"></a>14. Mai 2019
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1904 (Build 11601.20204).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1904 (Build 11601.20178)  <br/> |8. Mai 2019  <br/> |185<br/> |
+|Version 1904 (Build 11601.20144)  <br/> |29. April 2019  <br/> |188<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1808 (Build 10730.20344).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20334) <br/> |9. April 2019  <br/> |72<br/> |
+|Version 1808 (Build 10730.20304)  <br/> |12. März 2019  <br/> |82<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1902 (Build 11328.20286).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20230)  <br/> |9. April 2019  <br/> |72 <br/> |
+|Version 1902 (Build 11328.20158)  <br/> |12. März 2019  <br/> |76 <br/> |
+
 ## <a name="april-29-2019"></a>29. April 2019
 ### <a name="monthly-channel"></a>Monatlicher Kanal
 
@@ -43,15 +70,14 @@ Die neueste Version ist Version 1904 (Build 11601.20144).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
+|Version 1904 (Build 11425.20244)  <br/> |22. April 2019  <br/> |151<br/> |
 |Version 1903 (Build 11425.20228)  <br/> |17. April 2019  <br/> |156<br/> |
-|Version 1903 (Build 11425.20244)  <br/> |22. April 2019  <br/> |146<br/> |
-
 
 
 ## <a name="april-22-2019"></a>22. April 2019
 ### <a name="monthly-channel"></a>Monatlicher Kanal
 
-Die neueste Version ist Version 1903 (Build 11425.20244). 
+Die neueste Version ist Version 1903 (Build 11425.20244).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
