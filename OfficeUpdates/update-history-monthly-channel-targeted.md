@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: efa3ea366478529d033786c53f4c19a4ff893383
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 79b699861abccf27f37a0f20f066f41667476df8
+ms.sourcegitcommit: a91987b2cd720f39376703edaed6283f968d8e5c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834804"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34107674"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -30,6 +30,12 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen
 
 [//]: # (NICHT ENTFERNEN)
+
+**16. Mai 2019**<br/>
+Version 1905 (Build 11629.20136)<br/>
+
+**14. Mai 2019**<br/>
+Version 1904 (Build 11601.20204)<br/>
 
 **8. May 2019**<br/>
 Version 1904 (Build 11601.20178)<br/>
@@ -99,7 +105,7 @@ Version 1903 (Build 11425.20204)<br/>
 
 
   [
-  ![Abbildung des Facebook-Symbols. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+  ![Abbildung des Facebook-Symbols. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/de-DE/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Neue Features zuerst erhalten**
