@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/10/2019
+ms.date: 5/17/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: d9354b646128cbcd4bb7f7fbba2fa78b2c0884ae
-ms.sourcegitcommit: 146625160572599e6f02b5129e6ac7bf518ce2f9
+ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
+ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/10/2019
-ms.locfileid: "33882764"
+ms.lasthandoff: 05/17/2019
+ms.locfileid: "34161564"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -24,6 +24,117 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
+
+## <a name="may-17-2019"></a>17. Mai 2019
+Version 1906 (Build 11708.20006)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="user-experience-updates"></a>Updates für die Benutzeroberfläche
+
+Updates, die als „Bald verfügbar“ angezeigt wurden, sind jetzt verfügbar. Dazu gehört das vereinfachte Menüband sowie ein überarbeitetes Design für den Ordnerbereich, die Nachrichtenliste und den Lesebereich.
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Diese Änderungen sind Bestandteil der neuen Standardbenutzeroberfläche. Sie waren bereits seit Mitte Dezember zu 100% verfügbar, jedoch nur bei Aktivierung des Schalters „in Kürze verfügbar“.
+
+#### <a name="customizable-simplified-ribbon"></a>Anpassbares vereinfachtes Menüband
+
+Sie können einfach zwischen klassischer und vereinfachter Ansicht sowie den Befehlen "Anheften" und "Lösen" wechseln.
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Benutzer können zum vereinfachten Menüband wechseln, indem Sie zuerst „in Kürze verfügbar“ einschalten und dann auf das Chevron im Menüband klicken, um zwischen dem klassischen, mehrzeiligen Menüband und dem neuen, vereinfachten, einreihigen Menüband zu wechseln.
+
+##### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Wechseln zwischen dem klassischen Menüband und dem vereinfachten Menüband
+
+#### <a name="pick-your-favorite-action"></a>Wählen Sie Ihre bevorzugte Aktion aus
+
+Sie möchten „Kennzeichnen“ und „Löschen“ nicht verwenden? Wie sieht es mit „Archivieren“ oder „Als gelesen markieren2 aus? Passen Sie das Menü mit schnellen Aktionen mit den am häufigsten verwendeten Befehlen an.
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Wenn Sie Ihre schnellen Aktionen auswählen möchten, klicken Sie mit der rechten Maustaste auf eine e-Mail in der Nachrichtenliste, um das Kontextmenü aufzurufen. Klicken sie dann auf „Schnelle Aktionen festlegen...“.
+
+##### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Ändern der Standardeinstellungen von „Kennzeichnen“ und „Löschen“ in „Archivieren“, „Bewegen“, „als gelesen markieren" oder "keine" für eine übersichtlichere Nachrichtenliste
+
+#### <a name="relaxed-or-tighter-layout-you-choose"></a>Aufgelockertes oder engeres Layout? Sie haben die Wahl!
+
+Sie können entscheiden, ob Sie zwischen Elementen mehr Abstand wünschen oder ob Sie mehr Elemente in einem engeren Layout bevorzugen.
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+In der Registerkarte „Ansicht“ das Kontrollkästchen „engere Abstände" aktivieren. Zu finden in „Nachrichten“ im klassischen Menüband; in „Aktuelle Ansichtseinstellungen“ im vereinfachten Menüband.
+
+##### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Verwenden Sie Outlook, um e-Mail-Nachrichten zu selektieren und zu schreiben, ohne die Einstellung zu aktivieren. Bei Verwendung von „engere Abstände“ werden mehr Nachrichten pro Seite angezeigt, und die Steuerelemente in den Ansichten „Verfassen“ sind übersichtlicher.
+
+#### <a name="dedupe-mru-entries-when-using-the-onedrive-sync-client"></a>Deduplizieren von MRU-Einträgen bei Verwendung des Onedrive-Synchronisierungs Clients
+
+Bessere Integration des OneDrive-Synchronisierungsclients mit Cloud-Anlagen durch Deduplizierung der MRU-Einträge und Aktivieren des schnelleren Anfügens als Kopierverhalten für synchronisierte Daten
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Wenn Sie den OneDrive-Synchronisierungsclient verwenden, werden in den „Datei anfügen“-MRU-Einträgen keine Dateiduplikate mehr angezeigt.
+
+##### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Aktivieren des OneDrive-Synchronisierungsclients und Verwenden des Menüs „Datei anfügen“ in der Outlook-Desktopanwendung
+
+#### <a name="improved-shared-folder-synchronization-for-mailboxes-with-many-folders"></a>Verbesserte Synchronisierung von freigegebenen Ordnern für Postfächer mit vielen Ordnern
+
+Seit Jahren ist Outlook beim Synchronisieren von freigegebenen Postfächern auf maximal 500 Ordner beschränkt. Mit dieser Änderung wurde Outlook so verbessert, dass es auf eine Weise synchronisiert wird, die dieser Beschränkung auf 500 Ordner nicht mehr unterliegt.
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Erstellen Sie in einem Postfach 1000 Ordner, geben Sie einer anderen Person Zugriff auf das Postfach, erstellen Sie ein Outlook-Profil für diese andere Person, und vergewissern Sie sich, dass die Synchronisierung funktioniert.
+
+### <a name="word"></a>Word
+
+#### <a name="erase-just-a-little-bit"></a>Nur ein wenig löschen
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Wechseln Sie zur Registerkarte „Zeichnen“, und wählen Sie die Dropdownliste „Radierer“ aus. Wählen Sie den kleinen Radierer oder den mittleren Radierer aus.
+
+##### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Wechseln Sie zur Registerkarte „Zeichnen“, und wählen Sie einen Stift aus. Zeichnen Sie einen Strich. Wählen Sie die Dropdownliste „Radierer“ aus. Wählen Sie den kleinen Radierer oder den mittleren Radierer aus. Radieren Sie nur Teile des Striches aus.
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle 
+- Wir haben ein Problem behoben, welches einige Nutzer daran hindern konnte eine PDF-Datei zu speichern.
+- Wir haben ein Problem behoben, welches sich auf Nutzer ausgewirkt hat, die große Dateien auf einem 32-Bit System speicherten.
+
+### <a name="word"></a>Word 
+- Die Reaktionsfähigkeit des Diktat-Features wurde erheblich verbessert.
+
+### <a name="excel"></a>Excel
+- Wir haben ein Problem behoben, bei dem Doppelklick-Ereignisse auf Touchscreen-Geräten fehlschlagen konnten.
+- Wir haben ein Problem behoben, welches einige Nutzer daran hindern konnte VBA Makros zu bearbeiten.
+- Wir haben ein Problem behoben, welches sich auf die Performance bei der Nutzung von Slicers auswirken konnte.
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Es wurde ein Problem behoben, bei dem statt der ausgewählten Vorlage eine falsche angezeigt wurde.
+
+### <a name="access"></a>Access
+- Wir haben ein Problem behoben, bei dem bei der Verwendung von Zoom Builder zum Anzeigen langer Rich Text schwer lesbar sein konnte.
+
+### <a name="project"></a>Projekt
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+</BR></BR>
 
 ## <a name="may-10-2019"></a>10. Mai 2019
 Version 1906 (Build 11702.20000)
@@ -62,6 +173,7 @@ Version 1906 (Build 11629.20008)
 - Ein Problem wurde behoben, bei dem bei einigen Benutzern Probleme beim Synchronisieren mit OneDrive for Business auftraten.
 
 ### <a name="word"></a>Word 
+- Ein Problem wurde behoben, bei dem Word in einigen Fällen sehr lange zum Starten brauchte.
 
 ### <a name="excel"></a>Excel
 - Ein Problem wurde behoben, bei dem externe Links nach dem Upgrade auf eine neuere Version von Excel manchmal aus Arbeitsmappen entfernt wurden.
@@ -200,7 +312,7 @@ Version 1904 (Build 11527.20014)
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="all-applications"></a>Alle Anwendungen
- - Wir haben ein Problem behoben, bei dem das Symbol für eine falsche App für Excel in Kontextmenüs nicht ordnungsgemäß angezeigt wurde.
+- Wir haben ein Problem behoben, bei dem das Symbol für eine falsche App für Excel in Kontextmenüs nicht ordnungsgemäß angezeigt wurde.
 - Wir haben ein Problem behoben, bei dem die Menüschaltfläche „Datei“ nach der Installation eines Updates nicht angezeigt wurde.
 - Wir haben ein Problem behoben, bei dem Ihre Benutzerlizenz geändert wurde.
 
