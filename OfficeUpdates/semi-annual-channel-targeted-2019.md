@@ -3,18 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
+ms.date: 5/15/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 597d96593b2b82a9d7e6e85c55c4fafa58bf2b63
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: 8408b1a62691dd56647ee3071da43233b712a772
+ms.sourcegitcommit: 5815b2af46b57f1435486ceca0125c06ca6be106
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034496"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34337109"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -32,8 +33,15 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features und Nicht-S
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
  -  Ein Fehler wurde behoben, bei dem das Arbeitsblatt nicht mehr reagierte, nachdem das Kamera-Werkzeug in Excel benutzt wurde.
+ - Ein Fehler wurde behoben, der beim Verwenden des Mausrads in einem inaktiven Fenster mit einem Diagrammblatt zu einem Absturz führte.
+ - Ein Problem wurde behoben, durch das beim Importieren einer Kalkulationstabelle in SharePoint eine Meldung vom Typ "Unerwarteter Fehler" angezeigt wurde.
+ - Ein Problem, das dazu geführt hat, dass Excel abstürzt, wenn eine Arbeitsmappe mit bedingter Formatierung geöffnet wird, die einen Namen für die Regel verwendet und auf die eine benutzerdefinierte Darstellung angewendet wurde, wurde gelöst.
+ - Makros, die die Datenüberprüfung mit Formeln mit mehr als 255 Zeichen verwenden, haben möglicherweise Laufzeitfehler verursacht. Dieses Problem wurde nun behoben.
+ - Ein Problem, das bewirkt, dass Dateien, die PivotTables enthalten, welche mit anderen Arbeitsmappen verknüpft sind, langsam geladen werden. Dieses Problem wurde gelöst.
+ - Ein Problem beim Öffnen von HTML-Dateien, das einen Fehler vom Typ „Dateiformat und -Erweiterung stimmen nicht überein" ausgelöst hatte, wurde behoben.
+ - Es wurde eine Änderung vorgenommen, um Probleme zu beheben, die beim Mausrad-Scrollen auf inaktiven Fenstern auftraten.  
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
  - Behebt ein Problem, aufgrund dessen Kunden nicht in der Lage sind, einige Felder von Elementen zu bearbeiten, die migriert wurden.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
