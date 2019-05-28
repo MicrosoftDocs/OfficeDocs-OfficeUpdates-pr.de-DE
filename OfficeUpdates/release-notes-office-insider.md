@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: a747d7cf04b1429ea81f0740f571708a1ff539d9
-ms.sourcegitcommit: 92ef2d0ee2d901d59288ffbbd0cf6d1da2d45bf7
+ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
+ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/17/2019
-ms.locfileid: "34161564"
+ms.lasthandoff: 05/24/2019
+ms.locfileid: "34432413"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -24,6 +24,42 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
+
+## <a name="may-24-2019"></a>24. Mai 2019
+Version 1906 (build 11715.20002)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+#### <a name="user-experience-updates"></a>Updates für die Benutzeroberfläche
+
+Updates, die als „Bald verfügbar“ angezeigt wurden, sind jetzt verfügbar. Dazu gehört das vereinfachte Menüband sowie ein überarbeitetes Design für den Ordnerbereich, die Nachrichtenliste und den Lesebereich.
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+
+- Ein Problem wurde behoben, bei dem der Chat-Bereich nicht angezeigt wurde
+
+### <a name="word"></a>Word 
+- Ein Problem wurde behoben, bei dem in manchen Fällen Text fälschlicherweise als Grammatikfehler hervorgehoben werden konnte.
+
+### <a name="excel"></a>Excel
+- Ein Problem wurde behoben, bei dem ein falsches Symbol für Diagrammelemente verwendet wurde
+- Ein Problem wurde behoben, bei dem die falsche Arbeitsmappe in einem VBA-Skript aktiviert werden konnte, wenn die gleiche Mappe bereits geöffnet war.
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, bei dem das Projekt nach dem Wechsel zur Taskleiste abstürzen konnte.
+
+</BR></BR>
 
 ## <a name="may-17-2019"></a>17. Mai 2019
 Version 1906 (Build 11708.20006)
@@ -278,6 +314,22 @@ Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagr
 ## <a name="april-12-2019"></a>12. April 2019
 Version 1905 (Build 11601.20042)
 
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="access"></a>Access
+
+#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Neu in Access – Daten-Connector zu Microsoft Graph
+
+Verknüpfen mit oder Importieren von Microsoft Graph Services zum Erstellen von Anwendungen, die intelligente, kontextbezogene Daten aus Graph nutzen können
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+Wählen Sie die Registerkarte „externe Daten“ im Menüband, klicken Sie auf neue Datenquellen, und suchen Sie im Menü „Online-Dienste" nach dem neuen Graph-Connector
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Importieren von oder Verknüpfen mit verschiedenen Graph-Diensten, einschließlich Personen, Gruppen und OneDrive Elementen.
+
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="all-applications"></a>Alle Anwendungen
@@ -308,6 +360,55 @@ Version 1905 (Build 11601.20042)
 
 ## <a name="april-5-2019"></a>5. April 2019
 Version 1904 (Build 11527.20014)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="outlook-for-windows--set-and-share-your-focused-inbox-settings"></a>Outlook für Windows: Festlegen und Teilen Ihrer Einstellungen für „Posteingang mit Relevanz"
+
+Ihre Einstellungen für "Posteingang mit Relevanz" werden in der Cloud gespeichert, sodass Sie auf jedem verwendeten Computer die gleiche konsistente Umgebung für Outlook für Windows und Outlook im Web erhalten.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+Unter „Datei" > „Optionen" > Registerkarte „Allgemein" gibt es eine neue Einstellung für „Meine Outlook-Einstellungen in der Cloud speichern". Benutzer müssen das Kontrollkästchen aktivieren, damit ihre Einstellungen für "Posteingang mit Relevanz" für andere Desktopinstallationen von Outlook und OWA übernommen werden.
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Ändern Sie auf dem Computer, auf dem die Einstellung für die Cloudeinstellungen aktiviert ist, den Posteingang mit Priorität. Navigieren Sie zu OWA, und sehen Sie sich die dort angewendete Einstellung an. Ändern Sie den „Posteingangs mit Relevanz“ in OWA und starten Sie Outlook für Desktop, um die Einstellungen anzuzeigen.
+
+### <a name="word"></a>Word
+
+#### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>Der Modus „Lerntools" unterstützt weitere Seitenfarben.
+
+Lerntools in Word unterstützt weitere Farben für Seitendesigns, wodurch die Hintergrundfarbe der Seite geändert werden kann.  Viele Personen haben Herausforderungen beim Lesen mit einem ganz weißen oder schwarzem Hintergrund, deshalb haben wir die Auswahl von Farben in Word auf PC und Mac erweitert.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+Um dies auszuprobieren, wechseln Sie zur Registerkarte „Anzeige", und wählen Sie „Lerntools", dann „Seitenfarbe" aus.
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Um dies auszuprobieren, wechseln Sie zur Registerkarte „Anzeige", und wählen Sie „Lerntools", dann „Seitenfarbe" aus.
+
+### <a name="excel"></a>Excel
+
+#### <a name="elevate-creativity-with-animated-3d-models"></a>Kreativität durch animierte 3D-Modelle steigern
+
+Office unterstützt jetzt animierte Modelle, die im Editor wiedergegeben werden, damit Sie Ihre Arbeitsblätter zum Leben erwecken können!
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+1. Öffnen Sie Excel
+2. Fügen Sie ein animiertes 3D-Modell ein (demnächst in Remix verfügbar, bereits jetzt können Sie hier auf animierte Modelle zugreifen: \\osan\ogx\Public\TestFiles\3D Models\Animated3D\C3Art)
+3. Das animierte Modell wird im Editor wiedergegeben! Wechseln Sie in den Bildschirmpräsentationsmodus – es wird auch dort wiedergegeben werden!
+4. Im Menüband 3D-Format finden Sie noch weitere animierte Szenen.
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+1. Fügen Sie ein 3D-Modell ein und betrachten Sie dessen Animation im Editor.
+2. Entdecken Sie die im animierten Modell verfügbaren Animationsszenen in der Szenengalerie, zu finden im Menüband 3D-Format
+3. Die Animation kann ganz einfach über das Menüband, den Floatie oder die Leertaste wiedergegeben oder pausiert werden.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -378,6 +479,22 @@ Version 1904 (Build 11514.20004)
 ## <a name="march-15-2019"></a>15. März 2019
 Version 1904 (Build 11504.20000)
 
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="word"></a>Word
+
+#### <a name="focus-mode"></a>Fokusmodus
+
+Wechseln Sie im Menü Ansicht in den Fokusmodus, damit Sie nicht abgelenkt werden und sich auf Ihre Arbeit konzentrieren können. Nur für Abonnenten von Office 365.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+Zugriff durch Schaltfläche „Fokus" auf der Registerkarte „Anzeige".
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Schalten Sie den Fokusmodus ein und erleben Sie die fokussierte Benutzererfahrung
+
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="word"></a>Word 
@@ -421,7 +538,19 @@ Mit Microsoft Search können Sie alle Dateien, Aktionen, Personen und Hilfetheme
 
 - Suchen nach einer Hochschule, einem aktuellen Dokument oder den Menübandbefehlen, die Sie am häufigsten verwenden
 - Nachschlagen eines Themas, um mehr Informationen darüber zu erhalten
+- 
+#### <a name="coauthoring"></a>CoAuthoring
 
+Sind Sie es leid, von Ihren Dokumenten mit Makros ausgesperrt zu werden? Jetzt ist die gleichzeitige Bearbeitung durch mehrere Autoren für Ihre docm-Dateien in OneDrive for Business möglich.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+Der Benutzer muss keine Schaltflächen auf der Benutzeroberfläche drücken, um auf diese Funktion zuzugreifen. Sie ist in OneDrive for Business docm-Dateien standardmäßig aktiviert.
+Deshalb sollte der Benutzer eine docm-Datei in OneDrive for Business speichern, um dies auszuprobieren.
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Erstellen Sie eine docm-Datei auf OneDrive for Business, teilen Sie sie mit Ihren Kollegen, und arbeiten Sie gemeinsam daran!
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -452,6 +581,21 @@ Mit Microsoft Search können Sie alle Dateien, Aktionen, Personen und Hilfetheme
 ## <a name="march-1-2019"></a>1. März 2019 
 Version 1903 (Build 11414.20014)
 
+## <a name="whats-new"></a>Neuerungen
+
+### <a name="word"></a>Word
+
+#### <a name="colors-for-track-changes-comments-and-real-time-collaboration-in-sync"></a>Farben für „Änderungen nachverfolgen", Kommentare und Echtzeitzusammenarbeit jetzt synchronisiert:
+
+Korrekturen in unserem Produkt stellen nun sicher, dass Kommentare, Änderungsnachverfolgung und der Cursor für einen Projektmitarbeiter in der gleichen Farbe angezeigt werden.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+Öffnen Sie ein SharePoint- oder OneDrive-Dokument, das andere Personen geöffnet haben. Vergewissern Sie sich, dass das Nachverfolgen von Änderungen und die Farbe der Kommentare für einen Benutzer mit der Farbe des Cursors eines Benutzers übereinstimmt.
+
+#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
+
+Öffnen Sie ein SharePoint- oder OneDrive-Dokument, das andere Personen geöffnet haben. Vergewissern Sie sich, dass das Nachverfolgen von Änderungen und die Farbe der Kommentare für einen Benutzer mit der Farbe des Cursors eines Benutzers übereinstimmt.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
