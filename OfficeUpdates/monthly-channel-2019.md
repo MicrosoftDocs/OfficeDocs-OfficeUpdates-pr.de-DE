@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: b7719bf3c8fd69aa43a9a680a68ae26d00a63878
-ms.sourcegitcommit: 91533ef9a8358bfe6162b4f4913ebcc4c0f928cc
+ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/09/2019
-ms.locfileid: "33834814"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549742"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -22,10 +22,71 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
  
  > [!NOTE]
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt. 
+> - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+
+## <a name="version-1905-may-29"></a>Version 1905: 29. Mai
+*Version 1905 (Build 11629.20196)*
+
+### <a name="access-feature-updates"></a>Access: Featureupdates
+
+- **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+
+- **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **In Kürze verfügbar:** Sehen Sie, welche interessanten Änderungen in Kürze bei Office anstehen, probieren Sie sie aus, und geben Sie uns Feedback. [Weitere Informationen](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **Effektivere Zusammenarbeit mit @erwähnen in Kommentaren:** Zusammenarbeiten wurde soeben erheblich einfacher! Jetzt können Sie Teammitglieder in Dokumentkommentaren erwähnen, und diese erhalten automatisch eine E-Mail-Benachrichtigung, die sie in das Dokument einbezieht.
+
+- **Verbesserungen bei der gemeinsamen Arbeit an Dokumenten:** Während der gemeinsamen Dokumenterstellung wurde die Erfolgsrate beim Arbeiten mit bedingter Formatierung, Zellformatvorlagen, Bereichsschutz, Gitternetzlinien und beim Ausschneiden/Einfügen über verschiedene Arbeitsblätter hinweg verbessert. 
+
+### <a name="outlook"></a>Outlook
+
+- **Eine schnellere Methode, um Konten hinzuzufügen:** Dank der Verbesserungen beim Einrichten von Konten ist es einfacher denn je, Outlook.com- und Gmail-Konten mit zweistufiger Authentifizierung zu Outlook hinzuzufügen. [Weitere Informationen](https://support.office.com/article/70191667-9c52-4581-990e-e30318c2c081)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Live-Beschriftungen und -Untertitel:** die Worte des Referenten werden automatisch als Beschriftungen oder Untertitel in der von Ihnen gewünschten Sprache auf dem Bildschirm angezeigt. [Weitere Informationen](https://support.office.com/article/d68d20e49-aec3-456a-939d-34a79e8ddd5f)
+
+- **In Kürze verfügbar:** Sehen Sie, welche interessanten Änderungen in Kürze bei Office anstehen, probieren Sie sie aus, und geben Sie uns Feedback. [Weitere Informationen](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+- **Effektivere Zusammenarbeit mit @erwähnen in Kommentaren:** Zusammenarbeiten wurde soeben erheblich einfacher! Jetzt können Sie Teammitglieder in Dokumentkommentaren erwähnen, und diese erhalten automatisch eine E-Mail-Benachrichtigung, die sie in das Dokument einbezieht.
+
+### <a name="project-feature-updates"></a>Project: Featureupdates
+
+- **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
+
+- **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Power BI-Berichte, die in die PDF-, PPT- oder E-Mail-Abonnement-Version exportiert wurden, werden nun auch über Visio Visual verfügen:** Wenn Sie Ihre Power BI-Berichte in PDF, PPT oder ein E-Mail-Abonnement exportieren, wird Visio Visual in diesen exportierten Formaten nahtlos gerendert. [Weitere Informationen](https://support.office.com/article/4f09be62-f436-45c2-93b0-4a0f66b1f5a7)
+
+### <a name="word-feature-updates"></a>Word: Featureupdates  
+
+- **Effektivere Zusammenarbeit mit @erwähnen in Kommentaren:** Zusammenarbeiten wurde soeben erheblich einfacher! Jetzt können Sie Teammitglieder in Dokumentkommentaren erwähnen, und diese erhalten automatisch eine E-Mail-Benachrichtigung, die sie in das Dokument einbezieht.
+
+- **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
+
+- **Der Modus „Lerntools“ bietet zusätzliche Unterstützung für weitere Seitenfarben:** Lerntools in Word unterstützt weitere Farben für Seitendesigns, wodurch die Hintergrundfarbe der Seite geändert werden kann.  Viele Personen haben Herausforderungen beim Lesen mit einem ganz weißen oder schwarzem Hintergrund, deshalb haben wir die Auswahl von Farben in Word auf PC und Mac erweitert.
+
+- **In Kürze verfügbar:** Sehen Sie, welche interessanten Änderungen in Kürze bei Office anstehen, probieren Sie sie aus, und geben Sie uns Feedback. [Weitere Informationen](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+## <a name="version-1904-may-22"></a>Version 1904: 22. Mai
+*Version 1904 (Build 11601.20230)*
+
+Dies behandelt ein Problem, bei dem Benutzer die neue Datenschutz Aufforderung bei jedem Anwendungsstart sehen, auch nachdem Sie eine Auswahl für ihre Datenschutzebene getroffen und diese festgelegt haben.
+
+## <a name="version-1904-may-14"></a>Version 1904: 14. Mai 
+*Version 1904 (Build 11601.20204)*
+
+ - Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/OfficeUpdates/office365-proplus-security-updates) aufgeführt
 
 ## <a name="version-1904-may-08"></a>Version 1904: 8. Mai 
 *Version 1904 (Build 11601.20178)* 
@@ -164,7 +225,8 @@ Behebung eines Problems, aufgrund dessen der neue Zeitname „Reiwa“ in Hiraga
  
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 
-- **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/DeployOffice/teams-install)
+- 
+  **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901: 12. Februar
 *Version 1901 (Build 11231.20174)* 
@@ -187,6 +249,10 @@ Sicherheitsupdates sind [hier](office365-proplus-security-updates.md) aufgeführ
 - **Zweiter Blick auf Datenflussdiagramme:** Attraktive neue Layouts für Data Visualizer-Flussdiagramme sind übersichtlich, klar und einfach zu verstehen. [Weitere Informationen](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
 - **Integrierte Azure Schablonen:** Entwerfen Sie eine Cloud-App, oder planen Sie eine Architektur mithilfe von Dutzenden von Azure-Schablonen. [Weitere Informationen](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- **Verwandeln Sie ihr Dokument von statisch in erstaunlich:** Verwandeln Sie Ihr Dokument in eine interaktive, einfach freizugebende Webseite, die auf jedem Gerät großartig aussieht. [Weitere Informationen](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
 
 ### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 
@@ -224,8 +290,7 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
 - **Verbessern Sie mit Fokus Linie das Verständnis:** Gehen Sie ohne Ablenkungen von Zeile zu Zeile durch ein Dokument. Passen Sie den Fokus an, um eine, drei oder fünf Zeilen gleichzeitig in die Ansicht zu setzen. [Weitere Informationen](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
-- **Verwandeln Sie ihr Dokument von statisch in erstaunlich:** Verwandeln Sie Ihr Dokument in eine interaktive, einfach freizugebende Webseite, die auf jedem Gerät großartig aussieht. [Weitere Informationen](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **Führen Sie während der Arbeit mit die Barrierefreiheitsprüfung aus:** Behalten Sie Barrierefreiheitsprobleme in Ihrem Dokument im Auge, ohne die Barrierefreiheitsprüfung immer zu öffnen. Word zeigt während Sie arbeiten in der Statusleiste gefundene Barrierefreiheitsprobleme an, ähnlich wie bei der Rechtschreibprüfung. 
+- **Führen Sie während der Arbeit mit die Barrierefreiheitsprüfung aus:** Behalten Sie Barrierefreiheitsprobleme in Ihrem Dokument im Auge, ohne die Barrierefreiheitsprüfung immer zu öffnen. Word zeigt während Sie arbeiten in der Statusleiste gefundene Barrierefreiheitsprobleme an, ähnlich wie bei der Rechtschreibprüfung.
 
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates
 
