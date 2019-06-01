@@ -3,24 +3,22 @@ title: Updateverlauf für Office 365 ProPlus (nach Datum)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 4/30/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 9164af0880b564149beafdf2f6a2145714522a57
-ms.sourcegitcommit: 7180e0cecf76b5e7edc3a5d41238da15901ec1fd
+ms.openlocfilehash: 6f5a66ffd501c9c6e32eaa3eb9619260e6a06959
+ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2019
-ms.locfileid: "33480097"
+ms.lasthandoff: 05/30/2019
+ms.locfileid: "34549752"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
 Office 365 ProPlus wird regelmäßig mit neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates aktualisiert. Diese Updates werden über [Updatekanäle](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus) veröffentlicht. Jeder Veröffentlichung in den einzelnen Updatekanälen ist eine Versions- und Buildnummer zugewiesen. 
-
 
 > [!NOTE]
 > - Diese Versions- und Buildnummern gelten auch für Office 365 Business, Visio Pro für Office 365 und Project Online-Desktopclient. Office 365 Business ist die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
@@ -28,22 +26,31 @@ Office 365 ProPlus wird regelmäßig mit neuen Features, Sicherheitsupdates und 
 > - Weitere Informationen zu Updatekanälen finden Sie unter [Übersicht über die Updatekanäle für Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version und die neueste Buildnummer aufgeführt. 
- 
+
+[//]: # (EOSTABLESTART)
+
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich  <br/> |1904 <br/> |11601.20144 <br/> | 29. April 2019 <br/> |Version 1905 veröffentlicht <br/>|
-|Halbjährlich (gezielt)  <br/> |1902  <br/> |11328.20230 <br/> |  9. April 2019 <br/> | 10. September 2019 <br/>|
-|Halbjährlich <br/> |1808  <br/> | 10730.20334<br/> | 9. April 2019  <br/> |  10. März 2020 <br/>|
-|Halbjährlich <br/> |1803  <br/> | 9126.2382  <br/> | 9. April 2019  <br/> |  10. September 2019 <br/>|
+|Monatlich<br/>|1905<br/>|11629.20196<br/>|29. Mai 2019<br/>|Version 1906 veröffentlicht<br/>|
+|Halbjährlich (gezielt)<br/>|1902<br/>|11328.20286<br/>|14. Mai 2019<br/>|10. September 2019<br/>|
+|Halbjährlich<br/>|1808<br/>|10730.20344<br/>|14. Mai 2019<br/>|10. März 2020<br/>|
+|Halbjährlich<br/>|1803<br/>|9126.2387<br/>|14. Mai 2019<br/>|10. September 2019<br/>|
+
+[//]: # (EOSTABLEEND)
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Office 365 ProPlus auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md).
 
 
-Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Office 365 ProPlus, das in den folgenden Updatekanälen veröffentlicht wurde: monatlich, halbjährlich (gezielt) und halbjährlich. Jeder Eintrag in der Tabelle ist direkt mit den Anmerkungen zur Version für das betreffende Release verknüpft. Die Anmerkungen zur Version enthalten Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Office 365 ProPlus enthalten sind.
+Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Office 365 ProPlus, das in den folgenden Updatekanälen veröffentlicht wurde: monatlich, halbjährlich (gezielt) und halbjährlich. Jeder Eintrag in der Tabelle ist direkt mit den Anmerkungen zur Version für das betreffende Release verknüpft. Die Anmerkungen zur Version enthalten Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Office 365 ProPlus enthalten sind.  
 
+[//]: # (HISTORYTABLESTART)
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|29. Mai |[Version 1905 (Build 11629.20196)](monthly-channel-2019.md#version-1905-may-29)| | |
+|2019|22. Mai |[Version 1904 (Build 11601.20230)](monthly-channel-2019.md#version-1904-may-22)| | |
+|2019|14. Mai |[Version 1904 (Build 11601.20204)](monthly-channel-2019.md#version-1904-may-14)|[Version 1902 (Build 11328.20286)](semi-annual-channel-targeted-2019.md#version-1902-may-14) |[Version 1808 (Build 10730.20344)](semi-annual-channel-2019.md#version-1808-may-14)  <br/>  [Version 1803 (Build 9126.2387)](semi-annual-channel-2019.md#version-1803-may-14) |
+|2019|8. Mai |[Version 1904 (Build 11601.20178)](monthly-channel-2019.md#version-1904-may-8)| | |
 |2019|29. April |[Version 1904 (Build 11601.20144)](monthly-channel-2019.md#version-1904-april-29)| | |
 |2019|22. April |[Version 1903 (Build 11425.20244)](monthly-channel-2019.md#version-1903-april-22)| | |
 |2019|17. April |[Version 1903 (Build 11425.20228)](monthly-channel-2019.md#version-1903-april-17)| | |
@@ -182,7 +189,8 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 ||21. Oktober  <br/> |[Version 1509 (Build 6001.1034)](monthly-channel-2015.md#version-1509-october-21)  <br/> |[Version 1509 (Build 6001.1034)](semi-annual-channel-targeted-2015.md#version-1509-october-21)  <br/> |  <br/> |
 ||5. Oktober  <br/> |[Version 1509 (Build 4229.1029)](monthly-channel-2015.md#version-1509-october-5)  <br/> |[Version 1509 (Build 4229.1029)](semi-annual-channel-targeted-2015.md#version-1509-october-5)  <br/> |  <br/> |
 ||22. September  <br/> |[Version 1509 (Build 4229.1024)](monthly-channel-2015.md#version-1509-september-22)  <br/> |[Version 1509 (Build 4229.1024)](semi-annual-channel-targeted-2015.md#version-1509-september-22)  <br/> |  <br/> |
-   
+
+[//]: # (HISTORYTABLEEND)
 
 ## <a name="related-topics"></a>Verwandte Themen
 
