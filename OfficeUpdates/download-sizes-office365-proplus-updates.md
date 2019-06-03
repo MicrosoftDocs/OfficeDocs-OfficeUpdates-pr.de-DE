@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: ce40e3d5b770e13c163d3372525e248cd95c3df9
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 9f7c1e10c63e9c37bf6a8695b6c3a909fc2ed925
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549732"
+ms.locfileid: "34550886"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -43,8 +43,8 @@ Die neueste Version ist Version 1905 (Build 11629.20196).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 1904 (Build 11601.20230)  <br/> |22. Mai 2019  <br/> |193<br/> |
-|Version 1904 (Build 11601.20204)  <br/> |14. Mai 2019  <br/> |60<br/> |
+|Version 1904 (Build 11601.20230)  <br/> |22. Mai 2019  <br/> |188<br/> |
+|Version 1904 (Build 11601.20204)  <br/> |14. Mai 2019  <br/> |193<br/> |
 
 ## <a name="may-22-2019"></a>22. Mai 2019
 *Version 1904 (Build 11601.20230)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 0cd1edf42de244ab240241fdc4af61044fb2d98e
-ms.sourcegitcommit: 8d57be9ae77b5fc3275b0245103118a64d8dcc13
+ms.openlocfilehash: 88eaa31c57e093cbb693c5521e225b6a670216ca
+ms.sourcegitcommit: f0c8a6342bd72aa81106965ff0fe5254030e0b5d
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 05/30/2019
-ms.locfileid: "34549742"
+ms.locfileid: "34550896"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -77,6 +77,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 - **Der Modus „Lerntools“ bietet zusätzliche Unterstützung für weitere Seitenfarben:** Lerntools in Word unterstützt weitere Farben für Seitendesigns, wodurch die Hintergrundfarbe der Seite geändert werden kann.  Viele Personen haben Herausforderungen beim Lesen mit einem ganz weißen oder schwarzem Hintergrund, deshalb haben wir die Auswahl von Farben in Word auf PC und Mac erweitert.
 
 - **In Kürze verfügbar:** Sehen Sie, welche interessanten Änderungen in Kürze bei Office anstehen, probieren Sie sie aus, und geben Sie uns Feedback. [Weitere Informationen](https://support.office.com/article/7800e0cf0-812f-475a-80aa-d47376e076f2)
+
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Bietet Benutzern von Skype for Business Online die Möglichkeit, den kontextsensitiven Hinweis „Foto hinzufügen – es hilft Benutzern, Sie kennenzulernen" zu deaktivieren. Wie Sie dieses Problem beheben, [erfahren Sie hier](https://support.microsoft.com/help/4503469).
+
+- Verhindert, dass die sekundäre Rufton-Einstellung nach dem Neustart von Skype for Business immer aktiviert wird. Wie Sie dieses Problem beheben, [erfahren Sie hier](https://support.microsoft.com/help/4503470).
+
+ - Behebt ein Problem, durch das Skype for Business nicht mehr reagierte, wenn Sie einer großen Besprechung beitraten, während gleichzeitig eine Lync SDK-basierte Anwendung verwendet wurde. Wie Sie dieses Problem beheben, [erfahren Sie hier](https://support.microsoft.com/help/4503472).
 
 ## <a name="version-1904-may-22"></a>Version 1904: 22. Mai
 *Version 1904 (Build 11601.20230)*
