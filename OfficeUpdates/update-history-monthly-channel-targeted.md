@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 0a1503de7b2e6c12d7d3f44b926165cda8734109
-ms.sourcegitcommit: 01db1a12c902cc22867e31c1636e12c023b3f515
+ms.openlocfilehash: 2f5a739184c4064197538cba0cfe251604b06dd9
+ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/27/2019
-ms.locfileid: "34487546"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34684021"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -30,6 +30,9 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen
 
 [//]: # (NICHT ENTFERNEN)
+
+** 3. Juni 2019**<br/>
+Version 1905 (Build 11629.20214)<br/>
 
 **25. Mai 2019**<br/>
 Version 1905 (Build 11629.20196)<br/>
