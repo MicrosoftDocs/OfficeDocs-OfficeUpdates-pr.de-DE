@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/17/2019
+ms.date: 5/31/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: cc9094e2f5a98268ef6df3099028b4dede16ae23
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
+ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432413"
+ms.lasthandoff: 05/31/2019
+ms.locfileid: "34659782"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -24,6 +24,112 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
+
+
+## <a name="may-31-2019"></a>31. Mai 2019
+Version 1906 (build 11722.20008)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dialog-for-contacting-support-now-is-dockable-and-appears-on-the-right"></a>Das Dialogfeld zum Kontaktieren des Supports ist jetzt andockbar und wird auf der rechten Seite angezeigt
+
+Das zum Kontaktieren des Supports verwendete Dialogfeld wird jetzt in einem Bereich auf der rechten Seite angezeigt und beginnt als angedocktes Fenster.
+
+#### <a name="ink-in-your-email"></a>Freihand in Ihrer E-Mail!
+
+Sie können Bilder jetzt in Ihren Outlook-E-Mails zeichnen und kommentieren.
+
+### <a name="word"></a>Word
+
+#### <a name="open-document-links-in-word"></a>Öffnen von Dokument-Links in Word
+
+Wenn Sie in Office auf einen Dokument Link klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der Word-App geöffnet wird.  Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/de-DE/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Das Feature wird standardmäßig auf aus eingestellt. Benutzer können es entweder über Optionen > Erweitert > Verhalten von Links aktivieren, oder sie können ihm zustimmen, wenn Sie von Win32-WXP-Apps durch eine Opt-In-Umgebung geleitet werden.
+Links werden standardmäßig in der entsprechenden Office-Anwendung anstelle des Browsers geöffnet, wenn Benutzer in Outlook, Word, PowerPoint oder Excel auf Links zu Word/PowerPoint/Excel-Dateien klicken, die auf OneDrive, OneDrive für Business oder in SharePoint gespeichert sind.
+
+Um diese Standardeinstellung zu ändern, können Benutzer die folgende Einstellung in Outlook/Word/Excel/PowerPoint aktualisieren:
+
+Datei –> Optionen –> Erweitert –> Verhalten von Links.
+
+Diese Einstellung ist für Outlook/Word/PowerPoint/Excel freigegeben und kann in jeder dieser Apps festgelegt werden.
+
+##### <a name="scenarios-to-try"></a>Szenarien zum Ausprobieren:
+
+Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einem Word-Dokument, das in OneDrive/SharePoint aus Outlook/Word/PowerPoint/Excel aus gespeichert ist – klicken Sie aus Office Online auf in Client öffnen – tun Sie dies zwei Mal in einem Zeitraum von 30 Tagen. Nachdem Sie die Einstellung gesetzt haben, werden Links standardmäßig in den Win32-Apps gestartet.
+
+### <a name="powerpoint"></a>PowerPoint
+
+#### <a name="open-presentation-links-in-powerpoint"></a>Öffnen Sie Präsentationslinks in PowerPoint
+
+Wenn Sie in Office auf einen Präsentationslink klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der PowerPoint-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/de-DE/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Das Feature wird standardmäßig auf aus eingestellt. Benutzer können es entweder über Optionen > Erweitert > Verhalten von Links aktivieren, oder sie können ihm zustimmen, wenn Sie von Win32-WXP-Apps durch eine Opt-In-Umgebung geleitet werden.
+Links werden standardmäßig in der entsprechenden Office-Anwendung anstelle des Browsers geöffnet, wenn Benutzer in Outlook, Word, PowerPoint oder Excel auf Links zu Word/PowerPoint/Excel-Dateien klicken, die auf OneDrive, OneDrive für Business oder in SharePoint gespeichert sind.
+
+Um diese Standardeinstellung zu ändern, können Benutzer die folgende Einstellung in Outlook/Word/Excel/PowerPoint aktualisieren:
+
+Datei –> Optionen –> Erweitert –> Verhalten von Links.
+
+Diese Einstellung ist für Outlook/Word/PowerPoint/Excel freigegeben und kann in jeder dieser Apps festgelegt werden.
+
+##### <a name="scenarios-to-try"></a>Szenarien zum Ausprobieren:
+
+Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einer PowerPoint-Präsentation, die in OneDrive/SharePoint aus Outlook/Word/PowerPoint/Excel aus gespeichert ist – klicken Sie aus Office Online auf in Client öffnen – tun Sie dies zwei Mal in einem Zeitraum von 30 Tagen. Nachdem Sie die Einstellung gesetzt haben, werden Links standardmäßig in den Win32-Apps gestartet.
+
+### <a name="excel"></a>Excel
+
+#### <a name="open-workbook-links-in-excel"></a>Öffnen von Arbeitsmappen-Links in Excel
+
+Wenn Sie in Office auf einen Link zu einer Arbeitsmappe klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass diese standardmäßig in der Excel-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/de-DE/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+
+##### <a name="getting-started"></a>Erste Schritte:
+
+Das Feature wird standardmäßig auf aus eingestellt. Benutzer können es entweder über Optionen > Erweitert > Verhalten von Links aktivieren, oder sie können ihm zustimmen, wenn Sie von Win32-WXP-Apps durch eine Opt-In-Umgebung geleitet werden.
+Links werden standardmäßig in der entsprechenden Office-Anwendung anstelle des Browsers geöffnet, wenn Benutzer in Outlook, Word, PowerPoint oder Excel auf Links zu Word/PowerPoint/Excel-Dateien klicken, die auf OneDrive, OneDrive für Business oder in SharePoint gespeichert sind.
+
+Um diese Standardeinstellung zu ändern, können Benutzer die folgende Einstellung in Outlook/Word/Excel/PowerPoint aktualisieren:
+
+Datei –> Optionen –> Erweitert –> Verhalten von Links.
+
+Diese Einstellung ist für Outlook/Word/PowerPoint/Excel freigegeben und kann in jeder dieser Apps festgelegt werden.
+
+##### <a name="scenarios-to-try"></a>Szenarien zum Ausprobieren:
+
+Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einer Excel-Arbeitsmappe, die in OneDrive/SharePoint aus Outlook/Word/PowerPoint/Excel aus gespeichert ist – klicken Sie aus Office Online auf in Client öffnen – tun Sie dies zwei Mal in einem Zeitraum von 30 Tagen. Nachdem Sie die Einstellung gesetzt haben, werden Links standardmäßig in den Win32-Apps gestartet.
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+- Wir haben ein Problem behoben, durch das Dateien manchmal automatisch gespeichert wurden, auch wenn die automatische Speicherung deaktiviert wurde.
+
+### <a name="word"></a>Word 
+- Wir haben ein Problem behoben, das einige Benutzer daran gehindert hat, auf SharePoint zu speichern.
+
+### <a name="excel"></a>Excel
+- Ein Problem wurde behoben, bei dem ein falsches Symbol für inaktive Filter angezeigt werden konnte.
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, bei dem einige Benutzer in einer Gruppen-Planungsanzeige fälschlicherweise als offline angezeigt wurden
+- Wir haben ein Problem behoben, das verhindert, dass SafeLink eine URL mit einem nachgestellten Leerzeichen analysiert
+- Ein Problem wurde behoben, bei dem Räume außerhalb der arbeitsfreien Zeiten als verfügbar angezeigt wurden
+
+### <a name="access"></a>Zugriff
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+</BR></BR>
 
 ## <a name="may-24-2019"></a>24. Mai 2019
 Version 1906 (build 11715.20002)
