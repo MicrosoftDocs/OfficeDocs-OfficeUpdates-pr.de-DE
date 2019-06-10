@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 5/31/2019
+ms.date: 6/7/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 22652263c29133cab298e77dfe6d1b28e57ad34e
-ms.sourcegitcommit: b40c5785c762fde67d8d3ece151bf3d8c9ff4cc5
+ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
+ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/31/2019
-ms.locfileid: "34659782"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34773751"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -25,6 +25,35 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
+
+## <a name="june-7-2019"></a>7. Juni 2019
+Version 1907 (Build 11727.20064)
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="word"></a>Word 
+- Ein Problem wurde behoben, bei dem Word manchmal abstürzt, wenn die AutoKorrektur so eingerichtet wurde, dass der erste Buchstabe eines Satzes groß geschrieben wird.
+- Die Leistung beim Bearbeiten eines Dokuments in SharePoint wurde verbessert
+- Ein Problem wurde behoben, bei dem vektorbasierte Bilder, die in Adobe Illustrator erstellt wurden, nicht ordnungsgemäß angezeigt wurden.
+
+### <a name="excel"></a>Excel
+- Ein Problem wurde behoben, bei dem die Sortierfelder beim Aufzeichnen eines Makros manchmal nicht ordnungsgemäß festgelegt wurden.
+- Ein Problem wurde behoben, das beim Neuberechnen einer Arrayformel ein Hängen oder einen Absturz verursacht.
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, bei dem Inline-Anlagen manchmal nicht ordnungsgemäß skaliert wurden.
+
+### <a name="access"></a>Zugriff
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, bei dem Zeittabellen mit festgelegter Dauer manchmal den Endtermin der Aufgabe ändern konnten.
+- Ein Problem wurde behoben, bei dem die Werte für den Prozentsatz der Komplettierung beim Öffnen eines Projekts aus einer früheren Version falsch sein konnten.
+
+</BR></BR>
 
 ## <a name="may-31-2019"></a>31. Mai 2019
 Version 1906 (build 11722.20008)
