@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/7/2019
+//: ''
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 6fca274c0acf56aa2ba5d926e7b4f61a1c8f33d1
-ms.sourcegitcommit: 664eea7a20324858da3503f54d0efac97e2299e4
+ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34773751"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857755"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -25,6 +25,8 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
+ > [!NOTE]
+> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
 ## <a name="june-7-2019"></a>7. Juni 2019
 Version 1907 (Build 11727.20064)

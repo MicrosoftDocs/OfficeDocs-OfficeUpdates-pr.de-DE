@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: 52cea04d6b90a87494f751149633d5fc9a7ca5f7
-ms.sourcegitcommit: 7559f3b9d37f1f2d53dccd2c41a41aa17a9ccfc6
+ms.openlocfilehash: af4f418640b2931062d7fbe7157d14f3354c54b4
+ms.sourcegitcommit: 09fce01ca8aaf16478bdf41ee05a19b1b3c3cbb2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/15/2019
-ms.locfileid: "34034480"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34852889"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates
 
@@ -26,6 +26,16 @@ Diese Anmerkungen zur Version enthalten Informationen zu Sicherheitsupdates, die
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
 
+## <a name="june-11-2019"></a>11. Juni 2019
+Monatlicher Kanal: Version 1905 (Build 11629.20246)  
+Halbjährlicher Kanal (Gezielt): Version 1902 (Build 11328.20318)  
+Halbjährlicher Kanal: Version 1808 (Build 10730.20348)  
+Halbjährlicher Kanal: Version 1803 (Build 9126.2388)  
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)
+-   [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)
 
 ## <a name="may-14-2019"></a>14. Mai 2019
 Monatlicher Kanal: Version 1904 (Build 11601.20204)  

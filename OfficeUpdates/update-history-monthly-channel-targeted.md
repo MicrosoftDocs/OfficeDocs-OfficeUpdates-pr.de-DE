@@ -1,21 +1,21 @@
 ---
 title: Updateverlauf für Office Monatlicher Kanal (gezielt)
 ms.author: andrewmo
-author: andymosten
+author: anankani
 manager: andrewmo
-ms.date: 05/22/2019
+//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 2f5a739184c4064197538cba0cfe251604b06dd9
-ms.sourcegitcommit: 23d07012db5d772ef0eb233777326a509fc4ef26
+ms.openlocfilehash: 524ad5498491e1e5a9f7d130bf5514ba6e99d4a3
+ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34684021"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34857765"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -29,9 +29,15 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen
 
+ > [!NOTE]
+> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
 [//]: # (NICHT ENTFERNEN)
 
-** 3. Juni 2019**<br/>
+**11. Juni 2019**<br/>
+Version 1906 (Build 11727.20104)<br/>
+
+**3. Juni 2019**<br/>
 Version 1905 (Build 11629.20214)<br/>
 
 **25. Mai 2019**<br/>
