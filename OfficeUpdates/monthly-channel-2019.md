@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 9e452797e4250fa859ec725005a87f21115482e7
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857745"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910385"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -113,7 +113,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ## <a name="version-1904-may-22"></a>Version 1904: 22. Mai
 *Version 1904 (Build 11601.20230)*
 
-Dies behandelt ein Problem, bei dem Benutzer die neue Datenschutz Aufforderung bei jedem Anwendungsstart sehen, auch nachdem Sie eine Auswahl für ihre Datenschutzebene getroffen und diese festgelegt haben.
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Dies behandelt ein Problem, bei dem Benutzer die neue Datenschutz Aufforderung bei jedem Anwendungsstart sehen, auch nachdem Sie eine Auswahl für ihre Datenschutzebene getroffen und diese festgelegt haben.
 
 ## <a name="version-1904-may-14"></a>Version 1904: 14. Mai 
 *Version 1904 (Build 11601.20204)*
