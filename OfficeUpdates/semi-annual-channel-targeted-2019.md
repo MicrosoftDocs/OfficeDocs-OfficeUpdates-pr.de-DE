@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) 
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 5/22/2019
+ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 6c91efb8abe61b4d8324a18f5448f667e7e25954
-ms.sourcegitcommit: d704c92753b85a8cd257167cdd0d641b9405f63d
+ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
+ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/24/2019
-ms.locfileid: "34432423"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34910395"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -27,6 +27,31 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features und Nicht-S
  
 > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+
+## <a name="version-1902-june-11"></a>Version 1902: 11. Juni
+*Version 1902 (Build 11328.20318)*
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+ - Ein Problem wurde behoben, durch das beim Speichern einer Datei mit einer XML-Zuordnung in PDF ein Absturz verursacht wurde.
+ - Ein Problem wurde behoben, durch das beim Laden von Arbeitsmappen mit ungültigen Blattnamen externe Links entfernt wurden.
+ - Ein Fehler wurde behoben, bei dem das Arbeitsblatt nicht mehr reagierte, nachdem das Kamera-Werkzeug in Excel benutzt wurde.
+ - Ein Problem wurde behoben, durch das Wasserfall- und Trichterdiagramme beim Einfügen oder Löschen von Zellen nicht mehr mit Tabellen synchronisiert wurden.
+ - Die Ursache für einen Absturz wurde behoben, der auftrat, wenn eine Datentabelle während der Arbeitsblattberechnung mit einer Matrixformel auf einem anderen von der Tabelle abhängigen Blatt neu berechnet wurde. 
+ - Ein Problem wurde behoben, das das Öffnen kennwortgeschützter Arbeitsmappen in SharePoint ohne vorheriges Auschecken der Datei verhinderte.
+ - Eine Änderung wurde vorgenommen, um sicherzustellen, dass das BeforeSave-Ereignis beim Freigeben oder Aktivieren/Deaktivieren von AutoSpeichern verarbeitet wird.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+ - Ein Problem wurde behoben, durch das Aufgaben von Kunden beim Hinzufügen einer zweiten Bedingung zu "Gruppieren nach" nicht mehr angezeigt werden.
+
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+ - Behoben: Beim Freigeben eines Dokuments, an dem aktuell mehrere Personen zusammenarbeiten, wird eine Anlage mit der Erweiterung ASD erstellt.
+ - Ein Problem mit Kommentaren wurde behoben, die zufälligen Autoren zugeordnet werden.
+ - Ein Problem wurde behoben, durch das beim Auschecken eines Dokuments Signaturen entfernt wurden.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+ - Damit wurde ein Fehler in VBA behoben, der nach einer "Rückgängig"-Aktion einen falschen Zustand des Fülleffekts meldete.
+
 
 ## <a name="version-1902-may-14"></a>Version 1902: 14. Mai
 *Version 1902 (Build 11328.20286)*
