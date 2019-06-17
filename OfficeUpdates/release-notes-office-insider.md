@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-//: ''
+ms.date: 6/14/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 8cc5c8c9b11dabce030095a2d56404856850377a
-ms.sourcegitcommit: d8ac84be012031d41fc29caf7e5b0bc32425a523
+ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
+ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34857755"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34948791"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -27,6 +27,40 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="june-14-2019"></a>14. Juni 2019
+Version 1907 (build 11807.20000)
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="word"></a>Word 
+- Es wurde ein Problem behoben, durch das Benutzer sich beim Speichern auf OneDrive nicht anmelden konnten.
+- Ein Problem wurde behoben, bei dem Benutzer daran gehindert werden konnten, SharePoint-Eigenschaften im eingeschränkten Zugriffsmodus zu ändern.
+- Es wurde ein Problem behoben, bei dem sich die Kopf- und Fußzeileninhalte beim Anpassen von Seitenrändern ändern konnten.
+- Es wurde ein Problem behoben, bei dem die Formatierung beim Umschalten in die Webansicht unterbrochen wurde.
+- Es wurde ein Problem behoben, durch das Benutzer daran gehindert werden konnten, benutzerdefinierte Felder beim Öffnen von SharePoint zu verwenden.
+
+### <a name="excel"></a>Excel
+- Ein Leistungsproblem wurde behoben, das beim Löschen von Zeilen einer gefilterten Gruppe auftrat.
+- Es wurde ein Problem behoben, das manchmal dazu führte, dass die Maus in der geschützten Anzeige flackert.
+- Wir haben ein Problem behoben, das beim Löschen einer Reihe zu einem Absturz führen konnte.
+- Ein Problem wurde behoben, bei dem einige Benutzer die Möglichkeit hatten, Versionsverlauf hinzuzufügen, wenn diese Option nicht verfügbar war.
+- Wir haben ein Problem behoben, das bei Verwendung des Tools „Arbeitsblattabgleich“ eine Ausnahme verursacht hat.
+
+### <a name="powerpoint"></a>PowerPoint
+- Wir haben ein Problem behoben, durch das ein Absturz beim Klicken auf einen Link zu SharePoint verursacht werden konnte.
+- Wir haben ein Problem behoben, durch das der Benutzer zur nächsten Seite wechseln konnte, während er mit einem Surface-Stift tippte.
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, bei dem in manchen Fällen das Feld „An“ größer als normal war.
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen der Leistung und Stabilität
+
+</BR></BR>
 
 ## <a name="june-7-2019"></a>7. Juni 2019
 Version 1907 (Build 11727.20064)
