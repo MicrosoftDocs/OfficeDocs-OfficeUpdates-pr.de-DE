@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: 856e2a039b7b4e7bbd7dcd3cba72be59e07f8c7b
-ms.sourcegitcommit: eaa9ab73dea88c18d1d23474c21457d8656af821
+ms.openlocfilehash: 77894c5325931fc3978f8113175de2a72623d8c8
+ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34935837"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35060307"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -90,11 +90,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 |10. Mai 2016  <br/> |3.5.0  <br/> |[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> | <br/> |
 |12. April 2016  <br/> |3.4.0  <br/> |[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> | <br/> |
 |5. Januar 2016  <br/> |3.4.0  <br/> |[KB 3133674](https://support.microsoft.com/kb/3133674) <br/> | <br/> |
-|10. Dezember 2015  <br/> |3.3.0  <br/> |[KB 3119516](https://support.microsoft.com/kb/3119516) <br/> | <br/> |
-|13. Oktober 2015  <br/> |3.2.0  <br/> |[KB 3097267](https://support.microsoft.com/kb/3097267) <br/> | <br/> |
-|11. Juni 2015  <br/> |3.1.1  <br/> |[KB 3048690](https://support.microsoft.com/kb/3048690) <br/> | <br/> |
-|15. Mai 2015  <br/> |3.1.0  <br/> |[KB 3048681](https://support.microsoft.com/kb/3048681) <br/> | <br/> |
-|16. April 2015  <br/> |3.0.6  <br/> |[KB 3048680](https://support.microsoft.com/kb/3048680) <br/> | <br/> |
+
 
 ## <a name="related-topics"></a>Verwandte Themen
 
