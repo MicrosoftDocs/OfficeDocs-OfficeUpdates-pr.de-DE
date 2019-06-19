@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 1495252aab347ba172e0094da296b2bda0bb25b6
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 2668fe627278a2973d243f85d8889b077180fc75
+ms.sourcegitcommit: 0ef085de6bb68019197fcc791cd661dddb30fa43
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910385"
+ms.lasthandoff: 06/17/2019
+ms.locfileid: "35017365"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -38,13 +38,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 
- - Behebung eines Problems bei dem einige Add-Ins unerwartete Fehler bei Formen in Diagrammen verursachen konnten.
+- Behebung eines Problems bei dem einige Add-Ins unerwartete Fehler bei Formen in Diagrammen verursachen konnten.
 
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Updates
 
- - Das Exportieren nach SVG aus Visio funktionierte für eine Vielzahl von Shapes nicht.
+- Das Exportieren nach SVG aus Visio funktionierte für eine Vielzahl von Shapes nicht.
 
-## <a name="version-1905-june-03"></a>Version 1905: 03. Juni 
+## <a name="version-1905-june-3"></a>Version 1905: 3. Juni
 *Version 1905 (Build 11629.20214)*
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -122,13 +122,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
  - Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/OfficeUpdates/office365-proplus-security-updates) aufgeführt
 
-## <a name="version-1904-may-08"></a>Version 1904: 8. Mai 
-*Version 1904 (Build 11601.20178)* 
+## <a name="version-1904-may-8"></a>Version 1904: 8. Mai
+*Version 1904 (Build 11601.20178)*
 
- - Korrekturen verschiedene Fehler und Leistungsprobleme.
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 ## <a name="version-1904-april-29"></a>Version 1904: 29. April
-*Version 1904 (Build 11601.20144)* 
+*Version 1904 (Build 11601.20144)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
@@ -146,7 +146,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Exportieren von Prozessdiagrammen nach Word:** Fügen Sie Diagramminhalte, wie Formen und Metadaten, automatisch zu einem Word-Dokument hinzu. Passen Sie dann das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
- - **Farben für "Änderungen nachverfolgen", Kommentare und Echtzeitzusammenarbeit jetzt synchronisiert:** Korrekturen in unserem Produkt stellen nun sicher, dass Kommentare, Änderungsnachverfolgung und der Cursor für einen Projektmitarbeiter in der gleichen Farbe angezeigt werden.
+- **Farben für "Änderungen nachverfolgen", Kommentare und Echtzeitzusammenarbeit jetzt synchronisiert:** Korrekturen in unserem Produkt stellen nun sicher, dass Kommentare, Änderungsnachverfolgung und der Cursor für einen Projektmitarbeiter in der gleichen Farbe angezeigt werden.
 
 - **Schnelle Dateisuche:** Sie suchen nach einer Datei, an der Sie kürzlich gearbeitet haben? Geben Sie einfach in das Suchfeld unter „Datei“ > „Start“ den Namen der gesuchten Datei ein.
 
