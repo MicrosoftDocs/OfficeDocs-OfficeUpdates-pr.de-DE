@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/21/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 8a2bf54f60b7d35a0f3b2f023e0100ff65d09ed2
-ms.sourcegitcommit: 288bea365b4c0265fb9ff182b19ff4eb30b4c7d7
+ms.openlocfilehash: d59dfd6abece5cefb49d2da86bf28ac24d1cebc7
+ms.sourcegitcommit: 61132166c48f967340a1579185728b5c3acd7bd8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2019
-ms.locfileid: "34948791"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130644"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -27,6 +27,76 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="june-21-2019"></a>21. Juni 2019
+Version 1907 (build 11815.20002)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+#### <a name="dark-mode-for-black-theme-in-outlook-desktop"></a>Dunkler Modus für "schwarzes Design" in Outlook-Desktop
+
+Im dunklen Modus wird nun Benutzern, die das Design "Schwarz" verwenden, auch der Lesebereich beim Lesen von E-Mails sowie die Verfassen-Oberfläche beim Schreiben von E-Mails mit einem dunklen Hintergrund angezeigt. Mit Hilfe eines Sonne/Mond-Schalters im Lesebereich und im Menüband können Benutzer in einer Vorschau ansehen, wie eine Nachricht hingegen mit einem hellen Hintergrund aussieht.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+1. Wählen Sie das schwarze Design aus. Der dunkle Modus ist in diesem Fall standardmäßig aktiviert.
+2. Verwenden Sie den Sonne/Mond-Schalter (im Lesebereich und im Menüband), um in einer Vorschau anzuzeigen, wie die Nachricht für Benutzer aussieht, die den dunklen Modus nicht aktiviert haben.
+
+#### <a name="scenarios-to-try"></a>Szenarien zum Ausprobieren:
+
+1. Lesen von E-Mails im dunklen Modus. Wenn Sie etwas nicht lesen können, wechseln Sie mit Hilfe des Sonne-Schalters im Lesebereich zu einem hellen Hintergrund. 
+2. Verfassen von E-Mails im dunklen Modus. Zeigen Sie mit Hilfe des Sonne-Schalters im Menüband in einer Vorschau an, wie Ihre Nachricht mit einem hellen Hintergrund aussehen wird. 
+
+Sollten einzelne E-Mails nicht korrekt dargestellt werden, senden Sie diese bitte (als Anlage) an OutlookDarkModeFail.
+
+#### <a name="get-location-suggestions"></a>Abrufen von Standortvorschlägen
+
+Beginnen Sie mit der Eingabe, Outlook wird automatisch nach passenden Orten suchen.
+
+Dies gilt für das Feld "Ort" beim Erstellen von Terminen und Besprechungen.
+
+#### <a name="getting-started"></a>Erste Schritte:
+
+- Erstellen Sie einen Termin oder eine Besprechung in einem O365- oder Outlook.com-Kalender in Outlook. 
+- Klicken Sie in das Feld "Ort", und beginnen Sie mit der Eingabe.
+
+#### <a name="scenarios-to-try"></a>Szenarien zum Ausprobieren:
+
+Wenn Sie einer Besprechung einen Konferenzraum hinzufügen möchten, klicken Sie auf das Feld "Ort", anstatt das "Raumsuche"-Add-in oder das Adressbuch zu verwenden.
+Versuchen Sie für Termine an einem öffentlichen Ort – beispielsweise ein Restaurant, ein Coffeeshop oder eine Zahnartpraxis – den exakten Standort mithilfe der neuen Auswahl zu finden. Auf diese Weise können Sie über Outlook Mobile benachrichtigt werden, wenn es Zeit ist, aufzubrechen.
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+- Wir haben ein Problem behoben, durch das das Suchfeld im Offlinemodus aktiviert blieb.
+
+### <a name="word"></a>Word 
+- Ein Problem wurde behoben, bei dem der Tastaturfokus manchmal schwierig zu erkennen war.
+- Ein Problem wurde behoben, bei dem der in ein neues Dokument eingefügte Text manchmal eine falsche Textausrichtung aufwies.
+- Ein Problem wurde behoben, bei dem einige Benutzer nach dem Sperren des Computers keine Änderungen mehr speichern konnten.
+- Es wurde ein Problem behoben, bei dem in bestimmten Fällen statt des ausgewählten Bereichs das komplette Dokument gedruckt wurde.
+- Ein Problem wurde behoben, durch das Kommentare auf kleineren Displays schwer zu lesen waren.
+- Ein Problem wurde behoben, durch das beim Erfassen von Daten auf einem Gerät ein Absturz verursacht werden konnte.
+
+### <a name="excel"></a>Excel
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="powerpoint"></a>PowerPoint
+- Ein Problem wurde behoben, bei dem der Tastaturfokus manchmal schwierig zu erkennen war.
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, bei dem ein Add-In möglicherweise als aktiviert angezeigt wurde, auch wenn es nicht aktiviert war.
+- Ein Problem wurde behoben, das dazu führte, dass einem Kunden möglicherweise nicht alle Aufbewahrungsrichtlinien angezeigt wurden, wenn sehr viele Aufbewahrungsrichtlinien vorhanden waren.
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen der Leistung und Stabilität
+
+</BR></BR>
 
 ## <a name="june-14-2019"></a>14. Juni 2019
 Version 1907 (build 11807.20000)
@@ -484,22 +554,6 @@ Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagr
 
 ## <a name="april-12-2019"></a>12. April 2019
 Version 1905 (Build 11601.20042)
-
-## <a name="whats-new"></a>Neuigkeiten:
-
-### <a name="access"></a>Access
-
-#### <a name="new-in-access---data-connector-to-microsoft-graph"></a>Neu in Access – Daten-Connector zu Microsoft Graph
-
-Verknüpfen mit oder Importieren von Microsoft Graph Services zum Erstellen von Anwendungen, die intelligente, kontextbezogene Daten aus Graph nutzen können
-
-#### <a name="getting-started"></a>Erste Schritte:
-
-Wählen Sie die Registerkarte „externe Daten“ im Menüband, klicken Sie auf neue Datenquellen, und suchen Sie im Menü „Online-Dienste" nach dem neuen Graph-Connector
-
-#### <a name="scenarios-to-try"></a>Mögliche Szenarien:
-
-Importieren von oder Verknüpfen mit verschiedenen Graph-Diensten, einschließlich Personen, Gruppen und OneDrive Elementen.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
