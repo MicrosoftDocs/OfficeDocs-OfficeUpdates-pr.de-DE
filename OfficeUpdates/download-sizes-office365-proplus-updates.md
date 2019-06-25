@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 5112dbbe6587b2301207d59a9f485f792dd3421a
-ms.sourcegitcommit: 2223813cb55c65a6bec9a6afce3eb1d8c6ddc2f3
+ms.openlocfilehash: d5a915184658c9be53282986c057455b4e3362b5
+ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34737947"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35203694"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -34,10 +34,38 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - In den Tabellen sind nur jüngere Versionen aufgeführt. Bei Updates von älteren Versionen sind die Downloadgrößen größer.
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
 
-## <a name="jun-5-2019"></a>5. Jun 2019
+[//]: # (NICHT ENTFERNEN)
+
+## <a name="june-24-2019"></a>24. Juni 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 24. Juni 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1906 (Build 11727.20210).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1905 (Build 11629.20246) <br/> |11. Juni 2019 <br/> |171<br/> |
+|Version 1905 (Build 11629.20214) <br/> |3. Juni 2019 <br/> |175<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 24. Juni 2019)
+
+## <a name="jun-11-2019"></a>11. Jun 2019
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1905 (Build 11629.20246).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1905 (Build 111629.20214)  <br/> |3. Juni 2019  <br/> |72<br/> |
+|Version 1904 (Build 11629.20196)  <br/> |29. Mai 2019  <br/> |71<br/> |
+|
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 
-Die erwartete Veröffentlichungsversion ist Version 1808 (Build 10730.20348).
+Die neueste Version ist Version 1808 (Build 10730.20348).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +74,7 @@ Die erwartete Veröffentlichungsversion ist Version 1808 (Build 10730.20348).
 
 ### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
 
-Die erwartete Veröffentlichungsversion ist Version 1902 (Build 11328.20318).
+Die neueste Version ist Version 1902 (Build 11328.20318).
   
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
