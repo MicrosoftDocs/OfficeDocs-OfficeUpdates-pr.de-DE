@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 0e719fa7c142989d3099b1ce43f24b9b8c084316
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 52cbaa1193d576b48770f1bd48b7b0db435be84b
+ms.sourcegitcommit: 6687d3d967294413101e7888d96750a4e389bd46
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203704"
+ms.locfileid: "35215326"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -32,7 +32,9 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
 |Monatlich<br/>|1906<br/>|11727.20210<br/>|24. Juni 2019<br/>|Version 1907 veröffentlicht<br/>|
+|Halbjährlich (gezielt)<br/>|1902<br/>|11328.20318<br/>|11. Juni 2019<br/>|10. September 2019<br/>|
 |Halbjährlich<br/>|1808<br/>|10730.20348<br/>|11. Juni 2019<br/>|10. März 2020<br/>|
+|Halbjährlich<br/>|1803<br/>|9126.2388<br/>|11. Juni 2019<br/>|10. September 2019<br/>|
 
 [//]: # (EOSTABLEEND)
 
