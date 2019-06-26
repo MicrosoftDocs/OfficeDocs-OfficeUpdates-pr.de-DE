@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 392932611e8005ece5ef460f6f2fc9b80230468c
-ms.sourcegitcommit: f83fafdefd4fdb5f8f21eec6c99553708b553b7a
+ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
+ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/25/2019
-ms.locfileid: "35203714"
+ms.locfileid: "35226865"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -26,7 +26,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
-> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Anfang Juli wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
 ## <a name="version-1906-june-24"></a>Version 1906: 24. Juni
 *Version 1906 (Build 11727.20210)*
@@ -42,19 +42,19 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 - **Ein vereinfachtes Menüband, das zudem angepasst werden kann:** Genießen Sie eine optimierte, einzelne Reihe der am häufigsten verwendeten Schaltflächen. Sie können einfach zwischen klassischer und vereinfachter Ansicht sowie den Befehlen "Anheften" und "Lösen" wechseln. 
   [Weitere Informationen](https://support.office.com/de-DE/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
-- **Wählen Sie Ihre bevorzugte Aktion aus** Sie möchten "Kennzeichnen" und "Löschen" nicht verwenden? Wie sieht es mit "Archivieren" oder "Als gelesen markieren" aus? Passen Sie das Menü mit schnellen Aktionen mit den am häufigsten verwendeten Befehlen an.
+- **Wählen Sie Ihre bevorzugte Aktion aus:** Sie möchten "Kennzeichnen" und "Löschen" nicht verwenden? Wie sieht es mit "Archivieren" oder "Als gelesen markieren" aus? Passen Sie das Menü mit schnellen Aktionen mit den am häufigsten verwendeten Befehlen an.
 
 - **Verbesserte Synchronisierung von freigegebenen Ordnern für Postfächer mit vielen Ordnern:** Seit Jahren ist Outlook beim Synchronisieren von freigegebenen Postfächern auf maximal 500 Ordner beschränkt. Mit dieser Änderung wurde Outlook so verbessert, dass es auf eine Weise synchronisiert wird, die dieser Beschränkung auf 500 Ordner nicht mehr unterliegt.
 
 - **Die Einstellungen für "Posteingang mit Relevanz" werden auf allen Geräten unverändert beibehalten:** Die Einstellungen für Ihren Posteingang mit Relevanz werden jetzt in der Cloud gespeichert. Nutzen Sie auf einem beliebigen Windows-Computer und in Outlook im Web dieselbe Oberfläche. 
   [Weitere Informationen](https://support.office.com/de-DE/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
-- **Aufgelockertes oder engeres Layout?Sie haben die Wahl:** Sie können entscheiden, ob Sie zwischen Elementen mehr Abstand wünschen oder ob Sie mehr Elemente in einem engeren Layout bevorzugen.
+- **Aufgelockertes oder engeres Layout? Sie haben die Wahl:** Sie können entscheiden, ob Sie zwischen Elementen mehr Abstand wünschen oder ob Sie mehr Elemente in einem engeren Layout bevorzugen.
 
 - **Die Outlook-Benutzeroberfläche wurde aktualisiert:** Eine vereinfachte Oberfläche, die über "In Kürze verfügbar" bereits in der Vorschau zur Verfügung stand und Ihnen helfen soll, sich auf das Wesentliche zu konzentrieren. 
   [Weitere Informationen](https://support.office.com/de-DE/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
-- **Freihand in Ihrer E-Mail!** Sie können Bilder jetzt in Ihren Outlook-E-Mails zeichnen und kommentieren. 
+- **Müheloses Zeichnen und Signieren:** Kritzeln Sie über die Bilder, oder fügen Sie einen Zeichenbereich hinzu, um Ihren Gedanken als Freihandnotizen Ausdruck zu verleihen. 
   [Weitere Informationen](https://support.office.com/de-DE/article/3e928cae-7eb5-4c3f-8c60-28eb85afb7d5)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
@@ -67,7 +67,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - Video in einer Besprechung wird auf einem 4K-Monitor richtig zugeschnitten, wenn die Einstellung "Mein Video in Besprechungen zuschneiden und zentrieren" aktiviert ist
 
-- Dateien können von einem Windows 10-Computer mit mehreren Netzwerkadaptern auf ältere Office Communicator-Clients übertragen werden. [Weitere Informationen] (https://support.microsoft.com/help/4508477)
+- Dateien können von einem Windows 10-Computer mit mehreren Netzwerkadaptern auf ältere Office Communicator-Clients übertragen werden. [Weitere Informationen](https://support.microsoft.com/help/4508477)
 
 - Verbesserte Oberfläche für die Kommunikation zwischen Skype for Business- und Microsoft Teams-Teilnehmern
 
