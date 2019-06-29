@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 83a63aafcddafeab5eae641b13f7563f030286a8
-ms.sourcegitcommit: 138a3eb0d7e9eda71fae28ee580441c88bd39fea
+ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
+ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35226865"
+ms.lasthandoff: 06/27/2019
+ms.locfileid: "35345582"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -28,30 +28,49 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Anfang Juli wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
+## <a name="version-1906-june-27"></a>Version 1906: 27. Juni
+*Version 1906 (Build 11727.20230)*
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+
+- Behebt ein Problem, das bewirkt, dass einer Teilmenge von POP3-Benutzern alle E-Mails im nur-Text-Format anzeigt werden, und zwar unabhängig von den Einstellungen.  Mit diesem Fix wird die Anzeige der HTML-formatierten Nachrichten wiederhergestellt.
+
+## <a name="version-1906-june-26"></a>Version 1906: 26. Juni
+*Version 1906 (Build 11727.20224)*
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+
+- Es wurde ein Problem in Excel behoben, bei dem Makros, die Shapes oder Steuerelementen zugeordnet sind, möglicherweise eine falsche Fehlermeldung anzeigen oder an falschen Zielbereichen arbeiten.
+- Ein Problem wurde behoben, durch das Ausschneide- und Einfügevorgänge neben einer Tabelle fehlschlugen, wenn die gemeinsame Dokumenterstellung zusammen mit anderen Benutzern durchgeführt wurde.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+
+- Behebt ein Problem, das für Vorgesetzte Unklarheit darüber verursacht hat, ob eine Stellvertretung bereits auf eine bestimmte Besprechungsanfrage geantwortet hat.
+
 ## <a name="version-1906-june-24"></a>Version 1906: 24. Juni
 *Version 1906 (Build 11727.20210)*
 * Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
-- **Verleihen Sie Ihrem Arbeitsblatt mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, wie Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex durch die Arbeitsmappe stampft. 
+- **Verleihen Sie Ihrem Arbeitsblatt mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex durch die Arbeitsmappe stampft. 
   [Weitere Informationen](https://support.office.com/de-DE/article/6f08009a-3da5-400d-a706-8e23f304cd72)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 
-- **Ein vereinfachtes Menüband, das zudem angepasst werden kann:** Genießen Sie eine optimierte, einzelne Reihe der am häufigsten verwendeten Schaltflächen. Sie können einfach zwischen klassischer und vereinfachter Ansicht sowie den Befehlen "Anheften" und "Lösen" wechseln. 
+- **Ein vereinfachtes und benutzerdefiniertes Menüband:** Genießen Sie eine optimierte, einzelne Reihe der am häufigsten verwendeten Schaltflächen. Sie können einfach zwischen klassischer und vereinfachter Ansicht sowie den Befehlen "Anheften" und "Lösen" wechseln. 
   [Weitere Informationen](https://support.office.com/de-DE/article/44bef9c3-295d-4092-b7f0-f471fa629a98)
 
-- **Wählen Sie Ihre bevorzugte Aktion aus:** Sie möchten "Kennzeichnen" und "Löschen" nicht verwenden? Wie sieht es mit "Archivieren" oder "Als gelesen markieren" aus? Passen Sie das Menü mit schnellen Aktionen mit den am häufigsten verwendeten Befehlen an.
+- **Wählen Sie Ihre bevorzugte Aktion aus:** Verwenden Sie keine Kennzeichnung und Löschung? Wie sieht es mit "Archivieren" oder "Als gelesen markieren" aus? Passen Sie das Menü mit schnellen Aktionen mit den am häufigsten verwendeten Befehlen an.
 
-- **Verbesserte Synchronisierung von freigegebenen Ordnern für Postfächer mit vielen Ordnern:** Seit Jahren ist Outlook beim Synchronisieren von freigegebenen Postfächern auf maximal 500 Ordner beschränkt. Mit dieser Änderung wurde Outlook so verbessert, dass es auf eine Weise synchronisiert wird, die dieser Beschränkung auf 500 Ordner nicht mehr unterliegt.
+- **Verbesserte Synchronisierung von freigegebenen Ordnern für Postfächer mit vielen Ordnern:** seit Jahren ist Outlook beim Synchronisieren freigegebener Postfächer auf maximal 500 Ordner beschränkt. Mit dieser Änderung wurde Outlook so verbessert, dass es auf eine Weise synchronisiert wird, die dieser Beschränkung auf 500 Ordner nicht mehr unterliegt.
 
-- **Die Einstellungen für "Posteingang mit Relevanz" werden auf allen Geräten unverändert beibehalten:** Die Einstellungen für Ihren Posteingang mit Relevanz werden jetzt in der Cloud gespeichert. Nutzen Sie auf einem beliebigen Windows-Computer und in Outlook im Web dieselbe Oberfläche. 
+- **Die Einstellungen für den Posteingang mit Relevanz bleiben auf allen Geräten identisch:** Ihre Einstellungen für den Posteingang mit Relevanz sind jetzt in der Cloud gespeichert. Nutzen Sie auf einem beliebigen Windows-Computer und in Outlook im Web dieselbe Oberfläche. 
   [Weitere Informationen](https://support.office.com/de-DE/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
-- **Aufgelockertes oder engeres Layout? Sie haben die Wahl:** Sie können entscheiden, ob Sie zwischen Elementen mehr Abstand wünschen oder ob Sie mehr Elemente in einem engeren Layout bevorzugen.
+- **Ein weiteres oder engeres Layout? Sie entscheiden:** Sie können entscheiden, ob Sie zwischen Elementen mehr Abstand wünschen oder ob Sie mehr Elemente in einem engeren Layout bevorzugen.
 
-- **Die Outlook-Benutzeroberfläche wurde aktualisiert:** Eine vereinfachte Oberfläche, die über "In Kürze verfügbar" bereits in der Vorschau zur Verfügung stand und Ihnen helfen soll, sich auf das Wesentliche zu konzentrieren. 
+- **Wir haben die Outlook-Benutzererfahrung für Sie aktualisiert:** Eine vereinfachte Oberfläche, die über "In Kürze verfügbar" bereits in der Vorschau zur Verfügung stand und Ihnen helfen soll, sich auf das Wesentliche zu konzentrieren. 
   [Weitere Informationen](https://support.office.com/de-DE/article/db503157-1b45-45d5-af52-e9c978cd8bed)
 
 - **Müheloses Zeichnen und Signieren:** Kritzeln Sie über die Bilder, oder fügen Sie einen Zeichenbereich hinzu, um Ihren Gedanken als Freihandnotizen Ausdruck zu verleihen. 
@@ -59,7 +78,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
-- **Gemeinsame Dokumentenerstellung:** Sind Sie es leid, von Ihren Dokumenten mit Makros ausgesperrt zu werden? Jetzt ist die gleichzeitige Bearbeitung durch mehrere Autoren für Ihre DOCM-Dateien in OneDrive for Business möglich.
+- **Gemeinsame Dokumenterstellung:** Sind Sie es leid, von Ihren Dokumenten mit Makros ausgesperrt zu werden? Jetzt ist die gleichzeitige Bearbeitung durch mehrere Autoren für Ihre DOCM-Dateien in OneDrive for Business möglich.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates 
 
