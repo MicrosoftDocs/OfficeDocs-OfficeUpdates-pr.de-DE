@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 6/28/2019
+ms.date: 7/5/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: b050450f851ddf70ec45d34319ad845b88ef3d58
-ms.sourcegitcommit: a25e1449c286ef70f68ed1eca5d303f2874050cc
+ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
+ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35393339"
+ms.lasthandoff: 07/05/2019
+ms.locfileid: "35575166"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -28,7 +28,61 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
-## <a name="june-28-2019"></a>28. Juni, 2019
+## <a name="july-5-2019"></a>5. Juli 2019
+Version 1908 (Build 11901.20002)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="sketchy-shapes"></a>Skizzenhafte Formen!
+
+Mitten im Entwurfs einer Präsentation? Wenden Sie die Formatvorlage "Skizzenhaft" an, um anzuzeigen, dass Sie zurzeit noch am Entwurf arbeiten. Dies verleiht Ihren Objekten eine persönliche Note, ohne sie in von Hand gezeichnete Freiformobjekte umzuwandeln.
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+- Die Leistung der Menüband-Zugriffstasteninfos wurde erheblich verbessert
+- Ein Problem wurde behoben, das verhinderte, dass das Dialogfeld "Erfahren Sie, was in Kürze verfügbar ist" ordnungsgemäß angezeigt wurde
+- Ein Problem wurde behoben, durch das Fotos im Katalogflyout für die gemeinsame Dokumenterstellung falsch ausgerichtet sein konnten
+
+### <a name="word"></a>Word 
+- Ein Problem wurde behoben, durch das manchmal das Hinzufügen neuer Kommentare verhindert wurde
+- Ein Problem wurde behoben, durch das Tabellen manchmal einen Absturz verursachten
+- Ein Problem wurde behoben, bei dem manchmal ungültige Daten ans Ende eines Seriendrucks angehängt wurden
+- Ein Problem wurde behoben, durch das einige LaTeX-Gleichungen nicht ordnungsgemäß gerendert wurden
+
+### <a name="excel"></a>Excel
+- Ein Problem wurde behoben, bei dem das Ändern von Diagrammtypen zu einer Laufzeitausnahme führen konnte
+- Ein Problem wurde behoben, bei dem manchmal das falsche Menüband angezeigt wurde, wenn mehrere Fenster geöffnet waren
+- Ein Problem wurde behoben, das einen Fehler verursachen konnte, wenn ein Makro eine zweite Instanz einer Arbeitsmappe öffnete
+- Ein Problem wurde behoben, das beim Öffnen oder Erstellen einer Arbeitsmappe oder beim Wechseln zwischen Arbeitsmappen zu einem Absturz führen könnte
+- Ein Problem wurde behoben, das verhinderte, dass Benutzer eine aus Word erstellte PDF-Datei in Teams öffnen konnten
+
+### <a name="powerpoint"></a>PowerPoint
+- Ein Problem wurde behoben, durch das die Qualität eines Diagramms beim Export in eine PDF-Datei beeinträchtigt wurde
+- Ein Problem wurde behoben, durch das eine QuickInfo, die die Entfernung zur Mitte angibt, nicht angezeigt wurde
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, das manchmal die Anzeige des Fehlers "Datenträger voll" verhinderte
+- Ein Problem wurde behoben, das dazu führen könnte, dass Anlagen beim Aktualisieren einer Besprechungsanfrage dupliziert wurden
+
+### <a name="access"></a>Access
+- Ein Problem wurde behoben, durch das einige Abfragen keine großen ganzzahligen Werte mehr zurückgeben konnten
+- Ein Problem wurde behoben, durch das SQL-Textfeld nicht mehr bearbeitet werden konnte
+- Ein Problem wurde behoben, bei dem QuickInfos auf einigen High DPI-Displays schwer zu erkennen waren
+
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, durch das Flagwerte in neuen Vorgängen nicht mehr bearbeitet werden konnten
+- Ein Problem wurde behoben, durch das eine Statusaktualisierung dazu führen konnte, dass das tatsächliche Anfangsdatum bei Aufgaben und Vorgängen nicht ordnungsgemäß festgelegt wurde
+- Ein Problem wurde behoben, das dazu führen könnte, dass einige Ressourcen fälschlicherweise als überlastet angezeigt wurden
+- Ein Problem wurde behoben, bei dem die Methode "TaskDependencies Add" beim Hinzufügen von "Lag", wenn das Dezimaltrennzeichen ein Komma war und bei einer Verbindung mit einem Server manchmal fehlschlug
+- Es wurde ein Problem behoben, durch das das Aktualisieren von lokalen Werten der Nachschlagetabelle für das benutzerdefinierte Feld über CSOM zum Absturz des PCs führen konnte
+- Ein Problem wurde behoben, bei dem die Werte für die gesamte Arbeit falsch erscheinen können, wenn sie eine Dezimalzahl enthalten
+
+</BR></BR>
+
+## <a name="june-28-2019"></a>28. Juni 2019
 Version 1907 (Build 11819.20002)
 
 ## <a name="whats-new"></a>Neuigkeiten:
