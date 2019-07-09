@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: d3d0fe11ec529c17f232eed13513e8149ad662c9
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: f353cd54355468e4eed9cc8cde8eae2429c65236
+ms.sourcegitcommit: 44ee03955100dfadfe6bd551c5c2552d8fd371b4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345562"
+ms.lasthandoff: 07/08/2019
+ms.locfileid: "35585563"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -35,6 +35,34 @@ Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevante
 > - Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, wird das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
 
 [//]: # (NICHT ENTFERNEN)
+## <a name="july-8-2019"></a>8. Juli 2019
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die erwartete Veröffentlichungsversion ist Version 1906 (Build 11727.20244).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1906 (Build 11727.20230) <br/> |27. Juni 2019 <br/> |202<br/> |
+|Version 1906 (Build 11727.20224) <br/> |26. Juni 2019 <br/> |51<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die erwartete Veröffentlichungsversion ist Version 1902 (Build 11328.20368).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20348) <br/> |11. Juni 2019  <br/> |307<br/> |
+|Version 1808 (Build 10730.20344) <br/> |14. Mai 2019  <br/> |307<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die erwartete Veröffentlichungsversion ist Version 1902 (Build 11328.20368).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20318)  <br/> |11. Juni 2019  <br/> |71 <br/> |
+|Version 1902 (Build 11328.20286)  <br/> |14. Mai 2019  <br/> |74 <br/> |
 
 ## <a name="june-27-2019"></a>27. Juni 2019
 
