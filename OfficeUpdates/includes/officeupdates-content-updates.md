@@ -3,21 +3,6 @@
 
 
 
-## <a name="week-of-may-27-2019"></a>Woche vom 27. Mai 2019
-
-
-| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
-|------|------------|--------|
-| 5/27/2019 | [Updateverlauf für Office Monatlicher Kanal (gezielt)](/OfficeUpdates/update-history-monthly-channel-targeted) | Geändert |
-| 5/29/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
-| 5/29/2019 | [Anmerkungen zur Version für Office für Mac](/OfficeUpdates/release-notes-office-for-mac) | Geändert |
-| 5/29/2019 | [Update Verlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | Geändert |
-| 5/29/2019 | [Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019](/OfficeUpdates/monthly-channel-2019) | Geändert |
-| 5/29/2019 | [Downloadgrößen für Updates von Office 365 ProPlus](/OfficeUpdates/download-sizes-office365-proplus-updates) | Geändert |
-| 5/31/2019 | [Anmerkungen zu dieser Version für Office-Insider](/OfficeUpdates/release-notes-office-insider) | Geändert |
-| 5/31/2019 | [Update Verlauf für Office-Insider Kanal](/OfficeUpdates/update-history-office-insider) | Geändert |
-
-
 ## <a name="week-of-june-03-2019"></a>Week of June 03, 2019
 
 
@@ -100,3 +85,12 @@
 | 6/27/2019 | [Updateverlauf für Office 365 ProPlus (nach Datum)](/OfficeUpdates/update-history-office365-proplus-by-date) | Geändert |
 | 6/28/2019 | [Anmerkungen zur Version für Office für Mac](/OfficeUpdates/release-notes-office-for-mac) | Geändert |
 | 6/28/2019 | [Anmerkungen zu dieser Version für Office-Insider](/OfficeUpdates/release-notes-office-insider) | Geändert |
+
+
+## <a name="week-of-july-01-2019"></a>Week of July 01, 2019
+
+
+| Zeitpunkt der Veröffentlichung |Titel des Themas | Änderung |
+|------|------------|--------|
+| 7/2/2019 | [Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Windows Installer (MSI) verwenden](/OfficeUpdates/office-msi-non-security-updates) | Geändert |
+| 7/5/2019 | [Anmerkungen zu dieser Version für Office-Insider](/OfficeUpdates/release-notes-office-insider) | Geändert |
