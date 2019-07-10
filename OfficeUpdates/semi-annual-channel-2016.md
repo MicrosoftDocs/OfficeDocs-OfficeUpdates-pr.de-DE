@@ -1,5 +1,5 @@
 ---
-title: Versionshinweise für Semikolons jährlichen Channel-Releases im 2016
+title: Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,24 +9,24 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Spezialisten mit Anmerkungen zur Version Semikolons jährlichen Channel für Office 365 ProPlus in 2016 frei
+description: Bietet IT-Experten Versionshinweise für halbjährliche Kanal Versionen für Office 365 ProPlus in 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556104"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439090"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Versionshinweise für Semikolons jährlichen Channel-Releases im 2016
+# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
 
-Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in Semikolons jährlichen Channel-Updates für Office 365 ProPlus in 2016 enthalten sind. 
+Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in halbjährlichen Kanal Aktualisierungen für Office 365 ProPlus in 2016 enthalten sind. 
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Der halbjährliche Kanal hieß vor Januar 2018 verzögerten Kanal.
 
 
-## <a name="version-1605-december-13"></a>Version 1605: Dezember 13
+## <a name="version-1605-december-13"></a>Version 1605:13. Dezember
 *Version 1605 (Build 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -41,10 +41,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-december-13"></a>Version 1602: Dezember 13
+## <a name="version-1602-december-13"></a>Version 1602:13. Dezember
 *Version 1602 (Build 6741.2098)*
 
-*Dies ist die verzögerte Channel-Version, die seit Juni 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis Februar 2017 empfangen. Aber eine neue Version des DDE-Kanal zurückgestellt ist jetzt verfügbar – Version 1605 (Build 6965.2115) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis zum 2017. Februar. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965,2115) –, die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
@@ -54,7 +54,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-november-8"></a>Version 1605: November 8
+## <a name="version-1605-november-8"></a>Version 1605:8. November
 *Version 1605 (Build 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -68,10 +68,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-november-8"></a>Version 1602: November 8
+## <a name="version-1602-november-8"></a>Version 1602:8. November
 *Version 1602 (Build 6741.2088)*
 
-*Dies ist die verzögerte Channel-Version, die seit Juni 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis Februar 2017 empfangen. Aber eine neue Version des DDE-Kanal zurückgestellt ist jetzt verfügbar – Version 1605 (Build 6965.2105) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis zum 2017. Februar. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965,2105) –, die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
@@ -81,7 +81,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1605-october-11"></a>Version 1605: Oktober 11
+## <a name="version-1605-october-11"></a>Version 1605:11. Oktober
 *Version 1605 (Build 6965.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
@@ -89,7 +89,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigte, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben konnte.
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **& Transformieren Verbesserungen abrufen:** Neuen oder verbesserten Datentransformation und Data Connectivity-Features für Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Verbesserungen bei der #a0 Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Zusätzliche Datenverbindungen:** Abfragen von Daten aus JSON- und Azure SQL Data Warehouse-Quellen.
 -   **Power Query-Verbesserungen:** Verbesserte und neue Funktionen zur Datentransformation und -konnektivität. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Umfangreiche Address Aware-Unterstützung:** 32-Bit-Versionen von Excel können mehr Speicher verwenden, falls verfügbar. [Weitere Informationen](https://support.microsoft.com/kb/3160741)
@@ -141,7 +141,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems, aufgrund dessen das Verschieben einer E-Mail-Nachricht per Drag & Drop in einen Ordner in einer PST-Datei dazu führte, dass Outlook den Benutzer dazu aufforderte, eine Reparatur für die Datei auszuführen.
 -   Behebung eines Problems, aufgrund dessen in den von Outlook 2016 gesendeten Besprechungseinladungen Bilder fehlten, wenn die Einladungen in Outlook 2013 oder Outlook 2010 empfangen wurden.
 -   Verbesserung der Darstellung von Nachrichten, die Tabellen enthalten, wenn hohe DPI-Werte verwendet werden.
--   Behebung eines Problems, in dem verwendet beantworten und Weiterleiten Schriftfarbe schwarz anstatt eine neue Farbe, obwohl "Andere Farbe beim Antworten oder Weiterleiten" unter Datei ausgewählt ist \> Optionen \> Mail \> Briefpapier und Schriftarten.
+-   Fix an issue where replying or forwarding uses black font color instead of picking a new color, even though "Pick a new color when replying or forwarding" is selected under File \> Options \> Mail \> Stationery and Fonts.
 -   Die Erkennung einer möglichen bevorstehenden Beschädigung der PST-Datei wurde verbessert, und es wurden Schritte hinzugefügt, um das Auftreten dieser Beschädigung zu verhindern.
 -   Behebung eines Problems, aufgrund dessen die erweiterten Symbolzeichen beim Senden einer E-Mail im RTF-Format zu „1“ geändert wurden.
 -   Behebung eines Problems, bei dem der Link zur Ansicht älterer Nachrichten auf dem Server nicht am Ende der Nachrichtenliste im Ordner (z. B. „Posteingang“ oder „Gelöschte Elemente“) angezeigt wird.
@@ -218,7 +218,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 -   **Einstellung für AD RMS-Benutzerrechterichtlinien:** Stellt sicher, dass die Einstellung für „Besitzer (Autor) permanenten Vollzugriff gewähren“ beim Anwenden auf neue Word-, Excel- und PowerPoint-Dokumente berücksichtigt wird, insbesondere dann, wenn die Einstellung deaktiviert ist. Wenn die Einstellung deaktiviert ist, wird eine Warnung mit dem Hinweis angezeigt, dass das Anwenden der Vorlage ggf. den Zugriff auf das Dokument einschränkt.
- 
+ 
 
     Hinweis: Vorhandene Dokumente, die mit einer Vorlage geschützt sind, für die diese Einstellung konfiguriert ist, werden nicht geändert. Der Besitzer verfügt weiterhin über permanenten Vollzugriff für diese Dokumente.
 
@@ -239,10 +239,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-october-11"></a>Version 1602: Oktober 11
+## <a name="version-1602-october-11"></a>Version 1602:11. Oktober
 *Version 1602 (Build 6741.2081)*
 
-*Dies ist die verzögerte Channel-Version, die seit Juni 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis Februar 2017 empfangen. Aber eine neue Version des DDE-Kanal zurückgestellt ist jetzt verfügbar – Version 1605 (Build 6965.2092) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis zum 2017. Februar. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965,2092) –, die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
@@ -252,7 +252,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-september-13"></a>Version 1602: September 13
+## <a name="version-1602-september-13"></a>Version 1602:13. September
 *Version 1602 (Build 6741.2071)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -272,10 +272,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-september-13"></a>Version 1509: September 13
+## <a name="version-1509-september-13"></a>Version 1509:13. September
 *Version 1509 (Build 6001.1090)*
 
-*Dies ist die verzögerte Channel-Version, die seit Februar 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis 2016 Oktober empfangen. Eine neue Version des zurückgestellt DDE-Kanal ist jedoch jetzt verfügbar – Version 1602 (Build 6741.2071) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2071) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
@@ -288,7 +288,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-august-9"></a>Version 1602: 9. August
+## <a name="version-1602-august-9"></a>Version 1602:9. August
 *Version 1602 (Build 6741.2063)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -311,10 +311,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-august-9"></a>Version 1509: 9. August
+## <a name="version-1509-august-9"></a>Version 1509:9. August
 *Version 1509 (Build 6001.1087)*
 
-*Dies ist die verzögerte Channel-Version, die seit Februar 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis 2016 Oktober empfangen. Eine neue Version des zurückgestellt DDE-Kanal ist jedoch jetzt verfügbar – Version 1602 (Build 6741.2063) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2063) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems mit einem letzten Sicherheitsupdate, aufgrund dessen beim Öffnen einer HTML-Datei von einem nicht vertrauenswürdigen Speicherort ein leerer Bildschirm ohne Fehlermeldungen in Excel angezeigt wurde. Der Benutzer konnte die Datei nicht in der geschützten Ansicht öffnen.
@@ -336,7 +336,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-july-12"></a>Version 1602: Juli 12
+## <a name="version-1602-july-12"></a>Version 1602:12. Juli
 *Version 1602 (Build 6741.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -350,10 +350,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-july-12"></a>Version 1509: Juli 12
+## <a name="version-1509-july-12"></a>Version 1509:12. Juli
 *Version 1509 (Build 6001.1085)*
 
-*Dies ist die verzögerte Channel-Version, die seit Februar 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis 2016 Oktober empfangen. Eine neue Version des zurückgestellt DDE-Kanal ist jedoch jetzt verfügbar – Version 1602 (Build 6741.2056) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2056) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
@@ -366,7 +366,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1602-june-14"></a>Version 1602: Juni 14
+## <a name="version-1602-june-14"></a>Version 1602:14. Juni
 *Version 1602 (Build 6741.2048)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
@@ -451,7 +451,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebt ein Problem,bei dem Elemente in der Dropdownliste „Von“ im Modus für hohen Kontrast nicht vollständig hervorgehoben werden.
 -   Behebt ein Problem, bei dem nur der erste Anhang ausgewählt wird, wenn Sie UMSCHALT + KLICK zum Auswählen mehrerer Anhänge verwenden.
 -   Behebung eines Problems, aufgrund dessen bei Verwendung von POP3 alle E-Mails auf dem Server aus dem Posteingang gelöscht wurden, nachdem Outlook die E-Mails heruntergeladen hat. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
--   Eine Behebung eines Problems, werden bei der Verwendung von POP3 konfiguriert, e-Mail-Nachrichten mehrere Male heruntergeladen doppelte Elemente verursacht. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
+-   Behebung eines Problems, bei dem e-Mail-Nachrichten, wenn Sie für die Verwendung von POP3 konfiguriert sind, mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 -   Behebung eines Problems, aufgrund dessen Benutzer nicht auf öffentliche Ordner zugreifen konnten, die auf Exchange Server 2010 gehostet wurden.
 -   Behebung eines Problems, bei dem Bilder in der falschen Größe beim Senden von E-Mails zwischen einem Gerät mit hoher DPI und einem Monitor mit normaler DPI angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen beim Ziehen der Bildlaufleiste in der Nachrichtenliste zum Ende der Liste gewechselt wurde.
@@ -465,7 +465,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Für diesen Dienst ist eine Internetverbindung erforderlich. Deaktivieren dieses Feature, [Verwenden Sie die neuesten administrativen Vorlagen für Gruppenrichtlinien-Dateien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung für PowerPoint Designeroptionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Verwenden Sie zum Deaktivieren dieses Features [die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
@@ -634,14 +634,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung einer sr-latn-cr-Installation auf Office 2016 die Clientsprache nicht in sr-latn-rs konvertiert wurde.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung während der Aktualisierungsvorbereitung ein Fehler auftrat, wenn mehrere SKUs von Office auf dem Computer installiert waren.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen Fehlermeldungen angezeigt wurden, wenn ein manuelles Update gestartet wurde, während die automatische Aktualisierung noch ausgeführt wurde.
--   Aktualisierung der Verweise auf „Add-Ins“ in der Benutzeroberfläche des Produkts an Stellen, an denen die Großschreibung des Begriffs falsch war.
+-   Aktualisierung der Verweise in „Add-Ins“ auf der Benutzeroberfläche des Produkts, wo die Großschreibung des Begriffs falsch war.
 
 
 
-## <a name="version-1509-june-14"></a>Version 1509: Juni 14
+## <a name="version-1509-june-14"></a>Version 1509:14. Juni
 *Version 1509 (Build 6001.1082)*
 
-*Dies ist die verzögerte Channel-Version, die seit Februar 2016 verfügbar war. Es wird weiterhin unterstützt werden und Sicherheitsupdates bis 2016 Oktober empfangen. Eine neue Version des zurückgestellt DDE-Kanal ist jedoch jetzt verfügbar – Version 1602 (Build 6741.2056) – dieser Abschnitt enthält neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates.*
+*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2056) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden der Konferenzfunktionen, u. a. Whiteboard oder Freigeben von Notizen, eine Fehlermeldung angezeigt wurde. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3165438)
@@ -660,7 +660,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-may-10"></a>Version 1509: Mai 10
+## <a name="version-1509-may-10"></a>Version 1509:10. Mai
 *Version 1509 (Build 6001.1078)*
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
@@ -671,7 +671,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-april-12"></a>Version 1509: April 12
+## <a name="version-1509-april-12"></a>Version 1509:12. April
 *Version 1509 (Build 6001.1073)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
@@ -682,7 +682,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-march-8"></a>Version 1509: März 8
+## <a name="version-1509-march-8"></a>Version 1509:8. März
 *Version 1509 (Build 6001.1068)*
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
@@ -693,7 +693,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-february-9"></a>Version 1509: Februar 9
+## <a name="version-1509-february-9"></a>Version 1509:9. Februar
 *Version 1509 (Build 6001.1061)*
 
 Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben Funktionen, die mit Office 2016 am 22. September 2015 ausgeliefert wurden.

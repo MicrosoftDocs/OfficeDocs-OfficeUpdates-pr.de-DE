@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 69d4e3cbe3bf6c57f08e5b8f3eb90f8abb47e459
-ms.sourcegitcommit: cb86c338e3a58b21bd6ed9dc5480388075c0194d
+ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
+ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/05/2019
-ms.locfileid: "35575166"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35587896"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -138,7 +138,7 @@ Im dunklen Modus wird nun Benutzern, die das Design "Schwarz" verwenden, auch de
 1. Lesen von E-Mails im dunklen Modus. Wenn Sie etwas nicht lesen können, wechseln Sie mit Hilfe des Sonne-Schalters im Lesebereich zu einem hellen Hintergrund. 
 2. Verfassen von E-Mails im dunklen Modus. Zeigen Sie mit Hilfe des Sonne-Schalters im Menüband in einer Vorschau an, wie Ihre Nachricht mit einem hellen Hintergrund aussehen wird. 
 
-Sollten einzelne E-Mails nicht korrekt dargestellt werden, senden Sie diese bitte (als Anlage) an OutlookDarkModeFail.
+Sollten einzelne E-Mails nicht korrekt dargestellt werden, senden Sie diese bitte (als Anlage) an OutlookDarkModeFail@service.microsoft.com
 
 #### <a name="get-location-suggestions"></a>Abrufen von Standortvorschlägen
 

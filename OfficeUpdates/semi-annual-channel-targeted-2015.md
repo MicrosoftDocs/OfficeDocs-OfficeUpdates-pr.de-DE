@@ -1,5 +1,5 @@
 ---
-title: Versionshinweise für Versionen in 2015 Semikolons jährlichen Channel (gezielte)
+title: Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2015
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,25 +9,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Spezialisten mit Anmerkungen zu dieser Version Versionen Semikolons jährlichen Channel (gezielte) für Office 365 ProPlus in 2015
+description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (gezielt) für Office 365 ProPlus in 2015
 ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: b230282c9b72374d46b6b262b450f6618b2205cc
+ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2018
-ms.locfileid: "19556128"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32439140"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Versionshinweise für Versionen in 2015 Semikolons jährlichen Channel (gezielte)
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2015
 
-Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates, die in Semikolons jährlichen Channel (gezielte) Updates für Office 365 ProPlus in 2015 enthalten sind.
+Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in den halbjährlichen Kanal Aktualisierungen (gezielt) für Office 365 ProPlus in 2015 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Semikolons jährlichen Channel (gezielte) hieß erste Version für Kanal vor September 2017 zurückgestellt.
+> - Der halbjährliche Kanal (Targeted) wurde zum ersten Release für den verzögerten Kanal vor dem 2017. September ernannt.
 
 
-## <a name="version-1509-december-8"></a>Version 1509: Dezember 8
+## <a name="version-1509-december-8"></a>Version 1509:8. Dezember
 *Version 1509 (Build 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -56,7 +56,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-november-10"></a>Version 1509: November 10
+## <a name="version-1509-november-10"></a>Version 1509:10. November
 *Version 1509 (Build 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
@@ -125,7 +125,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-october-21"></a>Version 1509: Oktober 21
+## <a name="version-1509-october-21"></a>Version 1509:21. Oktober
 *Version 1509 (Build 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -168,7 +168,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 
 
 
-## <a name="version-1509-october-5"></a>Version 1509: Oktober 5
+## <a name="version-1509-october-5"></a>Version 1509:5. Oktober
 *Version 1509 (Build 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -189,11 +189,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung einer sr-latn-cr-Installation auf Office 2016 die Clientsprache nicht in sr-latn-rs konvertiert wurde.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen bei der automatischen Aktualisierung während der Aktualisierungsvorbereitung ein Fehler auftrat, wenn mehrere SKUs von Office auf dem Computer installiert waren.
 -   Behebung eines Problems mit Klick-und-Los, aufgrund dessen Fehlermeldungen angezeigt wurden, wenn ein manuelles Update gestartet wurde, während die automatische Aktualisierung noch ausgeführt wurde.
--   Aktualisierung der Verweise auf „Add-Ins“ in der Benutzeroberfläche des Produkts an Stellen, an denen die Großschreibung des Begriffs falsch war.
+-   Aktualisierung der Verweise in „Add-Ins“ auf der Benutzeroberfläche des Produkts, wo die Großschreibung des Begriffs falsch war.
 
 
 
-## <a name="version-1509-september-22"></a>Version 1509: September 22
+## <a name="version-1509-september-22"></a>Version 1509:22. September
 *Version 1509 (Build 4229.1024)*
 
 Dies ist die erste Version für diesen Kanal. In dieser Version sind zum ersten Mal die Office 2016-Anwendungen verfügbar.
