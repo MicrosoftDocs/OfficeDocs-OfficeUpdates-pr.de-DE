@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 68d4862af628444ade76ebfa2e70e85753f83c28
-ms.sourcegitcommit: 36e3abcb2903810b8e0704564fa140fee9904bd7
+ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35587896"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607369"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,7 +29,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
 ## <a name="july-5-2019"></a>5. Juli 2019
-Version 1908 (Build 11901.20002)
+Version 1907 (Build 11901.20018)
 
 ## <a name="whats-new"></a>Neuigkeiten:
 
@@ -135,7 +135,7 @@ Im dunklen Modus wird nun Benutzern, die das Design "Schwarz" verwenden, auch de
 
 #### <a name="scenarios-to-try"></a>Szenarien zum Ausprobieren:
 
-1. Lesen von E-Mails im dunklen Modus. Wenn Sie etwas nicht lesen können, wechseln Sie mit Hilfe des Sonne-Schalters im Lesebereich zu einem hellen Hintergrund. 
+1. Lesen von E-Mails im dunklen Modus. Wenn Sie etwas nicht lesen können, verwenden Sie den Umschalter "Sonne" im Lesebereich, um zu einem hellen Hintergrund zu wechseln. 
 2. Verfassen von E-Mails im dunklen Modus. Zeigen Sie mit Hilfe des Sonne-Schalters im Menüband in einer Vorschau an, wie Ihre Nachricht mit einem hellen Hintergrund aussehen wird. 
 
 Sollten einzelne E-Mails nicht korrekt dargestellt werden, senden Sie diese bitte (als Anlage) an OutlookDarkModeFail@service.microsoft.com

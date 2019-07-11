@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 6/14/2019
+ms.date: 6/28/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 38719e16466b6ed4885405e4265eddb43868c35d
-ms.sourcegitcommit: 241e7ece990d6ab11e1cd2aae491c4319f8b0ee6
+ms.openlocfilehash: 5ddf84e1bae91ad0a610859078e8523f5987b955
+ms.sourcegitcommit: e6c9f7c47fa3ef117b6b234d9ac17777102e89ad
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35060297"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35390973"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -26,33 +26,48 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
   
 > [!NOTE]
-> - Eine Liste aller Office für Mac-Releases und weitere Downloadlinks finden Sie unter [Updateverlauf für Office für Mac](update-history-office-for-mac.md). 
+> - Eine Liste aller Office für Mac-Releases, Updatepakete und weitere Downloadlinks finden Sie unter [Updateverlauf für Office für Mac](update-history-office-for-mac.md). 
 > - Wenn Sie ein Office Insider sind, lesen Sie die [Versionshinweise zu Insider Fast-Builds](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - Ab Version 16.17 vom September 2018 gelten diese Informationen auch für Office 2019 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist. Einige der in den Anmerkungen zur Version aufgeführten Features stehen jedoch nur in einem Office 365-Abonnement zur Verfügung.
 > - Die Versionshinweise für Version 16.16 und frühere Versionen gelten auch für Office 2016 für Mac, ebenfalls eine Version von Office für Mac, die als einmaliger Erwerb verfügbar ist. Ältere Versionen bis einschließlich 16.16 können mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Version 16.17 oder höher kann nicht mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Informationen zu Office 2016 für Mac-Versionen ab September finden Sie unter [Anmerkungen für Office 2016 für Mac](release-notes-office-2016-mac.md).
-> - Downloadlinks sind nur für die aktuellen Releases verfügbar.
-> - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
+> 
+> 
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
   **Hinweis:** Informationen zum Release Microsoft AutoUpdate (MAU) wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/>
 
-## <a name="june-2019-release"></a>Release von Juni 2019
-
-**Veröffentlichungsdatum:** 11. Juni 2019
-
+## <a name="june-11-2019-release"></a>Release vom 11. Juni 2019
 *Version 16.26 (Build 19060901)*
 
- Dieses Release umfasst die folgenden Updates:
 
-|**Application**|**Update**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
-|:-----|:-----|:-----|:-----|
-|Word  <br/><br/>|Mit @Erwähnungen andere auf sich aufmerksam machen: Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen. |[CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Sicherheitsanfälligkeit in Microsoft Word bezüglich Remotecodeausführung<br/><br/>[CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Sicherheitsanfälligkeit in Microsoft Word bezüglich Remotecodeausführung<br/>|[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Word_16.26.19060901_Updater.pkg)<br/>|
-|Excel<br/>|Mit @Erwähnungen andere auf sich aufmerksam machen: Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen.<br/><br/>**Gruppieren oder nicht gruppieren:** PivotTable-Daten müssen nicht gruppiert werden. Deaktivieren Sie die automatische Gruppierung unter: Excel > Einstellungen > Tabellen und Filter.<br/><br/>**Auf einen Blick: Hochgestellt und tiefgestellt** Wenn tiefgestellt, hochgestellt und durchgestrichen Ihre Lieblingsformatierungen sind, können Sie sie dem Menüband und der Symbolleiste für den Schnellzugriff hinzufügen, damit sie immer in Reichweite sind.| |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.26.19060901_Updater.pkg)<br/>|
-|PowerPoint<br/>|Mit @Erwähnungen andere auf sich aufmerksam machen: Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen.<br/><br/>**Neuer Speicherort für Onlinevideos:** Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen anschauen kann. Fügen Sie den Videolink ein, und genießen Sie eine Multimediapräsentation mit einem Bruchteil der üblichen Dateigröße.<br/><br/>**Livebeschriftungen und Untertitel:** Während Sie präsentieren, wird Ihr gesprochener Text automatisch in Form von Beschriftungen angezeigt oder in Untertitel in einer anderen Sprache übersetzt. Für beste Ergebnisse verwenden Sie ein Headset-Mikrofon.||[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.26.19060901_Updater.pkg)<br/>|
-|Outlook|**Mit nur einem Klick aus Outlook in OneNote:** Mit einem Klick auf eine Schaltfläche können Sie Ihre Outlook-Nachrichten und Besprechungsnotizen in einem OneNote-Notizbuch speichern. Verwenden Sie dies als Archiv oder als einen geeigneten Ort, um Ihre Inhalte aufzubewahren. <br/> | |[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.26.19060901_Updater.pkg) <br/>|
+### <a name="word-feature-updates"></a>Word: Featureupdates
 
-## <a name="may-2019-release"></a>Version vom Mai 2019      
+- **Mit \@Erwähnungen andere auf sich aufmerksam machen:** Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen.
+
+### <a name="word-security-updates"></a>Word: Sicherheitsupdates
+
+- [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034): Sicherheitsanfälligkeit in Microsoft Word bezüglich Remotecodeausführung
+- [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035): Sicherheitsanfälligkeit in Microsoft Word bezüglich Remotecodeausführung
+
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+
+- **Mit \@Erwähnungen andere auf sich aufmerksam machen:** Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen.
+- **Gruppieren oder nicht gruppieren:** PivotTable-Daten müssen nicht gruppiert werden. Deaktivieren Sie die automatische Gruppierung unter: Excel > Einstellungen > Tabellen und Filter.
+- **Hochgestellt und tiefgestellt auf einen Blick:** Wenn tiefgestellt, hochgestellt und durchgestrichen Ihre Lieblingsformatierungen sind, können Sie sie dem Menüband und der Symbolleiste für den Schnellzugriff hinzufügen, damit sie immer in Reichweite sind.
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Mit \@Erwähnungen andere auf sich aufmerksam machen:** Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen.
+- **Neuer Speicherort für Onlinevideos:** Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen ansehen kann. Fügen Sie den Videolink ein, und genießen Sie eine Multimediapräsentation mit einem Bruchteil der üblichen Dateigröße.
+- **Liveuntertitel und Untertitel:** Während Sie eine Präsentation halten, wird Ihr gesprochener Text automatisch in Form von Liveuntertiteln angezeigt oder in Untertiteln in eine andere Sprache übersetzt. Für beste Ergebnisse verwenden Sie ein Headset-Mikrofon.
+
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
+
+- **Mit nur einem Klick aus Outlook in OneNote:** Mit einem Klick auf eine Schaltfläche können Sie Ihre Outlook-Nachrichten und Besprechungsnotizen in einem OneNote-Notizbuch speichern. Verwenden Sie dies als Archiv oder als geeigneten Ort, um Ihre Inhalte aufzubewahren.<br/><br/>
+
+
+## <a name="may-2019-release"></a>Release vom Mai 2019      
 
 **Veröffentlichungsdatum:** 14. Mai 2019 
 
@@ -180,7 +195,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| Ein Problem mit der chinesischen Lokalisierung wurde behoben.<br/><br/>**Aufheben der Sprachbarriere:** Übersetzen Sie Wörter, Sätze oder das ganze Dokument mit Microsoft Translator in eine andere Sprache. Erledigen Sie dies über die Registerkarte "Überprüfen" im Menüband.| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
+|Word  <br/>| Ein Problem mit der chinesischen Lokalisierung wurde behoben.<br/><br/>**Die Sprachbarriere aufheben:** Übersetzen Sie Wörter, Sätze oder ein ganzes Dokument mit Microsoft Translator in eine andere Sprache. Erledigen Sie dies über die Registerkarte "Überprüfen" im Menüband.| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011700_Updater.pkg) <br/>|
 |Outlook  <br/>| Ein Problem mit der chinesischen Lokalisierung wurde behoben.<br/><br/>**Optimieren der Synchronisierung basierend auf Leistungs- und Netzwerkstatus:** Outlook optimiert die Synchronisierung für Ihre Exchange-Konten jetzt, wenn Sie sich im Akkubetrieb und in einer Umgebung mit eingeschränktem Netzwerkzugriff befinden, zum Beispiel im WLAN-Netz eines Flugzeugs.<br/><br/>**Alle Besprechungsdetails auf einen Blick:** klicken Sie auf das Ereignis in Ihrem Kalender, um alle Besprechungsdetails anzuzeigen. Überprüfen Sie, wer eingeladen wurde, bearbeiten Sie Ihre Antwort oder nehmen Sie an einer Besprechung teil – alles von einem zentralen Ort aus. [Weitere Informationen](https://support.office.com/article/3b3b0575-36e2-4632-a982-1e6977870658)  | |[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011700_Updater.pkg) <br/>|
 
  **Veröffentlichungsdatum:** 23. Januar 2019 
@@ -202,7 +217,7 @@ Dieses Release umfasst die folgenden Updates:
 |Word  <br/>| **Im Handumdrehen von iPhone zu Word:** Verwenden Sie die Continuity Camera von Apple, um ein Foto von Ihrem iPhone in Ihr Dokument einzufügen. macOS Mojave erforderlich. [Weitere Informationen](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dokumente anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561): Microsoft Word – Sicherheitsrisiko bei der Offenlegung von Informationen  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585): Sicherheitsanfälligkeit in Microsoft Word bezüglich Remotecodeausführung |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Zusammenarbeiten mit Kommentaren:** Halten Sie die Unterhaltung mit dem integrierten Antwortfeld direkt in Ihrem Arbeitsblatt aufrecht. [Weitere Informationen](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Arbeitsblätter:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Arbeitsblätter anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG-Unterstützung:** Fügen Sie SVGs in Ihre Arbeitsmappen ein, und bearbeiten Sie sie, um die visuelle Wirkung zu verstärken. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Zusätzliche Formatierungsoptionen für Histogramm-, Wasserfall-, TreeMap-, Sunburst-, Trichter- und Karten-Diagramme:** Sie haben mehr Kontrolle über die Formatierungsoptionen für die neuen Diagrammtypen im Bereich „Format“.|[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Drucken der Foliennummer in Handzetteln:** Wenn Sie eine Präsentation auf Handzetteln drucken, wird auf jeder Folie eine begleitende Foliennummer angezeigt. <br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Präsentationen:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Präsentationen anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Einbetten einer Teilmenge der Schriftarten:** Betten Sie nun nur noch die in der Präsentation verwendeten Zeichen ein.  [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Nachrichten:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Nachrichten anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Finden Sie E-Mails schneller in Ihrem aktuellen Posteingang:** Markieren Sie das Suchfeld, um schnelle Vorschläge basierend auf Ihrem aktuellen Suchverlauf zu erhalten. Keine Eingabe erforderlich. [Weitere Informationen](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Das Hinzufügen von Gmail zu Outlook ist jetzt noch einfacher:** Sicherheitsverbesserungen bedeuten, dass Sie den Zugriff für "weniger sichere Apps" nicht mehr erteilen oder kein App-Kennwort mehr festlegen müssen, um Ihr Gmail-Konto zu Outlook hinzufügen zu können. <br/><br/>**Outlook für Mac hebt nun Suchbegriffe hervor:** Haben Sie schon einmal etwas gesucht, und sich gefragt, warum Outlook Ihren Suchbegriff in der Elementliste und im Vorschaufenster nicht hervorhebt? Nun, wundern Sie sich nicht mehr, denn das Feature ist jetzt verfügbar!||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Nachrichten:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Nachrichten anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Finden Sie E-Mails schneller in Ihrem aktuellen Posteingang:** Markieren Sie das Suchfeld, um schnelle Vorschläge basierend auf Ihrem aktuellen Suchverlauf zu erhalten. Keine Eingabe erforderlich. [Weitere Informationen](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Das Hinzufügen von Gmail-Konten ist jetzt noch einfacher:** Sicherheitsverbesserungen bedeuten, dass Sie den Zugriff für "weniger sichere Apps" nicht mehr erteilen oder kein App-Kennwort mehr festlegen müssen, um Ihr Gmail-Konto zu Outlook hinzuzufügen.<br/><br/>**Outlook für Mac hebt nun Suchbegriffe hervor:** Haben Sie schon einmal etwas gesucht und sich gefragt, warum Outlook Ihren Suchbegriff in der Elementliste und im Vorschaufenster nicht hervorhebt? Nun, überlegen Sie nicht mehr, denn das Feature ist jetzt verfügbar!||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| Der AutoUpdate-Daemon wird jetzt im Rahmen des Installationsprozesses gestartet. Dadurch werden verwirrende Sicherheitsdialogfelder beseitigt, die bisher für Benutzer angezeigt wurden. <br/><br/> Die Sicherheitsfeatures von Microsoft AutoUpdate wurden so verbessert, dass nun SHA256-Zertifikate unterstützt werden. <br/>|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]

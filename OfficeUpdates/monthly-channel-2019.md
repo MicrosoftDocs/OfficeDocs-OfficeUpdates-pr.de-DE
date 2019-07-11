@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: f8e2aaa1fe258bd00d49bfbc1c6b14a729a8bdfe
-ms.sourcegitcommit: edc5a5ef00487215091a2e1bf978b33868e62e4a
+ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
+ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/27/2019
-ms.locfileid: "35345582"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35601514"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -27,6 +27,15 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Anfang Juli wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1906-july-09"></a>Version 1906: 9. Juli
+*Version 1906 (Build 11727.20244)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+
+ - Behebt ein Problem, das bewirkt, dass die aktuelle Ordnersuche zweitweise fehlschlägt.
 
 ## <a name="version-1906-june-27"></a>Version 1906: 27. Juni
 *Version 1906 (Build 11727.20230)*

@@ -3,7 +3,7 @@ title: Project Server-Updates
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 04/10/2019
+ms.date: 07/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: 75e8e5f56450363669c938156a121d5f87452593
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: dd399ffb58c6799f8e0ee21b7df3b2eec72472a9
+ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438798"
+ms.lasthandoff: 07/09/2019
+ms.locfileid: "35594593"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -30,6 +30,9 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
   
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Juli 2019  <br/> |[KB4475524](https://support.microsoft.com/kb/4475524) <br/>|
+|Juni 2019  <br/> |[KB4464600](https://support.microsoft.com/kb/4464600) <br/>|
+|Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/kb/4464562) <br/>|
 |April 2019  <br/> |[KB4464513](https://support.microsoft.com/kb/4464513) <br/>|
 |März 2019  <br/> |[KB4462218](https://support.microsoft.com/kb/4462218) <br/>|
 |Februar 2019  <br/> |[KB4462151](https://support.microsoft.com/kb/4462151) <br/>|
@@ -87,6 +90,9 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Juli 2019  <br/>  |[KB4475532](https://support.microsoft.com/kb/4475532) <br/>|
+|Juni 2019  <br/>  |[KB4475507](https://support.microsoft.com/kb/4475507) <br/>|
+|Mai 2019  <br/>  |[KB4464568](https://support.microsoft.com/kb/4464568) <br/>|
 |April 2019  <br/>  |[KB4464521](https://support.microsoft.com/kb/4464521) <br/>|
 |März 2019  <br/>  |[KB4462227](https://support.microsoft.com/kb/4462227) <br/>|
 |Februar 2019  <br/>  |[KB4462179](https://support.microsoft.com/kb/4462179) <br/>|
