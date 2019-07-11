@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: c30fea0f6e77e25db238ead95a786ba99f69790a
-ms.sourcegitcommit: a01cd0d0d2efe0aa3d0efce1848b773aaa0eca1e
+ms.openlocfilehash: 041802476192d1ca6b684a46046aefa2c9ba2a73
+ms.sourcegitcommit: 9e7d201c887af0708df6ce48fba7f414b066dcd0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35605584"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35612144"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -29,8 +29,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ## <a name="version-1902-july-09"></a>Version 1902: 09. Juli
 *Version 1902 (Build 11328.20368)*
-
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 ### <a name="access-feature-updates"></a>Access: Featureupdates
@@ -196,6 +195,26 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - Repariert die Regression, die beim Herunterladen von verknüpften Grafiken Abstürze verursachte.
 - Die Unschärfe großer in Word, Excel und PowerPoint eingefügter EMF-Dateien wird behoben.
 - Der Fehler in der Analyselogik des Versionsverlaufs wird behoben, der in einigen Fällen dazu führte, dass Dokumente im schreibgeschützten Modus geöffnet wurden.
+
+
+## <a name="version-1808-july-09"></a>Version 1808: 09. Juli
+*Version 1808 (Build 10730.20360)*
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Verbesserte Leistung beim Aktivieren von Schnellbausteinen für Dokumenteigenschaften.
+- Ein Problem mit entfernten Signaturen beim Auschecken eines Dokuments wurde behoben.
+
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+
+- Ein Problem wurde behoben, das Office-Anwendungen, die unter virtualisiertem Windows ausgeführt werden, betroffen hat.
+
+
+## <a name="version-1803-july-09"></a>Version 1803: 09. Juli
+*Version 1803 (Build 9126.2428)*
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 ## <a name="version-1808-june-11"></a>Version 1808: 11. Juni
