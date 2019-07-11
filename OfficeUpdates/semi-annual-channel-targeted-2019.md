@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: eabd0a3bf3c7c44a74e0991b78e11e6d079dc7f3
-ms.sourcegitcommit: 2a0b5f0a6ef18194f8a8591ff2fd3e6894d162b2
+ms.openlocfilehash: 715250022d6bf9172f4e1c47d1437099a63b1ff1
+ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34910395"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35607359"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -27,6 +27,49 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features und Nicht-S
  
 > [!NOTE]
 > - Die Informationen zu Sicherheitsupdates für jeden Updatekanal von Office 365 ProPlus werden ab sofort separat unter [Sicherheitsrelevante Updates](office365-proplus-security-updates.md) aufgeführt.
+
+## <a name="version-1902-july-09"></a>Version 1902: 9. Juli 
+*Version 1902 (Build 11328.20368)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+- Problem extremer Langsamkeit beim Löschen von gefilterten Excel-Zeilen behoben.
+- Das Problem, dass beim Scrollen mit zwei Fingern graue Rechtecke über das Arbeitsblatt gezeichnet werden und Excel hängenbleibt, ist behoben.
+
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+- Behebt ein Problem, das dazu führte, dass Benutzern bei Outlook gelegentlich das Einfügen englischer Pinyin-Buchstaben angezeigt wurde, anstatt das IME-Kandidatenfenster geöffnet zu lassen, um die Auswahl chinesischer Wörter zuzulassen.
+- Behebt ein Problem, das dazu führte, dass Benutzern Räume für Besprechungen vorgeschlagen wurden, die gar nicht verfügbar waren.
+- Behebt ein Problem, das dazu führte, dass Benutzer nicht die Masterserie öffneten, sondern stattdessen versuchten, eine Ausnahme für eine Besprechungsserie zu öffnen.
+- Behebt ein Problem, das bewirkte, dass Benutzern nicht ordnungsgemäß berechnete Ablaufdaten im Ordner „Gelöschte Elemente“ angezeigt wurden.
+
+
+### <a name="teams-non-security-updates"></a>Teams: Nicht sicherheitsrelevante Updates
+
+- Teams Installer hat jetzt eine Richtlinie zur Deaktivierung des automatischen Starts nach Abschluss der Installation.
+
+
+### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Updates
+
+- Behebt Probleme im Zusammenhang mit ActiveX-Lösungen für Visio, die nicht mit Office 365 funktionieren und als Fehlermeldung ausgedrückt werden, die besagt, dass riched20.dll nicht gefunden werden kann.
+
+
+### <a name="word--non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+
+- GPO-Einstellung zum Deaktivieren der Vorlagen-Suchleiste korrigiert
+- Ein Problem wurde behoben, bei dem Benutzer einige ihrer Änderungen verlieren konnten, nachdem sie offline waren und ein Nur-Serverdokument bearbeitet haben.
+- Verbesserte Leistung beim Aktivieren von Schnellbausteinen für Dokumenteigenschaften
+- Ein Problem wurde behoben, bei dem die erste Downloadrevision vom Server möglicherweise fehlschlägt
+
+
+### <a name="office-suite--non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+
+- Es wurde ein Problem behoben, bei dem Geräte, die die Aktivierung gemeinsam genutzter Computer verwenden, bei der Installation weiterer Office-Produkte oder Sprachpakete unerwartet zur benutzerbasierten Aktivierung zurückkehren.
+- Es wurde ein Problem mit der Sperrung von Office-Updates behoben, wenn die Proxyauthentifizierung als SYSTEM ausgeführt wird.
+- Korrekturen zur Behandlung von Office-Add-Ins, die bei Änderungen des Benutzerprofils nicht mehr angezeigt werden.
+
 
 ## <a name="version-1902-june-11"></a>Version 1902: 11. Juni
 *Version 1902 (Build 11328.20318)*
