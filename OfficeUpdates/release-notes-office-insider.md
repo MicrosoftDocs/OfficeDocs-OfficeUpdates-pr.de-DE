@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/5/2019
+ms.date: 7/12/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: c6d380fac5fa002179597a7e32002e1889482063
-ms.sourcegitcommit: eea73f35ff3045e556ae603f9c6e18fa4fed6158
+ms.openlocfilehash: 29b2cf8edb700db4b887c603570a43bc62ca7356
+ms.sourcegitcommit: 433c9f63b2b868767c23672ccc1845d2d90327aa
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2019
-ms.locfileid: "35607369"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35643037"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -27,6 +27,39 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="july-12-2019"></a>12. Juli 2019
+Version 1907 (Build 11901.20038)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="powerpoint"></a>PowerPoint
+ 
+#### <a name="use-ink-replay-in-your-presentations"></a>Verwenden von Freihand-Wiedergabe in Präsentationen
+ 
+Verwenden Sie Wiedergabe-Animationen für Freihand in PowerPoint, um in Präsentationen mehr auszudrücken und zu kommunizieren. 
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="word"></a>Word 
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="excel"></a>Excel
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+</BR></BR>
 
 ## <a name="july-5-2019"></a>5. Juli 2019
 Version 1907 (Build 11901.20018)
