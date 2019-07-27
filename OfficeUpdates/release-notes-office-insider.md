@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/26/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: ae18351dbb8d37786892e622bcb6c86624dcbb23
-ms.sourcegitcommit: bc0fc6203e00628704639923db8de54affbe2005
+ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
+ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35803162"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35916968"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -27,6 +27,44 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="july-26-2019"></a>26. Juli 2019
+Version 1908 (Build 11916.20000)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="word-excel-powerpoint"></a>Word, Excel, PowerPoint
+
+#### <a name="create-more-accessible-pdfs"></a>Erstellen von barrierefreien PDF-Dateien
+
+Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten.
+
+## <a name="notable-fixes"></a>Wichtige Fixes:
+
+### <a name="all"></a>Alle
+
+- Ein Problem wurde behoben, bei dem die Zuordnung von Dateitypen und Symbolen für Office nach einem Office-Update manchmal entfernt wurden
+
+### <a name="word"></a>Word 
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="excel"></a>Excel
+- Ein Problem wurde behoben, bei dem das Verschieben eines Diagramms manchmal zu einem Absturz führte
+- Ein Problem wurde behoben, bei dem das Abrufen eines Arbeitsmappenobjekts aus einem Diagrammobjekt nach dem Ändern von Diagrammtypen manchmal zu einem Fehler führte
+
+### <a name="powerpoint"></a>PowerPoint
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="outlook"></a>Outlook
+- Ein Problem wurde behoben, bei dem im vereinfachten Menüband ein deaktiviertes Steuerelement manchmal nicht grau dargestellt wurde
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+</BR></BR>
 
 ## <a name="july-19-2019"></a>19. Juli 2019
 Version 1908 (build 11911.20000)
