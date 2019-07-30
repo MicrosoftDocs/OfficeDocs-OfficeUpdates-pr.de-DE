@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 0aaff25b48109f843c6eccbaf650da4006e83f1d
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
+ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601514"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35931165"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -27,6 +27,51 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Anfang Juli wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1907-july-29"></a>Version 1907: 29. Juli
+*Version 1907 (Build 11901.20176)*
+* Korrekturen verschiedene Fehler und Leistungsprobleme.
+
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+
+- **Keine Umleitung zum Browser mehr**: Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
+
+- **Schnelles Programmieren mit Power Query-Verbesserungen**: Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertig stellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+
+- **Erstellen eines Kartendiagramms**: Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
+  [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Verknüpfen von Tabellen in ähnlichen Spalten**: Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
+
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
+
+- **Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Suchvorschläge eingeschlossen. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Keine Umleitung zum Browser mehr**: Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
+
+- **Neuer Speicherort für Onlinevideos**: Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen anschauen kann. Fügen Sie den Videolink ein, und genießen Sie eine Multimediapräsentation mit einem Bruchteil der üblichen Dateigröße. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
+
+- **Erstellen eines Kartendiagramms**: Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
+  [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- **Verabschieden Sie sich von Ablenkungen**: Eine Mac-Lieblingsfunktion ist nun für Windows verfügbar. Wechseln Sie im Menü Ansicht in den Fokusmodus, damit Sie nicht abgelenkt werden und sich auf Ihre Arbeit konzentrieren können. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
+
+- **Keine Umleitung zum Browser mehr**: Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
+
+- **Erstellen eines Kartendiagramms**: Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
+  [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Präzises Löschen**: Wählen Sie aus zwei Radierergrößen aus, um kleine Unvollkommenheiten zu beheben. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>Version 1906: 9. Juli
 *Version 1906 (Build 11727.20244)*
