@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 86905ca4df7f2fd35c69ea4ec996c4275cbe5b9c
-ms.sourcegitcommit: acb18b76345b4635d96c14bed1f0d9b0c219dc4f
+ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
+ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/17/2019
-ms.locfileid: "35759455"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35937623"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -55,8 +55,8 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 
-- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Microsoft Excel – Sicherheitsrisiko beim Ausführen von Remotecode
-- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Microsoft Excel – Sicherheitsrisiko beim Ausführen von Remotecode
+- [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110): Sicherheitsanfälligkeit in Microsoft Excel bei Remotecodeausführung
+- [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111): Sicherheitsanfälligkeit in Microsoft Excel bei Remotecodeausführung
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
 - Probleme mit der Serverleistung wurden behoben.
@@ -64,12 +64,12 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 
-- **Freigeben von Anhängen aus Ihren Clouddateien:** Zum Verbessern der Zusammenarbeit können Sie Clouddateien ganz einfach an Ihre E-Mail-Nachrichten anfügen.<br/>
-
+- **Freigeben von Anhängen aus Ihren Clouddateien:** Verbessern Sie die Zusammenarbeit und fügen Sie Clouddateien ganz einfach an Ihre E-Mail-Nachrichten an.<br/>
+- **Unterstützung des dunklen Modus im Lesebereich:** E-Mails, die Sie erhalten, verfügen nun für eine bessere Anzeige in lichtarmen Umgebungen über einen dunklen Hintergrund. Erfordert macOS Mojave. 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
 
-- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084): Microsoft Exchange – Sicherheitsrisiko einer Offenlegung von Informationen<br/><br/>
-## <a name="june-11-2019-release"></a>Release vom 11. Juni 2019
+- [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084) Sicherheitsrisiko einer Offenlegung von Informationen bei Microsoft Exchange<br/><br/>
+## <a name="june-11-2019-release"></a>Version vom 11. Juni 2019
 *Version 16.26 (Build 19060901)*
 
 
