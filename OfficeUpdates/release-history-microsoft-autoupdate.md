@@ -3,19 +3,19 @@ title: Releaseverlauf für Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 7/19/2019
+ms.date: 7/31/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: ff8d4ef4bf8082a1c1d40dbf7c850f29c6689f20
-ms.sourcegitcommit: bdc3b17bf45b9ce2decbcfe752b1a1bf1efdbe9b
+ms.openlocfilehash: 4dc2287a284ab4dd41113c87f16ed1f0cada682a
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35795541"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35936346"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -40,7 +40,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
  **Featureupdates:**
 
 - Datenschutzänderungen für MAU: Im Rahmen der Complianceanforderungen wird den Endbenutzern ein Hinweis zur Erfassung erforderlichen Daten angezeigt.
-- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für Ihre Mac-Benutzer zu erzwingen.
+- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 **MAU-Updatelink:**
@@ -51,13 +51,92 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
+## <a name="june-2019-release"></a>Release von Juni 2019
+
+**Veröffentlichungsdatum:** 27. Juni 2019
+
+*Microsoft Auto Update 4.12*
+
+ **Featureupdates:**
+
+- Problem mit der Apple OS-Beta Version behoben, in der Fehler bei vollständigen MAU-Aktualisierungen auftreten. 
+
+**MAU-Updatelink:**
+
+[Microsoft Auto Update 4.12-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
+<br/><br/>
+
+**Veröffentlichungsdatum:** 9. Juni 2019
+
+*Microsoft Auto Update 4.12*
+
+ **Featureupdates:**
+
+- Binäre Delta-Updates: Für SSD-Geräten werden kleinere Updates bereitgestellt, wodurch der Bandbreitenverbrauch durch die Updates verringert wird.
+- Unterstützung für Zubehör-Apps: Mau unterstützt jetzt Zubehör-Apps wie Microsoft OneDrive.
+- Installieren von Klonerweiterungen: Das Aktualisieren von Clones ist nun robuster und ausfallsicher.
+
+**MAU-Updatelink:**
+
+[Microsoft Auto Update 4.12-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
+<br/><br/>
+
+
+## <a name="may-2019-release"></a>Release vom Mai 2019
+
+**Veröffentlichungsdatum:** 14. Mai 2019
+
+*Microsoft Auto Update 4.11*
+
+ **Featureupdates:**
+
+- Datenschutzänderungen für MAU: Im Rahmen der Complianceanforderungen wird den Endbenutzern ein Hinweis zur Erfassung erforderlichen Daten angezeigt.
+- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
+
+**MAU-Updatelink:**
+
+[Microsoft Auto Update 4.11-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
+<br/><br/>
+
+## <a name="april-2019-release"></a>Release von April 2019
+
+**Veröffentlichungsdatum:** 16. April 2019
+
+*Microsoft Auto Update 4.10*
+
+ **Featureupdates:**
+
+- Verbesserungen des Features "Auf Klon installieren": Für SSD-Geräte werden Updates auf Klones von derzeit verwendeten Apps implementiert, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
+- Installationsoptimierungen: Der Update-Prozess verwendet parallelisiertes Klonen, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
+
+**MAU-Updatelink:**
+
+[Microsoft Auto Update 4.10-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
+<br/><br/>
 
 ## <a name="release-history"></a>Releaseverlauf
 
 |**Veröffentlichungsdatum**|**Version**|**Weitere Informationen**||
 |:-----|:-----|:-----|:-----|
 |18. Juli 2019 <br/>|4.13 <br/> |  <br/> ||
-|11. Juni 2019 <br/>|4.12 <br/> | <br/> ||
+|27. Juni 2019 <br/>9. Juni 2019|4.12 <br/> | <br/> ||
 |14. Mai 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
 |16. April 2019 <br/>|4.10 <br/> |  <br/> |<br/> |
 |14. März 2019 <br/>|4.9.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |

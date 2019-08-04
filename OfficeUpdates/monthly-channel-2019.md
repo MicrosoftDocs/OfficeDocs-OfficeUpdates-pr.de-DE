@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 1677b097fd249eec67dee4600adcb212b26999b8
-ms.sourcegitcommit: b4644c48a3fb2106d9e4939e6b1b210b9be027e5
+ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
+ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 07/30/2019
-ms.locfileid: "35931165"
+ms.locfileid: "35936336"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -34,15 +34,15 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
-- **Keine Umleitung zum Browser mehr**: Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
+- **Keine Umleitung zum Browser mehr:** Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
 
-- **Schnelles Programmieren mit Power Query-Verbesserungen**: Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertig stellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln. 
+- **Schnelles Programmieren mit Power Query-Verbesserungen:** Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertigstellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln. 
   [Weitere Informationen](https://support.office.com/de-DE/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
 
-- **Erstellen eines Kartendiagramms**: Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
+- **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
   [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Verknüpfen von Tabellen in ähnlichen Spalten**: Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen. 
+- **Verknüpfen von Tabellen in ähnlichen Spalten:** Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen. 
   [Weitere Informationen](https://support.office.com/de-DE/article/ffdd5082-c0c8-4c8e-a794-bd3962b90649)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
@@ -52,25 +52,25 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
-- **Keine Umleitung zum Browser mehr**: Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
+- **Keine Umleitung zum Browser mehr:** Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
 
-- **Neuer Speicherort für Onlinevideos**: Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen anschauen kann. Fügen Sie den Videolink ein, und genießen Sie eine Multimediapräsentation mit einem Bruchteil der üblichen Dateigröße. 
+- **Neuer Speicherort für Onlinevideos:** Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen ansehen kann. Fügen Sie den Videolink ein, und profitieren Sie von Multimediapräsentationen mit einem Bruchteil der üblichen Dateigröße. 
   [Weitere Informationen](https://support.office.com/de-DE/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Erstellen eines Kartendiagramms**: Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
+- **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
   [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
-- **Verabschieden Sie sich von Ablenkungen**: Eine Mac-Lieblingsfunktion ist nun für Windows verfügbar. Wechseln Sie im Menü Ansicht in den Fokusmodus, damit Sie nicht abgelenkt werden und sich auf Ihre Arbeit konzentrieren können. 
+- **Verabschieden Sie sich von Ablenkungen:** Eine Mac-Lieblingsfunktion ist nun für Windows verfügbar. Wechseln Sie im Menü Ansicht in den Fokusmodus, damit Sie nicht abgelenkt werden und sich auf Ihre Arbeit konzentrieren können. 
   [Weitere Informationen](https://support.office.com/de-DE/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
-- **Keine Umleitung zum Browser mehr**: Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
+- **Keine Umleitung zum Browser mehr:** Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
 
-- **Erstellen eines Kartendiagramms**: Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
+- **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
   [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Präzises Löschen**: Wählen Sie aus zwei Radierergrößen aus, um kleine Unvollkommenheiten zu beheben. 
+- **Präzises Löschen:** Wählen Sie aus zwei Radierergrößen aus, um kleine Unvollkommenheiten zu beheben. 
   [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ## <a name="version-1906-july-09"></a>Version 1906: 9. Juli
@@ -261,11 +261,13 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
-- **Exportieren von Prozessdiagrammen nach Word:** Fügen Sie Diagramminhalte, wie Formen und Metadaten, automatisch zu einem Word-Dokument hinzu. Passen Sie dann das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
-
 - **Farben für "Änderungen nachverfolgen", Kommentare und Echtzeitzusammenarbeit jetzt synchronisiert:** Korrekturen in unserem Produkt stellen nun sicher, dass Kommentare, Änderungsnachverfolgung und der Cursor für einen Projektmitarbeiter in der gleichen Farbe angezeigt werden.
 
 - **Schnelle Dateisuche:** Sie suchen nach einer Datei, an der Sie kürzlich gearbeitet haben? Geben Sie einfach in das Suchfeld unter „Datei“ > „Start“ den Namen der gesuchten Datei ein.
+
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
+
+- **Exportieren von Prozessdiagrammen nach Word:** Fügen Sie Diagramminhalte, wie Formen und Metadaten, automatisch zu einem Word-Dokument hinzu. Passen Sie dann das Dokument an, um Prozessrichtlinien und Handbücher zu erstellen. [Weitere Informationen](https://support.office.com/article/48073f4f-c6d4-4cc0-b9ae-3cb65e2ee158)
 
 ### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 

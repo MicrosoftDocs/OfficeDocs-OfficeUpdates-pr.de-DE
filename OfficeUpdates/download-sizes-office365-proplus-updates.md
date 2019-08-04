@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: d50e91c05448279e940bc0c83eac1d1d549f7469
-ms.sourcegitcommit: ec236a31e8d4bcd0278236f6bba5f37258cffd42
+ms.openlocfilehash: f6a9080906c257e6a1cc426d69b77eb1e1a64203
+ms.sourcegitcommit: 4bcb4a9e319494a6d66a3234e1295b979d73ed0a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/29/2019
-ms.locfileid: "35924912"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044997"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -27,7 +27,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
  
 > [!NOTE]
-> - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x64-Version (Englisch USA) von Office 365 ProPlus. (Alle Versionen vor 13 März 2019 zeigen x86-Größen an.)
+> - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x64-Version (Englisch USA) von Office 365 ProPlus.
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 
@@ -305,60 +305,6 @@ Die neueste Version ist Version 1903 (Build 11425.20202).
 |:-----|:-----|:-----|
 |Version 1902 (Build 11328.20158)  <br/> |12. März 2019  <br/> |204<br/> |
 |Version 1902 (Build 11328.20222)  <br/> |25. März 2019  <br/> |205<br/> |
-
-## <a name="march-25-2019"></a>25. März 2019
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Die neueste Version ist Version 1902 (Build 11328.20222). 
-  
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1902 (Build 11328.20158)  <br/> |12. März 2019  <br/> |67<br/> |
-|Version 1901 (Build 11328.201460)  <br/> |04. März 2019  <br/> |67<br/> |
-|Version 1901 (Build 11328.20146)  <br/> |12. Februar 2019  <br/> |307<br/> |
-
-## <a name="march-12-2019"></a>12. März 2019
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Die neueste Version ist Version 1902 (Build 11328.20158). 
-  
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1901 (Build 11231.20130)  <br/> |31. Januar 2019  <br/> |179<br/> |
-|Version 1901 (Build 11231.20174)  <br/> |12. Februar 2019  <br/> |177<br/> |
-|Version 1902 (Build 11328.20146)  <br/> |4. März 2019  <br/> |278<br/> |
-
-### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
-
-Die neueste Version ist Version 1808 (Build 10730.20304).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1808 (Build 10730.20264)  <br/> |8. Januar 2019  <br/> |84<br/> |
-|Version 1808 (Build 10730.20280) <br/> |12. Februar 2019  <br/> |74<br/> |
-
-### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
-
-Die neueste Version ist Version 1902 (Build 11328.20158).
-  
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1808 (Build 10730.20264)  <br/> |8. Januar 2019  <br/> |257 <br/> |
-|Version 1808 (Build 10730.20280)  <br/> |12. Februar 2019  <br/> |256 <br/> |
-
-## <a name="march-4-2019"></a>4. März 2019
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Die neueste Version ist Version 1902 (Build 11328.20146). 
-  
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1901 (Build 11231.20130)  <br/> |31. Januar 2019  <br/> |180<br/> |
-|Version 1901 (Build 11231.20174)  <br/> |12. Februar 2019  <br/> |178<br/> |
-
 
 ## <a name="related-topics"></a>Verwandte Themen
 
