@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: f62ad82facc0ca89163cf57c774fbd2b4ae9db1c
-ms.sourcegitcommit: 17facf664b8e512d51a2059fdfeea2693b4294cb
+ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
+ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35936336"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36222963"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -36,8 +36,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Keine Umleitung zum Browser mehr:** Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App.
 
-- **Schnelles Programmieren mit Power Query-Verbesserungen:** Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertigstellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln. 
-  [Weitere Informationen](https://support.office.com/de-DE/article/66eef01e-0fd5-4d26-ab2b-e08378f74ac5)
+- **Schnelles Programmieren mit Power Query-Verbesserungen:** Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertigstellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln.
 
 - **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
   [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
@@ -275,10 +274,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 - **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
-- **Neue Office-App-Symbole:** App-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Oberfläche von Office widerzuspiegeln.
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+
+- Ein Problem wurde behoben, durch das das Betreff extrem klein angezeigt wurde.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
-Behebung eines Problems, aufgrund dessen der neue Zeitname „Reiwa“ in Hiragana und Kanji als Rechtschreibfehler oder Grammatikfehler eingestuft wurde.
+- Behebung eines Problems, aufgrund dessen der neue Zeitname „Reiwa“ in Hiragana und Kanji als Rechtschreibfehler oder Grammatikfehler eingestuft wurde.
 
 ## <a name="version-1903-april-23"></a>Version 1903: 23. April
 *Version 1903 (Build 11425.20244)*

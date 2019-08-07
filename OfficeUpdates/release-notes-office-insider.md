@@ -3,19 +3,19 @@ title: Anmerkungen zu dieser Version für Office-Insider
 ms.author: andrewmo
 author: v-almuzz
 manager: andrewmo
-ms.date: 7/26/2019
+ms.date: 8/2/2019
 ms.audience: Win32 Fast
 ms.topic: reference
 ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: cc2966f80bdedb937de10ba909a4e60ba6169617
-ms.sourcegitcommit: da76d85450dc1743e839d4874d2e90af1b729391
+ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
+ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35916968"
+ms.lasthandoff: 08/02/2019
+ms.locfileid: "36168330"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -27,6 +27,97 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+[//]: # (NICHT ENTFERNEN)
+
+
+## <a name="august-02-2019br"></a>**02. August 2019**<br/>
+Version 1908 (Build 11929.20002)<br/>
+
+### <a name="excel-feature-updates"></a>Excel-Featureupdates:
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+
+### <a name="outlook-feature-updates"></a>Outlook-Featureupdates:
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint-Featureupdates:
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+
+### <a name="word-feature-updates"></a>Word-Featureupdates:
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+
+- **Neuschreiben – meine Rettung** : Sie möchten es anders formulieren? Verwenden Sie "Neu schreiben", um unterschiedliche Vorschläge für das Vermitteln Ihrer Nachricht zu sehen.
+
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+
+
+
+## <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates:
+
+### <a name="access"></a>Access
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="excel"></a>Excel
+
+- <div><span>Es wurde ein Problem behoben, bei dem es so aussah, als ob die Option &quot;Alle Beschriftungen wiederholen&quot; beim Drucken in eine PDF-Datei angewendet wurde.</span></div>
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Es wurde ein Problem behoben, durch das verhindert wurde, dass Benutzer ein Dokument auf dem Desktop öffnen.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, bei dem ein Upgrade durch eine falsche Fehlermeldung bei &quot;Es wird bereits eine andere Installation ausgeführt&quot;</span> verhindert wurde.</div>
+
+- <div><span>Es wurde ein Problem behoben, bei dem einem Benutzer beim Installieren von Sicherheitsupdates Fehlermeldungen angezeigt wurden.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, aufgrund dessen der Cursor verschwand.</span></div>
+
+- <div><span>Wir haben ein Problem behoben, bei dem für einen Benutzer standardmäßig die Registerkarte „Zeichnen“ der Registerkarte „Start“ angezeigt wurde.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, bei dem große Strukturansichten zu einem Absturz führten.</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div></div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Es wurde ein Problem behoben, durch das wiederholte Kennworteingabeaufforderungen verursacht werden können.</span>
+
+- <div><span>Es wurde ein Problem behoben, durch das verhindert wurde, dass eine E-Mail-Adresse korrekt abgefragt wird.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, durch das verhindert wurde, dass Benutzer Kalenderelemente öffnen, die von älteren Versionen von Outlook erstellt wurden.</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Es wurde ein Problem behoben, durch das verhindert wurde, dass einige Animationen gestartet werden.</span></div>
+
+### <a name="project"></a>Project
+- Verschiedene Korrekturen bei Leistungsfähigkeit und Stabilität
+
+### <a name="word"></a>Word
+
+- <div><span>Es wurde ein Problem behoben, bei dem Antworten auf Kommentare in falscher Reihenfolge angezeigt wurden.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, bei dem in manchen Fällen Hinweise anstelle von Kommentaren angezeigt wurden.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, bei dem der Bereich „Überprüfungen“ angezeigt wurde, wenn der Benutzer versuchte, einen neuen Kommentar hinzuzufügen.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, durch das verhindert wurde, dass die Dropdownliste „Rückgängig machen“ angezeigt wird.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, durch das verhindert wurde, das Kommentare hinzugefügt werden.</span></div>
+
 
 ## <a name="july-26-2019"></a>26. Juli 2019
 Version 1908 (Build 11916.20000)
