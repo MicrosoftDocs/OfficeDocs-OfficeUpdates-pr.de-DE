@@ -3,19 +3,19 @@ title: Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Win
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/03/2019
+ms.date: 08/07/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten nicht-sicherheitsrelevanten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: 7dd49883aa369c02b2a41972a48a8f256403b497
-ms.sourcegitcommit: 74ea0d0bc86d111be5cbe93a8f02aa69dbb40c90
+ms.openlocfilehash: 4109b10a199d09b2bcf4515d9f63f1107de71846
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35430178"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231590"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
@@ -26,6 +26,30 @@ Diese Seite listet die nicht-sicherheitsrelevanten Updates für Office auf, die 
 > - Die Informationen in diesem Artikel gelten nicht für Office 365-Versionen von Office, z. B. Office 365 ProPlus.
 > - Weitere Informationen zum Installieren von Office-Updates finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="august-6-2019"></a>6. August 2019
+
+**Office 2016**<br/>
+Update für Microsoft Excel 2016 ([KB4475550](https://support.microsoft.com/help/4475550))<br/>
+Update für Microsoft Office 2016 ([KB4475516](https://support.microsoft.com/help/4475516))<br/>
+Update für Microsoft Office 2016 ([KB3114528](https://support.microsoft.com/help/3114528))<br/>
+Update für Microsoft Office 2016 ([KB4475542](https://support.microsoft.com/help/4475542))<br/>
+Update für Microsoft Office 2016 ([KB3141456](https://support.microsoft.com/help/3141456))<br/>
+Update für Microsoft Office 2016 ([KB4464588](https://support.microsoft.com/help/4464588))<br/>
+Update für Microsoft Office 2016 ([KB4032254](https://support.microsoft.com/help/4032254))<br/>
+Update für Microsoft Office 2016 ([KB4475551](https://support.microsoft.com/help/4475551))<br/>
+Update für Microsoft Office 2016 ([KB4464535](https://support.microsoft.com/help/4464535))<br/>
+Update für das Microsoft Office 2016-Benutzeroberflächen-Sprachpaket ([KB4475541](https://support.microsoft.com/help/4475541))<br/>
+Update für Microsoft OneNote 2016 ([KB4092450](https://support.microsoft.com/help/4092450))<br/>
+Update für Microsoft PowerPoint 2016 ([KB4464577](https://support.microsoft.com/help/4464577))<br/>
+Update für Microsoft Project 2016 ([KB4475544](https://support.microsoft.com/help/4475544))<br/>
+Update für Skype for Business 2016 ([KB4475548](https://support.microsoft.com/help/4475548))<br/>
+
+**Office 2013**<br/>
+Update für Microsoft Office 2013 ([KB4475556](https://support.microsoft.com/help/4475556))<br/>
+Update für Skype for Business 2015 ([KB4475564](https://support.microsoft.com/help/4475564))<br/><br/>
+
+
 
 ## <a name="july-2-2019"></a>2. Juli 2019
 
