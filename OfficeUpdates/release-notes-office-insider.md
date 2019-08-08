@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 929d3747d64abb491787dec5cc32604230581614
-ms.sourcegitcommit: 58a9a2eb76f7cceda8f1a4ddd062512495f2f899
+ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
+ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36168330"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231600"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -60,10 +60,10 @@ Version 1908 (Build 11929.20002)<br/>
 - **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
 
 
-- **Neuschreiben – meine Rettung** : Sie möchten es anders formulieren? Verwenden Sie "Neu schreiben", um unterschiedliche Vorschläge für das Vermitteln Ihrer Nachricht zu sehen.
+- **Anders ausgedrückt:** Wenn Sie etwas anders formulieren möchten, hilft Ihnen „Neu schreiben“ dabei. „Neu schreiben“ bietet Alternativen zum Verbessern Ihrer Formulierungen.
 
 
-- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien für den Datenschutz Ihrer Organisation entsprechen.
 
 
 
