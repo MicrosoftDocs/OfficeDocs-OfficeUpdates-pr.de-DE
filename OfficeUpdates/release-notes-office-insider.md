@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 21bfa08b20bc7f809913cfb4ddf30da31ca58054
-ms.sourcegitcommit: 092ddd24dee36b99293d3d9231bef014cc21fbc1
+ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
+ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231600"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36285982"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,60 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+
+## <a name="august-09-2019br"></a>**09. August 2019**<br/>
+Version 1909 (Build 12001.20000)<br/>
+
+### <a name="excel-feature-updates"></a>Excel-Featureupdates:
+
+- **Zusammenarbeiten ist jetzt noch einfacher:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Änderungen beim Arbeiten mit bedingter Formatierung, Zellformatvorlagen und mehr nahtlos mit denen ihrer Mitarbeiter zusammengeführt werden.
+
+
+- **Suchen und genießen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche "Einfügen" angezeigt, wie viele Elemente Sie ausgewählt haben.
+
+
+### <a name="office-suite-feature-updates"></a>Office-Suite-Featureupdates:
+
+- **Neue Office-App-Symbole:** App-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Oberfläche von Office widerzuspiegeln.
+
+
+### <a name="outlook-feature-updates"></a>Outlook-Featureupdates:
+
+- **Erweiterter Schutz vor Angriffen:** Mit Office 365 Advanced Threat Protection sind Sie vor Angriffen durch Links in E-Mail-Betreffzeilen, angefügten Nachrichten, signierten Nachrichten, Netzwerkpfaden usw. geschützt.
+
+
+- **Suchen und genießen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche "Einfügen" angezeigt, wie viele Elemente Sie ausgewählt haben.
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint-Featureupdates:
+
+- **Suchen und genießen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche "Einfügen" angezeigt, wie viele Elemente Sie ausgewählt haben.
+
+
+### <a name="word-feature-updates"></a>Word-Featureupdates:
+
+- **Andere können Ihre Änderungen schnell erkennen:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
+
+
+- **Suchen und genießen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche "Einfügen" angezeigt, wie viele Elemente Sie ausgewählt haben.
+
+
+
+
+## <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates:
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Ein Problem wurde behoben, das dazu führte, dass Besprechungsempfänger zwei Benachrichtigungen erhielten, nachdem eine Besprechung abgebrochen wurde</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Ein Problem wurde behoben, durch das ein Absturz verursacht werden konnte, wenn der Benutzer für Formen und Symbole "Keine Kontur" oder "Keine Füllung" auswählte</span></div>
+
+
+
 
 
 ## <a name="august-02-2019br"></a>**02. August 2019**<br/>
@@ -168,9 +222,6 @@ Version 1908 (build 11911.20000)
 
 Wenn Sie auf eine Abkürzung treffen, versuchen wir, diese mithilfe von Daten innerhalb Ihrer Organisation zu definieren.
 
-#### <a name="coauthoring-improvements"></a>Verbesserungen bei der gemeinsamen Dokumenterstellung
-
-Die gemeinsame Dokumenterstellung wurde verbessert, indem Inhaltsänderungen den anderen Benutzern nun nahezu immer in Echtzeit angezeigt werden.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -293,6 +344,12 @@ Version 1907 (Build 11819.20002)
 
 ## <a name="whats-new"></a>Neuigkeiten:
 
+### <a name="excel"></a>Excel
+
+- **Schnelles Programmieren mit Power Query-Verbesserungen:** Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertigstellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln.
+
+- **Verknüpfen von Tabellen in ähnlichen Spalten:** Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen.
+ 
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint und Visio
 
 #### <a name="recommended-documents"></a>Empfohlene Dokumente
@@ -771,6 +828,18 @@ Version 1906 (Build 11629.20008)
 ## <a name="april-26-2019"></a>26. April 2019
 Version 1905 (Build 11617.20002)
 
+## <a name="new-features"></a>Neue Features
+
+### <a name="excel"></a>Excel
+
+#### <a name="coauthoring-improvements"></a>Verbesserungen bei der gemeinsamen Dokumenterstellung
+
+Die gemeinsame Dokumenterstellung wurde verbessert, indem Inhaltsänderungen den anderen Benutzern nun nahezu immer in Echtzeit angezeigt werden.
+
+### <a name="visio"></a>Visio
+
+- **Exportieren von Visio-Visualisierungen aus Power BI:** Die Visio-Visualisierung für Power BI wird nun ordnungsgemäß angezeigt, wenn Sie Power BI Berichte beispielsweise als PDF-Dateien oder PowerPoint-Dateien exportieren.
+
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="word"></a>Word 
@@ -969,6 +1038,12 @@ Office unterstützt jetzt animierte Modelle, die im Editor wiedergegeben werden,
 
 ## <a name="march-22-2019"></a>22. März 2019
 Version 1904 (Build 11514.20004)
+
+## <a name="new-features"></a>Neue Features
+
+- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. Weitere Informationen <https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json>
+
+- **Office-Symbole haben ein neues Aussehen:** Die Office-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Office-Benutzeroberfläche widerzuspiegeln.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
