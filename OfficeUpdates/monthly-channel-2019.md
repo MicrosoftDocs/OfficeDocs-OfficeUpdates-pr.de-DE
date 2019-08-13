@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 38bf1f7662af29427878afd9e015f30bb9b6e554
-ms.sourcegitcommit: 4a43961fb9786e6f8b7cc25ee45beaf62665db83
+ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36222963"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302474"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -58,6 +58,8 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen 
   [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü "Drucken" verschoben, um den Zugriff zu erleichtern:** Sie finden die Option in der Dropdownliste "Drucken" > "Drucklayout", wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch einfach für einzelne Präsentationen umschalten. 
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
@@ -311,6 +313,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 - **Insights in Excel:** Insights bietet einer Vielzahl von Benutzern Mehrwert. Insights bietet einen weicheren Ansatz für die Datenanalyse, und anderen Benutzern ermöglicht es eine neue Perspektive auf Ihre Daten. [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
 
+
 - **Erhöhen Sie die Reichweite Ihrer Inhalte:** Sie müssen Ihre Tabellen barrierefrei gestalten? Die Barrierefreiheitsprüfung kann dies für Sie im Auge behalten, ohne Ihnen dabei in die Quere zu kommen. Probieren Sie es aus, indem Sie auf „Überprüfen“ > „Barrierefreiheit überprüfen“ klicken. Wir werden Sie in der Statusleiste informieren, wenn wir etwas finden, dass Sie sich ansehen müssen.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
@@ -320,6 +323,10 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - **Erhöhen Sie die Reichweite Ihrer Inhalte:** Möchten Sie Ihre Präsentationen barrierefrei gestalten? Die Barrierefreiheitsprüfung kann dies für Sie im Auge behalten, ohne Ihnen dabei in die Quere zu kommen. Probieren Sie es aus, indem Sie auf „Überprüfen“ > „Barrierefreiheit überprüfen“ klicken. Wir werden Sie in der Statusleiste informieren, wenn wir etwas finden, dass Sie sich ansehen müssen.
 
 - **Warum neu erstellen, wenn Sie etwas wiederverwenden können?**  Sparen Sie Zeit, indem Sie Folien, die Sie erstellt haben oder die andere für Sie freigegeben haben, erneut verwenden.
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+
+- Ein Konflikt beim Zusammenführen in Excel wurde behoben, durch den Benutzer aufgefordert wurden, die Arbeitsmappe erneut zu öffnen, um die Änderungen zu übernehmen.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 

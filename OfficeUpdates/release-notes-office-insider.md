@@ -10,12 +10,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: c97fb384e093e8bbbc3e4e43b70de3b2cba773ee
-ms.sourcegitcommit: 03ffa84860ba8b6274641eedef588619ea389316
+ms.openlocfilehash: dc7b82e85b061d840aa4b780d22b7abfd63d9c23
+ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/10/2019
-ms.locfileid: "36285982"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36302484"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -36,7 +36,7 @@ Version 1909 (Build 12001.20000)<br/>
 
 ### <a name="excel-feature-updates"></a>Excel-Featureupdates:
 
-- **Zusammenarbeiten ist jetzt noch einfacher:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Änderungen beim Arbeiten mit bedingter Formatierung, Zellformatvorlagen und mehr nahtlos mit denen ihrer Mitarbeiter zusammengeführt werden.
+- **Zusammenarbeiten ist jetzt noch einfacher:** Verbesserungen bei der gemeinsamen Dokumenterstellung führen dazu, dass Ihre Änderungen beim Arbeiten mit bedingter Formatierung, Zellformatvorlagen und mehr nahtlos mit denen ihrer Mitarbeiter zusammengeführt werden.
 
 
 - **Suchen und genießen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche "Einfügen" angezeigt, wie viele Elemente Sie ausgewählt haben.
@@ -295,6 +295,10 @@ Version 1907 (Build 11901.20018)
 #### <a name="sketchy-shapes"></a>Skizzenhafte Formen!
 
 Mitten im Entwurfs einer Präsentation? Wenden Sie die Formatvorlage "Skizzenhaft" an, um anzuzeigen, dass Sie zurzeit noch am Entwurf arbeiten. Dies verleiht Ihren Objekten eine persönliche Note, ohne sie in von Hand gezeichnete Freiformobjekte umzuwandeln.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü "Drucken" verschoben, um den Zugriff zu erleichtern:** Sie finden die Option in der Dropdownliste "Drucken" > "Drucklayout", wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch einfach für einzelne Präsentationen umschalten. 
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
