@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 7/17/2019
+ms.date: 8/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 04bd800cf823e9c3ad9400da0a004cca7bb19dad
-ms.sourcegitcommit: e3ff8b5b96149cb4bf5e011a11bddb57a9d760f9
+ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
+ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937623"
+ms.lasthandoff: 08/14/2019
+ms.locfileid: "36396599"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -37,7 +37,56 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
   **Hinweis:** Informationen zum Release Microsoft AutoUpdate (MAU) wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/>
 
-## <a name="july-16-2019-release"></a>Version vom 16. Juli 2019
+## <a name="august-13-2019-release"></a>Release vom 13. August 2019
+*Version 16.28 (Build 19081202)*
+
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Präzises Löschen:** Wählen Sie aus zwei Radierergrößen aus, um kleine Unvollkommenheiten zu beheben. [Weitere Informationen](https://support.office.com/article/6D76C674-7F4B-414D-B67F-B3FFEF6CCF53)
+- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+### <a name="word-security-updates"></a>Word: Sicherheitsupdates
+
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+
+
+
+
+### <a name="excel-feature-updates"></a>Excel: Featureupdates
+
+- **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Konzentrieren Sie sich auf das, was noch zu tun bleibt:** Wählen Sie "Auflösen" aus, um Kommentare zu reduzieren und offene Punkte hervorzuheben.
+- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Dauerhafte Freihandeingabe während der Bildschirmpräsentation:** Zeichnen Sie auf Folien während einer Präsentation, und Ihr Stift bleibt bis zum Ende aktiv. Sie können auch Ihre Anmerkungen speichern. [Weitere Informationen](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+
+
+
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
+
+- **Freigeben von Anhängen aus Ihren Clouddateien:** Zum Verbessern der Zusammenarbeit können Sie Clouddateien ganz einfach an Ihre E-Mail-Nachrichten anfügen. [Weitere Informationen](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
+
+- [CVE-2019-1148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1148): Sicherheitsrisiko bei der Offenlegung von Informationen in Microsoft-Grafikkomponente
+- [CVE-2019-1149](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1149): Microsoft Graphics – Sicherheitsrisiko bei der Remotecodeausführung
+- [CVE-2019-1151](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1151): Microsoft Graphics – Sicherheitsrisiko bei der Remotecodeausführung
+- [CVE-2019-1153](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1153): Sicherheitsrisiko bei der Offenlegung von Informationen in Microsoft-Grafikkomponente
+
+
+## <a name="july-16-2019-release"></a>Release vom 16. Juli 2019
 *Version 16.27 (Build 19071500)*
 
 

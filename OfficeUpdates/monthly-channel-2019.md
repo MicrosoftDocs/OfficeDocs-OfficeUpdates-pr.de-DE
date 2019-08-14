@@ -3,19 +3,18 @@ title: Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-ms.date: 6/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 6369209a28bebce07241d12a798dbf47a9a54183
-ms.sourcegitcommit: c74d193b1673075d4f0550bf37fa5f2fb9bd08c9
+ms.openlocfilehash: 3743d7868707d6db002d622bdf7fb8c9a6dcea19
+ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/13/2019
-ms.locfileid: "36302474"
+ms.locfileid: "36393210"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -27,6 +26,18 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
  > [!NOTE]
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Anfang Juli wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1907-august-13"></a>Version 1907: 13. August
+*Version 1907 (Build 11901.20218)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+
+ - Ein Problem wurde behoben, durch das die Sortierung und Aktualisierung der PivotTable während der gemeinsamen Dokumenterstellung mit anderen Benutzern geändert werden kann.
+
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+  - Ein Problem wurde behoben, das dazu führte, dass bei Benutzern, die Ihr Postfach von Standard- auf moderne Authentifizierung aktualisiert hatten, das falschen Konto mit ihrem Outlook-Profil verknüpft wurde.
 
 ## <a name="version-1907-july-29"></a>Version 1907: 29. Juli
 *Version 1907 (Build 11901.20176)*
@@ -60,6 +71,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
   [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 - **Die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü "Drucken" verschoben, um den Zugriff zu erleichtern:** Sie finden die Option in der Dropdownliste "Drucken" > "Drucklayout", wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch einfach für einzelne Präsentationen umschalten. 
+  [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
