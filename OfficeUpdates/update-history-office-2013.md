@@ -3,26 +3,26 @@ title: Updateverlauf für Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 07/10/2019
+ms.date: 08/14/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 940ae1f99faeb4a95d0266a0290ec135a7e026c1
-ms.sourcegitcommit: f0762345dc203481117f080f41fba451bffbac65
+ms.openlocfilehash: e789c85d34d4720a02039265e424e73eae28398b
+ms.sourcegitcommit: 72b12def03a145b379c518a4e3c29e14585ca256
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35594623"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384566"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Die meisten Office 2013-Produkte werden automatisch mithilfe der Technologie „Klick-und-Los“ auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5153.1001**, die am 9. Juli 2019 veröffentlicht wurde.
+> Die aktuellste Version von Office 2013 ist **15.0.5163.1000**, die am 13. August 2019 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -46,7 +46,9 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2019|9. Juli   |15.0.5153.1001   |
+|2019|13. August   |15.0.5163.1000   |
+  [KB 4514418](https://support.microsoft.com/de-DE/help/4514418)  |
+||9. Juli   |15.0.5153.1001   |
   [KB 4509295](https://support.microsoft.com/de-DE/help/4509295)  |
 ||11. Juni   |15.0.5145.1001   |
   [KB 4505743](https://support.microsoft.com/de-DE/help/4505743)  |
