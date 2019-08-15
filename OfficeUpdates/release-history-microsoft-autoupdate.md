@@ -59,7 +59,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
  **Featureupdates:**
 
-- Problem mit der Apple OS-Beta Version behoben, in der Fehler bei vollständigen MAU-Aktualisierungen auftreten. 
+- Problem mit der Apple OS-Beta Version behoben, in der Fehler bei vollständigen MAU-Updates auftreten. 
 
 **MAU-Updatelink:**
 
@@ -120,7 +120,7 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
  **Featureupdates:**
 
 - Verbesserungen des Features "Auf Klon installieren": Für SSD-Geräte werden Updates auf Klones von derzeit verwendeten Apps implementiert, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
-- Installationsoptimierungen: Der Update-Prozess verwendet parallelisiertes Klonen, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
+- Installationsoptimierungen: Der Updateprozess verwendet parallelisiertes Klonen, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
 
 **MAU-Updatelink:**
 
