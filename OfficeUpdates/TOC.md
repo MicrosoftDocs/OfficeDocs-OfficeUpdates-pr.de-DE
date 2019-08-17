@@ -30,6 +30,8 @@
 ### [Updateverlauf – Monatlicher Kanal (gezielt)](update-history-monthly-channel-targeted.md)
 ###[Versionshinweise – Insider-Kanal](release-notes-office-insider.md)
 
+## [ODT-Versionsverlauf](ODT-release-history.md)
+
 # Office für Mac
 ## [Updateverlauf (Office 365, 2019)](update-history-office-for-mac.md)
 ## [Anmerkungen zu dieser Version (Office 365, 2019)](release-notes-office-for-mac.md)
