@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 3b2065e8c457507ce70415e346befaac06395b27
-ms.sourcegitcommit: ab7ce44030f562d10025ffd5de7555132b0f191c
+ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
+ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/14/2019
-ms.locfileid: "36396599"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36567205"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -30,8 +30,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 > - Wenn Sie ein Office Insider sind, lesen Sie die [Versionshinweise zu Insider Fast-Builds](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - Ab Version 16.17 vom September 2018 gelten diese Informationen auch für Office 2019 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist. Einige der in den Anmerkungen zur Version aufgeführten Features stehen jedoch nur in einem Office 365-Abonnement zur Verfügung.
 > - Die Versionshinweise für Version 16.16 und frühere Versionen gelten auch für Office 2016 für Mac, ebenfalls eine Version von Office für Mac, die als einmaliger Erwerb verfügbar ist. Ältere Versionen bis einschließlich 16.16 können mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Version 16.17 oder höher kann nicht mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Informationen zu Office 2016 für Mac-Versionen ab September finden Sie unter [Anmerkungen für Office 2016 für Mac](release-notes-office-2016-mac.md).
-> 
-> 
+> > 
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 
@@ -39,7 +38,6 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ## <a name="august-13-2019-release"></a>Release vom 13. August 2019
 *Version 16.28 (Build 19081202)*
-
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
@@ -52,18 +50,11 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 - [CVE-2019-1201](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1201): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
 - [CVE-2019-1205](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1205): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
 
-
-
-
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
 - **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
 - **Konzentrieren Sie sich auf das, was noch zu tun bleibt:** Wählen Sie "Auflösen" aus, um Kommentare zu reduzieren und offene Punkte hervorzuheben.
 - **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
-
-
-
-
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
@@ -71,12 +62,12 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 - **Dauerhafte Freihandeingabe während der Bildschirmpräsentation:** Zeichnen Sie auf Folien während einer Präsentation, und Ihr Stift bleibt bis zum Ende aktiv. Sie können auch Ihre Anmerkungen speichern. [Weitere Informationen](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
 - **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-
-
-
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 
 - **Freigeben von Anhängen aus Ihren Clouddateien:** Zum Verbessern der Zusammenarbeit können Sie Clouddateien ganz einfach an Ihre E-Mail-Nachrichten anfügen. [Weitere Informationen](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+
+### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
+- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 
