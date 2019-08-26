@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 4d9125fa3f1765da7012737359a28b1e2d1adf68
-ms.sourcegitcommit: 79b250d484e34750a64d28d0883c59d8c7aa0e5a
+ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
+ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36393220"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36620524"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -28,6 +28,122 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+
+## <a name="august-23-2019br"></a>**23. August 2019**<br/>
+Version 1909 (Build 12015.20004)<br/>
+
+
+
+## <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Wir haben die Leistung beim Löschen von Spalten mit verbundenen Zellen erheblich verbessert.</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Es wurde ein Problem behoben, durch das einige Unicode-Zeichen nicht angezeigt werden konnten, wenn sie in einem Browser dargestellt werden sollten.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Es wurde ein Problem behoben, durch das Dateien am WebDAV-Speicherort nicht gespeichert werden konnten.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Ein Problem wurde behoben, bei dem ein Benutzer auf einen Kommentar klickte, aber ein anderer Kommentar ausgewählt wurde.</span></div>
+
+
+
+
+
+## <a name="august-16-2019br"></a>**16. August 2019**<br/>
+Version 1909 (Build 12013.20000)<br/>
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint-Featureupdates:
+
+- **Drucken von Foliennummern auf Handzetteln:** Foliennummern werden automatisch in Ihre Handzettel integriert. Sie können diese Funktion an- oder abschalten, wie es Ihnen beliebt.
+
+
+
+
+## <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates:
+
+### <a name="excel"></a>Excel
+
+- <div><span>Wir haben ein Problem behoben, durch das sich die Funktion „Automatisches Speichern“ aktivieren konnte.</span></div>
+
+
+- <div>Wir haben ein Problem behoben, das zur ungenauen Bemessung der Zellenhöhe führen konnte.</div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Wir haben ein Problem behoben, das die Leistung der Kommentarfunktion erheblich verbessert.</span></div>
+
+
+- <div><span>Ein Problem wurde behoben, das bei der Verwendung von Pfeiltasten während der Suche zum Absturz führen konnte.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, durch das eine @Erwähnung verhindert werden konnte, wenn das @-Symbol nach bestimmten Zeichen gesetzt wurde.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, das beim Löschen von @Erwähnungen zum Absturz führen konnte.</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, durch das die korrekte Anzeige von Emojis in Kommentarkarten verhindert wurde.</span></div>
+
+
+- <div><span>Es wurde ein Problem mit Active Clipboard behoben, das manchmal zum Absturz führen konnte.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, durch das die Schaltflächen für die Symbolleiste für den Schnellzugriff nicht mehr funktionierte.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, durch das das Wechseln der Dokumentformatierungsvorschau in den Hintergrund verhindert werden konnte.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- Ein Problem wurde behoben, bei dem die Namen von Abschnitten in der Dropdownliste „Abschnitt“ nicht dargestellt wurden, wenn das Office-Design auf „schwarz“ festgelegt war.
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Wir haben ein Problem beim Senden von Ereignissen behoben, das dazu führen konnte, dass Outlook wiederholt fokussiert und den Fokus verliert.</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, durch das die Verknüpfung „Antwort im Ordner bereitstellen“ nicht funktionierte.</span></div>
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Es wurde ein Problem mit der geschützten Ansicht behoben, das manchmal bei der Zusammenarbeit zu Problemen führen konnte.</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, das verhindern konnte, dass Aufgaben in Kommentarbereichen korrekt angezeigt werden.</span></div>
+
+
+- <div><span>Ein Problem wurde behoben, das beim Einfügen neuer Folien zum Absturz führen konnte.</span></div>
+
+
+### <a name="user-lifecycle"></a>Lebenszyklus des Benutzers:
+
+- <div><span>Es wurde ein Problem behoben, das manchmal dazu führte, dass Abonnementfeatures nicht mehr angezeigt wurden.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Es wurde ein Problem behoben, durch das Hyperlinks fehlerhaft sein konnten, wenn sie bestimmte Zeichen enthielten.</span></div>
+
+
+- <div><span>Ein Problem wurde behoben, bei dem beim Anzeigen eines Kommentars für ein Bild dieses manchmal nicht in der korrekten Größe dargestellt wurde.</span></div>
+
+
+- <div><span>Es wurde ein Problem mit dem Dropdownmenü „Aufzählung“ behoben, das manchmal zu einem Absturz führten konnte.</span></div>
+
+
+
 
 
 ## <a name="august-09-2019br"></a>**09. August 2019**<br/>
