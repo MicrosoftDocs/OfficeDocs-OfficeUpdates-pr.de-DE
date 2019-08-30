@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: ff0d92073df62c8b12b9c78559a6189e7901e471
-ms.sourcegitcommit: 1b1bf8dde78540f7953f2faad614f3862c363921
+ms.openlocfilehash: 864b96c4bee92987e4595803804813f1571ebbd6
+ms.sourcegitcommit: e46cbcba082c5f2394cc3282a9edb756a33cbc85
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/21/2019
-ms.locfileid: "36488516"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672895"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -45,7 +45,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - Ein Problem wurde behoben, bei dem die Anwendung bei der Zusammenarbeit mit anderen Benutzern an einem Dokument unerwartet beendet werden konnte.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
-- Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte.[Weitere Informationen](https://support.microsoft.com/de-DE/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte. [Weitere Informationen](https://support.microsoft.com/de-DE/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>Version 1902: 9. Juli
 *Version 1902 (Build 11328.20368)*
