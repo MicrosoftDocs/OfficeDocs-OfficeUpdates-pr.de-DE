@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: f77370fab0937b4880738de0188b42db1d77dedc
-ms.sourcegitcommit: f84f754f105631e81585397a1795418ff26ea5d7
+ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
+ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36620524"
+ms.lasthandoff: 08/30/2019
+ms.locfileid: "36693882"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,101 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1909-august-30"></a>Version 1909: August 30
+*Version 1909 (Build 12026.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="powerpoint"></a>PowerPoint
+
+- **Speichern einer Illustration als SVG:** Speichern Sie ein Diagramm, eine Form oder eine andere Abbildung als skalierbare Vektorgrafik, deren Größe ohne Verlust der Bildqualität geändert werden kann. [Weitere Informationen](https://support.office.com/de-DE/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span>Wir haben ein Problem behoben, bei dem die Tastenkombination für&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">Vertraulichkeit</span> mit&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);">einer anderen Tastenkombination in Konflikt stand.</span></span></div>
+
+- <div><span>Beim Speichern wurde ein Problem behoben, das beim Bearbeiten einer freigegebenen Arbeitsmappe auftrat, wenn versucht wurde zu speichern.</span></div>
+
+- <div><span>Wir haben ein Problem behoben, bei dem Excel nur die ersten 16 Add-Ins auflistet, die sich in den „\Excel\Add-in Manager“ Registrierungswerten befinden.<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"></span></span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, bei dem die Funktion „Häufigkeit()“ falsche Ergebnisse liefert.</span></div>
+
+
+- <div><span>Die Leistung der Filterung nach Farbe wurde deutlich verbessert.</span></div>
+
+
+- <div><span>Wir haben ein Problem für Surface-Benutzer behoben, bei dem das Bewegen der Maus als ein Mausklick interpretiert werden konnte.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, das die Tastaturnavigation im Dialog „Suchen/Ersetzen“ verhinderte.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, bei dem der Name einiger Schriftarten nicht korrekt angezeigt wurde.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, durch das CSV nicht als unterstützter Dateityp angezeigt wurde.</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Wir haben ein Problem behoben, bei dem Benutzer bei der Verwendung einer freigegebenen Datenbank die Fehlermeldung &quot;„inkonsistenter Zustand“&quot; erhalten konnten.</div>
+
+
+- <div><span>Wir haben ein Problem behoben, bei dem die Datumsauswahl angezeigt wurde, wenn es nicht nötig war.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Es wurde ein Problem behoben, das die Darstellung von HTML-Inhalten für einige POP3-Benutzer verhinderte.</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, bei dem der nicht funktionierende Link "Planer" aus dem Überlaufmenü der Visitenkarte entfernt wurde, wenn Sie in Umgebungen arbeiten, in denen er nicht verfügbar ist.</span></div>
+
+### <a name="onenote"></a>OneNote
+
+- <div><span>Es wurde ein Problem behoben&nbsp;, bei dem die Hintergrundsynchronisierung von OneNote manchmal den Fokus auf sich zog.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Wir haben ein Problem behoben, das sich auf die Drehrichtung eines 3D-Drehtisches auswirken würde.</span></div>
+
+- <div><span>Wir haben ein Problem behoben, durch das einige Hyperlinks nicht mehr funktionierten, wenn sie Sonderzeichen enthielten.</span></div>
+
+- <div><span>Es wurde ein Problem behoben, bei dem mehrere Kommentarfenster gleichzeitig geöffnet wurden.</span></div>
+
+### <a name="project"></a>Project
+
+- <div><span>Wir haben ein Problem behoben, das nach dem Drucken einer Teamplaneransicht manchmal zu einem Absturz führen konnte.</span></div>
+
+### <a name="word"></a>Word
+
+- <div>Wir <span>haben ein Problem behoben, bei dem Multibyte-Zeichen in vertikalem Textfeld in der Leseansicht überlappt dargestellt werden.<br></span></div>
+
+- <div><span>Wir&nbsp;<span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">haben ein Problem behoben, bei dem die japanischen Postkarten-und Grußkarten bezogenen Add-in-Ressourcen nicht gefunden werden, wenn der Benutzer im Add-in-Assistenten eine Aktion durchführt.</span></span></div>
+
+- <div><span>Wir haben ein Problem behoben, das Schwierigkeiten mit der Benutzeroberfläche der Titelleiste verursachen konnte, wenn Sie sich in der geschützten Anzeige befinden.</span></div>
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span><span style="display:inline !important;background-color:rgba(255, 255, 255, 1);"> Wir haben ein Problem, das eine fehlerhafte Datei erzeugte, wenn Sie die Form in einer Auswahl ändern, die sowohl eine normale Form als auch eine Verbinder-Form enthält.</span></span></div>
+
+- <div><span>Wir haben ein Problem behoben, das <span style="display:inline !important;background-color:rgba(255, 255, 255, 1);color:rgba(0, 0, 0, 0.9);">zu einem Problem in Anwendungen führte, wenn man das An- und Abdocken von mehreren externen Displays verwendet.</span></span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="august-23-2019br"></a>**23. August 2019**<br/>
 Version 1909 (Build 12015.20004)<br/>
@@ -413,8 +508,7 @@ Mitten im Entwurfs einer Präsentation? Wenden Sie die Formatvorlage "Skizzenhaf
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. 
-  [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -1038,6 +1132,14 @@ Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagr
 
 ## <a name="april-12-2019"></a>12. April 2019
 Version 1905 (Build 11601.20042)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="access"></a>Access
+
+#### <a name="get-smart-with-microsoft-graph"></a>Intelligenter mit Microsoft Graph
+
+Importieren oder verlinken Sie intelligente Daten, und erfinden Sie Ihre Desktopdatenbank mit intelligenter Technologie neu.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
