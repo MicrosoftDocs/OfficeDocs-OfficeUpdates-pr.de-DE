@@ -54,14 +54,11 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
 
 [Sicherheits- und nicht sicherheitsrelevante Updates vom Juni 2019: KB4505743](https://support.microsoft.com/help/4505743)
 
+[Sicherheits- und nicht sicherheitsrelevante Updates vom Mai 2019: KB4501270](https://support.microsoft.com/de-DE/help/4501270)
 
-  [Sicherheits- und nicht sicherheitsrelevante Updates vom Mai 2019: KB4501270](https://support.microsoft.com/de-DE/help/4501270)
+[Sicherheits- und nicht sicherheitsrelevante Updates vom April 2019: KB4495300](https://support.microsoft.com/de-DE/help/4495300)
 
-
-  [Sicherheits- und nicht sicherheitsrelevante Updates vom April 2019: KB4495300](https://support.microsoft.com/de-DE/help/4495300)
-
-
-  [Sicherheits- und nicht sicherheitsrelevante Updates vom März 2019: KB4491754](https://support.microsoft.com/de-DE/help/4491754) 
+[Sicherheits- und nicht sicherheitsrelevante Updates vom März 2019: KB4491754](https://support.microsoft.com/de-DE/help/4491754) 
 
 [Sicherheits- und nicht sicherheitsrelevante Updates vom Februar 2019: KB4488446](https://support.microsoft.com/help/4488446)
 

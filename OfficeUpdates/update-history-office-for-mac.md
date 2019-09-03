@@ -53,8 +53,7 @@ Version 16.28 (19081202)
 
 Die folgende Tabelle enthält Informationen zu den aktuellen Paketen (einschließlich Downloadlink) für andere Mac-Programme von Microsoft, die für IT-Experten von Interesse sein könnten. Das Builddatum ist im Format JJMMTT in Klammern hinter der Versionsnummer angegeben.
 
-
-  **Hinweis:** Informationen zum Release Microsoft AutoUpdate (MAU) wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/><br/>
+**Hinweis:** Informationen zum Release Microsoft AutoUpdate (MAU) wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/><br/>
 
   
 |**Programm**|**Version**|**Paket**|**Weitere Informationen**|**SHA-1-/SHA-256-Hash**|
