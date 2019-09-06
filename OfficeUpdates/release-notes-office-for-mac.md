@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 2a7afe03d5c5ba0b99dad4844ae8c71b8abc9217
-ms.sourcegitcommit: 4880505c8bb9bf7692755ba54faa980a6bff94de
+ms.openlocfilehash: e5a7cf72e1b8c98f877f469c664139a3663d4ff4
+ms.sourcegitcommit: fc06058bc54e91f57e3a147e6f3a02565e245e9f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36567205"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36758209"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -40,30 +40,30 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
-- **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **Präzises Löschen:** Wählen Sie aus zwei Radierergrößen aus, um kleine Unvollkommenheiten zu beheben. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
-- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Zeichnen Sie es auf:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Präzises Löschen:** Wählen Sie aus zwei Radierergrößen aus, um kleine Freihand-Unvollkommenheiten zu beseitigen. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu den Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 
-- [CVE-2019-1201](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1201): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
-- [CVE-2019-1205](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1205): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+- [CVE-2019-1201](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1201): Sicherheitsrisiko in Microsoft Word bezüglich Remotecodeausführung
+- [CVE-2019-1205](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1205): Sicherheitsrisiko in Microsoft Word bezüglich Remotecodeausführung
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 
-- **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **Konzentrieren Sie sich auf das, was noch zu tun bleibt:** Wählen Sie "Auflösen" aus, um Kommentare zu reduzieren und offene Punkte hervorzuheben.
-- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Zeichnen Sie es auf:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Konzentrieren Sie sich darauf, was noch zu erledigen ist:** Wählen Sie „Auflösen“ aus, um Kommentare zu reduzieren und offene Punkte hervorzuheben.
+- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu den Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
-- **Skizzieren:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
-- **Dauerhafte Freihandeingabe während der Bildschirmpräsentation:** Zeichnen Sie auf Folien während einer Präsentation, und Ihr Stift bleibt bis zum Ende aktiv. Sie können auch Ihre Anmerkungen speichern. [Weitere Informationen](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
-- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+- **Zeichnen Sie es auf:** Verleihen Sie Office-Shapes in Ihrer Präsentation ein ungezwungenes, von Hand gezeichnetes Aussehen. [Weitere Informationen](https://support.office.com/article/15967a38-117b-4e36-b588-253a8c464bf0)
+- **Dauerhafte Freihandeingabe während der Bildschirmpräsentation:** Zeichnen Sie während einer Präsentation auf Folien, und Ihr Stift bleibt bis zum Ende aktiv. Sie können auch Ihre Anmerkungen speichern. [Weitere Informationen](https://support.office.com/article/80a78a11-cb5d-4dfc-a1ad-a26e877da770)
+- **Verbesserte Kartendiagramme:** Wir haben Kartendiagramme durch Integration mit den geografischen Datentypen von Excel verbessert, wodurch Sie umfangreiche Informationen zu den Orten auf Ihrer Karte anzeigen können. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 
-- **Freigeben von Anhängen aus Ihren Clouddateien:** Zum Verbessern der Zusammenarbeit können Sie Clouddateien ganz einfach an Ihre E-Mail-Nachrichten anfügen. [Weitere Informationen](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
+- **Freigeben von Anhängen aus Ihren Clouddateien:** Verbessern Sie die Zusammenarbeit, indem Sie Clouddateien ganz einfach an Ihre E-Mail-Nachrichten anhängen. [Weitere Informationen](https://support.office.com/article/96490541-8b0c-462e-aacf-fd939c1f22f3)
 
 ### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 - **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
@@ -114,7 +114,8 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
-- **Mit \@Erwähnungen andere auf sich aufmerksam machen:** Mithilfe von @Erwähnungen in Kommentaren können Sie andere informieren, wenn Sie deren Input benötigen.
+- **Mit \@Erwähnungen andere auf sich aufmerksam machen:** Lassen Sie es andere mithilfe von @Erwähnungen in Kommentaren wissen, wenn Sie deren Input benötigen.
+- **Verbesserungen der gemeinsamen Dokumenterstellung**: verbesserte Leistung von Word bei der gemeinsamen Dokumenterstellung.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 
