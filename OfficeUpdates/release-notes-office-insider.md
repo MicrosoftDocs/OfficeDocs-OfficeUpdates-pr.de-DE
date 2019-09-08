@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 0e33b8b29604cf5ada95a5d996dc8959750a0f7b
-ms.sourcegitcommit: 309b405d7fdfe3ca7d6c9da179b6c7ddb34378b1
+ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
+ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/30/2019
-ms.locfileid: "36693882"
+ms.lasthandoff: 09/06/2019
+ms.locfileid: "36785412"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -30,7 +30,61 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 [//]: # (NICHT ENTFERNEN)
 
 
-## <a name="version-1909-august-30"></a>Version 1909: August 30
+## <a name="version-1910-september-06"></a>Version 1910: 06. September
+*Version 1910 (Build 12030.20004)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+### <a name="word"></a>Word
+
+- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span>Es wurde ein Problem behoben, das dazu führen konnte, dass der Name der Schriftart im Menü von der verwendeten Schriftart abweicht</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Es wurde ein Problem behoben, das zu einer unangemessenen Ressourcennutzung von Outlook führen kann, wenn der geschützte Modus für eingeschränkte Websites im Internet Explorer deaktiviert ist</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, das beim Einfügen eines Textes aus einer ANSI-Quelle manchmal dazu führen kann, dass Unicode-Zeichen angezeigt werden</span></div>
+
+
+- <div><span>Ein Problem wurde behoben, bei dem einige Benutzer in einer Gruppen-Planungsanzeige fälschlicherweise als offline angezeigt wurden</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Ein Problem wurde behoben, welches dazu führen konnte, dass Tabellenformatierung verloren ging</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, welches dazu führen konnte, dass die Tastenkombination STRG + V nicht ordnungsgemäß funktionierte</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1909-august-30"></a>Version 1909: 30. August
 *Version 1909 (Build 12026.20000)*
 
 
