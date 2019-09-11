@@ -3,19 +3,19 @@ title: Releaseverlauf für Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 8/14/2019
+ms.date: 9/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: 9b86b9c383805cc6f29bdeaad9416b951443f21a
-ms.sourcegitcommit: fa36d5fbddce8fc94c98eaf81acdfa2fce370958
+ms.openlocfilehash: e4340d6a2d77f7b99febad35f8a5c046f89f023c
+ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36429939"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36838185"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -31,7 +31,27 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
 
-## <a name="august-2019-release"></a>Release von August 2019
+## <a name="september-2019-release"></a>Veröffentlichung vom September 2019
+
+**Veröffentlichungsdatum**: 10. September 2019
+
+*Microsoft Auto Update 4.15*
+
+ **Featureupdates:**
+
+- MAU-Benachrichtigungen für Stichtag für Update zeigen Endbenutzern nun die Zeit des Stichtags im Zeitformat ihres lokalen Geräts an.
+- MAU AU Daemon heißt jetzt Microsoft Update-Assistent.
+- Ein Problem wurde behoben, bei dem der Fokus beim Ausführen des Befehls "msupdate" aus der Vordergrund-App gestohlen wurde.
+
+
+**MAU-Updatelink**:
+
+[Microsoft Auto Update 4.15-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256-Hash**:
+
+E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
+## <a name="august-2019-release"></a>Release vom August 2019
 
 **Veröffentlichungsdatum:** 13. August 2019
 
@@ -49,7 +69,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 <br/>
 **SHA-256-Hash:**
 
-76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97
+76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
 ## <a name="july-2019-release"></a>Release von Juli 2019
 
 **Veröffentlichungsdatum:** 18. Juli 2019
@@ -154,6 +174,8 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 
 |**Veröffentlichungsdatum**|**Version**|**Weitere Informationen**||
 |:-----|:-----|:-----|:-----|
+|10. September 2019 <br/>|4.15 <br/> |  <br/> ||
+|13. August 2019 <br/>|4.14 <br/> |  <br/> ||
 |18. Juli 2019 <br/>|4.13 <br/> |  <br/> ||
 |27. Juni 2019 <br/>9. Juni 2019|4.12 <br/> | <br/> ||
 |14. Mai 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
