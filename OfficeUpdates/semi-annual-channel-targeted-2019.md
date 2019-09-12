@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 6f03d240a0d61521398f37a4a813bd1e89a7a6ac
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
+ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838286"
+ms.locfileid: "36841044"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -23,8 +23,11 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 > - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal (gezielt) eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
+ > [!NOTE]
+> - Microsoft Teams ist ab Version 1902 Teil neuer Installationen des halbjährlichen Kanals (gezielt). Teams wird vorhandenen Installationen des halbjährlichen Kanals hinzugefügt, wenn diese auf Version 1908 oder höher aktualisiert werden. Weitere Informationen finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
  
-## <a name="version-1908-september-10"></a>Version 1908: September 10
+## <a name="version-1908-september-10"></a>Version 1908: 10. September
 *Version 1908 (Build 11929.20300)*
 
 Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgelistet
@@ -140,6 +143,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="office-suite"></a>Office-Suite
 
+- **Installation von Microsoft Teams:** Teams wird zu bestehenden Installationen von Office 365 ProPlus hinzugefügt. [Weitere Informationen](https://docs.microsoft.com/de-DE/deployoffice/teams-install)
+
 - **Freigeben und Laden Ihrer Dokumente mit den unter Info neu verfügbar gemachten Schaltflächen:** Zuvor waren die Schaltflächen Freigeben, Pfad in die Zwischenablage kopieren und Dateispeicherort öffnen nur über den Dokument-Speicherpfad verfügbar. Jetzt werden die Schaltflächen deutlich unter Info angezeigt. Navigieren Sie wie gehabt zu Datei > Info, um diese neuen Schaltflächen anzuzeigen.
 
 - **Speichern Sie Ihre Änderungen, während sie entstehen**: Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
@@ -247,7 +252,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - Ein Problem wurde behoben, durch dass beim Öffnen einer DOC-Datei eine Fehlermeldung besagte, dass die Dateien beschädigt sei.
 - Ein Problem wurde behoben, bei dem die Anwendung bei der Zusammenarbeit mit anderen Benutzern an einem Dokument unerwartet beendet werden konnte.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 - Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte [Weitere Informationen](https://support.microsoft.com/de-DE/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1902-july-09"></a>Version 1902: 9. Juli
@@ -475,7 +480,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 
 - **Drittanbieteranwendungen für Office verfügen jetzt über Unterstützung zum Einfügen von SVGs mithilfe der Office.js-API** Drittanbieteranwendungen, die auch als Add-Ins in Office bekannt sind, können nun SVGs einfügen. Benutzer können nun ihre persönliche Sammlung von SVGs mit Office verbinden. Entwickler können dieses Feature mithilfe der Office.js-API verwenden.
-- **Installation von Microsoft Teams:** Microsoft Teams ist in Neuinstallationen von Office 365 ProPlus standardmäßig installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/DeployOffice/teams-install)
+- **Installation von Microsoft Teams:** Microsoft Teams ist in Neuinstallationen von Office 365 ProPlus standardmäßig installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/deployoffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 
