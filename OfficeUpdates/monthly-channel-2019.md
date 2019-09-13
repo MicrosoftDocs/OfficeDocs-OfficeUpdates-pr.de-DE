@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 9a6e0bbc189ebb970647fae2f9810505e327cfd8
-ms.sourcegitcommit: ba31adfbc9514f2c98d8420923696b1b77872621
+ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
+ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631235"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36973384"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -24,6 +24,37 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
+## <a name="version-1908-september-10"></a>Version 1908: 10. September
+*Version 1908 (Build 11929.20300)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) gelistet
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, bei dem Benutzer nicht in der Lage waren, über einen Screenreader auf Standortvorschläge zuzugreifen.
+
+- Ein Problem wurde behoben, bei dem einige Benutzer beim Versuch, ihre Cloud-Einstellungen für Outlook abzurufen, auf Authentifizierungsfehler stießen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, um den barrierefreien Namen für PowerPoint-Videosteuerelemente wiederherzustellen.
+
+- Ein Problem wurde behoben, durch das verhindert wurde, dass einige Animationen gestartet werden.
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, bei dem Benutzer die Meldung "Leider verhindert etwas, dass wir dies freigeben" erhielten, wenn sie versuchten, Dateien, die in SharePoint 2016 gespeichert waren, freizugeben.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Problem wurde behoben, bei dem große Strukturansichten fehlschlugen.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1908-august-26"></a>Version 1908: 26. August
 *Version 1908 (Build 11929.20254)*
@@ -96,6 +127,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - **Neuer Speicherort für Onlinevideos:** Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen ansehen kann. Fügen Sie den Videolink ein, und profitieren Sie von Multimediapräsentationen mit einem Bruchteil der üblichen Dateigröße. [Weitere Informationen](https://support.office.com/de-DE/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
 - **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
+
+- **Fügen Sie Folientitel hinzu, um Ihre Präsentationen zugänglich zu machen**: Accessibility Checker hilft Ihnen, fehlende Folientitel zu finden und zu beheben.
 
 - **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern auf Handzetteln in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 

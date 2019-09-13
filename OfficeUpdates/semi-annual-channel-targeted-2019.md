@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 5bf729562ac8c1f1dfa0c7741c87147080d62857
-ms.sourcegitcommit: 89effb1372d21b8cefa2fc5b64ce9294f8c303ac
+ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36841044"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972816"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -220,6 +220,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="word"></a>Word
 
 - Ein Problem wurde behoben, bei dem Benutzer Fehlermeldungen erhalten, während sie mit anderen an einem Word-Dokument zusammenarbeiten.
+
+- Ein Problem wurde behoben, bei dem Benutzer die Meldung "Leider verhindert etwas, dass wir dies freigeben" erhielten, wenn sie versuchten, Dateien, die in SharePoint 2016 gespeichert waren, freizugeben.
 
 
 ### <a name="office-suite"></a>Office-Suite

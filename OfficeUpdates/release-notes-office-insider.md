@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: e670e0faf90aa736a5270bd525c5020c0f547524
-ms.sourcegitcommit: 899d752cdb5c5b77c6247499ea4ac74b5ac5cc9a
+ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
+ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/06/2019
-ms.locfileid: "36785412"
+ms.lasthandoff: 09/12/2019
+ms.locfileid: "36972856"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -91,6 +91,11 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
+
+### <a name="access"></a>Access
+
+- **Schnelles Auffinden verknüpfter Tabellen**:Unser neues Suchfeld macht die Suche nach verknüpften Tabellen zu einem Kinderspiel.
+
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Speichern einer Illustration als SVG:** Speichern Sie ein Diagramm, eine Form oder eine andere Abbildung als skalierbare Vektorgrafik, deren Größe ohne Verlust der Bildqualität geändert werden kann. [Weitere Informationen](https://support.office.com/de-DE/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
@@ -560,9 +565,18 @@ Version 1907 (Build 11901.20018)
 
 Mitten im Entwurfs einer Präsentation? Wenden Sie die Formatvorlage "Skizzenhaft" an, um anzuzeigen, dass Sie zurzeit noch am Entwurf arbeiten. Dies verleiht Ihren Objekten eine persönliche Note, ohne sie in von Hand gezeichnete Freiformobjekte umzuwandeln.
 
+### <a name="excel"></a>Excel
+
+- **Schnellere Dateifreigabe**: Teilen Sie Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die Datei öffnen zu müssen.
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+
+- **Schnellere Dateifreigabe**: Teilen Sie Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die Datei öffnen zu müssen.
+
+### <a name="word"></a>Word
+
+- **Schnellere Dateifreigabe**: Teilen Sie Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die Datei öffnen zu müssen.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -616,7 +630,11 @@ Version 1907 (Build 11819.20002)
 
 - **Schnelles Programmieren mit Power Query-Verbesserungen:** Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertigstellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln.
 
-- **Verknüpfen von Tabellen in ähnlichen Spalten:** Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen.
+- **Verknüpfen von Tabellen in ähnlichen Spalten**: Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen.
+
+### <a name="word"></a>Word
+
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung**: Verbesserte Zuverlässigkeit bei der gemeinsamen Dokumenterstellung.
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint und Visio
 
@@ -1036,6 +1054,12 @@ Wechseln Sie zur Registerkarte „Zeichnen“, und wählen Sie einen Stift aus. 
 ## <a name="may-10-2019"></a>10. Mai 2019
 Version 1906 (Build 11702.20000)
 
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+**Mehr Nachrichten auf dem Bildschirm anzeigen**: Wählen Sie "Anzeigen" > "Engere Abstände verwenden" aus, um den Abstand zwischen den Nachrichten anzupassen.
+
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="all"></a>Alle
@@ -1063,6 +1087,12 @@ Version 1906 (Build 11702.20000)
 
 ## <a name="may-3-2019"></a>3. Mai 2019
 Version 1906 (Build 11629.20008)
+
+## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+**Alle Ihre Verschlüsselungsoptionen an einem zentralen Ort**: Gehen Sie einfach zu "Optionen" > "Verschlüsseln", um auszuwählen, wie Ihre E-Mail-Nachricht gesichert wird.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -1097,6 +1127,10 @@ Version 1906 (Build 11629.20008)
 Version 1905 (Build 11617.20002)
 
 ## <a name="new-features"></a>Neue Features
+
+### <a name="outlook"></a>Outlook
+
+**Freigegebene Kalenderaktualisierungen jetzt noch schneller:** Freigegebene Kalender in Office 365 können von Outlook mithilfe der REST-API aktualisiert werden. Aktivieren Sie die Vorschau, um schnellere und zuverlässigere Aktualisierungen für freigegebene Kalender zu erhalten.
 
 ### <a name="excel"></a>Excel
 
@@ -1135,6 +1169,10 @@ Die gemeinsame Dokumenterstellung wurde verbessert, indem Inhaltsänderungen den
 Version 1905 (Build 11609.20002)
 
 ## <a name="whats-new"></a>Neuigkeiten:
+
+### <a name="outlook"></a>Outlook
+
+**Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Suchvorschläge eingeschlossen.
 
 ### <a name="excel"></a>Excel
 
