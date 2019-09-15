@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 22fccba2af26eb0f8effd8ff516fbb57fb26fcfb
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
+ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972856"
+ms.lasthandoff: 09/13/2019
+ms.locfileid: "36980451"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -30,7 +30,45 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 [//]: # (NICHT ENTFERNEN)
 
 
-## <a name="version-1910-september-06"></a>Version 1910: 06. September
+## <a name="version-1910-september-13"></a>Version 1910: 13. September
+*Version 1910 (Build 12105.20000)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span>Ein Problem wurde behoben, das verhindern konnte, dass ein Benutzer Links in bestimmte geschützte Blättern einfügt</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Ein Problem wurde behoben, bei dem die Benutzeroberfläche möglicherweise in einer kompakten Darstellung stecken blieb</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Ein Problem wurde behoben, bei dem ein Benutzer beim Drucken in eine PDF-Datei möglicherweise eine Fehlermeldung erhielt</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Ein Problem wurde behoben, bei dem <span style="display:inline !important;background-color:rgb(255, 255, 255);font-size:13.33px;">Änderungen an einem Arbeitswert in einem Sammelvorgang zu einem Absturz führen konnten, wenn geschützte Arbeit aktiviert ist</span></span></div>
+
+
+- <font size=2 style="background-color:rgb(255, 255, 255);">Ein Problem wurde behoben, durch das die Möglichkeit zum Synchronisieren von Ereignissen mit Enterprise-Kalendern verhindert werden konnte</font>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Ein Problem wurde behoben, durch das eine wiederholte Warnung zum Verwerfen lokaler Versionen einer Datei angezeigt werden konnte</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1910-september-06"></a>Version 1910: 6. September
 *Version 1910 (Build 12030.20004)*
 
 
