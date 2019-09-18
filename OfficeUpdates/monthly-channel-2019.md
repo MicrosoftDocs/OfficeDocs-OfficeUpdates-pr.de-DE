@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 7972f00672f3f195695617a10d22a98d8a25ebe3
-ms.sourcegitcommit: f8b6acb84a922aa7fadb4c789bbd49f95c560c62
+ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
+ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36973384"
+ms.lasthandoff: 09/17/2019
+ms.locfileid: "37011675"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -128,7 +128,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 - **Erstellen eines Kartendiagramms:** Dieses Feature ist eine Verbesserung für Benutzer, die ausgefüllte Kartendiagramme mithilfe der geografischen Datentypen von Excel darstellen. Der Vorteil für den Endbenutzer besteht in einer umfangreicheren Integration zwischen den Features und einer höheren Genauigkeit des Bereichs, den der Endbenutzer zuordnen möchte. Weitere Vorteile: Zuordnen von Stadt-Polygonen [Weitere Informationen](https://support.office.com/de-DE/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 
-- **Fügen Sie Folientitel hinzu, um Ihre Präsentationen zugänglich zu machen**: Accessibility Checker hilft Ihnen, fehlende Folientitel zu finden und zu beheben.
+- **Fügen Sie Folientitel hinzu, um Ihre Präsentationen barrierefrei zu machen**: Die Barrierefreiheitsprüfung hilft Ihnen, fehlende Folientitel zu finden und zu beheben. [Weitere Informationen](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
 - **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern auf Handzetteln in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
