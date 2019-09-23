@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/11/2019
+ms.date: 9/19/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 9459036de8424fcd9a9c0dc86a4f69aa8e8d88fa
-ms.sourcegitcommit: 1c1b860767b1ebeb1b5183f44c086be6d3d68704
+ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
+ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36838242"
+ms.lasthandoff: 09/19/2019
+ms.locfileid: "37040693"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -34,6 +34,21 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 **Hinweis:** Informationen zum Release Microsoft AutoUpdate (MAU) wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/>
+
+## <a name="september-18-2019-release"></a>Release vom 18. September 2019
+*Version 16.29.1 (Build 19091700)*
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- Ein Problem mit der Liste der zuletzt geöffneten Dokumente wurde behoben, das auftrat, wenn Sie sich nicht bei Office angemeldet hatten.
+
+### <a name="excel--feature-updates"></a>Excel: Featureupdates
+
+- Ein Problem mit der Liste der zuletzt geöffneten Dokumente wurde behoben, das auftrat, wenn Sie sich nicht bei Office angemeldet hatten.
+
+ ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- Ein Problem mit der Liste der zuletzt geöffneten Dokumente wurde behoben, das auftrat, wenn Sie sich nicht bei Office angemeldet hatten.<br/><br/>
 
 ## <a name="september-10-2019-release"></a>Release vom 10. September 2019
 *Version 16.29 (Build 19090802)*
