@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Enthält Informationen zu bekannten Problemen bei Office 365 ProPlus
-ms.openlocfilehash: a8b385e197a6f61c10797bf160101cdd70285aaf
-ms.sourcegitcommit: a6d8dba3ee51727c2d3a2dad89cb986595c1a7b8
+ms.openlocfilehash: 7c24098c7a160c3d6391bc8e8e51a73d69c44b0c
+ms.sourcegitcommit: a5da36df390868d76bddfc78e9481ed8e9c5b673
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37068054"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37275496"
 ---
 # <a name="office-365-proplus-known-issues"></a>Bekannte Probleme bei Office 365 ProPlus
 
@@ -31,13 +31,17 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 
 |Zusammenfassung|Wird untersucht|Gelöst|
 |:-------------------------------------------------------------------------------------|:-----|:-----|
+|**Excel**
+Folgendes Problem wurde gefunden: Links können in bestimmte geschützte Blätter nicht eingefügt werden.|Monatliche und SACT-Version 1908 und SAC-Version 1902||
+Problem im Feature Excel-Ideen: Ein Fehler tritt auf, wenn das Add-In durch Klicken auf die Schaltfläche "Ideen" im Win32-Client geladen wird.|Monatliche Version 1908||
+Folgendes Problem wurde gefunden: Beim Durchsuchen des Add-in-Managers werden nur 16 Add-Ins angezeigt.|Monatliche und SACT-Version 1908||
 |**Outlook**
 Es wurde ein Problem gefunden, durch das Dateien u. U. nicht an einem WebDAV-Speicherort gespeichert werden konnten.|Monatliche Version 1909||
 |**Project**
-Nehmen Sie folgendes Szenario an. Sie öffnen ein Projekt. Sie klicken auf das Menü "Datei", dann auf "Exportieren" und schließlich auf die Schaltfläche "PDF/XPS erstellen". Im Dialogfeld "Durchsuchen" geben Sie einen Dateinamen ein, und klicken dann auf "OK". In diesem Fall stellen Sie fest, dass die PDF- oder XPS-Datei nicht erstellt wurde. |SAC Version 1902||
+Folgendes Problem wurde gefunden: Beim Erstellen eines PDF/XPS-Dokuments über das Menü "Datei" wird die Datei nicht erstellt. |SAC-Version 1902||
 |**Word**
 Wir haben ein Problem gefunden, auf das Benutzer beim Öffnen einer Datei stoßen können.|Monatliche Version 1908||
-Bei Office-Dateien, die vom OneDrive-Synchronisierungsmodul synchronisiert werden, werden Dokumentmetadaten (z. B. "Voraussetzungen" und "Inhaltstyp") nach dem Klicken auf "Speichern" und "Speichern unter" nicht mehr überprüft.|SAC Version 1902||
+Folgendes Problem wurde gefunden: Bei Office-Dateien, die vom OneDrive-Synchronisierungsmodul synchronisiert werden, werden Dokumentmetadaten (z. B. "Voraussetzungen" und "Inhaltstyp") nach dem Klicken auf "Speichern" und "Speichern unter" nicht mehr überprüft.|SAC-Version 1902||
 
 ## <a name="may-2019---sample"></a>Mai 2019 – BEISPIEL
 
