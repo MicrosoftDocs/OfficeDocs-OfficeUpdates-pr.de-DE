@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 372816fa81f0f5284a795f02edd9b1b4bb00c3f6
-ms.sourcegitcommit: d92c236702bae7efd84bd21b539cb7343b6973ba
+ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
+ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/13/2019
-ms.locfileid: "36980451"
+ms.lasthandoff: 09/27/2019
+ms.locfileid: "37300492"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,92 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1910-september-27"></a>Version 1910: 27. September
+*Version 1910 (Build 12119.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span>Es wurde ein Problem behoben, durch das Punkt-Linien-Diagramme beim Ändern der Reihensammlung nicht ordnungsgemäß dargestellt werden konnten.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Es wurde ein Problem behoben, durch das bei der Interaktion mit freigegebenen Kalenderordnern Berechtigungsfehler gemeldet wurden.</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, das Benutzer eventuell daran gehindert hätte, Anlagen an Kalender hinzuzufügen</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, durch das beim Antworten auf eine digital signierte Nachricht Fehlermeldungen angezeigt wurden</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span> Es wurde ein Problem behoben, das zu Skalierungsproblemen führte, wenn auf Deskjet-Druckern gedruckt wurde</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Es wurde ein Problem behoben, bei dem mittel-fett formatierter Text nicht ordnungsgemäß formatiert werden konnte</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, bei dem einem Benutzer beim Schließen einer Datei mit ausstehendem Upload eine falsche Fehlermeldung angezeigt wird</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1910-september-20"></a>Version 1910: 20. September
+*Version 1910 (Build 12112.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span>Es wurde ein Problem behoben, durch das Excel manchmal beim Start hängen geblieben ist.</span></div>
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Die Leistung der Raumauswahl bei einer großen Anzahl von verfügbaren Räumen wurde erheblich verbessert.</span></div>
+
+
+- <div><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;">Es wurde ein Problem behoben, durch das die Postfachsynchronisierung für Kunden mit mehreren Postfächern in Outlook nach der Migration zur modernen Authentifizierung in Office 365 verhindert wurde.</span><br></div>
+
+
+- <div><span>Es wurde ein Problem behoben, bei dem einige Zeichen in Signaturbeschriftungen im Dropdownmenü nicht angezeigt wurden</span></div>
+
+
+### <a name="project"></a>Projekt
+
+- <div><span>Es wurde ein Problem behoben, das beim Ersetzen einer Unternehmensressource durch eine lokale Ressource zu einem Absturz führte</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Es wurde ein Problem behoben, durch das ein synchrones Scrollen in der Entwurfsdarstellung nicht ordnungsgemäß funktionierte</span></div>
+
+
+- <div>Es wurde ein Problem behoben, durch das QuickInfos nach dem erstmaligen Speichern eines Dokuments zeitweise nicht ordnungsgemäß angezeigt wurden.</div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1910-september-13"></a>Version 1910: 13. September
 *Version 1910 (Build 12105.20000)*
@@ -132,7 +218,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="access"></a>Access
 
-- **Schnelles Auffinden verknüpfter Tabellen**:Unser neues Suchfeld macht die Suche nach verknüpften Tabellen zu einem Kinderspiel.
+- **Schnelle Suche nach verknüpften Tabellen:** Unser neues Suchfeld macht die Suche nach verknüpften Tabellen zu einem Kinderspiel.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -605,16 +691,16 @@ Mitten im Entwurfs einer Präsentation? Wenden Sie die Formatvorlage "Skizzenhaf
 
 ### <a name="excel"></a>Excel
 
-- **Schnellere Dateifreigabe**: Teilen Sie Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die Datei öffnen zu müssen.
+- **Schnellere Dateifreigabe**: Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
-- **Schnellere Dateifreigabe**: Teilen Sie Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die Datei öffnen zu müssen.
+- **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
 
 ### <a name="word"></a>Word
 
-- **Schnellere Dateifreigabe**: Teilen Sie Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die Datei öffnen zu müssen.
+- **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -668,11 +754,11 @@ Version 1907 (Build 11819.20002)
 
 - **Schnelles Programmieren mit Power Query-Verbesserungen:** Mit AutoVervollständigen und farbiger Syntax können Sie Code schnell fertigstellen. Außerdem können Sie auf einfache Weise Funktionen, Spalten und Parameter ermitteln.
 
-- **Verknüpfen von Tabellen in ähnlichen Spalten**: Abrufen und Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzyübereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen.
+- **Verknüpfen von Tabellen in ähnlichen Spalten:** Abrufen & Transformieren (Power Query) bietet jetzt eine ungefähre Textübereinstimmungslogik (auch Fuzzy-Übereinstimmung genannt) beim Vergleichen von Spalten zum Zusammenführen von Tabellen.
 
 ### <a name="word"></a>Word
 
-- **Verbesserungen bei der gemeinsamen Dokumenterstellung**: Verbesserte Zuverlässigkeit bei der gemeinsamen Dokumenterstellung.
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung:** Verbesserte Zuverlässigkeit bei der gemeinsamen Dokumenterstellung.
  
 ### <a name="word-excel-powerpoint-and-visio"></a>Word, Excel, PowerPoint und Visio
 
@@ -856,7 +942,7 @@ Sie können Bilder jetzt in Ihren Outlook-E-Mails zeichnen und kommentieren.
 
 #### <a name="open-document-links-in-word"></a>Öffnen von Dokument-Links in Word
 
-Wenn Sie in Office auf einen Dokument Link klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der Word-App geöffnet wird.  Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/de-DE/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Wenn Sie in Office auf einen Dokument Link klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der Word-App geöffnet wird.  Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Erste Schritte:
 
@@ -877,7 +963,7 @@ Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einem Wor
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Öffnen Sie Präsentationslinks in PowerPoint
 
-Wenn Sie in Office auf einen Präsentationslink klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der PowerPoint-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/de-DE/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Wenn Sie in Office auf einen Präsentationslink klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der PowerPoint-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Erste Schritte:
 
@@ -898,7 +984,7 @@ Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einer Pow
 
 #### <a name="open-workbook-links-in-excel"></a>Öffnen von Arbeitsmappen-Links in Excel
 
-Wenn Sie in Office auf einen Link zu einer Arbeitsmappe klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass diese standardmäßig in der Excel-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/de-DE/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Wenn Sie in Office auf einen Link zu einer Arbeitsmappe klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass diese standardmäßig in der Excel-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Erste Schritte:
 
@@ -1096,7 +1182,7 @@ Version 1906 (Build 11702.20000)
 
 ### <a name="outlook"></a>Outlook
 
-**Mehr Nachrichten auf dem Bildschirm anzeigen**: Wählen Sie "Anzeigen" > "Engere Abstände verwenden" aus, um den Abstand zwischen den Nachrichten anzupassen.
+**Mehr Nachrichten am Bildschirm anzeigen:** Wählen Sie „Anzeigen“ > Engere Abstände verwenden, um die Abstände zwischen den Nachrichten anzupassen.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -1130,7 +1216,7 @@ Version 1906 (Build 11629.20008)
 
 ### <a name="outlook"></a>Outlook
 
-**Alle Ihre Verschlüsselungsoptionen an einem zentralen Ort**: Gehen Sie einfach zu "Optionen" > "Verschlüsseln", um auszuwählen, wie Ihre E-Mail-Nachricht gesichert wird.
+**Alle Verschlüsselungsoptionen an einem zentralen Ort:** Gehen Sie einfach zu „Optionen“ > „Verschlüsseln“, um auszuwählen, wie Ihre E-Mail-Nachricht gesichert werden soll.
 
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
@@ -1168,7 +1254,7 @@ Version 1905 (Build 11617.20002)
 
 ### <a name="outlook"></a>Outlook
 
-**Freigegebene Kalenderaktualisierungen jetzt noch schneller:** Freigegebene Kalender in Office 365 können von Outlook mithilfe der REST-API aktualisiert werden. Aktivieren Sie die Vorschau, um schnellere und zuverlässigere Aktualisierungen für freigegebene Kalender zu erhalten.
+**Aktualisierungen freigebender Kalender funktionieren jetzt noch schneller:** Outlook ist in der Lage, freigegebene Kalender in Office 365 mithilfe der REST API zu aktualisieren. Aktivieren Sie die Vorschau, um schnellere und zuverlässigere Aktualisierungen für freigegebene Kalender zu erhalten.
 
 ### <a name="excel"></a>Excel
 
@@ -1210,7 +1296,7 @@ Version 1905 (Build 11609.20002)
 
 ### <a name="outlook"></a>Outlook
 
-**Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Suchvorschläge eingeschlossen.
+**Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen.
 
 ### <a name="excel"></a>Excel
 
