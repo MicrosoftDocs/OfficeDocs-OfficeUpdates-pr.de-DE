@@ -9,20 +9,112 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 39d280c0752083408c2cd3b8b370cdf04e1efd23
-ms.sourcegitcommit: d1718077f44805d5a7d0a7a0288847413a3e9d4f
+ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
+ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37011675"
+ms.lasthandoff: 09/30/2019
+ms.locfileid: "37329253"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den monatlichen Channel-Updates für Office 365 ProPlus im Jahre 2019 Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.
  
  > [!NOTE]
->- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1909-september-30"></a>Version 1909: 30. September
+*Version 1909 (Build 12026.20264)*
+* Korrekturen verschiedene Fehler und Leistungsprobleme.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="access"></a>Access
+
+- **Schnelle Suche nach verknüpften Tabellen:** Unser neues Suchfeld macht die Suche nach verknüpften Tabellen zu einem Kinderspiel. [Weitere Informationen](https://support.office.com/de-DE/article/1d9346d6-953d-4f85-a9ce-4caec2262797)
+
+### <a name="excel"></a>Excel
+
+- **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
+
+### <a name="outlook"></a>Outlook
+
+- **Das Menü „Link einfügen“ in Outlook fügt einen Link mit der vom Mandantenadministrator festgelegten Berechtigung ein:** Ein Link aus dem Link-Einfügen-MRU in Outlook fügte einen Link ein, der nur für diejenigen Benutzer funktionierte, die bereits eine Berechtigung besaßen. Dies führte häufig zu E-Mail-Nachrichten zwischen Benutzern, die den Zugriff auf ein Dokument anforderten. Wir haben diese Erfahrung aktualisiert, sodass der Link jetzt mit der vom Mandantenadministrator festgelegten Standardberechtigung eingefügt wird.
+
+- **Visuelle Aktualisierung von Outlook:** Dies ist ein Bestandteil der visuellen Aktualisierung der grundlegenden Benutzeroberflächen in Outlook, die das Layout der E-Mail-Nachrichten im Lesebereich und im Inspektor aktualisiert.
+
+- **Aktualisierungen freigebender Kalender funktionieren jetzt noch schneller:** Outlook ist in der Lage, freigegebene Kalender in Office 365 mithilfe der REST API zu aktualisieren. Aktivieren Sie die Vorschau, um schnellere und zuverlässigere Aktualisierungen für freigegebene Kalender zu erhalten.
+
+- **Finden Sie relevante Nachrichten in Ihren Suchergebnissen:** Outlook analysiert Suchbegriffe und zeigt die wichtigsten E-Mail-Nachrichten am Anfang der Suchergebnisse an. Außerdem sehen Sie alle Ergebnisse sortiert nach Datum im Abschnitt „Top-Ergebnisse“.
+
+- **Senden Sie die E-Mail an die richtige Person:** klicken Sie einfach auf die Zeile „An“ und wählen Sie aus den vorgeschlagenen Kontakten aus. Eine Bild- und Anwesenheitsanzeige hilft Ihnen bei der Auswahl der richtigen Person.
+
+- **Erweiterter Schutz gegen Angriffe:** Mit Office 365 Advanced Threat Protection sind Sie vor Angriffen durch Links in E-Mail-Betreffzeilen, angefügten Nachrichten, signierten Nachrichten, Netzwerkpfaden usw. geschützt.
+
+- **Sehen Sie Ihre Nachrichten in einem neuen Licht:** Verwenden Sie die Sonne/Mond-Schaltfläche, um im Lesebereich zwischen hellem und dunklem Hintergrund zu wechseln. [Weitere Informationen](https://support.office.com/de-DE/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Speichern einer Illustration als SVG:** Speichern Sie ein Diagramm, eine Form oder eine andere Abbildung als skalierbare Vektorgrafik, deren Größe ohne Verlust der Bildqualität geändert werden kann. [Weitere Informationen](https://support.office.com/de-DE/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Freihand-Replay:** Animieren Sie eine Freihandzeichnung so, dass Sie während der Bildschirmpräsentation vorwärts oder rückwärts wiedergegeben wird. [Weitere Informationen](https://support.office.com/de-DE/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
+
+### <a name="word"></a>Word
+
+- **Anders ausgedrückt:** Wenn Sie etwas anders formulieren möchten, hilft Ihnen „Neu schreiben“ dabei. „Neu schreiben“ bietet Alternativen zum Verbessern Ihrer Formulierungen.
+
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung:** Verbesserte Zuverlässigkeit bei der gemeinsamen Dokumenterstellung.
+
+- **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
+
+- **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span style="background-color:rgb(255, 255, 255);display:inline !important;">Folgendes Problem wurde behoben: Links können in bestimmte geschützte Blätter nicht eingefügt werden.</span><br></div>
+
+
+- <div>Mehr als 16 Add-Ins wurden aktiviert, die angezeigt werden, &nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">wenn der Add-In-Manager durchsucht wird.</span></div>
+
+
+### <a name="insights-services"></a>Insights-Services
+
+- <div>Problem im Feature „Excel-Ideen“ behoben: Ein Fehler trat auf, wenn das Add-In durch Klicken auf die Schaltfläche „Ideen“ im Win32-Client geladen wurde.&nbsp;</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Es wurde ein Problem behoben, das bewirkt hat, dass die URL für den einfachen Mauszeiger bei einigen Safelinks nicht angezeigt wird.</div>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Die Blockierungslogik für Anlagen in Outlook wurde aktualisiert, um auch Python-Anlagen zu blockieren.</span>
+
+
+- <span style="background-color:rgb(255, 255, 255);display:inline !important;">Es wurde ein Problem behoben, durch das Benutzer einen Speicherverlust im Outlook-Prozess beobachten konnten.</span>
+
+- Es wurde ein Problem behoben, durch das verhindert werden konnte, dass Dateien an einem WebDAV-Speicherort gespeichert wurden.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><p style="margin:0in 0in 0.0001pt;font-size:11pt;font-family:Calibri, sans-serif;">Es wurde ein Problem behoben, das Benutzer beim Öffnen einer Datei angetroffen haben.</p></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1908-september-10"></a>Version 1908: 10. September
 *Version 1908 (Build 11929.20300)*
