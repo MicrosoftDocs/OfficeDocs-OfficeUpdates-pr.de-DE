@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: d9c9698fd7248bbf951295d774b2f75db3db24dd
-ms.sourcegitcommit: 425403be7c370a7c6980ba5f5696dcf3ffdb5ada
+ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
+ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37329253"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37350266"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -88,12 +88,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 - <div>Mehr als 16 Add-Ins wurden aktiviert, die angezeigt werden, &nbsp;<span style="font-size:13.3333px;background-color:rgb(255, 255, 255);display:inline !important;">wenn der Add-In-Manager durchsucht wird.</span></div>
-
-
-### <a name="insights-services"></a>Insights-Services
-
 - <div>Problem im Feature „Excel-Ideen“ behoben: Ein Fehler trat auf, wenn das Add-In durch Klicken auf die Schaltfläche „Ideen“ im Win32-Client geladen wurde.&nbsp;</div>
-
 
 ### <a name="outlook"></a>Outlook
 
