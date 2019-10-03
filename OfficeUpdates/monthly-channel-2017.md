@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2017
-ms.openlocfilehash: 517ba74ece85e4a4386189d7787f5fb46f8050a4
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: f889d383aa44fb6cc735b130d27f8ecc92aa51ca
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350256"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375821"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2017
 
@@ -96,7 +96,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen Excel abstürzt, wenn der Benutzer beim Versuch, ein Objekt in eine vorhandene Arbeitsmappe einzufügen, auf „Durchsuchen“ klickt.
 -   Behebung eines Problems, aufgrund dessen beim Schützen eines Bereichs mit einem Kennwort das Dialogfeld zur Eingabe des Kennworts zum Aufheben der Bereichssperre nicht angezeigt wird.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Outlook beim Wechseln zwischen Ordnern abstürzt, wenn mit Accessible Event Watcher (AccEvent.exe) überwacht wird.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -400,7 +400,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1707-august-18"></a>Version 1707: August 18
 *Version 1707 (Build 8326.2076)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Sie kein IMAP-Konto in Outlook konfigurieren können.
 -   Behebung eines Problems, das beim Öffnen von Outlook einen zeitweiligen Absturz verursacht.
 
@@ -472,7 +472,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Hilfreiche Sounds verbessern die Barrierefreiheit:** Aktivieren Sie Audiohinweise, um Sie bei der Arbeit zu leiten. Sie finden sie unter „Datei“ \> „Optionen“ \> „Erleichterte Bedienung“. Kein Add-In erforderlich. [Weitere Informationen](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Dateispeicherorte nach Konto:** Beim Öffnen oder Speichern einer Datei wird die Liste der Orte nach dem zugeordneten Konto organisiert.
 
-### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Ist-Arbeit fälschlicherweise in eine Enterprise-Ressource übertragen wird, wenn sie eine lokale Ressource ersetzt und geschützte Arbeit aktiviert ist.
 -   Behebung eines Problems, aufgrund dessen Project abstürzt, wenn die erste Spalte einer Tabelle „Vorgangsname“ lautet, die Spalte gesperrt ist und Sie auf einen Vorgang klicken.
 -   Behebung eines Problems, aufgrund dessen Sie dieselbe Ressource über die Ansicht „Vorgang: Einsatz“ mehrmals dem gleichen Vorgang zuweisen können.
@@ -539,7 +539,6 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Onlinebilder einfügen:** Es gibt eine neue Zielseite für die Auswahl von Bildern, und Zusatzinformationen werden automatisch mit dem Bild eingefügt.
 -   **Azure Data Lake Store-Connector:** Benutzer können nun Daten aus Azure Data Lake Store importieren.
 -   **Verbesserungen für „Spalte aus Beispielen hinzufügen“:** Unterstützt Vorschläge, weitere Datums-/Uhrzeitvorgänge und zusätzliche Transformationen.
-- **Direkt eingebaute Barrierefreiheit** Einfache Suche nach Einstellungen, mit denen apps in Optionen #a0 einfacher Zugriff zugänglich gemacht werden können.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Neue Kontokonfiguration:** Richten Sie neue Konten mit einem neuen Assistenten ein, der weniger manuelle Schritte erfordert.
@@ -547,9 +546,8 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Stiftanpassung:** Wählen Sie einen persönlichen Satz von Stiften und Textmarkern für die Freihandeingabe aus. Ihr benutzerdefinierter Satz steht Ihnen dann auf all Ihren Windows-PCs zur Verfügung.
 -   **Onlinebilder einfügen:** Es gibt eine neue Zielseite für die Auswahl von Bildern, und Zusatzinformationen werden automatisch mit dem Bild eingefügt.
-- **Direkt eingebaute Barrierefreiheit** Einfache Suche nach Einstellungen, mit denen apps in Optionen #a0 einfacher Zugriff zugänglich gemacht werden können.
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problem, aufgrund dessen Zeitphasen-Baselinewerte nicht den ursprünglichen Werten entsprechen, wenn Sie ein Projekt im XML-Dateiformat speichern.
 -   Es wurde ein Problem behoben, bei dem der Project-Client ein Projekt nicht öffnete, da er annimmt, dass es ausgecheckt ist, obwohl dies nicht der Fall ist.
 -   Es wurde ein Problem behoben, sodass Project-Dateien von einem Dateiserver mit hoher Latenz nun schneller geöffnet werden.
@@ -567,12 +565,6 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 - **Stiftanpassung:** Wählen Sie einen persönlichen Satz von Stiften und Textmarkern für die Freihandeingabe aus. Ihr benutzerdefinierter Satz steht Ihnen dann auf all Ihren Windows-PCs zur Verfügung.
 - **Onlinebilder einfügen:** Es gibt eine neue Zielseite für die Auswahl von Bildern, und Zusatzinformationen werden automatisch mit dem Bild eingefügt.
-- **Direkt eingebaute Barrierefreiheit** Einfache Suche nach Einstellungen, mit denen apps in Optionen #a0 einfacher Zugriff zugänglich gemacht werden können.
-
-### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
-- **Geschützt vor bösartigen Links in Office-Dokumenten bleiben** Safelinks ist ein Enterprise-Feature, das einen Zeitaufwand für den Klick Schutz für Weblinks (http/https) in Office-Dokumenten bereitstellt.
-
-
 
 ## <a name="version-1705-june-13"></a>Version 1705:13. Juni
 *Version 1705 (Build 8201.2102)*
@@ -625,8 +617,6 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Untertitel für Videos:** Fügen Sie einem Video Untertitel hinzu, damit die Barrierefreiheit erhöht wird. [Weitere Informationen](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Verbesserung am Designer:** Der Designer schlägt jetzt Entwurfsideen für Diagramme vor, die Ihren Folien hinzugefügt werden.
 -   **Unterstützung für Windows Information Protection (WIP):**    PowerPoint ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand von konfigurierten Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
-- **Zugänglich machen ihrer Bilder** Intelligente Dienste generieren Alternativtext für Ihre Bilder, damit Ihre Dokumente für Personen mit Sehstörungen leichter zugänglich sind.
-- **PowerPoint-Designer verwandelt mehr Folientypen** Designer empfiehlt nun Entwurfsideen für Diagramme, die Ihren Folien hinzugefügt wurden.
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Korrektur des Dialogfelds „Projektwebsite erstellen“ derart, dass nun, da jede Enterprise-Projektvorlage in Project Online über eine eigene URL für Projektwebsites verfügt, der korrekte Ort der Website angezeigt wird.
@@ -657,9 +647,6 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Verbesserte Unterstützung beim Verfassen im Editorbereich:** Verwenden Sie den Editorbereich für erweiterte Empfehlungen zu Rechtschreibung, Grammatik und Schreibstil. Der Zugriff ist dank verbesserter Unterstützung mithilfe von Hilfstechnologien möglich.
 -   **Alternativtexterstellung:** Ein cloudbasierten Dienst generiert automatisch Alternativtext (ALT-Text) für Bilder in einem Dokument.
 -   **Unterstützung für Windows Information Protection (WIP):**    Word ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
-- **Zugänglich machen ihrer Bilder** Intelligente Dienste generieren Alternativtext für Ihre Bilder, damit Ihre Dokumente für Personen mit Sehstörungen leichter zugänglich sind.
-
-
 
 ## <a name="version-1704-june-1"></a>Version 1704:1. Juni
 *Version 1704 (Build 8067.2157)*
@@ -824,7 +811,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer großen Datei in OneDrive for Business die Datei gesperrt wird und der Benutzer die Datei erst bearbeiten kann, nachdem er Excel geschlossen und wieder geöffnet hat.
 -   Behebung eines Problems, aufgrund dessen ein neues Fenster beim Öffnen einer XLS-Arbeitsmappe abgeblendet angezeigt wird.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen der Benutzer keine PST-Dateien durchsuchen kann.
 -   Behebung eines Problems, aufgrund dessen der Benutzer einen neuen Speichertyp „Microsoft Exchange“ im Dialogfeld „Neue Outlook-Datendatei“ sieht und die Auswahl dieses neuen Datentyps bewirkt, dass das Profil des Benutzers nicht mehr verwendet werden kann.
 
@@ -866,7 +853,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Überprüfen des Zugriffs auf freigegebene Dateien:** Outlook teilt dem Benutzer vorab mit, wenn Empfänger möglicherweise nicht auf eine angehängte OneDrive- oder SharePoint-Datei zugreifen können, und macht Vorschläge zur Behebung des Problems.
 -   **Festlegen von Berechtigungen für Anlagen:** Für OneDrive- oder SharePoint-Anlagen kann der Benutzer festlegen, ob Empfänger in der Organisation oder extern Lese- oder Bearbeitungsberechtigungen für die Anlage erhalten.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Bild in einer Nachricht ausgeblendet wird, wenn es von einem Computer mit hohem DPI-Wert gesendet wird.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
@@ -910,7 +897,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, bei dem falsche Informationen von der Sprachausgabe angekündigt werden, wenn der Benutzer im Inhaltsfenster navigiert.
 -   Behebung eines Problems, bei dem die Namen der Ersteller und Bearbeiter nicht angezeigt werden, wenn die Maus über eine Anmerkung auf einem Whiteboard bewegt wird.
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
 -   **Codeausschnitte:** Erstellen von Ausschnitten einer Visio-Zeichnung und Exportieren dieser als Folien in PowerPoint. [Weitere Informationen](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates

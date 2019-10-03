@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 5c8a5e252be302622dab9f041bfd84b4b511f8f2
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: a56ceef84a0af1ad73e17079ad68b904ed6a9e96
+ms.sourcegitcommit: 5a70fb551b56a39dfd597b5ff2b73d74e5054d15
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350276"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37375811"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -58,8 +58,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **Zoomen und Übernehmen:** Anstatt den Zoom jedes Mal anzupassen, wenn Sie eine Nachricht lesen, wählen Sie einen Standardwert für alle Nachrichten.  [Weitere Informationen](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Arbeiten während des Verschiebens von Nachrichten:** Outlook verschiebt Nachrichten nun im Hintergrund, sodass Sie weiterarbeiten können, während viele Nachrichten zwischen Ordnern verschoben werden.
 - **Professionelles Aktivieren und Deaktivieren des Posteingangs mit Relevanz:** Benutzer, die den Posteingang mit Relevanz nicht verwenden, können wieder die Registerkarte „Ungelesen“ in der Nachrichtenliste in allen Ordnern verwenden. Wir haben auch eine Kennzeichnung für die Sortierung hinzugefügt, damit gekennzeichnete Elemente leichter zu finden sind. Posteingang mit Relevanz weist ein besseres Interaktionsmodell mit der Suche auf: Posteingang mit Relevanz ist solange aktiviert, bis ein Benutzer eine Suche ausführt. Die Ergebnisse werden nach Abschluss der Suche angezeigt.
-- **Standardmäßiges Blockieren des Downloads externer Inhalte in SMIME-verschlüsselten und signierten E-Mails:** Aufgrund einer Schwachstelle im SMIME-Protokoll blockiert Outlook den Download externer Inhalte in Nachrichten, die über SMIME verschlüsselt oder signiert wurden. Benutzer können daher als Schutzmaßnahme vor dieser Sicherheitslücke externe Inhalte nicht mit einem einzelnen Klick über die Outlook-Benutzeroberfläche herunterladen. Es ist eine neue Option im Dialogfeld „Optionen“ vorhanden, mit der Benutzer zum alten Verhalten zurückkehren können.
-- **Anzeigen der LinkedIn-Details von Benutzern in Outlook:** Sie können nun beim Öffnen der Profilkarte eines Kontakts mehr über diesen Kontakt erfahren, indem Sie dessen LinkedIn-Profil ansehen.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 
@@ -179,7 +177,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 - **Schnelle Suche** Wir haben die VLOOKUP-, HLOOKUP- und MATCH-Berechnungen beschleunigt, damit Sie schneller Antworten erhalten. [Weitere Informationen](https://support.office.com/article/60f18521-2589-4734-89dd-ba4ee1f6c000)
 - **An alle Fans von „Abrufen und Transformieren“** Wenn Sie „Abrufen & Transformieren“ häufig verwenden, werden Sie sich freuen, dass das Feature „Spalte aus Beispiel“ verbessert wurde. Und viele Connectors wurden ebenfalls verbessert. [Weitere Informationen](https://support.office.com/article/ed01ec34-679d-48e7-ba49-bb14c7908f9e)
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Finden Sie einen schnellen Einstieg in die Arbeit mit Office-Dateien – Erstellen und öffnen Sie Dateien mühelos mit der aktualisierten Startumgebung:** Die neu gestalteten Office-Startseiten für Word, PowerPoint und Excel helfen Ihnen, neue Dokumente zu erstellen, mit kürzlich verwendeten Dokumenten dort fortzufahren, wo Sie aufgehört haben, und freigegebene Dokumente für die Zusammenarbeit mit anderen zu finden.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Sehen Sie sich an, was in Kürze verfügbar ist** Probieren Sie neue Benutzeroberflächen aus, bevor diese veröffentlicht werden, und teilen Sie uns Ihre Meinung mit. [Weitere Informationen](https://support.office.com/article/d4b7db49-b4e0-4f98-a0dc-156952e551e2)
@@ -190,15 +187,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 - **Verleihen Sie Ihren Folien mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex über den Bildschirm stampft. [Weitere Informationen](https://support.office.com/article/ad6ade3a-be41-4cf1-b761-46dcfd14dfc8)
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
-- **Befragen Sie Ihr Publikum mit einem Quiz oder einer Umfrage** Platzieren Sie ein Quiz oder eine Umfrage auf eine Folie. Office sammelt und speichert die Antworten für Sie. [Weitere Informationen](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
-- **Finden Sie einen schnellen Einstieg in die Arbeit mit Office-Dateien – Erstellen und öffnen Sie Dateien mühelos mit der aktualisierten Startumgebung:** Die neu gestalteten Office-Startseiten für Word, PowerPoint und Excel helfen Ihnen, neue Dokumente zu erstellen, mit kürzlich verwendeten Dokumenten dort fortzufahren, wo Sie aufgehört haben, und freigegebene Dokumente für die Zusammenarbeit mit anderen zu finden.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 - **Ziehen Sie die Aufmerksamkeit mit \@Erwähnungen** auf sich: Verwenden Sie@mentions in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)
 - **Die Symbole auf dem Menüband haben einen neuen Look** Keine Sorge – alles funktioniert noch wie zuvor. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/c6bc4cd8-d151-41d3-8276-fc7c9975eb79)
 - **Formel-Editor-Konverter** Mit dem Konverter können Benutzer Gleichungen, die mithilfe des Formel-Editors von Microsoft erstellt wurden, in das Office-MathML-Format konvertieren, um eine Bearbeitung zu ermöglichen.
 - **Verwandeln Sie ihr Dokument von statisch in erstaunlich:** Verwandeln Sie Ihr Dokument in eine interaktive, einfach freizugebende Webseite, die auf jedem Gerät großartig aussieht. [Weitere Informationen](https://support.office.com/article/65912b2d-8b81-41e1-ac52-c20a65ce8ecf)
-- **Finden Sie einen schnellen Einstieg in die Arbeit mit Office-Dateien – Erstellen und öffnen Sie Dateien mühelos mit der aktualisierten Startumgebung:** Die neu gestalteten Office-Startseiten für Word, PowerPoint und Excel helfen Ihnen, neue Dokumente zu erstellen, mit kürzlich verwendeten Dokumenten dort fortzufahren, wo Sie aufgehört haben, und freigegebene Dokumente für die Zusammenarbeit mit anderen zu finden.
 
 ## <a name="version-1808-september-11"></a>Version 1808: 11. September
 *Version 1808 (Build 10730.20102)*
@@ -267,7 +261,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Outlook-Add-In-Warnungen:** Gelegentlich können bei einem Outlook-COM-Add-In Probleme auftreten, die Outlook insgesamt verlangsamen. Diese Probleme können in der Latenz von Ereignissen begründet sein, z. B. beim Wechseln zwischen Outlook-Ordnern, Eintreffen neuer E-Mails, Öffnen von Kalenderelementen usw. Wenn diese Probleme auftreten, zeigt Outlook eine Warnung in der Benachrichtigungsleiste an.
 - **Teilnehmen an Teambesprechungen über das Dialogfeld "Outlook-Erinnerungen":** Wenn Outlook Benutzer an eine anstehende Besprechung erinnert, wird eine Schaltfläche „Online beitreten“ angezeigt, falls die anstehende Besprechung eine Teams-Onlinebesprechung ist. Dieser Vorgang ähnelt dem Beitreten zu einer Skype for Business-Besprechung im Dialogfeld „Outlook-Erinnerungen“.
-- **Verbesserte Add-In-Benachrichtigungen** Verbesserte Add-In-Benachrichtigungen
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
  - **Linkfarben:** Links sind nicht mehr nur blau. Sie können eine beliebige Schriftfarbe anwenden. [Weitere Informationen](https://support.office.com/article/988ed94c-82e9-4e2c-96a1-7ffd2c382ce8)
@@ -304,18 +297,16 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 - **Verbesserte Bearbeitungsleiste für Zellen: ** Sie können nun STRG + A zum Auswählen von Text in einer Zelle oder in der Bearbeitungsleiste verwenden. Außerdem wurde die Unterstützung von Emojis und anderen komplexen Zeichen verbessert. [Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
- - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 - **Serienstandard:** Im Dialogfeld „Terminserie“ (unter „Seriendauer“) ist „Endet am“ die Standardeinstellung (anstelle von „Kein Enddatum“); dies ist auch die erste aufgeführte Einstellung, und es ist ein Standardenddatum festgelegt.
 - **Verbesserungen an der Barrierefreiheitsprüfung:** Die Barrierefreiheitsprüfung weist eine aktualisierte Unterstützung für internationale Standards und Empfehlungen auf, sodass Sie leichter auf Ihre Nachrichten zugreifen können. [Weitere Informationen](https://support.office.com/article/a16f6de0-2f39-4a2b-8bd8-5ad801426c7f)
-- **Verbessern der Zeichenfolgen für das "Folgen" einer Gruppe in Outlook-Desktop.** Wir ändern die Zeichenfolgen für Gruppen in Outlook von der aktuellen Formulierung "Abonnieren/Abonnieren beenden" in "Folgen/Nicht mehr folgen".
+
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 - **Einfügen von Titeln für Ihre Folien mit einem Stift:** Verwenden Sie den Stift, um per Freihand einen Titel einzugeben, und sehen Sie zu, wie PowerPoint diesen in Text konvertiert. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
-- **Öffnen Sie große Dateien inkrementell:** Möglichkeit, große PowerPoint-Präsentationen herunterzuladen, zu öffnen und damit zu interagieren, auch wenn Teile der Präsentation (beispielsweise ein großes Video oder ein Bild) noch nicht heruntergeladen wurden.
-
 
 ### <a name="project-feature-updates"></a>Project: Featureupdates
  - **Organisiert bleiben mit zuletzt verwendeten Speicherorten:** In Project wird eine fortlaufende Liste davon geführt, wo Sie andere Projekte gespeichert haben. Wenn Sie bereit sind, Ihr Projekt zu speichern, wählen Sie einfach einen der zuletzt verwendeten Speicherorte aus, und arbeiten Sie weiter.
@@ -436,7 +427,6 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **So verpassen Sie keine Erinnerung mehr:** Legen Sie Erinnerungen so fest, dass sie über Fenstern angezeigt werden, in denen Sie arbeiten. Andernfalls blinkt Outlook in der Taskleiste, damit Sie darauf aufmerksam werden. [Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Markieren Sie gelöschte Elemente als gelesen:** Sie können jetzt jede Nachricht, die Sie löschen, als gelesen markieren. Klicken Sie hierfür auf „Datei \> Optionen \> E-Mail \> Andere“.
 -   **Verschlüsselungsoption:** Benutzer der Office 365-Nachrichtenverschlüsselung können Nachrichten verschlüssel und an eine beliebige Person innerhalb oder außerhalb ihrer Organisation senden. Die Verschlüsselungsoption wird beim Erstellen einer Nachrichten unter „Optionen \> Berechtigungen“ angezeigt. [Weitere Informationen](https://aka.ms/omeoverview)
-- **Unterstützung für die Anzeige aller verbundenen Gruppen in der Kalenderansicht:** Durch diese Verbesserung kann ein Benutzer alle verbundenen modernen Gruppen im linken Navigationsbereich der Kalenderansicht anzeigen, um den Kalender einer Gruppe auf einfache Weise mit dem persönlichen Kalender oder dem Kalender einer anderen Gruppe abzugleichen. Bisher wurden nur Favoritengruppen in dieser Liste angezeigt.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Freihandkonvertierung:** Konvertieren Sie Notizen und Zeichnungen in lesbaren Text und gestochen scharfe Formen, um eine ansprechende Präsentation zu erstellen. [Weitere Informationen](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
