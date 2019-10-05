@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391299"
+ms.locfileid: "37400134"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -613,7 +613,9 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 
 - **Verabschieden Sie sich von fehlerhaften Excel-Verknüpfungen:** Die Excel-Arbeitsmappe, die mit Ihrem Datenschnellansichtsdiagramms verknüpft ist, kann nicht gefunden werden? Verknüpfen Sie es erneut, und es kann weiter gehen. [Weitere Informationen](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
 
+### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 
+- **Bereich „Neuigkeiten“: ** Der Bereich „Neuigkeiten“ wurde in den Bereich „Hilfe“ verschoben, sodass Sie einfacher auf unsere neuesten Updates zugreifen und darüber informiert bleiben können.
 
 > [!NOTE]
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
