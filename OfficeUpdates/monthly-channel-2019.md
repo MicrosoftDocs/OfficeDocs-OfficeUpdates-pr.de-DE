@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: f35e65c7ddf3288063d578f4515de38c037b60ba
-ms.sourcegitcommit: 6b645cfab4e6b232ccc97f9805cd1c168783ba43
+ms.openlocfilehash: 839e57a08aa9d38f7a9e473175968f2e91c9d28d
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350266"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391299"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -63,6 +63,10 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 - **Freihand-Replay:** Animieren Sie eine Freihandzeichnung so, dass Sie während der Bildschirmpräsentation vorwärts oder rückwärts wiedergegeben wird. [Weitere Informationen](https://support.office.com/de-DE/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
+
+### <a name="visio"></a>Visio
+
+- **Entwerfen und automatisieren Sie Geschäftsworkflows mit Microsoft Flow und Visio: ** verwenden Sie Visio, um Workflow Diagramme zu entwerfen und zu automatisieren.
 
 ### <a name="word"></a>Word
 
@@ -529,6 +533,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - **Sie berechnen, wir formatieren:** Von Hand gezeichnete mathematische Ausdrücke werden in Standardzeichen umgewandelt. Wählen Sie einfach "Freihand in Gleichung" und Ihre handschriftlichen Notizen aus, um loszulegen. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 - **Speichern Sie Ihre Änderungen, während sie entstehen:** Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 - **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Große Dateien lassen sich jetzt schneller öffnen: **-Bilder, Videos und andere große Elemente werden jetzt beim Öffnen von Dateien, die auf OneDrive oder SharePoint gespeichert sind, im Hintergrund heruntergeladen.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 

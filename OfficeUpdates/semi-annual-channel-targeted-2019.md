@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 3b3438087d34c0ce05606498e2eafea60ee516a6
-ms.sourcegitcommit: d4f156d8437e56965f74a3add79f7aa7a42c00ed
+ms.openlocfilehash: 3426e637cc5875cf8b463645ac8fba1af317eda1
+ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/12/2019
-ms.locfileid: "36972816"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37391269"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den halbjährlichen Updatekanal (gezielt) für Office 365 ProPlus im Jahre 2019 Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.
  
 > [!NOTE]
-> - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal (gezielt) eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal (gezielt) eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
  > [!NOTE]
 > - Microsoft Teams ist ab Version 1902 Teil neuer Installationen des halbjährlichen Kanals (gezielt). Teams wird vorhandenen Installationen des halbjährlichen Kanals hinzugefügt, wenn diese auf Version 1908 oder höher aktualisiert werden. Weitere Informationen finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
@@ -453,6 +453,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - **Veröffentlichen in Microsoft Stream:** Geben Sie eine Präsentation mithilfe von Microsoft Stream noch sicherer als Video innerhalb Ihrer Organisation frei.  [Weitere Informationen](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Exportieren in ein 4K-Video:** Wenn Sie eine Präsentation als Video exportieren, steht nun die 4K-Auflösung zur Auswahl.  [Weitere Informationen](https://support.office.com/article/c140551f-cb37-4818-b5d4-3e30815c3e83)
 - **Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+- **Große Dateien lassen sich jetzt schneller öffnen: **-Bilder, Videos und andere große Elemente werden jetzt beim Öffnen von Dateien, die auf OneDrive oder SharePoint gespeichert sind, im Hintergrund heruntergeladen.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
