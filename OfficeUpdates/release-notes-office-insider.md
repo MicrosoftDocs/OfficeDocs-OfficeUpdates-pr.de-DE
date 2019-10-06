@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 7b27ee8a99e987aea1d4e9f89e2816f570bbbe74
-ms.sourcegitcommit: a3d7811ec43bc314f1a90cbd2de5fb2a105c794a
+ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
+ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37300492"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37400144"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,78 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1910-october-04"></a>Version 1910: 04. Oktober
+*Version 1910 (Build 12126.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Add-In „Datenschnellansicht“: ** erstellen Sie schnell Visio-Flussdiagramme aus Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div><span>Ein Problem wurde behoben, bei dem der Druckbereich in der Seitenansicht nicht korrekt war.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, durch das es gelegentlich nicht möglicher war, PivotTables während der gemeinsamen Dokumenterstellung zu aktualisieren</span></div>
+
+
+### <a name="access"></a>Access
+
+- <div>Wir haben ein Problem behoben, bei dem Benutzer bei der Verwendung einer freigegebenen Datenbank die Fehlermeldung &quot;„inkonsistenter Zustand“&quot; erhalten konnten.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span>Es wurde ein Problem behoben, durch das die Duplikation von E-Mail-Ordnern verursacht werden konnte</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, das beim Senden einer s/MIME-verschlüsselten E-Mail-Nachricht eine falsche Fehlermeldung verursacht hat.</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, das manchmal zu einem Absturz führen konnte, wenn ein Benutzer eine Nachricht vom Typ „verpasste Unterhaltung“ von Skype empfängt</span></div>
+
+
+- <div><span>Wir haben ein Problem behoben, durch das ein Speicherleck entstehen konnte</span></div>
+
+
+- <div><span>Es wurde ein Problem behoben, durch das beim Speichern als Entwurf ein falscher Absender angezeigt werden konnte</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span></span></div>Es wurde ein Problem behoben, durch das TextRanges nach dem Einfügen von Text in den Platzhalter für Kopf-/Fußzeile/Foliennummer im Folienmaster und Folienlayout nicht mehr funktionieren konnten.
+
+
+- <div><span></span></div>Wir haben ein Problem behoben, durch das das Erstellen von Links beim Einfügen von Text mit Link verhindert wurde.
+
+
+- <div>Wir haben ein Problem behoben, durch das die ordnungsgemäße Funktion von Statistiken verhindert wurde.</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Wir haben ein Problem behoben, durch das Schriftfarben nicht angewendet wurden</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div>Wir haben ein Problem behoben, durch welches der Versionsverlauf angeboten werden konnte, obwohl diese Funktion deaktiviert worden war</div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1910-september-27"></a>Version 1910: 27. September
 *Version 1910 (Build 12119.20000)*
