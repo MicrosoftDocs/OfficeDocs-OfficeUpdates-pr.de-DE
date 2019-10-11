@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: aebb9804268114f6716f3d283ac516b26c25c211
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: 5171b3c95e42d23c140fe8f662dae84c129b1b4f
+ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400134"
+ms.lasthandoff: 10/09/2019
+ms.locfileid: "37427685"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -24,10 +24,31 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
+## <a name="version-1909-october-08"></a>Version 1909: 8. Oktober
+*Version 1909 (Build 12026.20320)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem in der Blockierungslogik für Anlagen in Outlook wurde behoben, sodass nun auch Python-Anlagen blockiert werden.
+
+- Ein Problem wurde behoben, das bewirkte, dass Benutzer einige Instanzen von wiederkehrenden Kalenderelementen nicht öffnen konnten.
+
+- Ein Problem wurde behoben, durch das Benutzer einen Speicherverlust im Outlook-Prozess beobachten konnten.
+
+- Ein Problem wurde behoben, das während der Profilerstellung ein Absturz verursachte.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
 ## <a name="version-1909-september-30"></a>Version 1909: 30. September
 *Version 1909 (Build 12026.20264)*
 * Korrekturen verschiedene Fehler und Leistungsprobleme.
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -240,7 +261,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 
- - Behebt ein Problem, das bewirkt, dass die aktuelle Ordnersuche zweitweise fehlschlägt.
+- Behebt ein Problem, das bewirkt, dass die aktuelle Ordnersuche zweitweise fehlschlägt.
 
 ## <a name="version-1906-june-27"></a>Version 1906: 27. Juni
 *Version 1906 (Build 11727.20230)*
