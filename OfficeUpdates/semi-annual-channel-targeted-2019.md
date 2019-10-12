@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: ecf9078bbde72572a96d97c97fc165a3678cd993
-ms.sourcegitcommit: b7303cf1e168500bcb2efe71dec23c9096715894
+ms.openlocfilehash: da3ed0689645e665ee2e6c265ed42e22b16e15ab
+ms.sourcegitcommit: d4aaac5012137e1131fdccb189d2c8b43c49946f
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/09/2019
-ms.locfileid: "37427695"
+ms.locfileid: "37437667"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -59,6 +59,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - Ein Problem wurde behoben, bei dem im Informationsbereich der Backstage-Ansicht keine Barrierefreiheitsinformationen angezeigt wurden.
 
 - Die Zuverlässigkeit beim Herunterladen von Office-Updates wurde verbessert, indem Downloads fortgesetzt werden, die möglicherweise zuvor unterbrochen wurden.
+
+- Um die Sicherheit der Office-Kunden zu schützen, sind jetzt Microsoft Office-Updates ausschließlich mit dem SHA-2-Algorithmus signiert.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
