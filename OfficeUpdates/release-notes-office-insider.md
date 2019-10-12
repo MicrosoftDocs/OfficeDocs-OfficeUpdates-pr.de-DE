@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 164383bff371e64336a2c9fb5c93cb3d5723ba3a
-ms.sourcegitcommit: 54722a89dde19941dfc9ad959f128a5c67f79023
+ms.openlocfilehash: d55140544fff10e89ae061ba137d0516a8a9b181
+ms.sourcegitcommit: 9adeb1f93a176a586c2e12f7692141c4de3c1d9b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37400144"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37471330"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,51 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1910-october-11"></a>Version 1910: 11. Oktober
+*Version 1910 (Build 12130.20112)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- <div>Ein Problem beim Einfügen von Dateien als Objekt aus OneDrive wurde behoben.</div>
+
+
+- <div>Ein Problem wurde behoben, bei dem das Hyperlink-Format auf einige Inhalte nicht ordnungsgemäß angewendet werden konnte.</div>
+
+
+- <div>Ein Problem wurde behoben, bei dem Formeln mit strukturierten absoluten Bezügen nicht ordnungsgemäß angepasst wurden.</div>
+
+
+- <div>Ein Problem wurde behoben, das beim Öffnen von in früheren Versionen von Office erstellten Arbeitsmappen in aktuellen Versionen von Office zu Programmabstürzen führen konnte.</div>
+
+
+- <div>Ein Problem wurde behoben, bei dem Inhalte, die aus Excel kopiert wurden, beim Einfügen in andere Office-Anwendungen falsch dargestellt werden konnten.</div>
+
+
+- <div>Es wurde ein Problem mit Farben behoben, die in der Vorschau beim Einfügen von Diagrammen mithilfe von Diagrammvorlagen verwendet wurden.</div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Es wurde ein Problem identifiziert, durch das ARC-Geräte die Verbindung verlieren können, wenn sie unter AirSpace WinComp ausgeführt werden.</div>
+
+
+### <a name="word"></a>Word
+
+- <div>Ein Problem beim Einfügen von Dateien als Objekt aus OneDrive wurde behoben.</div>
+
+
+- <div>Die Wiederherstellungsschritte wurden verbessert, <span>um ein Problem zu beheben, das dazu führte, dass grafische Inhalte aus E-Mail-Threads gelöscht werden konnten.&nbsp;</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1910-october-04"></a>Version 1910: 04. Oktober
 *Version 1910 (Build 12126.20000)*
