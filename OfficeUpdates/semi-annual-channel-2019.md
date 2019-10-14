@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: b17a06e0bd38e7bdb8d0d91de27fa4f09a962eba
-ms.sourcegitcommit: 01ac73d10be11b830776836c70d0a0efe4e7aafc
+ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
+ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/04/2019
-ms.locfileid: "37391319"
+ms.lasthandoff: 10/11/2019
+ms.locfileid: "37453585"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -25,6 +25,39 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1902-october-08"></a>Version 1902: 8. Oktober
+*Version 1902 (Build 11328.20438)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, durch das Links in bestimmte geschützte Blätter nicht eingefügt werden konnten.
+
+### <a name="project"></a>Project
+
+- Es wurde das Problem behoben, bei dem die PDF- oder XPS-Datei im folgenden Szenario nicht erstellt wird:</div><ul><li>Sie öffnen ein Projekt.</li><li>Sie klicken auf das Menü „Datei“, dann auf „Exportieren“ und schließlich auf die Schaltfläche <b>PDF/XPS erstellen</b>.</li><li>Im Dialogfeld „Durchsuchen“ geben Sie einen Dateinamen ein, und klicken dann auf "OK".</li></ul>
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, bei dem JAWS unter aktuellen Windows-Builds bei Verwendung von FESTSTELLTASTE+NACH-RECHTS-TASTE keine Wörter ansagt.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Benutzer können jetzt Office-Dateien speichern, die vom OneDrive-Synchronisierungsclient mit fehlenden erforderlichen Eigenschaften synchronisiert wurden. Die Dokumenteigenschaften stehen weiterhin zur Anzeige und Bearbeitung durch das Dokument Backstage zur Verfügung, indem Sie zu „Datei“ > „Info“ wechseln. Diese Änderung führt zu Leistungsverbesserungen.
+
+- Es wurde ein Problem behoben, durch das nach erfolgreicher Anmeldung die Benachrichtigung &quot;Mein Konto reparieren&quot; nicht verschwand.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1808-october-08"></a>Version 1808: 8. Oktober
+*Version 1808 (Build 10730.20386)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
 
 ## <a name="version-1902-september-10"></a>Version 1902: 10. September
 *Version 1902 (Build 11328.20420)*
