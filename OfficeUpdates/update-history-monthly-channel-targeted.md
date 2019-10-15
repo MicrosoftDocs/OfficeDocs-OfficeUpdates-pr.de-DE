@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: dd415a14bef7aac3aa907a4847ee2e52e47d584c
-ms.sourcegitcommit: 85de4fbe2104e3dcea6f6487aa263778d16c1dc3
+ms.openlocfilehash: 830179b4afed238c40bccaaa22d873cac227915a
+ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/24/2019
-ms.locfileid: "37131667"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37508880"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -30,9 +30,21 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen
 
  > [!NOTE]
-> - Microsoft Teams in vorhandenen Installationen von Office 365 ProPlus – ab Ende Juni werden Microsoft Teams bei Updates dieser Installationen in vorhandene Installationen von Office 365 ProPlus (und Office 365 Business) aufgenommen. Das Datum, an dem Teams hinzugefügt werden, hängt davon ab, welchen Update Kanal Sie verwenden. Weitere Informationen finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install) .
+> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+**14. Oktober 2019**<br/>
+Version 1910 (Build 12130,20184)<br/>
+
+**14. Oktober 2019**<br/>
+Version 1910 (Build 12130,20178)<br/>
+
+**Oktober 08, 2019**<br/>
+Version 1909 (Build 12026.20320)<br/>
+
+**28. September 2019**<br/>
+Version 1909 (Build 12026.20264)<br/>
 
 **23. September 2019**<br/>
 Version 1909 (Build 12026,20248)<br/>
@@ -44,7 +56,7 @@ Version 1909 (Build 12026,20190)<br/>
 Version 1909 (Build 12026,20108)<br/>
 
 **25. August 2019**<br/>
-Version 1908 (Build 11929,20254)<br/>
+Version 1908 (Build 11929.20254)<br/>
 
 **16. August 2019**<br/>
 Version 1908 (Build 11929,20182)<br/>
@@ -53,7 +65,7 @@ Version 1908 (Build 11929,20182)<br/>
 Version 1908 (Build 11929,20114)<br/>
 
 **27. Juli 2019**<br/>
-Version 1907 (Build 11901,20176)<br/>
+Version 1907 (Build 11901.20176)<br/>
 
 **25. Juli 2019**<br/>
 Version 1907 (Build 11901,20156)<br/>
@@ -65,16 +77,16 @@ Version 1907 (Build 11901,20120)<br/>
 Version 1907 (Build 11901,20080)<br/>
 
 **9. Juli 2019**<br/>
-Version 1906 (Build 11727,20244)<br/>
+Version 1906 (Build 11727.20244)<br/>
 
 **27. Juni 2019**<br/>
-Version 1906 (Build 11727,20230)<br/>
+Version 1906 (Build 11727.20230)<br/>
 
 **26. Juni 2019**<br/>
-Version 1906 (Build 11727,20224)<br/>
+Version 1906 (Build 11727.20224)<br/>
 
 **23. Juni 2019**<br/>
-Version 1906 (Build 11727,20210)<br/>
+Version 1906 (Build 11727.20210)<br/>
 
 **20. Juni 2019**<br/>
 Version 1906 (Build 11727,20188)<br/>
@@ -83,10 +95,10 @@ Version 1906 (Build 11727,20188)<br/>
 Version 1906 (Build 11727,20104)<br/>
 
 **03. Juni 2019**<br/>
-Version 1905 (Build 11629,20214)<br/>
+Version 1905 (Build 11629.20214)<br/>
 
 **25. Mai 2019**<br/>
-Version 1905 (Build 11629,20196)<br/>
+Version 1905 (Build 11629.20196)<br/>
 
 **22. Mai 2019**<br/> Version 1905 (Build 11629,20164)<br/>
 
@@ -94,7 +106,7 @@ Version 1905 (Build 11629,20196)<br/>
 Version 1905 (Build 11629,20136)<br/>
 
 **14. Mai 2019**<br/>
-Version 1904 (Build 11601,20204)<br/>
+Version 1904 (Build 11601.20204)<br/>
 
 **8. May 2019**<br/>
 Version 1904 (Build 11601.20178)<br/>
