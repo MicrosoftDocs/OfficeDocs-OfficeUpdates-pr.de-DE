@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 42f7f28eb5b37681cdc5a39259230c4928e2e99b
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: b21507a1d6802326f4888bebe7f2d2351bfe4842
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508860"
+ms.locfileid: "37523111"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -24,6 +24,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
+## <a name="version-1909-october-15"></a>Version 1909: 15. Oktober
+*Version 1908 (Build 11929.20396)*
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates
+
+### <a name="office-suite"></a>Office-Suite
+- Wir haben das Dialogfeld zum Speichern in der Cloud vorübergehend deaktiviert, um das Problem zu beheben, das am 14. Oktober 2019 veröffentlicht wurde. Dieses Feature wird nach Ablauf des Cachezeitraums von 7 Tagen erneut aktiviert.
+
 ## <a name="version-1909-october-14"></a>Version 1909: 14. Oktober
 *Version 1909 (Build 12026.20334)*
 
@@ -31,7 +39,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage waren, Word-, Excel- und PowerPoint-Dokumente zu speichern, wurde behoben.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Modell speichern“ öffnen, nachdem Sie auf das Symbol „Speichern“ geklickt oder STRG+S gedrückt haben.
+- Das Problem, bei dem Benutzer möglicherweise nicht in der Lage waren, Word-, Excel- und PowerPoint-Dokumente zu speichern, wurde behoben.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und die Option „Als Dialog speichern“ öffnen, nachdem Sie auf das Symbol „Speichern“ geklickt oder STRG+S gedrückt haben.
 
 
 ## <a name="version-1909-october-08"></a>Version 1909: 8. Oktober
