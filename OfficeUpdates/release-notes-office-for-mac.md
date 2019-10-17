@@ -3,19 +3,19 @@ title: Anmerkungen zur Version für Office für Mac
 ms.author: anankani
 author: andymosten
 manager: andrewmo
-ms.date: 9/19/2019
+ms.date: 10/16/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: 4908b1e9cabf7bf273fe301a332841c0581a1c0c
-ms.sourcegitcommit: 2d7022fa8948c721aa334245d499a32f39c50d3d
+ms.openlocfilehash: fd48bba268faa49e78d4ce6100a895d2597cc224
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2019
-ms.locfileid: "37040693"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523141"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -31,9 +31,36 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 > - Ab Version 16.17 vom September 2018 gelten diese Informationen auch für Office 2019 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist. Einige der in den Anmerkungen zur Version aufgeführten Features stehen jedoch nur in einem Office 365-Abonnement zur Verfügung.
 > - Die Versionshinweise für Version 16.16 und frühere Versionen gelten auch für Office 2016 für Mac, ebenfalls eine Version von Office für Mac, die als einmaliger Erwerb verfügbar ist. Ältere Versionen bis einschließlich 16.16 können mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Version 16.17 oder höher kann nicht mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Informationen zu Office 2016 für Mac-Versionen ab September finden Sie unter [Anmerkungen für Office 2016 für Mac](release-notes-office-2016-mac.md).
 > > 
-> - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/de-DE/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
-**Hinweis:** Informationen zum Release Microsoft AutoUpdate (MAU) wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/>
+**Hinweis:** Informationen zum Release „Microsoft AutoUpdate (MAU)“ wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/de-DE/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/>
+
+## <a name="october-15-2019-release"></a>Release vom 15. Oktober 2019
+*Version 16.30 (Build 19101301)*
+
+### <a name="word-feature-updates"></a>Word: Featureupdates
+
+- **Bearbeiten Sie Ihr PDF in Word:** Öffnen Sie Ihre PDF-Datei, wandeln Sie diese in ein Word-Dokument um und beginnen Sie mit der Bearbeitung.
+### <a name="excel--feature-updates"></a>Excel: Featureupdates
+
+- **Excel-Add-In zur Visio-Datenschnellansicht**: Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+
+ ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
+
+- [CVE-2019-1327](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1327): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+- [CVE-2019-1331](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1331): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+
+### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
+
+- **Sofortwiedergabe in Freihand:** Animieren Sie eine Freihandzeichnung so, dass sie während der Bildschirmpräsentation vorwärts oder rückwärts wiedergegeben wird. [Weitere Informationen](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496
+)
+
+
+### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
+
+- Mehrere Probleme mit der Leistung wurden behoben.<br/><br/>
 
 ## <a name="september-18-2019-release"></a>Release vom 18. September 2019
 *Version 16.29.1 (Build 19091700)*

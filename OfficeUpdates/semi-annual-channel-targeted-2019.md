@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 932a52dd77bd7ab10217faef92fbc0cef02fca07
-ms.sourcegitcommit: 49683ab7e2807057042defb376a31b332369d617
+ms.openlocfilehash: 1416d7cfba623a37b0f206790e445b11d4be87e7
+ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 10/15/2019
-ms.locfileid: "37508850"
+ms.locfileid: "37523130"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -23,6 +23,14 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 > - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal (gezielt) eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams ist ab Version 1902 Teil neuer Installationen des halbjährlichen Kanals (gezielt). Teams wird vorhandenen Installationen des halbjährlichen Kanals hinzugefügt, wenn diese auf Version 1908 oder höher aktualisiert werden. Weitere Informationen finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1909-october-15"></a>Version 1909: 15. Oktober
+*Version 1908 (Build 11929.20396)*
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Sicherheitsupdates
+
+### <a name="office-suite"></a>Office-Suite
+- Wir haben das Dialogfeld zum Speichern in der Cloud vorübergehend deaktiviert, um das Problem zu beheben, das am 14. Oktober 2019 veröffentlicht wurde. Dieses Feature wird nach Ablauf des Cachezeitraums von 7 Tagen erneut aktiviert.
 
 ## <a name="version-1908-october-14"></a>Version 1908: 14. Oktober
 *Version 1908 (Build 11929.20396)*
@@ -37,7 +45,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage waren, Word-, Excel- und PowerPoint-Dokumente zu speichern, wurde behoben.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Modell speichern“ öffnen, nachdem sie auf das Symbol „Speichern“ geklickt oder STRG+S gedrückt haben.
+- Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage waren, Word-, Excel- und PowerPoint-Dokumente zu speichern, wurde behoben.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Speichern unter“ öffnen, nachdem Sie auf das Symbol „Speichern“ geklickt oder STRG+S gedrückt haben.
 
 - Es wurde ein Problem gelöst, bei dem unter bestimmten Umständen Office-Verknüpfungen nach einem Update möglicherweise nicht mehr angezeigt wurden.  Dieses Update erhöht die Zuverlässigkeit beim Veröffentlichen von Office-Verknüpfungen.
 
