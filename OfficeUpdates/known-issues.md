@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Enthält Informationen zu bekannten Problemen bei Office 365 ProPlus
-ms.openlocfilehash: f27b398126d58c9d5eec42641a21418d943a3f64
-ms.sourcegitcommit: 4ba28e050cec1970fa1a81e79dc03bfa881780e9
+ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
+ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37520069"
+ms.lasthandoff: 10/17/2019
+ms.locfileid: "37574373"
 ---
 # <a name="office-365-proplus-known-issues"></a>Bekannte Probleme bei Office 365 ProPlus
 
@@ -32,7 +32,9 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 
 |Zusammenfassung|Betroffenen Anwendungen|
 |:-------------------------------------------------------------------------------------|:---------------------|
-|Es wurde ein Problem mit "Suchen und ersetzen" gefunden, durch das die Position des Fokus im Dialogfeld geändert wurde, nachdem das erste Element gefunden wurde. <br><br> **Status**: Wird untersucht|Excel<br><br>
+|Es wurde ein Problem mit "Suchen und ersetzen" gefunden, durch das die Position des Fokus im Dialogfeld geändert wurde, nachdem das erste Element gefunden wurde. <br><br> **Korrigierte Version**: <br> SACT Version 1908 (16.0.11929.20396)|Excel<br><br>
+|Es wurde ein Problem identifiziert, durch das Benutzern beim Kopieren von Elementen aus Ihrem primären Kalender in einen Gruppenkalender ein Berechtigungsfehler angezeigt wird.<br><br> **Status**: Wird untersucht|Outlook<br><br>
+|Es wurde ein Leistungsproblem unter Win7 identifiziert, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.<br><br> **Korrigierte Version**: <br>Monatliche Version 1909 (16.0.12026.20264) <br> SACT Version 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |Es wurde ein Problem gefunden, bei dem unter bestimmten Umständen Office-Verknüpfungen nach einem Update möglicherweise nicht mehr angezeigt werden.  <br><br> **Status**: Wird untersucht|Office-Suite<br><br>
 |Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage sind, Word-, Excel-und PowerPoint-Dokumente zu speichern, wurde erkannt.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Modell speichern“ öffnen, nachdem Sie auf das Symbol "Speichern" geklickt oder STRG + S gedrückt haben.<br><br> **Korrigierte Version**: <br>Monatliche Version 1909 (16.0.12026.20334) <br> SACT Version 1908 (16.0.11929.20396)|Office Suite<br><br>
 |
@@ -54,7 +56,7 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 |Es wurde ein Problem gefunden, das zu Datenverlusten in Sitzungen führen konnte, bei denen sowohl die gemeinsame Dokumenterstellung als auch die Offlinebearbeitung in PowerPoint genutzt wurde.<br><br>**Korrigierte Version**: <br>Monatliche Version 1909 (16.0.12026.20264)<br>SACT Version 1908 (16.0.11929.20370) |PowerPoint<br><br>
 |Folgendes Problem wurde gefunden: Beim Erstellen eines PDF/XPS-Dokuments über das Menü "Datei" wird die Datei nicht erstellt. <br><br>**Korrigierte Version**: <br>SAC Version 1908 (16.0.11328.20428)|Project<br><br>
 |Es wurde ein Problem gefunden, auf das Benutzer beim Öffnen einer Datei stoßen können.<br><br>**Korrigierte Version**: <br>Monatliche Version 1909 (16.0.12026.20264) <br> SACT Version 1908 (16.0.11929.20340)|Word<br><br>
-|Folgendes Problem wurde gefunden: Bei Office-Dateien, die vom OneDrive-Synchronisierungsmodul synchronisiert werden, werden Dokumentmetadaten (z. B. "Voraussetzungen" und "Inhaltstyp") nach dem Klicken auf "Speichern" und "Speichern unter" nicht mehr überprüft.<br><br>**Korrigierte Version**: <br> Monatliche Version 1906 (16.0.11727.20210)<br>SAC Version 1902 (16.0.11328.20426)|Word<br><br>
+|Folgendes Problem wurde gefunden: Bei Office-Dateien, die vom OneDrive-Synchronisierungsmodul synchronisiert werden, werden Dokumentmetadaten (z. B. "Voraussetzungen" und "Inhaltstyp") nach dem Klicken auf "Speichern" und "Speichern unter" nicht mehr überprüft.<br><br>**Korrigierte Version**: <br> Monatliche Version 1906 (16.0.11727.20210)<br>SAC Version 1902 (16.0.11328.20438)|Word<br><br>
 |Es wurde ein Problem gefunden, bei dem JAWS unter aktuellen Windows-Builds bei Verwendung von FESTSTELLTASTE+NACH-RECHTS-TASTE keine Wörter ansagt.<br><br>**Korrigierte Version**: <br>Monatliche Version 1904 (16.0.11601.20144)<br>SAC Version 1902 (16.0.11328.20438)|Word<br><br>
 |Es wurde ein Problem beim Herunterladen von Office-Updates gefunden, bei dem Downloads fortgesetzt wurden, die möglicherweise zuvor unterbrochen wurden.<br><br>**Korrigierte Version**: <br> SACT Version 1908 (16.0.11929.20380)|Office-Suite<br><br>
 |Es wurde ein Problem gefunden, durch das nach erfolgreicher Anmeldung die Benachrichtigung "Mein Konto reparieren" nicht verschwand.<br><br>**Korrigierte Version**: <br>SAC Version 1902 (16.0.11328.20438)|Office-Suite<br><br>
