@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Enthält Informationen zu bekannten Problemen bei Office 365 ProPlus
-ms.openlocfilehash: 60706952efab5ec1379cbe260442b5865f599f28
-ms.sourcegitcommit: 34571aa50b48a2111dee315f0ebf2e5f90cdf434
+ms.openlocfilehash: 8872d045698d314bcd2d911df744a696cbd60c5f
+ms.sourcegitcommit: d0863aa4ffd223e663bbbf4be0182192b127795e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/17/2019
-ms.locfileid: "37574373"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37593776"
 ---
 # <a name="office-365-proplus-known-issues"></a>Bekannte Probleme bei Office 365 ProPlus
 
@@ -33,6 +33,7 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 |Zusammenfassung|Betroffenen Anwendungen|
 |:-------------------------------------------------------------------------------------|:---------------------|
 |Es wurde ein Problem mit "Suchen und ersetzen" gefunden, durch das die Position des Fokus im Dialogfeld geändert wurde, nachdem das erste Element gefunden wurde. <br><br> **Korrigierte Version**: <br> SACT Version 1908 (16.0.11929.20396)|Excel<br><br>
+|Es wurde ein Problem mit der Leistung des Filterns nach Farbe erkannt. <br><br> **Korrigierte Version**: <br>monatliche Version 1909 (16.0.12026.20264) <br>|Excel<br><br>
 |Es wurde ein Problem identifiziert, durch das Benutzern beim Kopieren von Elementen aus Ihrem primären Kalender in einen Gruppenkalender ein Berechtigungsfehler angezeigt wird.<br><br> **Status**: Wird untersucht|Outlook<br><br>
 |Es wurde ein Leistungsproblem unter Win7 identifiziert, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.<br><br> **Korrigierte Version**: <br>Monatliche Version 1909 (16.0.12026.20264) <br> SACT Version 1908 (16.0.11929.20396)|PowerPoint<br><br>
 |Es wurde ein Problem gefunden, bei dem unter bestimmten Umständen Office-Verknüpfungen nach einem Update möglicherweise nicht mehr angezeigt werden.  <br><br> **Status**: Wird untersucht|Office-Suite<br><br>

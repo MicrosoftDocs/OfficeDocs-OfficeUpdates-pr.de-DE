@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Office 365 ProPlus für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: b100110d36b730901339c3db1d78edae64099612
-ms.sourcegitcommit: c8c625824fd574e9365f60afee5c816b5845a8db
+ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/23/2019
-ms.locfileid: "35823954"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36444568"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Versionsinformationen zu Updates für Office 365 ProPlus
 
@@ -44,6 +44,10 @@ Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr f
  - Halbjährlich (Gezielt): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Halbjährlich: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
+ ## <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
+ Eine vollständige Liste der Releases des Office-Bereitstellungstools finden Sie in den folgenden Artikeln:
+ - [Versionsverlauf des Office-Bereitstellungstools](ODT-release-history.md)
+
 ## <a name="office-for-mac-release-information"></a>Releaseinformationen für Office für Mac
 
 Informationen zu Updates für Office für Mac, das in jedem Office 365-Abonnementplan enthalten ist, der Office 365 ProPlus umfasst ist, finden Sie in den folgenden Artikeln:
@@ -54,7 +58,7 @@ Informationen zu Updates für Office für Mac, das in jedem Office 365-Abonnemen
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-- [Übersicht über die Updatekanäle für Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)
+- [Übersicht über die Updatekanäle für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
 - [Office-Bereitstellung](https://docs.microsoft.com/deployoffice/)
 - [Neuerungen in Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
 - [Office 365-Roadmap](https://products.office.com/business/office-365-roadmap)

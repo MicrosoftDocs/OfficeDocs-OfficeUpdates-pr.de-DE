@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: 6adf19fbc0136c6d5e48bc564d8b0119c6666d21
-ms.sourcegitcommit: 3583f7d48360ffc79d0d26b1b2385fec0d99be14
+ms.openlocfilehash: 3aba613d5ecbe9bf2b9c2de29e4356248980db89
+ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35601498"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37424060"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates
 
@@ -26,6 +26,55 @@ Diese Anmerkungen zur Version enthalten Informationen zu Sicherheitsupdates, die
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
 
+## <a name="october-08-2019"></a>8. Oktober 2019
+Monatlicher Kanal: Version 1909 (Build 12026.20320).  
+Halbjährlicher Kanal (gezielt): Version 1908 (Build 11929.20388)  
+Halbjährlicher Kanal: Version 1902 (Build 11328.20438)  
+Halbjährlicher Kanal: Version 1808 (Build 10730.20386)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1331](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1331)
+-   [CVE-2019-1327](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1327)
+
+## <a name="september-10-2019"></a>10. September 2019
+Monatlicher Kanal: Version 1908 (Build 11929.20300)  
+Halbjährlicher Kanal (gezielt): Version 1908 (Build 11929.20300)  
+Halbjährlicher Kanal: Version 1902 (Build 11328.20420)  
+Halbjährlicher Kanal: Version 1808 (Build 10730.20380)  
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2019-1263](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1263)
+-   [CVE-2019-1297](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1297)
+
+### <a name="office-suite"></a>Office-Suite
+
+-   [CVE-2019-1246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1246)
+-   [CVE-2019-1264](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1264)
+
+## <a name="august-13-2019"></a>13. August 2019
+Monatlicher Kanal: Version 1907 (Build 11901.20218)  
+Halbjährlicher Kanal (gezielt): Version 1902 (Build 11328.20392)  
+Halbjährlicher Kanal: Version 1902 (Build 11328.20392)  
+Halbjährlicher Kanal: Version 1808 (Build 10730.20370)  
+Halbjährlicher Kanal: Version 1803 (Build 9126.2432)  
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2019-1199](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1199)
+-   [CVE-2019-1204](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1204)
+-   [CVE-2019-1200](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1200)
+
+### <a name="word"></a>Word
+
+-   [CVE-2019-1205](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1205)
+-   [CVE-2019-1201](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1201)
+
+### <a name="office-suite"></a>Office-Suite
+
+-   [CVE-2019-1155](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1155)
+
 ## <a name="july-09-2019"></a>9. Juli 2019
 Monatlicher Kanal: Version 1906 (Build 11727.20244)  
 Halbjährlicher Kanal (gezielt): Version 1902 (Build 11328.20368)  
@@ -35,21 +84,21 @@ Halbjährlicher Kanal: Version 1803 (Build 9126.2428)
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-1112](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1112)
--   [CVE-2019-1110](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1110)
--   [CVE-2019-1111](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1111)
+-   [CVE-2019-1112](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1112)
+-   [CVE-2019-1110](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1110)
+-   [CVE-2019-1111](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1111)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1084)
 
 ### <a name="skype-for-business"></a>Skype for Business
 
--   [CVE-2019-1084](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1084)
+-   [CVE-2019-1084](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1084)
 
 ### <a name="office-suite"></a>Office-Suite
 
--   [CVE-2019-1109](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1109)
+-   [CVE-2019-1109](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1109)
 
 ## <a name="june-11-2019"></a>11. Juni 2019
 Monatlicher Kanal: Version 1905 (Build 11629.20246)  
@@ -59,8 +108,8 @@ Halbjährlicher Kanal: Version 1803 (Build 9126.2388)
 
 ### <a name="word"></a>Word
 
--   [CVE-2019-1034](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1034)
--   [CVE-2019-1035](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-1035)
+-   [CVE-2019-1034](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1034)
+-   [CVE-2019-1035](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1035)
 
 ## <a name="may-14-2019"></a>14. Mai 2019
 Monatlicher Kanal: Version 1904 (Build 11601.20204)  
@@ -70,12 +119,12 @@ Halbjährlicher Kanal: Version 1803 (Build 9126.2387)
 
 ### <a name="word"></a>Word
 
--   [CVE-2019-0953](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0953)
+-   [CVE-2019-0953](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0953)
 
 ### <a name="office-suite"></a>Office-Suite
 
--   [CVE-2019-0945](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0945)
--   [CVE-2019-0946](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0946)
+-   [CVE-2019-0945](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0945)
+-   [CVE-2019-0946](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0946)
 
 ## <a name="april-09-2019"></a>09. April 2019
 Monatlicher Kanal: Version 1903 (Build 11425.20204)  
@@ -85,16 +134,16 @@ Halbjährlicher Kanal: Version 1803 (Build 9126.2382)
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0828)
 
 ### <a name="office-suite"></a>Office-Suite
 
--   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
--   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
--   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
--   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
--   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
--   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0822)
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0801)
 
 ## <a name="march-12-2019"></a>12. März 2019
 Es gibt in diesem Monat keine Sicherheitsupdates für Kanäle.
@@ -109,16 +158,16 @@ Halbjährlicher Kanal: Version 1708 (Build 8431.2372)
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669)
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0669)
 
 ### <a name="office-suite"></a>Office-Suite
 
--   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
--   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
--   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
--   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
--   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
--   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0671)
 
 ## <a name="january-8-2019"></a>8. Januar 2019
 
@@ -130,15 +179,15 @@ Halbjährlicher Kanal: Version 1708 (Build 8431.2366)
 
 
 ### <a name="outlook"></a>Outlook
--   [CVE-2019-0559](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0559)
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0559)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates 
--   [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561)
--   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585) 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0585) 
  
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates 
--   [CVE-2019-0541](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0541)
--   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0560)
 
 ## <a name="december-11-2018"></a>11. Dezember 2018
 Monatlicher Kanal: Version 1811 (Build 11029.20108)  
@@ -147,18 +196,18 @@ Halbjährlicher Kanal (Gezielt): Version 1808 (Build 10730.20262)
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597)
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627)
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598)
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636)
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636)
 
 ### <a name="outlook"></a>Outlook
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587)
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587)
 
 ### <a name="powerpoint"></a>PowerPoint
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628)
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628)
 
 ## <a name="november-13-2018"></a>13. November 2018
 Monatlicher Kanal: Version 1810 (Build 11001.20108)  
@@ -167,26 +216,26 @@ Halbjährlicher Kanal (Gezielt): Version 1808 (Build 10730.20205)
 
 ### <a name="excel"></a>Excel:
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574)
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577)
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8574)
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8577)
 
 ### <a name="outlook"></a>Outlook:
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522)
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524)
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558)
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576)
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579)
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582)
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8522)
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8524)
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8558)
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8576)
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8579)
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8582)
 
 ### <a name="project"></a>Project:
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575)
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8575)
 
 ### <a name="skype-for-business"></a>Skype for Business:
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546)
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8546)
 
 ### <a name="word"></a>Word:
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573)
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8573)
