@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 2943fc287038498cd62c42932aebb5c216676619
-ms.sourcegitcommit: 5787a23a670c1b2412e7437d33124f6c5b80550c
+ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37553822"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644186"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -24,12 +24,31 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
 
+## <a name="version-1909-october-22"></a>Version 1909: 22. Oktober
+*Version 1909 (Build 12026.20344)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, bei dem Benutzer beim Öffnen eines schreibgeschützten Projekts mehrere Nachrichten erhalten konnten.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Um die Sicherheit der Office-Kunden zu schützen, sind jetzt Microsoft Office-Updates ausschließlich mit dem SHA-2-Algorithmus signiert.<br></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+
 ## <a name="october-15"></a>15. Oktober
 
 ### <a name="non-security-updates"></a>Nicht sicherheitsrelevante Updates
 
 ### <a name="office-suite"></a>Office-Suite
 - Wir haben das Dialogfeld zum Speichern in der Cloud vorübergehend deaktiviert, um das Problem zu beheben, das am 14. Oktober 2019 für ältere Builds als 12130.20184 veröffentlicht wurde. Dieses Feature wird in Kürze erneut aktiviert.
+
 
 ## <a name="version-1909-october-14"></a>Version 1909: 14. Oktober
 *Version 1909 (Build 12026.20334)*

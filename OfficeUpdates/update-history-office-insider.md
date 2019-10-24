@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: dbae84384185ba68b75ab69cfd979aee6e641a5c
-ms.sourcegitcommit: 9c4a7d9d2a2171e009e4e46ec5e46eaec6b78f10
+ms.openlocfilehash: f71d7b915162a8e2198089bec9204de646090cb2
+ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/14/2019
-ms.locfileid: "37501803"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37644196"
 ---
 # <a name="update-history-for-office-insider-channel"></a>Updateverlauf für Office Insider-Kanal
 
@@ -31,6 +31,9 @@ Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates m
 Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](https://docs.microsoft.com/de-DE/OfficeUpdates/release-notes-office-insider).
 
 [//]: # (NICHT ENTFERNEN)
+
+**21. Oktober 2019**<br/>
+Version 1911 (Build 12215.20006)<br/>
 
 **14. Oktober 2019**<br/>
 Version 1911 (Build 12209.20010)<br/>
