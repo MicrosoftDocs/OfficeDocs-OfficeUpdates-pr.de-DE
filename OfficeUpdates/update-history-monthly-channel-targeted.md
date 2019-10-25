@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: cddcd92805a9abeeb0ab31fe2822a251335ef87f
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: 64ecf80779831fc0f036e37e30436b0d47e7938a
+ms.sourcegitcommit: 23ba33ee213c0321adcffd12fea37e6fd119a40a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644136"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37663631"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -33,6 +33,9 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+**24. Oktober 2019**<br/>
+Version 1910 (Build 12130,20238)<br/>
 
 **22. Oktober 2019**<br/>
 Version 1910 (Build 12130,20210)<br/>
