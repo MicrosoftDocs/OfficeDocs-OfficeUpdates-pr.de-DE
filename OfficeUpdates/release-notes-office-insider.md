@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 84c2c6eab8a590979e5578e7e4bd1fb1ca1df8a9
-ms.sourcegitcommit: d5f74908719192bf15836140fca7d160de2bccd1
+ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
+ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37653438"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37733009"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,97 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1911-october-25"></a>Version 1911: 25. Oktober
+*Version 1911 (Build 12215.20006)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="visio"></a>Visio
+
+- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung:** Die gemeinsame Dokumenterstellung wurde verbessert, indem Inhaltsänderungen den anderen Benutzern nun nahezu immer in Echtzeit angezeigt werden.
+
+- **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- <div><span>Möglicherweise ist die Datensatzanzahl falsch</span></div>
+
+
+### <a name="excel"></a>Excel
+
+- <div><span>Wir haben die Leistung beim Löschen von Spalten mit verbundenen Zellen erheblich verbessert.</span></div>
+
+
+- <div><span>Es könnte Benutzern ggfs. nicht möglich sein, im Office 365-Format für Excel-Arbeitsmappen zu speichern</span></div>
+
+
+- <div><span>Kontrollkästchen wurden nicht ordnungsgemäß gerendert</span></div>
+
+
+- <div><span>Änderungen an der Größe eines Diagramms konnten nicht gespeichert werden.</span></div>
+
+
+- <div><span>Einige VBA-Funktionen haben bei neuen Diagrammtypen einen Fehler zurückgegeben</span></div>
+
+
+- <div><span>Bei einigen Dialogfeldern zur Auswahl von Datenquellen wurde die Groß-/Kleinschreibung nicht beachtet</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Änderungen an der Größe eines Diagramms konnten nicht gespeichert werden.</span></div>
+
+
+### <a name="publisher"></a>Publisher
+
+- <div><span>Shapes konnten außerhalb des Grafikrahmens angezeigt werden</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Shapes konnten außerhalb des Grafikrahmens angezeigt werden</span></div>
+
+
+- <div><span>Das Hervorheben von Text kann sich schwierig gestalten</span></div>
+
+
+- <div><span>Ein Benutzer konnte daran gehindert werden, zu einem einzelnen Element im Editor zu navigieren.</span></div>
+
+
+- <div><span>Möglicherweise wurden Grammatik- oder Rechtschreibfehler nicht hervorgehoben</span></div>
+
+
+- <div><span>Änderungen an der Größe eines Diagramms konnten nicht gespeichert werden.</span></div>
+
+
+- <div><span>Eine Visitenkarte konnte ggfs. nicht mehr geöffnet werden, nachdem eine Formatierung auf @mention angewendet wurde</span></div>
+
+
+- <div><span>Ein Problem wurde behoben, bei dem Nutzer ggfs. Word, Excel- und PowerPoint-Dokumente nicht mehr speichern konnten.&nbsp; Dieses Problem betraf Benutzer, die eine neue Datei erstellten und das Dialogfeld &quot;Modell speichern&quot; öffneten, nachdem Sie auf das Symbol "Speichern" geklickt oder STRG + S gedrückt hatten.</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Leistungsproblem bei der Verwendung von Shapes unter Windows 7</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-october-18"></a>Version 1911: 18. Oktober
 *Version 1911 (Build 12209.20010)*
