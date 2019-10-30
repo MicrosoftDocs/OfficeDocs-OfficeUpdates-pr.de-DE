@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Enthält Informationen zu bekannten Problemen bei Office 365 ProPlus
-ms.openlocfilehash: 3d954a29489a8b6a0bb4b1f6d15ab1ac81589cdc
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 3904aea8e406522f6789abf2448b8e829311ea9b
+ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37732995"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37772548"
 ---
 # <a name="office-365-proplus-known-issues"></a>Bekannte Probleme bei Office 365 ProPlus
 
@@ -29,23 +29,22 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 
 <br>
 
-### <a name="last-updated-october-25-2019"></a>Zuletzt aktualisiert: 25. Oktober 2019
+### <a name="last-updated-october-29-2019"></a>Zuletzt aktualisiert: 29. Oktober 2019
 
-|
-:----------------------------------------------------------------------------------------------------------|
-|**Excel**
-|Es wurde ein Problem mit "Suchen und ersetzen" gefunden, durch das die Position des Fokus im Dialogfeld geändert wurde, nachdem das erste Element gefunden wurde. <br><br> **Wird untersucht**: Monatlich <br>**Gelöst**: SACT Version 1908 (16.0.11929.20396)|
-|Es wurde ein Problem mit der Leistung des Filterns nach Farbe erkannt. <br><br> **Wird untersucht**: SACT <br>**Gelöst**: Monatliche Version 1909 (16.0.12026.20264)
-|**Outlook**
-|Es wurde ein Problem identifiziert, durch das Benutzern beim Kopieren von Elementen aus Ihrem primären Kalender in einen Gruppenkalender ein Berechtigungsfehler angezeigt wird. <br><br> **Wird untersucht**: Monatlich und SACT
-|**PowerPoint**
-|Es wurde ein Leistungsproblem unter Win7 identifiziert, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.<br><br> **Gelöst**: Monatliche Version 1909 (16.0.12026.20264) und SACT Version 1908 (16.0.11929.20396)
-|**Office-Suite**
-|Es wurde ein Problem gefunden, bei dem unter bestimmten Umständen Office-Verknüpfungen nach einem Update möglicherweise nicht mehr angezeigt werden.<br><br> **Wird untersucht**: SAC<br> **Gelöst**: Monatliche Version 1909 (16.0.12026.20334) und SACT Version 1908 (16.0.11929.20396)
-|Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage sind, Word-, Excel-und PowerPoint-Dokumente zu speichern, wurde erkannt.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Modell speichern“ öffnen, nachdem Sie auf das Symbol "Speichern" geklickt oder STRG + S gedrückt haben.<br><br> **Gelöst**: Monatliche Version 1909 (16.0.12026.20334) und SACT Version 1908 (16.0.11929.20396)
-|
+### <a name="excel"></a>Excel
+- Es wurde ein Problem mit "Suchen und ersetzen" gefunden, durch das die Position des Fokus im Dialogfeld geändert wurde, nachdem das erste Element gefunden wurde. <br><br>
+**Wird untersucht**: Monatlich <br>**Gelöst**: SACT Version 1908 (16.0.11929.20396)
 
+- Es wurde ein Problem mit der Leistung des Filterns nach Farbe erkannt. <br><br>**Wird untersucht**: SACT <br>**Gelöst**: Monatliche Version 1909 (16.0.12026.20264)
+### <a name="outlook"></a>Outlook
+- Es wurde ein Problem identifiziert, durch das Benutzern beim Kopieren von Elementen aus Ihrem primären Kalender in einen Gruppenkalender ein Berechtigungsfehler angezeigt wird. <br> <br>**Wird untersucht**: Monatlich, SACT
+### <a name="powerpoint"></a>PowerPoint
+- Es wurde ein Leistungsproblem unter Win7 identifiziert, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.<br><br>**Gelöst**: Monatliche Version 1909 (16.0.12026.20264), SACT Version 1908 (16.0.11929.20396)
 
+### <a name="office-suite"></a>Office-Suite
+- Es wurde ein Problem gefunden, bei dem unter bestimmten Umständen Office-Verknüpfungen nach einem Update möglicherweise nicht mehr angezeigt werden.<br><br>**Wird untersucht**: SAC<br> **Gelöst**: Monatliche Version 1909 (16.0.12026.20334), SACT Version 1908 (16.0.11929.20396)
+
+- Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage sind, Word-, Excel-und PowerPoint-Dokumente zu speichern, wurde erkannt.  Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Modell speichern“ öffnen, nachdem Sie auf das Symbol "Speichern" geklickt oder STRG + S gedrückt haben.<br><br> **Gelöst**: Monatliche Version 1909 (16.0.12026.20334), SACT Version 1908 (16.0.11929.20396)
 
 <br>
 <br>
