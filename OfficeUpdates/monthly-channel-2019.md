@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: f60a8ef5b2f4613ab4e5e4d49dbc6db06a5656cf
-ms.sourcegitcommit: a7df5bc43c95aeefb16cd4296eef29921d75f818
+ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37644186"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890024"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -23,6 +23,55 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
  > [!NOTE]
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1910-october-30"></a>Version 1910: 30. Oktober
+*Version 1910 (Build 12130.20272)*
+* Korrekturen verschiedene Fehler und Leistungsprobleme.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+
+
+### <a name="excel"></a>Excel
+
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+### <a name="outlook"></a>Outlook
+
+- **Nach einem Fehler eine Aufforderung zum Aktualisieren von Outlook erhalten:** wenn Outlook auf einen Fehler stößt, der in einer höheren Version behoben wurde, fordert Outlook den Kunden auf, ein Upgrade durchzuführen und den Fix zu erhalten.
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+
+### <a name="word"></a>Word
+
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung**: verbesserte Leistung von Word bei der gemeinsamen Dokumenterstellung mit nachverfolgbaren Änderungen.
+
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+- **Es wurde ein Dokumentenkorruptionsproblem behoben, das durch das Zusammenführen von 3D-Objekten verursacht wurde:** Es wurde ein Dokumentenkorruptionsproblem behoben, das durch das Zusammenführen von 3D-Objekten verursacht wurde.
+
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+### <a name="office-suite"></a>Office-Suite
+
+- **Installieren Sie Microsoft Teams auf vorhandene Installationen von Office 365 ProPlus:** ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter „Bereitstellen von Microsoft Teams mit Office 365 ProPlus“. [Weitere Informationen](https://docs.microsoft.com/de-DE/deployoffice/teams-install)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1909-october-22"></a>Version 1909: 22. Oktober
 *Version 1909 (Build 12026.20344)*
