@@ -9,45 +9,87 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Enthält Informationen zu bekannten Problemen bei Office 365 ProPlus
-ms.openlocfilehash: 3904aea8e406522f6789abf2448b8e829311ea9b
-ms.sourcegitcommit: 0d87cddebea5866c31827bb1dd7636c1743deb73
+ms.openlocfilehash: 0e21cd3065f7ba253f168904c49c7ab4eb1a2f4a
+ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37772548"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37889994"
 ---
-# <a name="office-365-proplus-known-issues"></a><span data-ttu-id="adda7-103">Bekannte Probleme bei Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="adda7-103">Office 365 ProPlus Known Issues</span></span>
+# <a name="office-365-proplus-known-issues"></a><span data-ttu-id="a1679-103">Bekannte Probleme bei Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="a1679-103">Office 365 ProPlus Known Issues</span></span>
 
-<span data-ttu-id="adda7-104">Diese Informationen zu bekannten Problemen umfassen Informationen zu nicht sicherheitsrelevanten Updates, die in den monatlichen Channel-, SACT- und SAC-Updates für Office 365 ProPlus im Jahre 2019, Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.</span><span class="sxs-lookup"><span data-stu-id="adda7-104">These known issues provide information about non-security updates that are included in Monthly Channel, SACT and SAC updates to Office 365 ProPlus in 2019, Visio Pro for Office 365, Project Online Desktop Client and Office 365 Business.</span></span>
+<span data-ttu-id="a1679-104">Diese Informationen zu bekannten Problemen umfassen Informationen zu nicht sicherheitsrelevanten Updates, die in den monatlichen Channel-, SACT- und SAC-Updates für Office 365 ProPlus im Jahre 2019, Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.</span><span class="sxs-lookup"><span data-stu-id="a1679-104">These known issues provide information about non-security updates that are included in Monthly Channel, SACT and SAC updates to Office 365 ProPlus in 2019, Visio Pro for Office 365, Project Online Desktop Client and Office 365 Business.</span></span>
 
-<span data-ttu-id="adda7-105">Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der behobenen Probleme.</span><span class="sxs-lookup"><span data-stu-id="adda7-105">This table offers a summary of current active issues and those issues that have been resolved.</span></span>  <span data-ttu-id="adda7-106">Wir werden die Tabelle unten mit wichtigen Problemen, die wir untersuchen, aktualisieren.</span><span class="sxs-lookup"><span data-stu-id="adda7-106">We will update the table below with significant issues we are investigating.</span></span>
-
-> [!NOTE]
->- <span data-ttu-id="adda7-107">Diese Liste ist nicht vollständig.</span><span class="sxs-lookup"><span data-stu-id="adda7-107">This list is not comprehensive.</span></span>
->- <span data-ttu-id="adda7-108">Wenn Sie ein Problem in einem anderen Kanal als dem Kanal haben, der als behoben angezeigt wird, können Sie die Auflösung in Kürze erwarten.</span><span class="sxs-lookup"><span data-stu-id="adda7-108">If you are experiencing an issue in a channel other than the channel shown as resolved, you can expect resolution soon.</span></span> [<span data-ttu-id="adda7-109">Weitere Informationen</span><span class="sxs-lookup"><span data-stu-id="adda7-109">Learn more</span></span>](https://docs.microsoft.com/de-DE/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
->- <span data-ttu-id="adda7-110">Behobene Probleme werden auch auf den jeweiligen Kanalseiten dokumentiert.</span><span class="sxs-lookup"><span data-stu-id="adda7-110">Resolved issues are documented in their respective channel pages as well.</span></span>
-
-<br>
-
-### <a name="last-updated-october-29-2019"></a><span data-ttu-id="adda7-111">Zuletzt aktualisiert: 29. Oktober 2019</span><span class="sxs-lookup"><span data-stu-id="adda7-111">Last Updated October 25, 2019</span></span>
-
-### <a name="excel"></a><span data-ttu-id="adda7-112">Excel</span><span class="sxs-lookup"><span data-stu-id="adda7-112">Excel</span></span>
-- <span data-ttu-id="adda7-113">Es wurde ein Problem mit "Suchen und ersetzen" gefunden, durch das die Position des Fokus im Dialogfeld geändert wurde, nachdem das erste Element gefunden wurde.</span><span class="sxs-lookup"><span data-stu-id="adda7-113">Identified an issue with Find and Replace that changed where the focus was in the dialog after finding the first item.</span></span> <br><br>
-<span data-ttu-id="adda7-114">**Wird untersucht**: Monatlich</span><span class="sxs-lookup"><span data-stu-id="adda7-114">**Investigating**: Monthly</span></span> <br><span data-ttu-id="adda7-115">**Gelöst**: SACT Version 1908 (16.0.11929.20396)</span><span class="sxs-lookup"><span data-stu-id="adda7-115">**Resolved**: SACT Version 1908 (16.0.11929.20396)</span></span>
-
-- <span data-ttu-id="adda7-116">Es wurde ein Problem mit der Leistung des Filterns nach Farbe erkannt.</span><span class="sxs-lookup"><span data-stu-id="adda7-116">Identified an issue with performance of filtering by color.</span></span> <br><br><span data-ttu-id="adda7-117">**Wird untersucht**: SACT</span><span class="sxs-lookup"><span data-stu-id="adda7-117">**Investigating**: SACT</span></span> <br><span data-ttu-id="adda7-118">**Gelöst**: Monatliche Version 1909 (16.0.12026.20264)</span><span class="sxs-lookup"><span data-stu-id="adda7-118">**Resolved**: Monthly Version 1909 (16.0.12026.20264)</span></span>
-### <a name="outlook"></a><span data-ttu-id="adda7-119">Outlook</span><span class="sxs-lookup"><span data-stu-id="adda7-119">Outlook</span></span>
-- <span data-ttu-id="adda7-120">Es wurde ein Problem identifiziert, durch das Benutzern beim Kopieren von Elementen aus Ihrem primären Kalender in einen Gruppenkalender ein Berechtigungsfehler angezeigt wird.</span><span class="sxs-lookup"><span data-stu-id="adda7-120">Identified an issue that caused users to experience a permission error when copying items from their primary calendar to a group calendar.</span></span> <br> <br><span data-ttu-id="adda7-121">**Wird untersucht**: Monatlich, SACT</span><span class="sxs-lookup"><span data-stu-id="adda7-121">**Investigating**: Monthly and SACT</span></span>
-### <a name="powerpoint"></a><span data-ttu-id="adda7-122">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="adda7-122">PowerPoint</span></span>
-- <span data-ttu-id="adda7-123">Es wurde ein Leistungsproblem unter Win7 identifiziert, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.</span><span class="sxs-lookup"><span data-stu-id="adda7-123">Identified a perf issue on Win7 where the insert shapes gallery from the ribbon in all apps took approximately 4 seconds to appear.</span></span><br><br><span data-ttu-id="adda7-124">**Gelöst**: Monatliche Version 1909 (16.0.12026.20264), SACT Version 1908 (16.0.11929.20396)</span><span class="sxs-lookup"><span data-stu-id="adda7-124">**Resolved**: Monthly Version 1909 (16.0.12026.20264) and SACT Version 1908 (16.0.11929.20396)</span></span>
-
-### <a name="office-suite"></a><span data-ttu-id="adda7-125">Office-Suite</span><span class="sxs-lookup"><span data-stu-id="adda7-125">Office Suite</span></span>
-- <span data-ttu-id="adda7-126">Es wurde ein Problem gefunden, bei dem unter bestimmten Umständen Office-Verknüpfungen nach einem Update möglicherweise nicht mehr angezeigt werden.</span><span class="sxs-lookup"><span data-stu-id="adda7-126">Identified an issue where in certain circumstances, Office shortcuts may disappear following an update.</span></span><br><br><span data-ttu-id="adda7-127">**Wird untersucht**: SAC</span><span class="sxs-lookup"><span data-stu-id="adda7-127">**Investigating**: SAC</span></span><br> <span data-ttu-id="adda7-128">**Gelöst**: Monatliche Version 1909 (16.0.12026.20334), SACT Version 1908 (16.0.11929.20396)</span><span class="sxs-lookup"><span data-stu-id="adda7-128">**Resolved**: Monthly Version 1909 (16.0.12026.20334) and SACT Version 1908 (16.0.11929.20396)</span></span>
-
-- <span data-ttu-id="adda7-129">Ein Problem, bei dem Benutzer möglicherweise nicht in der Lage sind, Word-, Excel-und PowerPoint-Dokumente zu speichern, wurde erkannt.</span><span class="sxs-lookup"><span data-stu-id="adda7-129">Identified an issue where users may be unable to save Word, Excel, and PowerPoint documents.</span></span>  <span data-ttu-id="adda7-130">Dieses Problem betrifft Benutzer, die eine neue Datei erstellen und das Dialogfeld „Modell speichern“ öffnen, nachdem Sie auf das Symbol "Speichern" geklickt oder STRG + S gedrückt haben.</span><span class="sxs-lookup"><span data-stu-id="adda7-130">This issue affects users that create a new file and bring up the "Save as Model Dialog" option after clicking on the Save icon or pressing Ctrl + S.</span></span><br><br> <span data-ttu-id="adda7-131">**Gelöst**: Monatliche Version 1909 (16.0.12026.20334), SACT Version 1908 (16.0.11929.20396)</span><span class="sxs-lookup"><span data-stu-id="adda7-131">**Resolved**: Monthly Version 1909 (16.0.12026.20334) and SACT Version 1908 (16.0.11929.20396)</span></span>
-
-<br>
-<br>
+<span data-ttu-id="a1679-105">Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der behobenen Probleme.</span><span class="sxs-lookup"><span data-stu-id="a1679-105">This table offers a summary of current active issues and those issues that have been resolved.</span></span>  <span data-ttu-id="a1679-106">Wir werden die Tabelle unten mit wichtigen Problemen, die wir untersuchen, aktualisieren.</span><span class="sxs-lookup"><span data-stu-id="a1679-106">We will update the table below with significant issues we are investigating.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="adda7-132">Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.</span><span class="sxs-lookup"><span data-stu-id="adda7-132">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+>- <span data-ttu-id="a1679-107">Diese Liste ist nicht vollständig.</span><span class="sxs-lookup"><span data-stu-id="a1679-107">This list is not comprehensive.</span></span>
+>- <span data-ttu-id="a1679-108">Wenn Sie ein Problem in einem anderen Kanal als dem Kanal haben, der als behoben angezeigt wird, können Sie die Auflösung in Kürze erwarten.</span><span class="sxs-lookup"><span data-stu-id="a1679-108">If you are experiencing an issue in a channel other than the channel shown as resolved, you can expect resolution soon.</span></span> [<span data-ttu-id="a1679-109">Weitere Informationen</span><span class="sxs-lookup"><span data-stu-id="a1679-109">Learn more</span></span>](https://docs.microsoft.com/de-DE/DeployOffice/overview-of-update-channels-for-office-365-proplus#BKMK_SAC)
+>- <span data-ttu-id="a1679-110">Behobene Probleme werden auch auf den jeweiligen Kanalseiten dokumentiert.</span><span class="sxs-lookup"><span data-stu-id="a1679-110">Resolved issues are documented in their respective channel pages as well.</span></span>
+
+<br>
+
+### <a name="last-updated-october-30-2019"></a><span data-ttu-id="a1679-111">Zuletzt aktualisiert: 30. Oktober 2019</span><span class="sxs-lookup"><span data-stu-id="a1679-111">Last Updated October 29, 2019</span></span>
+
+### <a name="excel"></a><span data-ttu-id="a1679-112">Excel</span><span class="sxs-lookup"><span data-stu-id="a1679-112">Excel</span></span>
+
+- <span data-ttu-id="a1679-113">Ein Problem beim Einfügen von Dateien als Objekt aus OneDrive wurde identifiziert.</span><span class="sxs-lookup"><span data-stu-id="a1679-113">Resolved an issue in inserting files as object from OneDrive</span></span><br><br> <span data-ttu-id="a1679-114">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-114">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-115">Ein Problem wurde identifiziert, das beim Öffnen von in früheren Versionen von Excel erstellten Arbeitsmappen in aktuellen Versionen von Office zu Programmabstürzen führen konnte.</span><span class="sxs-lookup"><span data-stu-id="a1679-115">Resolved an issue where workbooks created in earlier versions of Office could cause Excel to hang when opened in current versions of Office</span></span><br><br>
+<span data-ttu-id="a1679-116">**Wird untersucht**: SACT</span><span class="sxs-lookup"><span data-stu-id="a1679-116">**Investigating**: SACT</span></span> <br><span data-ttu-id="a1679-117">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-117">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-118">Ein Problem wurde identifiziert, durch das beim Anzeigen von typisierten Werten nach dem Löschen eines Intervalls Verzögerungen verursacht wurden.</span><span class="sxs-lookup"><span data-stu-id="a1679-118">Identified an issue that was causing delays in displaying typed values after deleting a range.</span></span><br><br>
+<span data-ttu-id="a1679-119">**Wird untersucht**: SAC</span><span class="sxs-lookup"><span data-stu-id="a1679-119">**Investigating**: SAC</span></span>
+
+- <span data-ttu-id="a1679-120">Ein Problem wurde identifiziert, durch das das Auswählen einer Zelle nach dem Scrollen dazu führen konnte, dass die falsche Zelle ausgewählt wurde.</span><span class="sxs-lookup"><span data-stu-id="a1679-120">Resolved an issue where selecting a cell after scrolling could result in the wrong cell being selected</span></span><br><br>
+<span data-ttu-id="a1679-121">**Wird untersucht**: SACT</span><span class="sxs-lookup"><span data-stu-id="a1679-121">**Investigating**: SACT</span></span> <br><span data-ttu-id="a1679-122">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-122">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-123">Ein Problem wurde identifiziert, durch das Punkt-/Liniendiagramme beim Ändern der Reihensammlung möglicherweise nicht ordnungsgemäß dargestellt wurden.</span><span class="sxs-lookup"><span data-stu-id="a1679-123">We fixed an issue which could have caused scatter line charts from rendering properly when changing the series collection.</span></span><br><br>
+<span data-ttu-id="a1679-124">**Gelöst**: Monatliche Version 1910 (12130.20272), SACT Version 1908 (11929.20300)</span><span class="sxs-lookup"><span data-stu-id="a1679-124">**Resolved**: Monthly Version 1910 (12130.20272), SACT Version 1908 (11929.20300)</span></span>
+
+### <a name="outlook"></a><span data-ttu-id="a1679-125">Outlook</span><span class="sxs-lookup"><span data-stu-id="a1679-125">Outlook</span></span>
+
+- <span data-ttu-id="a1679-126">Ein Problem wurde identifiziert, durch das bei einigen Benutzern beim Hinzufügen eines sekundären Exchange-Kontos doppelte Sonderordner angezeigt wurden.</span><span class="sxs-lookup"><span data-stu-id="a1679-126">Identified an issue that caused some users to see duplicate special folders created when adding a secondary Exchange account.</span></span><br><br><span data-ttu-id="a1679-127">**Wird untersucht**: SACT</span><span class="sxs-lookup"><span data-stu-id="a1679-127">**Investigating**: SACT</span></span> <br><span data-ttu-id="a1679-128">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-128">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-129">Ein Problem wurde identifiziert, durch das es zu einem Arbeitsspeicherverlust kommen konnte.</span><span class="sxs-lookup"><span data-stu-id="a1679-129">We fixed an issue which could have resulted in a memory leak.</span></span> <br><br>
+<span data-ttu-id="a1679-130">**Wird untersucht**: SAC</span><span class="sxs-lookup"><span data-stu-id="a1679-130">**Investigating**: SAC</span></span> <br><span data-ttu-id="a1679-131">**Gelöst**: Monatliche Version 1910 (12130.20272), SACT Version 1908 (11929.20388)</span><span class="sxs-lookup"><span data-stu-id="a1679-131">**Resolved**: Monthly Version 1910 (12130.20272), SACT Version 1908 (11929.20388)</span></span>
+
+- <span data-ttu-id="a1679-132">Ein Problem wurde identifiziert, durch das die Duplikation von E-Mail-Ordnern verursacht werden konnte.</span><span class="sxs-lookup"><span data-stu-id="a1679-132">We fixed an issue which could have caused duplication of mail folders.</span></span><br><br>
+<span data-ttu-id="a1679-133">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-133">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-134">Ein Problem wurde identifiziert, das manchmal zu einem Absturz führen konnte, wenn ein Benutzer eine Nachricht vom Typ "Verpasste Unterhaltung" von Skype empfängt.</span><span class="sxs-lookup"><span data-stu-id="a1679-134">We fixed an issue which could sometimes result in a crash when a user receives a 'Missed Conversation' message from Skype.</span></span><br><br>
+<span data-ttu-id="a1679-135">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-135">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-136">Ein Problem wurde identifiziert, durch das Benutzern beim Öffnen einer Anlage auf einem Computer, auf dem "DisableBGSave" aktiviert ist, ein generischer Fehler ""Vorgang fehlgeschlagen"" angezeigt wurde.</span><span class="sxs-lookup"><span data-stu-id="a1679-136">Identified an issue that caused Users to receive a generic ""operation failed"" error when opening an attachment on a machine where DisableBGSave is enabled.</span></span><br><br>
+<span data-ttu-id="a1679-137">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-137">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-138">Ein Problem mit cid-Links wurde identifiziert: Bilder (Outlook-E-Mail-basierte Bilder) konnten nicht umbrochen werden.</span><span class="sxs-lookup"><span data-stu-id="a1679-138">Identified an issue with the links of cid: images (Outlook email-based images) were not able to be broken.</span></span><br><br>
+<span data-ttu-id="a1679-139">**Wird untersucht**: SACT</span><span class="sxs-lookup"><span data-stu-id="a1679-139">**Investigating**: SACT</span></span>
+
+- <span data-ttu-id="a1679-140">Ein Problem wurde identifiziert, das beim Senden einer s/MIME-verschlüsselten E-Mail-Nachricht eine falsche Fehlermeldung verursacht hat.</span><span class="sxs-lookup"><span data-stu-id="a1679-140">We fixed an issue which could have caused an incorrect error message when attempting to send s/MIME encrypted e-mail.</span></span><br><br><span data-ttu-id="a1679-141">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-141">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+### <a name="powerpoint"></a><span data-ttu-id="a1679-142">PowerPoint</span><span class="sxs-lookup"><span data-stu-id="a1679-142">PowerPoint</span></span>
+
+- <span data-ttu-id="a1679-143">Ein Problem wurde identifiziert, durch das das Erstellen von Links beim Einfügen von Text mit Link verhindert wurde.</span><span class="sxs-lookup"><span data-stu-id="a1679-143">We fixed an issue which prevented hyperlink from being created when pasting text with hyperlink.</span></span> <br><br><span data-ttu-id="a1679-144">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-144">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-145">Ein Problem wurde identifiziert, durch das TextRanges nach dem Einfügen von Text in den Platzhalter für Kopfzeile/Fußzeile/Foliennummer im Folienmaster und Folienlayout möglicherweise nicht mehr funktionierten.</span><span class="sxs-lookup"><span data-stu-id="a1679-145">We fixed an issue which could cause TextRanges to become broken after pasting text into the header/footer/slide number placeholders on slide master and slide layout.</span></span> <br><br><span data-ttu-id="a1679-146">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-146">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+- <span data-ttu-id="a1679-147">Ein Leistungsproblem unter Win7 wurde identifiziert, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.</span><span class="sxs-lookup"><span data-stu-id="a1679-147">Identified a perf issue on Win7 where the insert shapes gallery from the ribbon in all apps took approximately 4 seconds to appear.</span></span><br><br>
+<span data-ttu-id="a1679-148">**Wird untersucht**: Monatlich, SAC</span><span class="sxs-lookup"><span data-stu-id="a1679-148">**Investigating**: Monthly, SAC</span></span>
+<br><span data-ttu-id="a1679-149">**Gelöst**: SACT Version 1908 (11929.20396)</span><span class="sxs-lookup"><span data-stu-id="a1679-149">**Resolved**: SACT Version 1908 (16.0.11929.20396)</span></span>
+
+### <a name="project"></a><span data-ttu-id="a1679-150">Project</span><span class="sxs-lookup"><span data-stu-id="a1679-150">Project</span></span>
+
+- <span data-ttu-id="a1679-151">Ein Problem wurde identifiziert, bei dem Benutzer beim Öffnen eines schreibgeschützten Projekts möglicherweise mehrere Meldungen erhielten.</span><span class="sxs-lookup"><span data-stu-id="a1679-151">Identified an issue where users could get several messages when opening a read-only project</span></span><br><br>
+<span data-ttu-id="a1679-152">**Wird untersucht**: Monatlich, SACT</span><span class="sxs-lookup"><span data-stu-id="a1679-152">**Investigating**: Monthly, SACT</span></span>
+
+### <a name="word"></a><span data-ttu-id="a1679-153">Word</span><span class="sxs-lookup"><span data-stu-id="a1679-153">Word</span></span>
+- <span data-ttu-id="a1679-154">Ein Problem beim Einfügen von Dateien als Objekt aus OneDrive wurde identifiziert.</span><span class="sxs-lookup"><span data-stu-id="a1679-154">Resolved an issue in inserting files as object from OneDrive</span></span><br><br> <span data-ttu-id="a1679-155">**Gelöst**: Monatliche Version 1910 (12130.20272)</span><span class="sxs-lookup"><span data-stu-id="a1679-155">**Resolved**: Monthly Version 1910 (12130.20272)</span></span>
+
+
+
+<br>
+<br>
+
+> [!NOTE]
+> <span data-ttu-id="a1679-156">Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.</span><span class="sxs-lookup"><span data-stu-id="a1679-156">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
