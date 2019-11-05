@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: b8481a71f1f861a9c8a0aace797c1f8dd46dd54b
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 12534eb79781d02ff630097794273fd27fcc51dc
+ms.sourcegitcommit: 22e6c32930facc482cd61e5d2dcf00728e112806
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890024"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37929642"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -40,13 +40,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
 
-- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
 
 - **Nach einem Fehler eine Aufforderung zum Aktualisieren von Outlook erhalten:** wenn Outlook auf einen Fehler stößt, der in einer höheren Version behoben wurde, fordert Outlook den Kunden auf, ein Upgrade durchzuführen und den Fix zu erhalten.
 
-- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://aka.ms/officemipdocs)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -54,7 +54,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
 
-- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://aka.ms/officemipdocs)
 
 ### <a name="word"></a>Word
 
@@ -66,7 +66,8 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Es wurde ein Dokumentenkorruptionsproblem behoben, das durch das Zusammenführen von 3D-Objekten verursacht wurde:** Es wurde ein Dokumentenkorruptionsproblem behoben, das durch das Zusammenführen von 3D-Objekten verursacht wurde.
 
-- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen.
+- **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://aka.ms/officemipdocs)
+
 ### <a name="office-suite"></a>Office-Suite
 
 - **Installieren Sie Microsoft Teams auf vorhandene Installationen von Office 365 ProPlus:** ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter „Bereitstellen von Microsoft Teams mit Office 365 ProPlus“. [Weitere Informationen](https://docs.microsoft.com/de-DE/deployoffice/teams-install)
