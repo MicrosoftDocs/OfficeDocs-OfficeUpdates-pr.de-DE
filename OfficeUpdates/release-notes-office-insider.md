@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 22f4c64af414ed85db06bb4e7771f091076940ef
-ms.sourcegitcommit: 33bb47548810efeb6cd5c727c3487192fe6364a8
+ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
+ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37733009"
+ms.lasthandoff: 11/02/2019
+ms.locfileid: "37931909"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,132 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1911-november-01"></a>Version 1911: 1. November
+*Version 1911 (Build 12228.20020)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
+
+- **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
+
+- **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
+
+### <a name="visio"></a>Visio
+
+- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+### <a name="word"></a>Word
+
+- **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
+
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung:** Die gemeinsame Dokumenterstellung wurde verbessert, indem Inhaltsänderungen den anderen Benutzern nun nahezu immer in Echtzeit angezeigt werden.
+
+- **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- <div><span>Es wurde ein Problem behoben, durch das das Bearbeiten einer geschützten Datei von einer nicht vertrauenswürdigen Netzwerkfreigabe zum Absturz von Excel geführt haben könnte.</span></div>
+
+
+- <div>Es wurde ein Problem behoben, bei dem das Löschen von Blättern mit Sparklines, die auf Daten auf einem anderen Arbeitsblatt verweisen, dazu führen könnte, dass die Datei beim erneuten Öffnen als fehlerhaft identifiziert wird.</div>
+
+
+- <div>Es wurde ein Problem behoben, bei dem Sie beim Konvertieren von Berichtsfiltern zusammen mit der restlichen PivotTable für Abfragen an tabellarische SQL-Server möglicherweise falsche Ergebnisse erhalten.</span></div>
+
+
+- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
+
+
+- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Bei einer weitergeleiteten e-Mail fehlen möglicherweise eingebettete Bilder.</div>
+
+
+- <div><span>Das Tool „Raumsuche“ zeigt bei verfügbaren Räumen möglicherweise &quot;Keine&quot; an.</span></div>
+
+
+- <div><span>Benutzer sind möglicherweise nicht in der Lage, Outlook-Profile mit strikter Mandantenbeschränkung zu erstellen.</div></span>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Der Benutzer kann eine Aufgabe nicht als erledigt markieren, und sie wird auf 99 % festgelegt.</span></div>
+
+
+- <div>Überlastungen werden durch einen Abgleich nicht behoben</div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
+
+
+- <div><span>Das Öffnen alter Dokumente und das anschließende Wechseln zur Registerkarte „Info“ kann zu einem Absturz führen.</span></div>
+
+
+- <div><span>Vorschläge der Dokumentprüfung werden nicht in Kontextmenüs angezeigt.</span></div>
+
+
+- <div><span>Inhaltsrichtlinien werden nicht ordnungsgemäß auf Kommentare angewendet.</span></div>
+
+
+- <div><span>Alte Kommentare, die mit dunklem Text geschrieben wurden, sind im dunklen Modus nicht sichtbar.</span></div>
+
+
+- <div><span>Bei Verwendung der AutoKorrektur für Koreanisch/Englisch werden möglicherweise falsche Zeichen angezeigt.</span></div>
+
+
+- <div><span>Niedrigere Richtlinienbezeichnungen werden möglicherweise angewendet, wenn eine höhere Richtlinienbezeichnung Vorrang haben sollte.</div></span>
+
+
+- <div><span>Die Links von cid:-Bildern aus Outlook-Nachrichten&nbsp;können nun auf Anforderung erfolgreich unterbrochen werden.</div></span>
+
+
+- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
+
+
+- <div><span>Die Suche im Navigationsbereich schlägt möglicherweise fehl.</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Einige Zeichnungen werden in der Vorschau oder in Bildschirmpräsentationen möglicherweise nicht angezeigt.</span></div>
+
+
+- <div><span>Einige Katakana-Zeichen werden in einem vertikalen Textfeld möglicherweise nicht korrekt angezeigt werden.</span></div>
+
+
+- <div>Der Versuch, eine Datei auf einer nicht verbundenen Netzwerkfreigabe zu speichern, kann zu einem Absturz führen.</div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-october-25"></a>Version 1911: 25. Oktober
 *Version 1911 (Build 12215.20006)*
