@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 81474ca6ba2e2cce145dfc8b80dff8c8b2857541
-ms.sourcegitcommit: e7eb58247abb6fc7f7082e98ae4847344f35a69e
+ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
+ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2019
-ms.locfileid: "37931909"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076419"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,42 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1912-november-08"></a>Version 1912: 8. November
+*Version 1912 (Build 12231.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="user-lifecycle"></a>Lebenszyklus des Benutzers:
+
+- **Verbesserungen bei der AFO-Aktivierung:** Aktualisierungen der Bildschirme, die den Kunden beim Aktivieren der im Lieferumfang Ihres neuen PCs enthaltenen Office-Version angezeigt werden
+
+### <a name="word"></a>Word
+
+- **Neue und verbesserte Online-Videofunktionen in Word:** Neue und sicherere Onlinevideoerfahrung, die Ihnen beim Einfügen neuer Videos und beim Abspielen vorhandener Videos in Word hilft
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- <div><span>Zeitweiliger Absturz bei ordnerübergreifenden Inhalten</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Wenn Sie ein Diagramm aus Excel in PowerPoint einfügen, kann sich die Größe des Diagramms verringern</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-november-01"></a>Version 1911: 1. November
 *Version 1911 (Build 12228.20020)*
