@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 9aed6048b81cf6e4bfd750875b8bc7608e0a251e
-ms.sourcegitcommit: a3a8b07e171e61f3dde1530a0c067d621db07feb
+ms.openlocfilehash: 5900ce9c86c2d1e1cd653c538dcb1db34d6c1c4d
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37993710"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282183"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -30,13 +30,21 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-## <a name="november-5-2019"></a>5. November 2019
+## <a name="november-12-2019"></a>12. November 2019
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1910 (Build 12130.20344).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1910 (Build 12130.20272) <br/> |30. Oktober 2019 <br/> |61<br/> |
+|Version 1909 (Build 12026.20344) <br/> |22. Oktober 2019 <br/> |156<br/> |
+
 
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 
-<i>Das erwartete Release ist Version 1902 (Build 11328.20468).</i>
+Die neueste Version ist Version 1902 (Build 11328.20468).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +52,11 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 1902 (Build 11328.20420) <br/> |10. September 2019 <br/> |70<br/> |
 
 
+[//]: # (INHALTE NICHT ENTFERNEN START 12. November 2019)
+
 ### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
 
-<i>Das erwartete Release ist Version 1908 (Build 11929.20436).</i>
+Die neueste Version ist Version 1908 (Build 11929.20436).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 1908 (Build 11929.20388) <br/> |8. Oktober 2019 <br/> |66<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 12. November 2019)
+
+## <a name="november-5-2019"></a>5. November 2019
+
+
+
 
 ## <a name="october-30-2019"></a>30. Oktober 2019
 

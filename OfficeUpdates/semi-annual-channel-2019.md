@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 35c36de78ffe34da4565bb2996a81d73b178cfcc
-ms.sourcegitcommit: f0366356e2da83813c99a59e9ce3e60338d11dcc
+ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37453585"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289815"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -23,6 +23,57 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 > - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1902-november-12"></a>Version 1902: 12. November
+*Version 1902 (Build 11328.20468)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, durch das beim Anzeigen von typisierten Werten nach dem Löschen eines Intervalls Verzögerungen verursacht wurden.
+- Ein Problem wurde behoben, das beim Öffnen von in früheren Versionen von Office erstellten Arbeitsmappen in aktuellen Versionen von Office zu Programmabstürzen von Excel führen konnte.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das Benutzer Speicherverluste bei aktivierten Toastbenachrichtigungen beobachten konnten.
+- Ein Problem wurde behoben, durch das Kunden in Outlook einen Speicherverlust beobachten konnten.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Zuverlässigkeitsbehebung: ein Problem wurde behoben, bei dem das Add-in von Drittanbietern einen Fehler bei PowerPoint verursachte.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Leistungsproblem unter Win7 wurde behoben, bei dem es in allen Apps ca. 4 Sekunden dauerte, bis der Katalog "Formen einfügen" auf dem Menüband angezeigt wurde.
+- Ein Problem wurde behoben, bei dem nach einem Update unerwarteterweise Startmenüverknüpfungen und Office-Dateierweiterungen verschwinden würden.
+- Um die Sicherheit der Office-Kunden zu schützen, sind jetzt Microsoft Office-Updates ausschließlich mit dem SHA-2-Algorithmus signiert.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1808-november-12"></a>Version 1808: 12. November
+*Version 1808 (Build 10730.20416)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, das dazu führte, dass Benutzer mit einer „E-Mail im Offlinemodus“-Einstellung für alles andere außer für „Alle“ Datenverluste beim Verschieben von Elementen außerhalb des Synchronisierungsfensters aus einem lokalen Store in Exchange Online-Postfach beobachten konnten.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Um die Sicherheit der Office-Kunden zu schützen, sind jetzt Microsoft Office-Updates ausschließlich mit dem SHA-2-Algorithmus signiert.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 

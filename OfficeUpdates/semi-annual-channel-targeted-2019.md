@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: c763167c1d2634c2c5baab54d3db2998921918ef
-ms.sourcegitcommit: 28b363a14142849ada83979106d2ff8ecfb9df9d
+ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890034"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289835"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -23,6 +23,57 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 > - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal (gezielt) eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams ist ab Version 1902 Teil neuer Installationen des halbjährlichen Kanals (gezielt). Teams wird vorhandenen Installationen des halbjährlichen Kanals hinzugefügt, wenn diese auf Version 1908 oder höher aktualisiert werden. Weitere Informationen finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+
+## <a name="version-1908-november-12"></a>Version 1908: 12. November
+*Version 1908 (Build 11929.20436)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem mit Farben behoben, die in der Vorschau beim Einfügen von Diagrammen mithilfe von Diagrammvorlagen verwendet wurden.
+- Ein Problem wurde behoben, durch das Punkt-/Liniendiagramme beim Ändern der Reihensammlung möglicherweise nicht ordnungsgemäß dargestellt wurden.
+- Ein Problem wurde gelöst, das bei Änderung von benutzerdefinierten Eigenschaften von ausgeführten Makros zu Unterbrechungen bei der gemeinsamen Dokumentenerstellung führte.
+- Ein Leistungsproblem mit asynchronen benutzerdefinierten Funktionen wurde behoben, das deren synchrone Ausführung zur Folge hatte.
+- Die Leistung der Filterung nach Farbe wurde deutlich verbessert.
+- Ein Problem wurde behoben, das beim Öffnen von in früheren Versionen von Office erstellten Arbeitsmappen in aktuellen Versionen von Office zu Programmabstürzen von Excel führen konnte.
+- Die Links von cid:-Bildern aus Outlook-Nachrichten können nun auf Anforderung erfolgreich unterbrochen werden.
+
+### <a name="outlook"></a>Outlook
+
+- Die Links von cid:-Bildern aus Outlook-Nachrichten können nun auf Anforderung erfolgreich unterbrochen werden.
+- Es wurde ein Problem behoben, durch das Benutzern beim Kopieren von Elementen aus Ihrem primären Kalender in einen Gruppenkalender ein Berechtigungsfehler angezeigt wird.
+- Es wurde ein Problem behoben, das einen Speicherverlust bei sehr langen Outlook-Sitzungen verursachte.
+- Es wurde ein Problem behoben, das bewirkt hat, dass bei der Interaktion mit bestimmten Safelinks in Outlook ein Fehler für die Benutzer auftrat.
+- Es wurde ein Problem behoben, durch das für die Benutzer ein Fehler bei der Verarbeitung von AutoErmittlungsantworten auftrat.
+- Ein Problem wurde behoben, durch das bei einigen Benutzern beim Hinzufügen eines sekundären Exchange-Kontos doppelte Sonderordner angezeigt wurden.
+- Es wurde ein Problem behoben, durch das die Such-Feedback-Umgebung zum Hängen gebracht wurde.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Die Links von cid:-Bildern aus Outlook-Nachrichten können nun auf Anforderung erfolgreich unterbrochen werden.</div>
+- Zuverlässigkeitsbehebung: ein Problem wurde behoben, bei dem das Add-in von Drittanbietern einen Fehler bei PowerPoint verursachte.
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem der Befehl „Alles abgleichen“ die Ressourcenüberlastung nicht ordnungsgemäß aufgelöst hat.
+- Ein Problem wurde behoben, bei dem eine Aufgabe mit keiner Arbeit an einem Vorgang möglicherweise nicht als erledigt gekennzeichnet werden kann und stets bei 99 % angezeigt wird.
+- Ein Problem wurde identifiziert, bei dem Benutzer beim Öffnen eines schreibgeschützten Projekts möglicherweise mehrere Meldungen erhielten.
+
+### <a name="word"></a>Word
+
+- Die Links von cid:-Bildern aus Outlook-Nachrichten können nun auf Anforderung erfolgreich unterbrochen werden.
+- Verschiedene Probleme behoben, bei denen die APP beim Herunterfahren hängen bleiben könnte. Außerdem wurden bestimmte Add-In-Fehler behoben.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Probleme im Zusammenhang mit der Anpassung der Eigenschaft „TextBox/ Form automatisch anpassen“ in Drittanbieter-Plug-ins.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="october-15"></a>15. Oktober
 
