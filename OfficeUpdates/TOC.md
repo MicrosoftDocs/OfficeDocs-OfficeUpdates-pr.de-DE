@@ -29,6 +29,7 @@
 ### [Updateverlauf – Insider-Kanal](update-history-office-insider.md)
 ### [Updateverlauf – Monatlicher Kanal (gezielt)](update-history-monthly-channel-targeted.md)
 ###[Versionshinweise – Insider-Kanal](release-notes-office-insider.md)
+### [Versionshinweise zum monatlichen Kanal (gezielt)](release-notes-monthly-channel-targeted.md)
 
 ## [ODT-Versionsverlauf](ODT-release-history.md)
 
