@@ -3,19 +3,19 @@ title: Releaseverlauf für Microsoft AutoUpdate (MAU)
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 10/16/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: a8a80b68ef3b63a85aeca4e1786623244980c45b
-ms.sourcegitcommit: 5dfdc197f7b08cd6ba44c20b3e540c3ebf5c4bde
+ms.openlocfilehash: 620c5d32848db366e110c799e5fef23c7fbf3455
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523101"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289653"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -30,6 +30,26 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="november-2019-release"></a>Release von November 2019
+
+**Veröffentlichungsdatum:** 12. November 2019
+
+*Microsoft Auto Update 4.17*
+
+ **Feature-Updates:**
+
+- Die neuen Funktionen in den einzelnen Hauptupdates sind jetzt im Microsoft AutoUpdate-Dashboard zu sehen.
+- Die minimalen Betriebssystemanforderungen für Office 2019-Updates haben sich mit der Veröffentlichung von Catalina auf macOS 10.13 geändert und wir benachrichtigen die Benutzer, ein Upgrade durchzuführen, um die neuesten Office-Updates erhalten zu können.
+
+
+**MAU-Updatelink**:
+
+[Download Microsoft Auto Update 4.17-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
 ## <a name="october-2019-release"></a>Release vom Oktober 2019
 

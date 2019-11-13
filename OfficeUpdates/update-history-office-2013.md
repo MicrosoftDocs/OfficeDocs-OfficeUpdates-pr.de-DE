@@ -3,26 +3,26 @@ title: Updateverlauf für Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 10/9/2019
+ms.date: 11/13/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 58e6801b9c053108b2f2c942bf1fc4205b45efcf
-ms.sourcegitcommit: 29f758e10f808e181cc1fbe487023103353672a8
+ms.openlocfilehash: 91da43b4e86d47dd4f614124fb0661acbe508ada
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/08/2019
-ms.locfileid: "37423880"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289825"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Die meisten Office 2013-Produkte werden automatisch mithilfe der Technologie „Klick-und-Los“ auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5179.1000**, die am 8. Oktober 2019 veröffentlicht wurde.
+> Die neueste Version von Office 2013 ist **15.0.5189.1000**, die am 12. November 2019 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -46,7 +46,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2019|8. Oktober   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/de-DE/help/4522242 )  |
+|2019|12. November   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/de-DE/help/4527848 )  |
+||8. Oktober   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/de-DE/help/4522242 )  |
 ||10. September   |15.0.5172.1000   |[KB 4517986 ](https://support.microsoft.com/de-DE/help/4517986 )  |
 ||13. August   |15.0.5163.1000   |[KB 4514418](https://support.microsoft.com/de-DE/help/4514418)  |
 ||9. Juli   |15.0.5153.1001   |[KB 4509295](https://support.microsoft.com/de-DE/help/4509295)  |
