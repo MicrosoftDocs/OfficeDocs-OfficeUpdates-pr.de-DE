@@ -10,18 +10,18 @@ ms.topic: landing-page
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Landing
-description: Bietet IT-Experten Links zu Office Release-Inhalten für Office 365 proPlus, Office für Mac, Perpetual Office und Office Server-Produkte
-ms.openlocfilehash: 7bd39ca0929047841f1f40333029cb63a8d2a10c
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: Bietet IT-Experten Links zu Office Release-Inhalten für Office 365 ProPlus-, Office für Mac-, Perpetual Office-und Office-Server Produkte
+ms.openlocfilehash: 27e010048db0eeac3ab3c4f1eb7e5adb4e6d994c
+ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438761"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38282233"
 ---
 # <a name="office-updates"></a>Office-Updates
 
   
-Hier erhalten Sie Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Office-Produkte, einschließlich Office 365 proPlus, Office für Mac, Office Server-Produkte und Perpetual-Versionen von Office.
+Hier finden Sie Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Office-Produkte, einschließlich Office 365 ProPlus, Office für Mac, Office Server-Produkte und ständigen Versionen von Office.
   
 
 ---
@@ -34,8 +34,9 @@ Hier erhalten Sie Informationen zu Features, Sicherheitsupdates und nicht sicher
                     <div class="cardText">
                         <h3>Office 365 ProPlus</h3>
                         <p><a href="release-notes-office365-proplus.md">Anmerkungen zu dieser Version</a></p>
-                        <p><a href="update-history-office365-proplus-by-date.md">Aktualisierungsverlauf (nach Datum)</a></p>
-                        <p><a href="download-sizes-office365-proplus-updates.md">Aktualisierungs Größen</a></p>
+                        <p><a href="update-history-office365-proplus-by-date.md">Updateverlauf (nach Datum)</a></p>
+                        <p><a href="download-sizes-office365-proplus-updates.md">Updategrößen</a></p>
+                        <p><a href="office365-proplus-security-updates.md">Sicherheitsupdates</a></p>
                     </div>
                 </div>
             </div>
@@ -47,10 +48,10 @@ Hier erhalten Sie Informationen zu Features, Sicherheitsupdates und nicht sicher
                 <div class="card">
                     <div class="cardText">
                         <h3>Office für Mac</h3>
-                        <p><a href="release-notes-office-for-mac.md">Versionshinweise (Office 365, 2019)</a></p>
-                        <p><a href="update-history-office-for-mac.md">Update Verlauf (Office 365, 2019)</a></p>
-                        <p><a href="release-notes-office-2016-mac.md">Versionshinweise (2016)</a></p>
-                        <p><a href="release-history-microsoft-autoupdate.md">MAU-Versionen</a></p>
+                        <p><a href="release-notes-office-for-mac.md">Anmerkungen zu dieser Version (Office 365, 2019)</a></p>
+                        <p><a href="update-history-office-for-mac.md">Updateverlauf (Office 365, 2019)</a></p>
+                        <p><a href="release-notes-office-2016-mac.md">Anmerkungen zu dieser Version (2016)</a></p>
+                        <p><a href="release-history-microsoft-autoupdate.md">Mau-Versionen</a></p>
                      </div>
                 </div>
             </div>
@@ -61,10 +62,10 @@ Hier erhalten Sie Informationen zu Features, Sicherheitsupdates und nicht sicher
             <div class="cardPadding">
                 <div class="card">
                     <div class="cardText">
-                        <h3>Office Server-Produkte</h3>
+                        <h3>Office-Serverprodukte</h3>
                         <p><a href="https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates">Exchange Server-Updates</a></p>
                         <p><a href="project-server-updates.md">Project Server-Update</a></p>
-                        <p><a href="sharepoint-updates.md">SharePoint Server-Updates</a></p>
+                        <p><a href="sharepoint-updates.md">SharePoint Server Updates</a></p>
                         <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates">Skype for Business Server-Updates</a></p>
                </div>
                 </div>
@@ -81,10 +82,11 @@ Hier erhalten Sie Informationen zu Features, Sicherheitsupdates und nicht sicher
                 <div class="card">
                     <div class="cardText">
                         <h3>Office (unbefristet)</h3>
-                            <p><a href="office-updates-msi.md">Office-Updates</a></p>
-                            <p><a href="outlook-updates-msi.md">Outlook-Updates</a></p>
-                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype for Business-Updates</a></p>
-                            <p><a href="msp-files-office-2016.md">Office 2016-MSP-Dateien</a></p>
+                            <p><a href="update-history-office-2019.md">Office 2016 und 2019 (C2R)</a></p>
+                            <p><a href="office-updates-msi.md">Updates für Office 2010, 2013 und 2016 (MSI)</a></p>
+                            <p><a href="outlook-updates-msi.md">Updates für Outlook 2010, 2013 und 2016 (MSI)</a></p>
+                            <p><a href="https://docs.microsoft.com/SkypeForBusiness/sfb-client-updates">Skype for Business Updates</a></p>
+                            <p><a href="msp-files-office-2016.md">Office 2016 MSP-Dateien</a></p>
                     </div>
                 </div>
             </div>
@@ -112,9 +114,9 @@ Hier erhalten Sie Informationen zu Features, Sicherheitsupdates und nicht sicher
                     <div class="cardText">
                         <h3>Microsoft-Ressourcen</h3>
                             <p><a href="https://www.microsoft.com/itpro/windows-10/release-information">Windows 10-Versionsinformationen</a></p>
-                            <p><a href="https://support.microsoft.com/lifecycle">Microsoft lifecyle-Richtlinie</a></p>
+                            <p><a href="https://support.microsoft.com/lifecycle">Microsoft-Lifecycle-Richtlinie</a></p>
                             <p><a href="https://portal.msrc.microsoft.com/">Leitfaden für Microsoft-Sicherheitsupdates</a></p>
-                            <p><a href="https://techcommunity.microsoft.com/">Microsoft Tech Community</a></p>
+                            <p><a href="https://techcommunity.microsoft.com/">Microsoft-Tech-Community</a></p>
                     </div>
                 </div>
             </div>
