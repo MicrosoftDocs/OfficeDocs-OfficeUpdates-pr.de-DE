@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 790003f78fb43db66e7ec89274313559b04c13cf
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: f57ae4f07bbf8838e2c82eeb28534d2ac364bf24
+ms.sourcegitcommit: 4ff072b2b611be960cbd8c7f810b31b2751c4c88
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289835"
+ms.lasthandoff: 11/13/2019
+ms.locfileid: "38312135"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -256,8 +256,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="office-suite"></a>Office-Suite
 
 - **Installation von Microsoft Teams:** Teams wird zu bestehenden Installationen von Office 365 ProPlus hinzugefügt. [Weitere Informationen](https://docs.microsoft.com/de-DE/deployoffice/teams-install)
-
-- **Freigeben und Laden Ihrer Dokumente mit den unter Info neu verfügbar gemachten Schaltflächen:** Zuvor waren die Schaltflächen Freigeben, Pfad in die Zwischenablage kopieren und Dateispeicherort öffnen nur über den Dokument-Speicherpfad verfügbar. Jetzt werden die Schaltflächen deutlich unter Info angezeigt. Navigieren Sie wie gehabt zu Datei > Info, um diese neuen Schaltflächen anzuzeigen.
 
 - **Speichern Sie Ihre Änderungen, während sie entstehen**: Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 
