@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 1c66699a53334e4da5c390bdfaae3455829b5b22
-ms.sourcegitcommit: 0488f84954e573c68209e28a2d11cf2010c6f588
+ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38076419"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669834"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,79 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1912-november-15"></a>Version 1912: 15. November
+*Version 1912 (Build 12307.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="insights-services"></a>Insights-Services
+
+- **Abfragen in natürlicher Sprache in "Excel-Ideen":** Die neue Funktion von "Excel-Ideen", mit der Sie eine Frage zu Ihren Daten in natürlicher Sprache stellen können.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- <div><span>Die Funktion "Text in Spalte" könnte bei einigen Lokalisierungen nicht funktionieren</span></div>
+
+
+- <h5>Beim Bearbeiten von dynamischen Arrayformeln innerhalb einer Zelle könnte Text außerhalb der Begrenzung der Zelle ausgerichtet werden.<br></h5>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div>Es wurde die Möglichkeit des Erzwingens der S/MIME-Konfiguration über eine Gruppenrichtlinie hinzugefügt.</div>
+
+
+- <div><span>Eingebettete Bilder könnten kleiner als erwartet erscheinen</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div><span>Der Cursor verschwindet möglicherweise nach dem Verschieben des Fokus von einem Textinhalt</span></div>
+
+
+### <a name="project"></a>Project
+
+- <div><span>Es könnte ein Fehler hinsichtlich der Lizenzierung auftreten</span></div>
+
+
+- <div><span>Die Schaltfläche "Heute" in der Datumsauswahl könnte ein falsches Datum festlegen</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div><span>Bei einem Rechtsklick könnte manchmal nicht das ganze Wort markiert werden</span></div>
+
+
+- <div>Nach der Konvertierung in ein vorgeschlagenes Format bleibt der Cursor u. U. in einem Objekt aktiv</div>
+
+
+- <div>In einigen Szenarien werden Bilder in Nachrichten u. U. nicht ordnungsgemäß skaliert</div>
+
+
+- <div>Einige Designs erschweren es möglicherweise, den ausgewählten Kommentar zu erkennen</div>
+
+
+- <div><span>Beim Auswählen eines Kommentarhinweises im Bereich "Ansicht wechseln" sollte jetzt der moderne Kommentarbereich angezeigt werden, wenn dieser verborgen war.</span></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Das Antworten auf einen Kommentar könnte dazu führen, dass das Textfeld vertikal über den Rand des Bereichs hinaus erweitert wird.</span></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1912-november-08"></a>Version 1912: 8. November
 *Version 1912 (Build 12231.20000)*
