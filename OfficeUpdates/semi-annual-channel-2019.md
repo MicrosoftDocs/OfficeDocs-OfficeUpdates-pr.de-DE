@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
-ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
+ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
+ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38402441"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38669824"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -48,6 +48,10 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="powerpoint"></a>PowerPoint
 
 - Zuverlässigkeitsbehebung: ein Problem wurde behoben, bei dem das Add-in von Drittanbietern einen Fehler bei PowerPoint verursachte.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit der Schriftart „MS Mincho“ behoben, wenn Sie versuchen, einige Sonderzeichen abzuschließen.
 
 ### <a name="office-suite"></a>Office-Suite
 
