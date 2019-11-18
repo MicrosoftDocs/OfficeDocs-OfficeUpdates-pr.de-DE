@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Enthält Informationen zu bekannten Problemen bei Office 365 ProPlus
-ms.openlocfilehash: f863015cbf8680697509fdaf0bbd5c7000e4c142
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 721c9a600b079b3214fa798a39a8ed728c89de93
+ms.sourcegitcommit: 7c1759a0e733ade767da00175afc1c43e8d07e3a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282163"
+ms.lasthandoff: 11/15/2019
+ms.locfileid: "38640824"
 ---
 # <a name="office-365-proplus-known-issues"></a>Bekannte Probleme bei Office 365 ProPlus
 
@@ -32,6 +32,22 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 ### <a name="last-updated-november-12-2019"></a>Zuletzt aktualisiert: 12. November 2019
 
 ### <a name="excel"></a>Excel
+
+- Kontrollkästchen-Steuerelemente konnten unter Verwendung der automatischen Anpassung der Zeilenhöhe verkleinert werden.<br><br>**Wird untersucht**: Monatlich, SACT
+
+- Ein Leistungsproblem mit asynchronen benutzerdefinierten Funktionen, das deren synchrone Ausführung zur Folge hatte.<br><br>**Gelöst**: SACT Version 1908 (11929.20436) 
+
+- Es könnte Benutzern gegebenenfalls nicht möglich sein, im Office 365-Format für Excel-Arbeitsmappen zu speichern<br><br>**Gelöst**: SACT Version 1908 (11929.20436)
+
+
+- Problem mit langsamer Leistung beim Klicken auf die Schaltfläche „Schriftfarbe", wenn eine Datei über eine umfangreiche bedingte Formatierung verfügt.<br><br>**Gelöst**: SACT Version 1908 (11929.20436)
+
+- Erhebliche Verbesserungen der Leistung beim Löschen von Spalten mit verbundenen Zellen.<br><br>**Wird untersucht**: SACT<br>**Gelöst**: Monatliche Version 1910 (12130.20272)
+
+- Möglicherweise falsche Ergebnisse beim Konvertieren von Berichtsfiltern zusammen mit der restlichen PivotTable für Abfragen an tabellarische SQL-Server.<br><br>**Wird untersucht**: Monatlich
+
+- Es wurde ein Problem mit Farben behoben, die in der Vorschau beim Einfügen von Diagrammen mithilfe von Diagrammvorlagen verwendet wurden.<br><br>**Gelöst**: Monatliche Version 1910 (12130.20272), SACT Version 1908 (11929.20436)
+
 
 - Ein Problem beim Einfügen von Dateien als Objekt aus OneDrive wurde identifiziert.<br><br> **Gelöst**: Monatliche Version 1910 (12130.20272)
 
@@ -71,6 +87,9 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 
 ### <a name="powerpoint"></a>PowerPoint
 
+- Einige Katakana-Zeichen werden in einem vertikalen Textfeld möglicherweise nicht korrekt angezeigt.<br><br>
+**Wird untersucht**: Monatlich
+
 - Ein Problem wurde identifiziert, durch das das Erstellen von Links beim Einfügen von Text mit Link verhindert wurde. <br><br>**Gelöst**: Monatliche Version 1910 (12130.20272)
 
 - Ein Problem wurde identifiziert, durch das TextRanges nach dem Einfügen von Text in den Platzhalter für Kopfzeile/Fußzeile/Foliennummer im Folienmaster und Folienlayout möglicherweise nicht mehr funktionierten. <br><br>**Gelöst**: Monatliche Version 1910 (12130.20272)
@@ -80,11 +99,25 @@ Diese Tabelle enthält eine Zusammenfassung aktueller aktiver Probleme sowie der
 
 ### <a name="project"></a>Project
 
+- Bei einer Aufgabe mit keiner Arbeit an einem Vorgang kann der Vorgang möglicherweise nicht als erledigt gekennzeichnet werden und wird stets bei 99 % angezeigt.<br><br>
+**Wird untersucht**: Monatlich<br>
+**Gelöst**: SACT Version 1908 (11929.20436)
+
+- Überlastungen werden durch einen Abgleich nicht behoben<br><br>
+**Wird untersucht**: Monatlich
+
 - Ein Problem wurde identifiziert, bei dem Benutzer beim Öffnen eines schreibgeschützten Projekts möglicherweise mehrere Meldungen erhielten.<br><br>
 **Gelöst**: Monatliche Version 1910 (12130.20344), SACT Version 1908 (11929.20436)
 
 ### <a name="word"></a>Word
+
+- Die Suche im Navigationsbereich schlägt möglicherweise fehl<br><br>
+**Wird untersucht**: Monatlich
+
 - Ein Problem beim Einfügen von Dateien als Objekt aus OneDrive wurde identifiziert.<br><br> **Gelöst**: Monatliche Version 1910 (12130.20272)
+
+### <a name="office-suite"></a>Office-Suite
+- Der Versuch, eine Datei auf einer nicht verbundenen Netzwerkfreigabe zu speichern, kann zu einem Fehler führen **Wird untersucht**: Monatlich
 
 
 

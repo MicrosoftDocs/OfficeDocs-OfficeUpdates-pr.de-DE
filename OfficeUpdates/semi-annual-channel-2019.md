@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: d0445d53b34dee6f072d8153d2235b77591e0351
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c79cdc9a9c11f12acfaeab511cd27f234ceda0eb
+ms.sourcegitcommit: 4027fcf35a0e3da959e83179d798c0981c4a0000
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289815"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38402441"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -43,7 +43,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="outlook"></a>Outlook
 
 - Es wurde ein Problem behoben, durch das Benutzer Speicherverluste bei aktivierten Toastbenachrichtigungen beobachten konnten.
-- Ein Problem wurde behoben, durch das Kunden in Outlook einen Speicherverlust beobachten konnten.
+- Ein Problem wurde behoben, durch das Kunden in Outlook einen Speicherverlust feststellen konnten.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -304,7 +304,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 
 - Ein Problem wurde behoben, durch das Aufgaben von Kunden beim Hinzufügen einer zweiten Bedingung zu "Gruppieren nach" nicht mehr angezeigt werden.
-- Behebt ein Problem, aufgrund dessen Kunden nicht in der Lage sind, einige Felder von Elementen zu bearbeiten, die migriert wurden. 
+- Behebt ein Problem, aufgrund dessen Kunden nicht in der Lage sind, einige Felder von Elementen zu bearbeiten, die migriert wurden.
 - Behebt ein Problem, bei dem Windows nicht am richtigen Speicherort angezeigt wird, wenn die Taskleiste am linken oder oberen Rand des Bildschirms gespeichert wurde.
 - Behebt ein Problem, das einen Absturz beim Laden von Bildern auf der Visitenkarte verursacht.
 - Behebt ein Problem, das beim Start von Office-Programmen in einigen Fällen Abstürze verursachte.
