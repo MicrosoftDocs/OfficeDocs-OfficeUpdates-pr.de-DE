@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 219abb58ae3fc51b869adf52885e4cce2bbdb9d1
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: c54ce53dcf5722067dfa68056e633b4650732559
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282113"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704484"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -27,6 +27,9 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-1911-november-15"></a>Version 1911: 15. November
+*Version 1911 (Build 12228.20206)*
 
 ## <a name="version-1911-november-12"></a>Version 1911: 12. November
 *Version 1911 (Build 12228.20120)*
