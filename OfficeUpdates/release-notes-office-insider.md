@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 5cf8d0186852bf1dff2cefaa00c5f636082415e5
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
+ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669834"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704494"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -54,7 +54,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 - <div><span>Die Funktion "Text in Spalte" könnte bei einigen Lokalisierungen nicht funktionieren</span></div>
 
 
-- <h5>Beim Bearbeiten von dynamischen Arrayformeln innerhalb einer Zelle könnte Text außerhalb der Begrenzung der Zelle ausgerichtet werden.<br></h5>
+- <div>Beim Bearbeiten von dynamischen Arrayformeln innerhalb einer Zelle könnte Text außerhalb der Begrenzung der Zelle ausgerichtet werden.</div>
 
 
 ### <a name="outlook"></a>Outlook
