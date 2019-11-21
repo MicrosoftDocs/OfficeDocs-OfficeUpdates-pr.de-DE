@@ -3,19 +3,18 @@ title: Updateverlauf für Office Monatlicher Kanal (gezielt)
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
-//: ''
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 9444d679ae3d84a8eab9746e5fcdf429a844e07e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
-ms.translationtype: MT
+ms.openlocfilehash: d4a09f29a17a90998b027385d3065b8e1b76c4d2
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704504"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753782"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -23,17 +22,20 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 ## <a name="office-insider-versions-and-builds"></a>Office Insider-Versionen und -Builds
 
-Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Monatlichen Kanals (gezielt) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, lesen Sie [Neuerungen für Office-Insider](https://support.office.com/en-us/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Monatlichen Kanals (gezielt) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, lesen Sie [Neuerungen für Office-Insider](https://support.office.com/de-DE/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen.
-> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/en-us/deployoffice/teams-install).
+> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
 
+**20. November 2019**<br/>
+Version 1911 (Build 12228.20250)<br/>
+
 **15. November 2019**<br/>
-Version 1911 (Build 12228,20206)<br/>
+Version 1911 (Build 12228.20206)<br/>
 
 **12. November 2019**<br/>
 Version 1911 (Build 12228.20120)<br/>
@@ -45,13 +47,13 @@ Version 1910 (Build 12130.20272)<br/>
 Version 1910 (Build 12130.20238)<br/>
 
 **22. Oktober 2019**<br/>
-Version 1910 (Build 12130,20210)<br/>
+Version 1910 (Build 12130.20210)<br/>
 
 **14. Oktober 2019**<br/>
-Version 1910 (Build 12130,20184)<br/>
+Version 1910 (Build 12130.20184)<br/>
 
 **14. Oktober 2019**<br/>
-Version 1910 (Build 12130,20178)<br/>
+Version 1910 (Build 12130.20178)<br/>
 
 **08. Oktober 2019**<br/>
 Version 1909 (Build 12026.20320)<br/>
@@ -60,34 +62,34 @@ Version 1909 (Build 12026.20320)<br/>
 Version 1909 (Build 12026.20264)<br/>
 
 **23. September 2019**<br/>
-Version 1909 (Build 12026,20248)<br/>
+Version 1909 (Build 12026.20248)<br/>
 
 **16. September 2019**<br/>
-Version 1909 (Build 12026,20190)<br/>
+Version 1909 (Build 12026.20190)<br/>
 
 **10. September 2019**<br/>
-Version 1909 (Build 12026,20108)<br/>
+Version 1909 (Build 12026.20108)<br/>
 
 **25. August 2019**<br/>
 Version 1908 (Build 11929.20254)<br/>
 
 **16. August 2019**<br/>
-Version 1908 (Build 11929,20182)<br/>
+Version 1908 (Build 11929.20182)<br/>
 
 **13. August 2019**<br/>
-Version 1908 (Build 11929,20114)<br/>
+Version 1908 (Build 11929.20114)<br/>
 
 **27. Juli 2019**<br/>
 Version 1907 (Build 11901.20176)<br/>
 
 **25. Juli 2019**<br/>
-Version 1907 (Build 11901,20156)<br/>
+Version 1907 (Build 11901.20156)<br/>
 
 **22. Juli 2019**<br/>
-Version 1907 (Build 11901,20120)<br/>
+Version 1907 (Build 11901.20120)<br/>
 
 **15. Juli 2019**<br/>
-Version 1907 (Build 11901,20080)<br/>
+Version 1907 (Build 11901.20080)<br/>
 
 **9. Juli 2019**<br/>
 Version 1906 (Build 11727.20244)<br/>
@@ -102,21 +104,21 @@ Version 1906 (Build 11727.20224)<br/>
 Version 1906 (Build 11727.20210)<br/>
 
 **20. Juni 2019**<br/>
-Version 1906 (Build 11727,20188)<br/>
+Version 1906 (Build 11727.20188)<br/>
 
 **11. Juni 2019**<br/>
-Version 1906 (Build 11727,20104)<br/>
+Version 1906 (Build 11727.20104)<br/>
 
-**03. Juni 2019**<br/>
+**3. Juni 2019**<br/>
 Version 1905 (Build 11629.20214)<br/>
 
 **25. Mai 2019**<br/>
 Version 1905 (Build 11629.20196)<br/>
 
-**22. Mai 2019**<br/> Version 1905 (Build 11629,20164)<br/>
+**22. Mai 2019**<br/> Version 1905 (Build 11629.20164)<br/>
 
-**16. Mai 2019**<br/>
-Version 1905 (Build 11629,20136)<br/>
+**16. Mai 2019**<br/>
+Version 1905 (Build 11629.20136)<br/>
 
 **14. Mai 2019**<br/>
 Version 1904 (Build 11601.20204)<br/>

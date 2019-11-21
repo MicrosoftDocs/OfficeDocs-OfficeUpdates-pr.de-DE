@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 47eb6d76610dd9f2bbed62b7fbb5dde979daebc5
-ms.sourcegitcommit: 14a61d37299ee3decb77b048ab12730e616292f7
+ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
+ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724053"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38753792"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -26,18 +26,20 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ## <a name="version-1910-november-18"></a>Version 1910: 18. November
 *Version 1910 (Build 12130.20390)*
-* Korrekturen verschiedener Fehler und Leistungsprobleme.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
+
+### <a name="access"></a>Access
+
+- Ein Problem wurde behoben, bei dem das Ausführen einer Aktualisierungsabfrage fälschlicherweise die Fehlermeldung lieferte: "Anfrage ist beschädigt" 
+
 ### <a name="outlook"></a>Outlook
 
 - Es wurde ein Problem behoben, das bewirkt hat, dass die Benutzer sahen, wie sich das Feld „Ort“ in Besprechungen unerwartet ändert.
 
 - Es wurde ein Problem behoben, das bewirkt hat, dass Benutzer ein leeres Meldungsfeld mit einer &quot;OK&quot;-Schaltfläche angezeigt bekamen, wenn Sie versuchten, den Support über den Kontext der Kontoerstellung zu kontaktieren.
-
-
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -68,7 +70,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/office36
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
-
 
 ### <a name="excel"></a>Excel
 
