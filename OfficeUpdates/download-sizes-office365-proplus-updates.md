@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 89181a939ed22a51a1958ecf395f3662361f1a03
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 272cf6e9cf743c164c8b0af0d5fb7e50a07bd865
+ms.sourcegitcommit: 82bdb4c2eaa7c6a14956b572111300dcba7fd9a8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704434"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39208978"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -29,6 +29,42 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="november-22-2019"></a>22. November 2019
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1910 (Build 12130.20410).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1910 (Build 12130.20390) <br/> |18. November 2019 <br/> |50<br/> |
+|Version 1910 (Build 12130.20344) <br/> |12. November 2019 <br/> |58<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN START 22. November 2019)
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1902 (Build 11328.20480).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20468) <br/> |12. November 2019 <br/> |61<br/> |
+|Version 1902 (Build 11328.20438) <br/> |8. Oktober 2019 <br/> |69<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1908 (Build 11929.20494).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20436) <br/> |12. November 2019 <br/> |57<br/> |
+|Version 1908 (Build 11929.20396) <br/> |14. Oktober 2019 <br/> |65<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 22. November 2019)
 
 ## <a name="november-18-2019"></a>18. November 2019
 
