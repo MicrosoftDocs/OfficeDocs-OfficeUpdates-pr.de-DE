@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: dd654660405dd48dbff683dc2d27c2103ff1e118
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: 2f445b8bcdbeb02ae861385691f2c80940e1c9e1
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704474"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204304"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -31,10 +31,10 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich<br/>|1910<br/>|12130.20390<br/>|18. November 2019<br/>|Version 1911 veröffentlicht<br/>|
-|Halbjährlich (gezielt)<br/>|1908<br/>|11929.20436<br/>|12. November 2019<br/>|10. März 2020<br/>|
-|Halbjährlich<br/>|1902<br/>|11328.20468<br/>|12. November 2019<br/>|8. September 2020<br/>|
-|Halbjährlich<br/>|1808<br/>|10730.20416<br/>|12. November 2019<br/>|10. März 2020<br/>|
+|Monatlich<br/>|1910<br/>|12130.20410<br/>|22. November 2019<br/>|Version 1911 veröffentlicht<br/>|
+|Halbjährlich (gezielt)<br/>|1908<br/>|11929.20494<br/>|22. November 2019<br/>|10. März 2020<br/>|
+|Halbjährlich<br/>|1902<br/>|11328.20480<br/>|22. November 2019<br/>|8. September 2020<br/>|
+|Halbjährlich<br/>|1808<br/>|10730.20422<br/>|22. November 2019<br/>|10. März 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -46,6 +46,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2019|22. November|[Version 1910 (Build 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Version 1908 (Build 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Version 1902 (Build 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Version 1808 (Build 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
 |2019|18. November|[Version 1910 (Build 12130.20390)](monthly-channel-2019.md#version-1910-november-18)| | |
 |2019|12. November|[Version 1910 (Build 12130.20344)](monthly-channel-2019.md#version-1910-november-12) |[Version 1908 (Build 11929.20436)](semi-annual-channel-targeted-2019.md#version-1908-november-12)|[Version 1902 (Build 11328.20468)](semi-annual-channel-2019.md#version-1902-november-12)<br/>[Version 1808 (Build 10730.20416)](semi-annual-channel-2019.md#version-1808-november-12)|
 |2019|30. Oktober|[Version 1910 (Build 12130.20272)](monthly-channel-2019.md#version-1910-october-30)| | |

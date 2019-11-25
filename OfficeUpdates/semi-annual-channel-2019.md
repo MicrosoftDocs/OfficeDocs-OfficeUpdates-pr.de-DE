@@ -9,27 +9,57 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 76ebf594ea392deea85b5e1e941ac0803918ab8a
-ms.sourcegitcommit: 5400b7e701c098648937b0a0f4a5e6a50bff3fb1
+ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38669824"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204324"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den halbjährlichen Updatekanal für Office 365 ProPlus im Jahre 2019 Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.
 
 > [!NOTE]
-> - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+> - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1902-november-22"></a>Version 1902: 22. November
+*Version 1902 (Build 11328.20480)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Mit diesem Update wird ein Problem in Microsoft Access behoben, das den Fehler &quot;Abfrage ist beschädigt&quot; verursachen kann, wenn eine Aktualisierungsabfrage ausgeführt oder eine UPDATE-Anweisung in SQL verwendet wird.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das Benutzer Speicherverluste bei aktivierten Toastbenachrichtigungen beobachten konnten.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Mit dieser Änderung werden Synchronisierungen bei Synchronisierungsfehlern, die nicht mit der Drosselung in Verbindung stehen, nicht gedrosselt.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1808-november-22"></a>Version 1808: 22. November
+*Version 1808 (Build 10730.20422)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+- Korrekturen verschiedener Fehler und Leistungsprobleme.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1902-november-12"></a>Version 1902: 12. November
 *Version 1902 (Build 11328.20468)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -64,7 +94,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ## <a name="version-1808-november-12"></a>Version 1808: 12. November
 *Version 1808 (Build 10730.20416)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -84,7 +114,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ## <a name="version-1902-october-08"></a>Version 1902: 8. Oktober
 *Version 1902 (Build 11328.20438)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -112,12 +142,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ## <a name="version-1808-october-08"></a>Version 1808: 8. Oktober
 *Version 1808 (Build 10730.20386)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 ## <a name="version-1902-september-10"></a>Version 1902: 10. September
 *Version 1902 (Build 11328.20420)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -128,7 +158,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein temporäres Dienstproblem behoben, bei dem Benutzern die Fehlermeldung „Diese Datei konnte nicht gefunden werden“ angezeigt wurde. Vergewissern Sie sich, dass Pfad und Dateiname korrekt sind, wenn Sie Cloud-Anhänge verwenden. [Weitere Informationen](https://support.office.com/de-DE/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
+- Es wurde ein temporäres Dienstproblem behoben, bei dem Benutzern die Fehlermeldung „Diese Datei konnte nicht gefunden werden“ angezeigt wurde. Vergewissern Sie sich, dass Pfad und Dateiname korrekt sind, wenn Sie Cloud-Anhänge verwenden. [Weitere Informationen](https://support.office.com/article/outlook-unable-to-attach-onedrive-or-sharepoint-files-to-emails-136951bb-60dc-478a-b916-6ee39e62c37a)
 
 - Ein Problem wurde behoben, das dazu führte, dass Benutzer sahen, dass hochgeladene Dateien von Outlook nach OneDrive oder Sharepoint den Dateinamen geändert haben, wobei mehrere Zeichen durch Unterstriche ersetzt wurden.
 
@@ -141,7 +171,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ## <a name="version-1808-september-10"></a>Version 1808: 10. September
 *Version 1808 (Build 10730.20380)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -154,7 +184,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ## <a name="version-1902-august-13"></a>Version 1902: 13. August
 *Version 1902 (Build 11328.20392)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 - Ein Problem wurde behoben, bei dem das Symbol "Filter löschen" sowohl für gefilterte als auch ungefilterte Datenschnitte in Tabellen angezeigt wurde.
@@ -171,12 +201,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - Ein Problem wurde behoben, bei dem die Anwendung bei der Zusammenarbeit mit anderen Benutzern an einem Dokument unerwartet beendet werden konnte.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
-- Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte [Weitere Informationen](https://support.microsoft.com/de-DE/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
+- Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte [Weitere Informationen](https://support.microsoft.com/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
 
 ## <a name="version-1808-august-13"></a>Version 1808: 13. August
 *Version 1808 (Build 10730.20370)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 - Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte [Weitere Informationen](https://support.microsoft.com/de-DE/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -185,7 +215,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ## <a name="version-1803-august-13"></a>Version 1803: 13. August
 *Version 1803 (Build 9126.2432)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 - Ein Problem wurde behoben, bei dem die Einstellungs-API in der Office JavaScript-Bibliothek in bestimmten Szenarien nicht funktionierte [Weitere Informationen](https://support.microsoft.com/de-DE/help/4475551/august-6-2019-update-for-office-2016-kb4475551)
@@ -193,7 +223,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ## <a name="version-1902-july-09"></a>Version 1902: 9. Juli
 *Version 1902 (Build 11328.20368)*
-<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 ### <a name="access-feature-updates"></a>Access: Featureupdates
@@ -225,7 +255,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 - **Neuer Standardwert für Seriendauer:** Der Standardwert für die Seriendauer war im Dialogfeld "Serie" bisher auf "Kein Enddatum" festgelegt. Dies erleichtert die Erstellung lang andauernder Wiederholungsserien, die aber im Lauf der Zeit beschädigt werden können. Wir haben den Standardwert für das Dialogfeld "Serie" auf "Ende am" aktualisiert, so dass unser Standardwert mit den empfohlenen bewährten Methoden für die Kalenderverwaltung übereinstimmt.
 - **Teilnehmen an Teambesprechungen über das Dialogfeld "Outlook-Erinnerungen":** Wenn Outlook Benutzer an eine anstehende Besprechung erinnert, wird eine Schaltfläche „Online beitreten“ angezeigt, falls die anstehende Besprechung eine Teams-Onlinebesprechung ist. Dieser Vorgang ähnelt dem Beitreten zu einer Skype for Business-Besprechung im Dialogfeld „Outlook-Erinnerungen“.
 - **Keine Erinnerungen mehr für vergangene Ereignisse:** Sie können Ihren Kalender so festlegen, dass Erinnerungen für Ereignisse, die bereits abgeschlossen sind, automatisch ausgeblendet werden. [Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
-- **Die URL hinter sicheren Links:** Sichere Links bieten Ihnen Schutz vor bösartigen URLs, die Sie in E-Mails empfangen haben, blenden dabei aber die ursprüngliche URL aus. Wenn Sie das Original anzeigen möchten, zeigen Sie mit dem Mauszeiger auf die URL. Eine Advanced Threat Protection-Lizenz ist erforderlich. [Weitere Informationen](https://products.office.com/de-DE/exchange/advance-threat-protection)
+- **Die URL hinter sicheren Links:** Sichere Links bieten Ihnen Schutz vor bösartigen URLs, die Sie in E-Mails empfangen haben, blenden dabei aber die ursprüngliche URL aus. Wenn Sie das Original anzeigen möchten, zeigen Sie mit dem Mauszeiger auf die URL. Eine Advanced Threat Protection-Lizenz ist erforderlich. [Weitere Informationen](https://products.office.com/exchange/advance-threat-protection)
 - **Zoomen und Übernehmen:** Anstatt den Zoom jedes Mal anzupassen, wenn Sie eine Nachricht lesen, wählen Sie einen Standardwert für alle Nachrichten aus. [Weitere Informationen](https://support.office.com/article/56c090bc-e148-44a7-bd06-1290edd38983)
 - **Nachrichtenverschlüsselung: IRM-Richtlinie "Nur verschlüsseln":** Die neue Option "Nur verschlüsseln" wird im Menü "Optionen" > "Berechtigungen" für Benutzer von Office 365-Nachrichtenverschlüsselung angezeigt. Mit dieser Option können Sie eine Nachricht verschlüsseln und an alle Personen innerhalb oder außerhalb Ihrer Organisation senden.
 - **Warnung, wenn Sie unter "BCC" erwähnt wurden:** Der BCC-InfoTipp warnt Sie, bevor Sie versehentlich eine Antwort an alle Empfänger einer E-Mail senden, der Sie als BCC-Empfänger hinzugefügt wurden.
@@ -277,7 +307,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 ### <a name="office-suite-feature-updates"></a>Office Suite: Featureupdates
 
 - **Drittanbieteranwendungen für Office verfügen jetzt über Unterstützung zum Einfügen von SVGs mithilfe der Office.js-API** Drittanbieteranwendungen, die auch als Add-Ins in Office bekannt sind, können nun SVGs einfügen. Benutzer können nun ihre persönliche Sammlung von SVGs mit Office verbinden. Entwickler können dieses Feature mithilfe der Office.js-API verwenden.
-- **Installation von Microsoft Teams:** Microsoft Teams ist in Neuinstallationen von Office 365 ProPlus standardmäßig installiert. [Weitere Informationen](https://docs.microsoft.com/de-DE/DeployOffice/teams-install)
+- **Installation von Microsoft Teams:** Microsoft Teams ist in Neuinstallationen von Office 365 ProPlus standardmäßig installiert. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/teams-install)
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 
@@ -352,7 +382,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
  - Ein Fehler wurde behoben, bei dem die Liste zuletzt verwendeter Dateien für viele Nutzer auf Windows 10 geleert wurde.
  - Ein Fehler wurde behoben, bei dem einem Endbenutzer ein Office-Business Aktualisierungsbalken angezeigt wurde, obwohl es sich um eine vom Administrator angestoßene Aktualisierung handelte.
  - Ein Probleme im Zusammenhang mit zeitweilig leerer Anmeldeaufforderung wurde behoben.
- - Behebt ein Problem, bei dem Teile eines Office-Updates nicht das Peercaching der Übermittlungsoptimierung verwenden. [Weitere Informationen]("https://docs.microsoft.com/en-us/windows/deployment/update/waas-delivery-optimization)
+ - Behebt ein Problem, bei dem Teile eines Office-Updates nicht das Peercaching der Übermittlungsoptimierung verwenden. [Weitere Informationen]("https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization)
 - Behebung eines Fehlers, der dazu führen konnte, dass Produkte entfernt oder nicht aktiviert wurden, wenn Office mit dem Office-Bereitstellungstool installiert wurde und es zu abweichender Groß- und Kleinschreibung kam.
 - Behebt ein Problem, bei dem übermäßig viele Anmeldeaufforderungen auf Geräten mit Windows 10 (Version 1803 oder höher) angezeigt werden.
 - Repariert die Regression, die beim Herunterladen von verknüpften Grafiken Abstürze verursachte.
@@ -362,7 +392,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ## <a name="version-1808-july-09"></a>Version 1808: 09. Juli
 *Version 1808 (Build 10730.20360)*
-<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -377,12 +407,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ## <a name="version-1803-july-09"></a>Version 1803: 09. Juli
 *Version 1803 (Build 9126.2428)*
-<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 ## <a name="version-1808-june-11"></a>Version 1808: 11. Juni
 *Version 1808 (Build 10730.20348)*
-<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
  - Ein Problem mit entfernten Signaturen beim Auschecken eines Dokuments wurde behoben.
@@ -392,7 +422,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ## <a name="version-1803-june-11"></a>Version 1803: 11. Juni
 *Version 1803 (Build 9126.2388)*
-<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt 
+<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt 
 
 ## <a name="version-1808-may-14"></a>Version 1808: 14. Mai
 *Version 1808 (Build 10730.20344)*   
@@ -468,7 +498,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 
-- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
+- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
 
 
 ## <a name="version-1803-february-12"></a>Version 1803: 12. Februar
@@ -501,7 +531,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 
-- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
+- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
 
 ## <a name="version-1708-february-12"></a>Version 1708: 12. Februar
 *Version 1708 (Build 8431.2372)*
@@ -510,7 +540,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 
-- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/de-DE/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
+- Behebt ein Problem, bei dem Add-Ins, die mithilfe der [zentralen O365-Office-Bereitstellung](https://docs.microsoft.com/office/dev/add-ins/publish/centralized-deployment) bereitgestellt wurden, nicht mehr reagierten und nicht mehr verwendet werden konnten.
 
 
 ## <a name="version-1808-january-8"></a>Version 1808: 8. Januar
@@ -652,7 +682,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="office-suite-security-update"></a>Office-Suite: Sicherheitsupdate
 
-- **Flash-, Silverlight- und Shockwave-Steuerelemente können in Office aus Sicherheitsgründen nicht aktiviert werden:** Aus Sicherheitsgründen wird in neuen Builds von Microsoft Office für Office 365 unter Windows die Aktivierung von Flash-, Silverlight- und Shockwave-Steuerelemente blockiert. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/en-us/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
+- **Flash-, Silverlight- und Shockwave-Steuerelemente können in Office aus Sicherheitsgründen nicht aktiviert werden:** Aus Sicherheitsgründen wird in neuen Builds von Microsoft Office für Office 365 unter Windows die Aktivierung von Flash-, Silverlight- und Shockwave-Steuerelemente blockiert. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1?ui=en-US&rs=en-US&ad=US).
  
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 - Behebung eines Problems, bei dem das Installieren eines Updates unter bestimmten Umständen sehr lange dauert.
