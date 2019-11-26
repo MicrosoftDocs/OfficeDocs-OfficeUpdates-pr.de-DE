@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: cb60b65d36a3bd05a2579c84cd97f82698ba868b
-ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
+ms.openlocfilehash: 58bbbc3e37e0347f18f075d4d29126caf78e5439
+ms.sourcegitcommit: d42cb920d5533cc1fcbdf97e7f186af9bf4a9633
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/23/2019
-ms.locfileid: "39204324"
+ms.lasthandoff: 11/25/2019
+ms.locfileid: "39254364"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -35,7 +35,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="access"></a>Access
 
-- Mit diesem Update wird ein Problem in Microsoft Access behoben, das den Fehler &quot;Abfrage ist beschädigt&quot; verursachen kann, wenn eine Aktualisierungsabfrage ausgeführt oder eine UPDATE-Anweisung in SQL verwendet wird.
+- Ein Problem wurde behoben, bei dem das Ausführen einer Aktualisierungsabfrage fälschlicherweise die Fehlermeldung lieferte: "Anfrage ist beschädigt" 
 
 ### <a name="outlook"></a>Outlook
 
@@ -52,7 +52,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
-- Korrekturen verschiedener Fehler und Leistungsprobleme.
+### <a name="access"></a>Access
+
+- Ein Problem wurde behoben, bei dem das Ausführen einer Aktualisierungsabfrage fälschlicherweise die Fehlermeldung lieferte: "Anfrage ist beschädigt" 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
