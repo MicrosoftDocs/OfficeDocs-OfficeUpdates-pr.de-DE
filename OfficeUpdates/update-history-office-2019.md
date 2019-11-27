@@ -3,19 +3,19 @@ title: Updateverlauf für Office 2016 C2R und Office 2019
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 11/23/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: c35ff76b7ac742c7a8bb14361413c311dda0a593
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9b5fe442ee64a0b820d99b0be217a82522966cc2
+ms.sourcegitcommit: 35a8d41cd61fc1a27cc543b06f5d715c7913ac11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282263"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39621390"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -57,6 +57,8 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|22. November 2019   |Version 1910 (Build 12130.20410)  |Korrekturen verschiedener Fehler und Leistungsprobleme.<br/>  |
+|18. November 2019   |Version 1910 (Build 12130.20390)  |Korrekturen verschiedener Fehler und Leistungsprobleme.<br/>  |
 |12. November 2019   |Version 1910 (Build 12130.20344)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8. Oktober 2019   |Version 1909 (Build 12026.20320)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1331) <br/> |
 |10. September 2019   |Version 1908 (Build 11929.20300)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1297) <br/>  |
