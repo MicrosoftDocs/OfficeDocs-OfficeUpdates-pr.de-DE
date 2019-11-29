@@ -9,20 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 1672e1968c489d4a05b785b779a832c0cbfda46f
-ms.sourcegitcommit: ef6ec784e9bd8d7e39a9a0a989adc66612f6349b
+ms.openlocfilehash: 1820de477c70563d208be3fa26ad9f0bf66e2611
+ms.sourcegitcommit: 9fd95a1f16e15923ce60791093d907f32c28fc5d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38753792"
+ms.lasthandoff: 11/23/2019
+ms.locfileid: "39204334"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den monatlichen Channel-Updates für Office 365 ProPlus im Jahre 2019 Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.
- 
+
  > [!NOTE]
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1910-november-22"></a>Version 1910: 22. November
+*Version 1910 (Build 12130.20410)*
+* Korrekturen verschiedener Fehler und Leistungsprobleme.
 
 ## <a name="version-1910-november-18"></a>Version 1910: 18. November
 *Version 1910 (Build 12130.20390)*
@@ -34,12 +38,6 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="access"></a>Access
 
 - Ein Problem wurde behoben, bei dem das Ausführen einer Aktualisierungsabfrage fälschlicherweise die Fehlermeldung lieferte: "Anfrage ist beschädigt" 
-
-### <a name="outlook"></a>Outlook
-
-- Es wurde ein Problem behoben, das bewirkt hat, dass die Benutzer sahen, wie sich das Feld „Ort“ in Besprechungen unerwartet ändert.
-
-- Es wurde ein Problem behoben, das bewirkt hat, dass Benutzer ein leeres Meldungsfeld mit einer &quot;OK&quot;-Schaltfläche angezeigt bekamen, wenn Sie versuchten, den Support über den Kontext der Kontoerstellung zu kontaktieren.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -58,14 +56,15 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/office36
 
 - Es wurde ein Problem behoben, das bewirkt hat, dass Benutzer ein leeres Meldungsfeld mit einer &quot;OK&quot;-Schaltfläche angezeigt bekamen, wenn Sie versuchten, den Support über den Kontext der Kontoerstellung zu kontaktieren.
 
-
-
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1910-october-30"></a>Version 1910: 30. Oktober
 *Version 1910 (Build 12130.20272)*
-* Korrekturen verschiedene Fehler und Leistungsprobleme.
 
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das die Such-Feedback-Umgebung zum Hängen gebracht wurde.
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
