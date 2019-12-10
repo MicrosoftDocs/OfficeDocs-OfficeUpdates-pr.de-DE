@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: c0128f82e5b00e5e6b0e13d56073732d2be3a73e
-ms.sourcegitcommit: 31531d8a7be9a65ac361168901c40c260dcbac46
+ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
+ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38704494"
+ms.lasthandoff: 12/06/2019
+ms.locfileid: "39890459"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -29,6 +29,103 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (NICHT ENTFERNEN)
 
+
+## <a name="version-1912-december-06"></a>Version 1912: 6. Dezember
+*Version 1912 (Build 12325.20012)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Erweiterte Gruppen-E-Mail-Einstellungen:** Diese Funktion hilft Gruppenbenutzern dabei, die E-Mails oder Ereignisse anzupassen, die sie in ihrem Posteingang empfangen/verfolgen möchten.
+
+- **Benennungsrichtlinie für Gruppen:** Mit einer Benennungsrichtlinie für Gruppen kann der IT-Administrator die Namen von Gruppen, die von Benutzern in der Organisation erstellt wurden, standardisieren und verwalten. Der Administrator kann festlegen, dass dem Namen einer Gruppe beim Erstellen ein bestimmtes Präfixes und ein Suffix hinzugefügt werden, und er kann bestimmte Wörter blockieren. Auf diese Weise kann die Verwendung von unpassenden Wörtern in Gruppennamen minimiert und die Darstellung von Gruppen in Ihrem Verzeichnis verwaltet werden. Die Benennungsrichtlinie hilft außerdem Organisationen, die Teamwebsites bereitstellen, um diese je nach Abteilung zu kategorisieren.
+
+### <a name="office-suite"></a>Office-Suite
+
+- **Bereiche im Registerkartenformat:** Jetzt können Sie über die Registerkarten-Benutzeroberfläche auf der rechten Seite der App zwischen mehreren Bereichen wechseln. Die Benutzeroberfläche wird nur angezeigt, wenn Sie mehr als 2 Fenster geöffnet haben.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Beim Speichern von Änderungen bei der Verwendung einiger nicht englischer Zeichengruppen tritt möglicherweise ein Fehler auf.
+
+- Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.
+
+- Das Deaktivieren der Beschleunigung von Hardware-Grafiken mit 4K könnte die Wiedergabe von Zellen verzögern.
+
+- Das Löschen einer langen Formel, die eine Zellbegrenzung überlappt, wird möglicherweise weiterhin über die Zellbegrenzung angezeigt.
+
+- Es wurde ein Problem behoben, bei dem die Anpassung des Menübands beim Öffnen einer eingebetteten Arbeitsmappe nicht geladen wurde.
+
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
+
+### <a name="onenote"></a>OneNote
+
+- Möglicherweise wird OneNote nicht über das Outlook-Add-in „Besprechungsnotizen“ geöffnet.
+
+### <a name="outlook"></a>Outlook
+
+- Bei Aufbewahrungsrichtlinien für Bezeichnungen kann der Aufbewahrungszeitraum in Klammern anzeigt sein.
+
+- Auf Visitenkarten mit dem japanischem Sprachpaket können Leerzeichen angezeigt werden.
+
+- Bilder, die in Outlook-E-Mail-Nachrichten Inline eingefügt wurden, können manchmal geändert werden.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Wenn ein Benutzer zwei (oder mehr) verschiedene Videos auf einer Folie in einer Cloud-Datei hat, werden die Videobilder korrekt wiedergegeben, aber wenn der Benutzer zum Abspielen auf jedes einzelne klickt, ist der Videoinhalt derselbe.
+
+- In einigen Fällen geht Scrollen bei Touchscreen-Geräten nicht.
+
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
+
+- Safelinks aus einer Office-Anwendung zu einer anderen können die verknüpfte Anwendung nicht starten.
+
+### <a name="project"></a>Project
+
+- Project stürzt ab, wenn Sie die Funktion „Projekte vergleichen“ verwendet wird.
+
+- Wenn Sie sich im dunklen Modus befinden, können Sie die Tabelle nicht lesen, wenn Sie zu einem Vorgang mit einer überlasteten Ressource im Vorgangsinspektor wechseln.
+
+- Das Festlegen von Aufwand für Vorgänge, die keine Aufgaben haben, wird auf 1 Tag abgerundet.
+
+### <a name="word"></a>Word
+
+- Das Speichern einer Datei nach einem Seriendruck funktioniert unter bestimmten Bedingungen möglicherweise nicht.
+
+- Im Organizer für Bausteine könnte eine ungültige Warnung angezeigt werden: &quot;Sie haben modifizierte Formen, Bausteine&quot;.
+
+- Der Kommentarbereich wird manchmal beim Kopieren/Einfügen neu geladen.
+
+- Kommentare werden manchmal nicht in der richtigen Reihenfolge eingefügt.
+
+- Das Anwenden einer Vorlage, die aus einer mehrstufigen Liste mit benutzerdefinierten Formatvorlagen besteht, auf bestehende Dokumente kann unter bestimmten Bedingungen die Formatvorlage nicht beibehalten.
+
+- Wenn Sie die Größe eines geteilten Bildschirms ändern, wird ggf. ein weiterer geteilter Bildschirm öffnen.
+
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert
+
+- Wenn ein Benutzer auf einer Kommentarkarte erwähnt wird, wird möglicherweise JSON angezeigt.
+
+- Safelinks aus einer Office-Anwendung zu einer anderen können die verknüpfte Anwendung nicht starten.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Bei Produkten mit einer Formatierung für Japan wird der Nachname des Benutzerkontos in der falschen Reihenfolge angezeigt.
+
+- Beim Bewegen des Mauszeigers über Kommentare wird möglicherweise eine TextBox-Kontur um den Kommentar angezeigt.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1912-november-15"></a>Version 1912: 15. November
 *Version 1912 (Build 12307.20000)*
