@@ -3,19 +3,19 @@ title: Updateverlauf für Office 2010-Klick-und-Los-Produkte
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2010-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: fde1f5a6ddc491caa8b2c949c0a95f70e76a1921
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 679c94fb42683f97b7b866874bee27faca15a573
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282173"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961942"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Updateverlauf für Office 2010-Klick-und-Los-Produkte
 
@@ -30,7 +30,7 @@ Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Kli
 Wenn Sie eines dieser Produkte verwenden und prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie Ihre Office-Versionsnummer und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuelle Version von Office 2010 ist **14.0.7241.5000**, die am 12. November 2019 veröffentlicht wurde.
+> Die aktuelle Version von Office 2010 ist **14.0.7243.5000**, die am 10. Dezember 2019 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -54,7 +54,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2019|12. November  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
+|2019|10. Dezember  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/en-us/help/4532624) <br/> |
+||12. November  <br/> |14.0.7241.5000  <br/> |[KB 4527848](https://support.microsoft.com/en-us/help/4527848) <br/> |
 ||8. Oktober  <br/> |14.0.7239.5000  <br/> |[KB 4522242](https://support.microsoft.com/en-us/help/4522242) <br/> |
 ||10. September  <br/> |14.0.7237.5000  <br/> |[KB 4517986](https://support.microsoft.com/en-us/help/4517986) <br/> |
 ||13. August  <br/> |14.0.7236.5000  <br/> |[KB 4514418](https://support.microsoft.com/en-us/help/4514418) <br/> |
