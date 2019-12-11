@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 3fb07aad5bc46630d2929cf36d18581bbb15fa99
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: 8a4f4ed0d165a592d5ac6503ca42cf02058ff988
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857843"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961790"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -23,6 +23,26 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
  > [!NOTE]
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1911-december-10"></a>Version 1911: 10. Dezember
+*Version 1911 (Build 12228.20364)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Diese Änderung umgeht ein Problem mit bestimmten Intel-Grafiktreibern durch Verwendung des Softwarerenderings.
+
+- Das Kontextmenü für PivotCharts wurde korrigiert, um die Option "Details anzeigen" zu aktivieren.
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, durch das Web-Add-Ins auf von Digital Rights Management verwaltete Nachrichten zugreifen konnten.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-december-03"></a>Version 1911: 3. Dezember
 *Version 1911 (Build 12228.20332)*

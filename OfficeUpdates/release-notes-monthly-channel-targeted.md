@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: a1ad777f8794fe2ec85b583ebd51dcdfe6b07f06
-ms.sourcegitcommit: 2008f3580435cc725ca36b2f762e5adf4df7f89a
+ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39668045"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961740"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -30,6 +30,52 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
+## <a name="version-1911-december-10"></a>Version 1911: 10. Dezember
+*Version 1911 (Build 12228.20364)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+### <a name="outlook"></a>Outlook
+
+- **Benennungsrichtlinie für Gruppen:** Mit einer Benennungsrichtlinie für Gruppen kann der IT-Administrator die Namen von Gruppen, die von Benutzern in der Organisation erstellt wurden, standardisieren und verwalten. Der Administrator kann festlegen, dass dem Namen einer Gruppe beim Erstellen ein bestimmtes Präfixes und ein Suffix hinzugefügt werden, und er kann bestimmte Wörter blockieren. Auf diese Weise kann die Verwendung von unpassenden Wörtern in Gruppennamen minimiert und die Darstellung von Gruppen in Ihrem Verzeichnis verwaltet werden. Die Benennungsrichtlinie hilft außerdem Organisationen, die Teamwebsites bereitstellen, um diese je nach Abteilung zu kategorisieren.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Wiedergabe von animierten Freihandzeichnungen:** Wenn Sie Freihandeingaben auf Ihren Folien vornehmen, können Sie auf diese Freihandeingaben Replay-Animationen anwenden, um den eigentlichen Zeichenvorgang während der Bildschirmpräsentation wiederzugeben. [Weitere Informationen](https://support.office.com/de-DE/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten.
+
+### <a name="word"></a>Word
+
+- **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
+
+- **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
+
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+
+## <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Diese Änderung umgeht ein Problem mit bestimmten Intel-Grafiktreibern durch Verwendung des Softwarerenderings.
+
+- Das Kontextmenü für PivotCharts wurde korrigiert, um die Option "Details anzeigen" zu aktivieren.
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, durch das Web-Add-Ins auf von Digital Rights Management verwaltete Nachrichten zugreifen konnten.
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-november-20"></a>Version 1911: 20. November
 *Version 1911 (Build 12228.20250)*
@@ -78,7 +124,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 ### <a name="office-suite"></a>Office-Suite
 
 - **Das Upload Center wird durch die Funktion „Dateien, die Ihre Aufmerksamkeit benötigen“ ersetzt:** Das Upload Center wird durch die in den Office-Anwendungen unter „Datei“ > „Öffnen“ angezeigte Funktion „Dateien, die Ihre Aufmerksamkeit benötigen“ ersetzt. Die neue Oberfläche ist moderner, besser integriert und im Vergleich zum Upload Center weniger aufdringlich.
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 

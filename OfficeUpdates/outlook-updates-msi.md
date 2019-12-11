@@ -3,19 +3,19 @@ title: Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwe
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: 1c17cbf662737c4e45f7ff13336e7fba770f66d1
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 9f9a27eb9c6c4a5de6be6602171247154a249088
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289673"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961770"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -44,7 +44,7 @@ Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |November 2019 PU <br/>[KB4484139](https://support.microsoft.com/help/4484139) 
+|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Dezember 2019 <br/>[KB4484172](https://support.microsoft.com/help/4484172) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013-Updates
 

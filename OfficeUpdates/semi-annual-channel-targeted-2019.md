@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 45a382ee14fc4d9b2e92b7b911f1c8d1cb1ac67a
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 8521872143f0330dd8ff7fd4092556503501b4a1
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890449"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961972"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -23,6 +23,58 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 > - Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal (gezielt) eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Microsoft Teams ist ab Version 1902 Teil neuer Installationen des halbjährlichen Kanals (gezielt). Teams wird vorhandenen Installationen des halbjährlichen Kanals hinzugefügt, wenn diese auf Version 1908 oder höher aktualisiert werden. Weitere Informationen finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+
+## <a name="version-1908-december-10"></a>Version 1908: 10. Dezember
+*Version 1908 (Build 11929.20516)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Ein Problem wurde behoben, bei dem eine Union-Abfrage, die Verweise auf Remotetabellen enthält (z. B. SQL Server-Tabellen) möglicherweise dazu führt, dass Access geschlossen und neu gestartet wird.
+
+- Ein Problem wurde behoben, durch das bei einem Aggregat wie "Summe" das Ergebnis auf einen ganzzahligen Wert abgeschnitten werden kann.
+
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, durch das das Auswählen einer Zelle nach dem Scrollen dazu führen konnte, dass die falsche Zelle ausgewählt wurde.
+
+- Ein Problem wurde behoben, bei dem der Filter für eine OLAP-PivotTable auf einen Wert festgelegt wurde, der aus dem Cube entfernt wurde.
+
+- Diese Änderung umgeht ein Problem mit bestimmten Intel-Grafiktreibern durch Verwendung des Softwarerenderings.
+
+- Ein Problem wurde behoben, bei dem die Verweis-Funktion einen Fehler zurückgeben kann.
+
+- Erhebliche Verbesserungen der Leistung beim Löschen von Spalten mit verbundenen Zellen.
+
+- Ein Problem wurde behoben, durch das ein Makro-Laufzeitfehler beim Aktivieren minimierter Fenster verursacht wurde.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem mit der Auswahl des SMIME-Algorithmus behoben.
+
+- Es wurde ein Problem behoben, durch das Benutzer die Aufforderung &quot;die Regeln auf diesem Computer entsprechen nicht den Regeln von Microsoft Exchange&quot; beim Öffnen des Dialogfelds „Regeln“ angezeigt bekommen.
+
+- Behebt ein Problem, durch das Web-Add-Ins auf von Digital Rights Management verwaltete Nachrichten zugreifen konnten, wenn dies nicht möglich sein sollte.
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, durch dass beim Nachverfolgen von Änderungen der Vorgang manchmal zu einer Endlosschleife führte.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Problem wurde behoben, bei dem Katakana-Zeichen mit halber Breite in vertikalen Textfeldern in PowerPoint nicht ordnungsgemäß gedreht wurden.
+
+- Es wurde ein Problem behoben, bei dem Office-Aktualisierungen möglicherweise unerwartet Dateien aus dem Office CDN anstelle der beabsichtigten Quelle heruntergeladen haben, beispielsweise eine lokale oder Netzwerkfreigabe oder einen vom Configuration Manager bereitgestellten Speicherort.
+
+- Um die Sicherheit der Office-Kunden zu schützen, sind jetzt Microsoft Office-Updates ausschließlich mit dem SHA-2-Algorithmus signiert.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1908-november-22"></a>Version 1908: 22. November
 *Version 1908 (Build 11929.20494)*

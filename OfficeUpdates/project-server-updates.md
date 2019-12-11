@@ -3,7 +3,7 @@ title: Project Server-Updates
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: project-server-itpro
@@ -13,12 +13,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: 18c878a03339e1e830e0b28f37340959dd20ba63
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: cd1f10b29a6732ff5fc599f4f6b685b9d3f0143d
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282153"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961810"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -30,6 +30,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
   
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Dezember 2019  <br/> |[KB4484187](https://support.microsoft.com/kb/4484187) <br/>|
 |November 2019  <br/> |[KB4484154](https://support.microsoft.com/kb/4484154) <br/>|
 |Oktober 2019  <br/> |[KB4484120](https://support.microsoft.com/kb/4484120) <br/>|
 |September 2019  <br/> |[KB4484093](https://support.microsoft.com/kb/4484093) <br/>|
@@ -94,6 +95,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**|
 |:-----|:-----|:-----|
+|Dezember 2019  <br/>  |[KB4484194](https://support.microsoft.com/kb/4484194) <br/>|
 |November 2019  <br/>  |[KB4484161](https://support.microsoft.com/kb/4484161) <br/>|
 |Oktober 2019  <br/>  |[KB4484128](https://support.microsoft.com/kb/4484128) <br/>|
 |September 2019  <br/>  |[KB4475600](https://support.microsoft.com/kb/4475600) <br/>|

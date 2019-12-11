@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 695e9f6a98c869bf3a8c8d4bb2e4a6239c507f04
-ms.sourcegitcommit: b259312e6a28ce767d11dc75e85844d209b94d88
+ms.openlocfilehash: f713c681387b0e1031d1d11093bba0a103fc0dec
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/05/2019
-ms.locfileid: "39857853"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39961720"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -29,6 +29,39 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="december-10-2019"></a>10. Dezember 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 10. Dezember 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1911 (Build 12228.20364).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1911 (Build 12228.20332) <br/> |3. Dezember 2019 <br/> |54<br/> |
+|Version 1910 (Build 12130.20410) <br/> |22. November 2019 <br/> |386<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1902 (Build 11328.20492).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20480) <br/> |22. November 2019 <br/> |61<br/> |
+|Version 1902 (Build 11328.20468) <br/> |12. November 2019 <br/> |63<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1908 (Build 11929.20516).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20494) <br/> |22. November 2019 <br/> |61<br/> |
+|Version 1908 (Build 11929.20436) <br/> |12. November 2019 <br/> |63<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 10. Dezember 2019)
 
 ## <a name="december-3-2019"></a>3. Dezember 2019
 
@@ -45,31 +78,6 @@ Die neueste Version ist Version 1911 (Build 12228.20332).
 
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 3. Dezember 2019)
-
-## <a name="december-3-2019"></a>3. Dezember 2019
-
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
-
-### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
-
-<i>Das erwartete Release ist Version 1902 (Build 11328.20488).</i>
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1902 (Build 11328.20480) <br/> |22. November 2019 <br/> |61<br/> |
-|Version 1902 (Build 11328.20468) <br/> |12. November 2019 <br/> |64<br/> |
-
-### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
-
-<i>Das erwartete Release ist Version 1908 (Build 11929.20510).</i>
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1908 (Build 11929.20494) <br/> |22. November 2019 <br/> |285<br/> |
-|Version 1908 (Build 11929.20436) <br/> |12. November 2019 <br/> |59<br/> |
-
-
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
 
 ## <a name="november-22-2019"></a>22. November 2019
 
@@ -158,6 +166,11 @@ Die neueste Version ist Version 1908 (Build 11929.20436).
 
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 12. November 2019)
+
+## <a name="november-5-2019"></a>5. November 2019
+
+
+
 
 ## <a name="october-30-2019"></a>30. Oktober 2019
 
@@ -263,7 +276,13 @@ Das neueste Release ist Version 1908 (Build 11929.20388).
 |Version 1908 (Build 11929.20300) <br/> |10. September 2019 <br/> |69<br/> |
 |Version 1902 (Build 11328.20392) <br/> |13. August 2019 <br/> |340<br/> |
 
+
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 8. Oktober 2019)
+
+## <a name="october-1-2019"></a>1. Oktober 2019
+
+
+
 
 ## <a name="september-30-2019"></a>30. September 2019
 
@@ -315,7 +334,240 @@ Die neueste Version ist Version 1908 (Build 11929.20300).
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 10. September 2019)
 
+## <a name="september-3-2019"></a>3. September 2019
 
+
+
+
+## <a name="august-26-2019"></a>26. August 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 26. August 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1908 (Build 11929.20254).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1907 (Build 11901.20218) <br/> |13. August 2019 <br/> |169<br/> |
+|Version 1907 (Build 11901.20176) <br/> |29. Juli 2019 <br/> |174<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 26. August 2019)
+
+## <a name="august-13-2019"></a>13. August 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 13. August 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1907 (Build 11901.20218).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1907 (Build 11901.20176) <br/> |29. Juli 2019 <br/> |65<br/> |
+|Version 1906 (Build 11727.20244) <br/> |9. Juli 2019 <br/> |197<br/> |
+
+### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1902 (Build 11328.20392).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20368) <br/> |9. Juli 2019 <br/> |65<br/> |
+|Version 1902 (Build 11328.20318) <br/> |11. Juni 2019 <br/> |73<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+Die neueste Version ist Version 1902 (Build 11328.20392).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20368) <br/> |9. Juli 2019 <br/> |65<br/> |
+|Version 1808 (Build 10730.20348) <br/> |11. Juni 2019 <br/> |306<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 13. August 2019)
+
+## <a name="july-29-2019"></a>29. Juli 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 29. Juli 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1907 (Build 11901.20176).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1906 (Build 11727.20244) <br/> |9. Juli 2019 <br/> |195<br/> |
+|Version 1906 (Build 11727.20230) <br/> |27. Juni 2019 <br/> |200<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 29. Juli 2019)
+
+## <a name="july-9-2019"></a>9. Juli 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 9. Juli 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1906 (Build 11727.20244).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1906 (Build 11727.20230) <br/> |27. Juni 2019 <br/> |202<br/> |
+|Version 1906 (Build 11727.20224) <br/> |26. Juni 2019 <br/> |51<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1902 (Build 11328.20368).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20348) <br/> |11. Juni 2019 <br/> |307<br/> |
+|Version 1808 (Build 10730.20344) <br/> |14. Mai 2019 <br/> |307<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1902 (Build 11328.20368).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20318) <br/> |11. Juni 2019 <br/> |71<br/> |
+|Version 1902 (Build 11328.20286) <br/> |14. Mai 2019 <br/> |74<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 9. Juli 2019)
+
+## <a name="june-27-2019"></a>27. Juni 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 27. Juni 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1906 (Build 11727.20230).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1906 (Build 11727.20224) <br/> |26. Juni 2019 <br/> |187<br/> |
+|Version 1906 (Build 11727.20210) <br/> |24. Juni 2019 <br/> |287<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 27. Juni 2019)
+
+## <a name="june-26-2019"></a>26. Juni 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 26. Juni 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1906 (Build 11727.20224).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1906 (Build 11727.20210) <br/> |24. Juni 2019 <br/> |60<br/> |
+|Version 1905 (Build 11629.20246) <br/> |11. Juni 2019 <br/> |170<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 26. Juni 2019)
+
+## <a name="june-24-2019"></a>24. Juni 2019
+
+[//]: # (INHALTE NICHT ENTFERNEN START 24. Juni 2019)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1906 (Build 11727.20210).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1905 (Build 11629.20246) <br/> |11. Juni 2019 <br/> |171<br/> |
+|Version 1905 (Build 11629.20214) <br/> |3. Juni 2019 <br/> |175<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 24. Juni 2019)
+
+## <a name="jun-11-2019"></a>11. Jun 2019
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1905 (Build 11629.20246).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1905 (Build 111629.20214)  <br/> |3. Juni 2019  <br/> |72<br/> |
+|Version 1904 (Build 11629.20196)  <br/> |29. Mai 2019  <br/> |71<br/> |
+|
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1808 (Build 10730.20348).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20344) <br/> |14. Mai 2019  <br/> |74<br/> |
+|Version 1808 (Build 10730.20334) <br/> |9. April 2019  <br/> |77<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1902 (Build 11328.20318).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20286)  <br/> |14. Mai 2019  <br/> |68 <br/> |
+|Version 1902 (Build 11328.20230)  <br/> |9. April 2019  <br/> |72 <br/> |
+
+## <a name="june-3-2019"></a>3. Juni 2019
+*Version 1905 (Build 11629.20214)*
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1905 (Build 11629.20214).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1905 (Build 11629.20196)  <br/> |29. Mai 2019  <br/> |291<br/> |
+|Version 1904 (Build 11601.20230)  <br/> |22. Mai 2019  <br/> |190<br/> |
+
+## <a name="may-29-2019"></a>29. Mai 2019
+*Version 1905 (Build 11629.20196)*
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1905 (Build 11629.20196).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1904 (Build 11601.20230)  <br/> |22. Mai 2019  <br/> |188<br/> |
+|Version 1904 (Build 11601.20204)  <br/> |14. Mai 2019  <br/> |193<br/> |
+
+## <a name="may-22-2019"></a>22. Mai 2019
+*Version 1904 (Build 11601.20230)*
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1904 (Build 11601.20230).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1904 (Build 11601.20204)  <br/> |14. Mai 2019  <br/> |193<br/> |
+|Version 1904 (Build 11601.20178)  <br/> |8. Mai 2019  <br/> |62<br/> |
+
+## <a name="may-14-2019"></a>14. Mai 2019
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Die neueste Version ist Version 1904 (Build 11601.20204).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1904 (Build 11601.20178)  <br/> |8. Mai 2019  <br/> |60<br/> |
+|Version 1904 (Build 11601.20144)  <br/> |29. April 2019  <br/> |71<br/> |
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Die neueste Version ist Version 1808 (Build 10730.20344).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1808 (Build 10730.20334) <br/> |9. April 2019  <br/> |72<br/> |
+|Version 1808 (Build 10730.20304)  <br/> |12. März 2019  <br/> |82<br/> |
+
+### <a name="semi-annual-channel-targeted"></a>Halbjährlicher Kanal (gezielt)
+
+Die neueste Version ist Version 1902 (Build 11328.20286).
+  
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20230)  <br/> |9. April 2019  <br/> |72 <br/> |
+|Version 1902 (Build 11328.20158)  <br/> |12. März 2019  <br/> |76 <br/> |
 
 ## <a name="related-topics"></a>Verwandte Themen
 

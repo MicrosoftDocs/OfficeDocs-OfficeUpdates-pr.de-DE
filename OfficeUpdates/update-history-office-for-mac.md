@@ -3,19 +3,19 @@ title: Updateverlauf für Office für Mac
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
-ms.date: 11/13/2019
+ms.date: 12/11/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten Informationen über aktuelle Updates für Office für Mac zur Verfügung, einschließlich Links zum Herunterladen von Paketen und einen Updateverlauf.
-ms.openlocfilehash: 816ba16f67b483cc15091e402be3cf2344c11e6b
-ms.sourcegitcommit: e46d02cd54b8c164b853a130ca07ce9c85f586c5
+ms.openlocfilehash: 91ae5036b889a0113281cfd438eb5b19987940ec
+ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38282293"
+ms.lasthandoff: 12/10/2019
+ms.locfileid: "39962262"
 ---
 # <a name="update-history-for-office-for-mac"></a>Updateverlauf für Office für Mac
   
@@ -36,18 +36,18 @@ In der folgenden Tabelle werden die aktuellen Pakete für die Office-Suite und f
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).
 
 
-### <a name="november-12-2019"></a>12. November 2019
-Version 16.31 (19111002)
+### <a name="december-10-2019"></a>10. Dezember 2019
+Version 16.32 (19120802)
  
 |**Anwendung**|**Downloadlinks**|**SHA-256-Hash für Installationspaket**|
 |:-----|:-----|:-----|
-|Office-Suite <br/> (mit Teams)   |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |762812D4520D6C5773D6EFC175B3DD69DAAAF7AA4578EC66BAFAF52B9B4C96AB<br/> |
-|Office-Suite <br/>(ohne Teams)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> | D2DC6AB56D33AE603C85006A36F1B87BCCDC5D0AF5CC0A2EC656A7E0C2157899<br/> |
-|Word  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.31.19111002_Updater.pkg) <br/> |1E6053BD0D29148134BC8DE1258110FF1895AE1A23EE8741FA2BD136D3BB3773 <br/> |
-|Excel  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.31.19111002_Updater.pkg) <br/> |8C12248A07166E4E1C459D8AB6ED4807C943329E4C3AF639978B37D8C3EC2DC3 <br/> |
-|PowerPoint  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.31.19111002_Updater.pkg) <br/> | 2537157F3B6D12EC64BBEFBF583807189E7464E7744177A43309F8051A84CCAC<br/> |
-|Outlook  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.31.19111002_Updater.pkg) <br/> |E2559AE8F77E8B0B6296C29CC68260FE0C04DC609BAA10C54799C18FB9C0B99E <br/> |
-|OneNote  <br/> |[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.31.19111002_Updater.pkg) <br/> |Nicht zutreffend  <br/> |
+|Office-Suite <br/> (mit Teams)   |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=2009112) <br/> |19035B8AFF8D385A1BB4EFE2C69D43D8D6D61BDBB27402666373DD30465C8096<br/> |
+|Office-Suite <br/>(ohne Teams)  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525133) <br/> | E7EE6030512017C6D2468DC5FEDC46F5E866F14BC9E8A452741B150F3DEF235B<br/> |
+|Word  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525134) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.32.19120802_Updater.pkg) <br/> |E3755FFE5AC3146F36810F666D1594059BD48C349026866972BCFF42580EA6FE <br/> |
+|Excel  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525135) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.32.19120802_Updater.pkg) <br/> |05F79F9CB5364C8BACFC7162B0921351DE675AA0958CA16528D84AEBDE6A5231 <br/> |
+|PowerPoint  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525136) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.32.19120802_Updater.pkg) <br/> | 404A7017CF9B2E92A0D50CA32B33304ED84D83CF20EAF7F882520F4239AF1323<br/> |
+|Outlook  <br/> |[Installationspaket](https://go.microsoft.com/fwlink/p/?linkid=525137) <br/> [Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.32.19120802_Updater.pkg) <br/> |094CADF90E8D6CF5D97A0E1D62E3E8D2C9491F467AFB4786A0D02E9183E8066E <br/> |
+|OneNote  <br/> |[Updatepaket](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.32.19120802_Updater.pkg) <br/> |Nicht zutreffend  <br/> |
    
 
 ## <a name="most-current-packages-for-other-mac-programs-from-microsoft"></a>Aktuelle Pakete für andere Mac-Programme von Microsoft
@@ -73,6 +73,7 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf und Downloadlinks
   
 |**Veröffentlichungsdatum**|**Version**|**Installationspaket**|**Updatepakete**|
 |:-----|:-----|:-----|:-----|:-----|
+10. Dezember 2019  <br/> |16.32 (19120802)  <br/> | [Office-Suite (mit Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.32.19120802_BusinessPro_Installer.pkg) <br/> <br/>[Office-Suite (ohne Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.32.19120802_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.32.19120802_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.32.19120802_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.32.19120802_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.32.19120802_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.32.19120802_Updater.pkg) <br/>
 12. November 2019  <br/> |16.31 (19111002)  <br/> | [Office-Suite (mit Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.31.19111002_BusinessPro_Installer.pkg) <br/> <br/>[Office-Suite (ohne Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.31.19111002_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.31.19111002_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.31.19111002_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.31.19111002_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.31.19111002_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.31.19111002_Updater.pkg) <br/>
 15. Oktober 2019  <br/> |16.30 (19101301)  <br/> | [Office-Suite (mit Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.30.19101301_BusinessPro_Installer.pkg) <br/> <br/>[Office-Suite (ohne Teams)](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.30.19101301_Installer.pkg)  |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.30.19101301_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.30.19101301_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.30.19101301_Updater.pkg), [Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.30.19101301_Updater.pkg), [OneNote](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_OneNote_16.30.19101301_Updater.pkg) <br/>
 18. September 2019  <br/> |16.29.1 (19091700)  <br/> | |[Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.29.19091700_Updater.pkg), [Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.29.19091700_Updater.pkg), [PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.29.19091700_Updater.pkg) <br/>
