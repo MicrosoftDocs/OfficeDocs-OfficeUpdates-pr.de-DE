@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: d8e5e009a3a51bdeb4c013daf7494307fc81abfd
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 52b4d6774090c8bd8fc85f510b2f0282d6ebee1d
+ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962282"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39982265"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -25,14 +25,12 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
   
 > [!NOTE]
-> - Eine Liste aller Office für Mac-Releases, Updatepakete und weitere Downloadlinks finden Sie unter [Updateverlauf für Office für Mac](update-history-office-for-mac.md). 
 > - Wenn Sie ein Office Insider sind, lesen Sie die [Versionshinweise zu Insider Fast-Builds](https://support.office.com/article/b3260859-2c1e-4f12-92a4-62a6997efb3a).
 > - Ab Version 16.17 vom September 2018 gelten diese Informationen auch für Office 2019 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist. Einige der in den Anmerkungen zur Version aufgeführten Features stehen jedoch nur in einem Office 365-Abonnement zur Verfügung.
-> - Die Versionshinweise für Version 16.16 und frühere Versionen gelten auch für Office 2016 für Mac, ebenfalls eine Version von Office für Mac, die als einmaliger Erwerb verfügbar ist. Ältere Versionen bis einschließlich 16.16 können mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Version 16.17 oder höher kann nicht mit einer Office 2016 für Mace-Volumenlizenz aktiviert werden. Informationen zu Office 2016 für Mac-Versionen ab September finden Sie unter [Anmerkungen für Office 2016 für Mac](release-notes-office-2016-mac.md).
 > - Features (und manchmal auch Fixes) werden häufig im monatlichen Kanal über einen Zeitraum bereitgestellt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für eine größere Zielgruppe veröffentlicht wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden. [Weitere Informationen](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 > - Manchmal veröffentlichen wir Updates, die allgemeine Qualitäts- und Leistungsverbesserungen aber keine neuen Features enthalten. Wenn eine App unten nicht speziell aufgeführt ist, enthält das Update für diese App nur Qualitäts- und Leistungsverbesserungen.
 
-**Hinweis:** Informationen zum Release "Microsoft AutoUpdate (MAU)" wurden auf die Seite [MAU-Releaseverlauf](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate) verschoben.<br/>
+
 
 
 
