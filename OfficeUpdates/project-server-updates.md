@@ -13,18 +13,18 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: cd1f10b29a6732ff5fc599f4f6b685b9d3f0143d
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: a2a4245543ac485ea5dd77e5a6370be027d4cb25
+ms.sourcegitcommit: 18b353e9edfaa8a4f3d6681866b584bdf4f35ee6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961810"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39982245"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
 Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Server 2013- und Project Server 2010-Updates zu erhalten und um die Updates herunterzuladen. 
 > [!NOTE]
-> Updateinformationen für Project Server 2016 finden Sie unter [SharePoint-Updates](sharepoint-updates.md), da Project Server 2016 Teil von SharePoint Server 2016 Enteprise Edition ist.
+> Updateinformationen für Project Server 2016 finden Sie unter [SharePoint-Updates](sharepoint-updates.md), da Project Server 2016 Teil der SharePoint Server 2016 Enterprise Edition ist.
   
 ## <a name="project-server-2013-update-history"></a>Project Server 2013-Updateverlauf
   
