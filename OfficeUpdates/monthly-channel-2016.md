@@ -1,5 +1,5 @@
 ---
-title: Release Notes for Monthly Channel Releases in 2016
+title: Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 proPlus in 2016
-ms.openlocfilehash: 7a5f8b13f06fc236cedc50d394d361dc1d797dfd
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2016
+ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438769"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023590"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Release Notes for Monthly Channel Releases in 2016
+# <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2016
 
-Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in monatlichen Kanal Updates für Office 365 proPlus in 2016 enthalten sind.
+Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in monatlichen Kanal Aktualisierungen für Office 365 ProPlus in 2016 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Der monatliche Kanal wurde vor dem 2017.
+> - Monatlicher Kanal hieß aktueller Kanal vor September 2017.
 
 ## <a name="version-1611-december-13"></a>Version 1611:13. Dezember
 *Version 1611 (Build 7571.2075)*
@@ -42,7 +42,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Map-Diagramm:** Vergleichen von Werten und Anzeigen von Kategorien über geografische Regionen hinweg. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in Arbeitsmappen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **INSERT Icons:**   verwenden Sie Symbole aus einer Standardbibliothek von SVG-Dateien (Scalable Vector Graphics), indem \> Sie \> auf Illustrationen einfügen Symbole. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie eine Arbeitsmappe in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Verbesserte Eingabehilfen:** Verbesserte Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien zum Lesen und Bearbeiten von Arbeitsmappen. [Weitere Informationen](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -54,13 +54,13 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in E-Mails. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **INSERT Icons:**   verwenden Sie Symbole aus einer Standardbibliothek von SVG-Dateien (Scalable Vector Graphics), indem \> Sie \> auf Illustrationen einfügen Symbole.   [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln.   [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Tippen:** Durchsuchen und Wiederverwenden von Inhalten aus relevanten Dokumenten Ihrer Organisation. [Weitere Informationen](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in Präsentationen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **INSERT Icons:**   verwenden Sie Symbole aus einer Standardbibliothek von SVG-Dateien (Scalable Vector Graphics), indem \> Sie \> auf Illustrationen einfügen Symbole. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
--   **Echt Zeit Eingabe bei der gemeinsamen Dokumenterstellung:** Sehen Sie, wo andere in der Präsentation arbeiten, und zeigen Sie Änderungen während der Eingabe an. [Weitere Informationen](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
+-   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Echt Zeit Eingabe bei der gemeinsamen Dokumenterstellung:** Sehen Sie, wo andere in der Präsentation arbeiten, und zeigen Sie Änderungen bei der Eingabe an. [Weitere Informationen](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie eine Präsentation in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Erstellen Sie präzise Freihand-Shapes:** Ziehen Sie den Segmentradierer, um übermäßige Freihandbits bis zur nächsten Zeile zu entfernen.
 -   **Wählen Sie Objekte mit dem Stift aus und bearbeiten Sie sie:** Sie können jetzt einen digitalen Stift nutzen, um über die Objektziehpunkte die Größe eines Objekts zu ändern oder es zu drehen. Sie können auch unterstützte Stifttasten für die Freihand-Lassoauswahl verwenden.
@@ -81,7 +81,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 
--   **Aktualisieren der Benutzeroberfläche auf "freigeben":** ändern von "präsentieren" in "freigeben" in Benutzeroberflächenelementen, wie beispielsweise Ändern des "Desktops präsentieren" in "Bildschirmfreigabe" und "Programm präsentieren" in "Fenster freigeben".
+-   **Aktualisieren Sie die Benutzeroberfläche auf "freigeben":** ändern Sie "vorhanden" in "freigeben" in Benutzeroberflächenelementen, beispielsweise "Desktop präsentieren" in "Bildschirmfreigabe" und "Programm präsentieren" auf "Fenster freigeben".
 -   **Deaktivierung von „Eigene Nummer“:** Verwenden Sie den Registrierungseintrag „DisableDisplayMyNumber“, um „Meine Nummer“ unter der Wähltastatur zu deaktivieren.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -119,7 +119,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in Dokumenten. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **INSERT Icons:**   verwenden Sie Symbole aus einer Standardbibliothek von SVG-Dateien (Scalable Vector Graphics), indem \> Sie \> auf Illustrationen einfügen Symbole.   [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln.   [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie ein Dokument in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Verbessertes Lesen mit Lernwerkzeugen:** Neue Befehle im Lesemodus bieten Lesefunktionen, wie das Anpassen der Textabstände, das Anzeigen von Umbrüchen zwischen Silben und das Hervorheben der einzelnen Begriffe, wenn das Dokument laut vorgelesen wird. [Weitere Informationen](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Verbesserte Eingabehilfen:** Verbesserte Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien zum Lesen und Bearbeiten von Dokumenten. [Weitere Informationen](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
@@ -279,7 +279,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   Behebung eines Problems, aufgrund dessen beim Durchsuchen von Kategorien nur die erste Kategorie für eine Textzeile in dem Bereich „Kategorienzusammenfassung“ angezeigt wurde.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person in den Textkörper eines e-Mail-oder Kalenderelements einbinden. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person zum Textkörper einer e-Mail oder eines Kalenderelements hinzufügen. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden von benutzerdefinierten Briefpapier als Standarddesign zusätzliche Zeilenumbrüche zu neuen E-Mail-Nachrichten hinzugefügt und die Schriftart auf Calibri festgelegt wurden.
@@ -342,7 +342,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 
 
-## <a name="version-1608-september-21"></a>Version 1608:21. September
+## <a name="version-1608-september-21"></a>Version 1608: September 21
 *Version 1608 (Build 7341.2032)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
@@ -632,7 +632,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 *Version 1605 (Build 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Verbesserungen der &-Transformation:** Neue oder verbesserte Daten Transformations-und Datenverbindungsfeatures für Power Query. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Verbesserungen bei der #a0 Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem Dropdownlisten für die Datenüberprüfung in Arbeitsmappen mit mehreren Arbeitsblättern beschädigt und dupliziert werden.
@@ -643,7 +643,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Vereinfachte Profilerstellung:** Eine vereinfachte-Benutzeroberfläche (UI) zum Einrichten von zusätzlichen Outlook-Profilen für Office 365-Postfächer, wenn Sie mit einem Office 365-Konto angemeldet sind.
 
-    Hinweis: dieses Feature wird über einen längeren Zeitraum für Abonnenten bereitgestellt, sodass Sie dieses Feature möglicherweise nicht sofort sehen. Der Zeitpunkt, zu dem Sie dieses Feature erhalten, hängt auch davon ab, wie Ihre Organisation Office aktualisiert.
+    Hinweis: dieses Feature wird über einen bestimmten Zeitraum auf Abonnenten festgesetzt, sodass dieses Feature möglicherweise nicht sofort angezeigt wird. Der Zeitpunkt, zu dem Sie dieses Feature erhalten, hängt auch davon ab, wie Ihr Unternehmen Office aktualisiert.
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die erweiterten Symbolzeichen beim Senden einer E-Mail im RTF-Format zu „1“ geändert wurden.
@@ -713,7 +713,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 
 
-## <a name="version-1604-may-4"></a>Version 1604: Mai 4
+## <a name="version-1604-may-4"></a>Version 1604:4. Mai
 *Version 1604 (Build 6868.2060)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
@@ -785,7 +785,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 
 
-## <a name="version-1602-march-24"></a>Version 1602:24. März
+## <a name="version-1602-march-24"></a>Version 1602: März 24
 *Version 1602 (Build 6741.2021)*
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -839,7 +839,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen bei Verwendung von POP3 alle E-Mails auf dem Server aus dem Posteingang gelöscht wurden, nachdem Outlook die E-Mails heruntergeladen hat. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
--   BeHebung eines Problems, bei dem e-Mail-Nachrichten bei der Konfiguration für die Verwendung von POP3 mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
+-   Behebung eines Problems, bei dem e-Mail-Nachrichten, wenn Sie für die Verwendung von POP3 konfiguriert sind, mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 
 
 
@@ -931,7 +931,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   Behebung eines Problems, bei dem das Verwenden von Application.OnKey() zum Abfangen eines Tastendrucks Excel zum Absturz bringt.
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
--   Behebung eines Problem, bei dem Word beim Bearbeiten eines Dokuments die Dokumentformatierung nicht ordnungsgemäß anzeigt. [Weitere Informationen zu diesem Problem](https://answers.microsoft.com/en-us/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
+-   Behebung eines Problem, bei dem Word beim Bearbeiten eines Dokuments die Dokumentformatierung nicht ordnungsgemäß anzeigt. [Weitere Informationen zu diesem Problem](https://answers.microsoft.com/office/forum/office_2016-word/word-2016-doesnt-display-your-document-formatting/b7bb4017-8ae5-41ab-881b-03199d24ba83)
 
 
 
