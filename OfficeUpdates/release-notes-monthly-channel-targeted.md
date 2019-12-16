@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: f6187b1c78133d5e8e89c7a9927e7ff037804c4c
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: e7fc9ff0ba68aca9d73873c7c299fed4e7668236
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961740"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023620"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -30,10 +30,129 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
+## <a name="version-1912-december-12"></a>Version 1912: 12. Dezember
+*Version 1912 (Build 12325.20172)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Beim Speichern von Änderungen bei der Verwendung einiger nicht englischer Zeichengruppen tritt möglicherweise ein Fehler auf.
+
+- Beim Bearbeiten von dynamischen Arrayformeln innerhalb einer Zelle könnte Text außerhalb der Begrenzung der Zelle ausgerichtet werden.
+
+- Die Funktion "Text in Spalte" könnte bei einigen Lokalisierungen nicht funktionieren.
+
+- Es wurde ein Problem behoben, bei dem die Anpassung des Menübands beim Öffnen einer eingebetteten Arbeitsmappe nicht geladen wurde.
+
+- Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.
+
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
+
+- Das Deaktivieren der Beschleunigung von Hardware-Grafiken mit 4K könnte die Wiedergabe von Zellen verzögern.
+
+- Diese Änderung umgeht ein Problem mit bestimmten Intel-Grafiktreibern durch Verwendung des Softwarerenderings.
+
+### <a name="onenote"></a>OneNote
+
+- Möglicherweise wird OneNote nicht über das Outlook-Add-in „Besprechungsnotizen“ geöffnet.
+
+### <a name="outlook"></a>Outlook
+
+- Zeitweiliger Absturz bei ordnerübergreifenden Inhalten.
+
+- Bilder, die in Outlook-E-Mail-Nachrichten Inline eingefügt wurden, können manchmal geändert werden.
+
+- Es wurde die Möglichkeit des Erzwingens der S/MIME-Standardsignatur-Konfiguration über eine Gruppenrichtlinie hinzugefügt.
+
+- Eingebettete Bilder könnten kleiner als erwartet erscheinen.
+
+- Bei Aufbewahrungsrichtlinien für Bezeichnungen kann der Aufbewahrungszeitraum in Klammern anzeigt sein.
+
+- Behebt ein Problem, bei dem Richtlinientipps bei Verwendung eines alternativen Absenders nicht angezeigt wurden.
+
+- Auf Visitenkarten mit dem japanischem Sprachpaket können Leerzeichen angezeigt werden.
+
+- Behebt ein Problem, bei dem der Standort einer Besprechung unerwartet nach dem Löschen wieder der Besprechung hinzugefügt wurde.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Der Cursor verschwindet möglicherweise nach dem Verschieben des Fokus von einem Textinhalt.
+
+- Safelinks aus einer Office-Anwendung zu einer anderen können die verknüpfte Anwendung nicht starten.
+
+- In einigen Fällen geht Scrollen bei Touchscreen-Geräten nicht.
+
+- Wenn ein Benutzer zwei (oder mehr) verschiedene Videos auf einer Folie in einer Cloud-Datei hat, werden die Videobilder korrekt wiedergegeben, aber wenn der Benutzer zum Abspielen auf jedes einzelne klickt, ist der Videoinhalt derselbe.
+
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
+
+### <a name="project"></a>Project
+
+- Wenn Sie sich im dunklen Modus befinden, können Sie die Tabelle nicht lesen, wenn Sie zu einem Vorgang mit einer überlasteten Ressource im Vorgangsinspektor wechseln.
+
+- Es könnte ein Fehler hinsichtlich der Lizenzierung auftreten.
+
+- Die Schaltfläche "Heute" in der Datumsauswahl könnte ein falsches Datum festlegen.
+
+- Project stürzt ab, wenn Sie die Funktion „Projekte vergleichen“ verwendet wird.
+
+- Das Festlegen von Aufwand für Vorgänge, die keine Aufgaben haben, wird auf 1 Tag abgerundet.
+
+### <a name="word"></a>Word
+
+- Beim Auswählen eines Kommentarhinweises im Bereich "Ansicht wechseln" sollte jetzt der moderne Kommentarbereich angezeigt werden, wenn dieser verborgen war.
+
+- Bei einem Rechtsklick könnte manchmal nicht das ganze Wort markiert werden.
+
+- Safelinks aus einer Office-Anwendung zu einer anderen können die verknüpfte Anwendung nicht starten.
+
+- Im Organizer für Bausteine könnte eine ungültige Warnung angezeigt werden: &quot;Sie haben modifizierte Formen, Bausteine&quot;.
+
+- Einige Designs erschweren es möglicherweise, den ausgewählten Kommentar zu erkennen.
+
+- Nach der Konvertierung in ein vorgeschlagenes Format bleibt der Cursor u. U. in einem Objekt aktiv.
+
+- In einigen Szenarien werden Bilder in Nachrichten u. U. nicht ordnungsgemäß skaliert.
+
+- Der Kommentarbereich wird manchmal beim Kopieren/Einfügen neu geladen.
+
+- Kommentare werden manchmal nicht in der richtigen Reihenfolge eingefügt.
+
+- Wenn ein Benutzer auf einer Kommentarkarte erwähnt wird, wird möglicherweise JSON angezeigt.
+
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
+
+- Wenn Sie die Größe eines geteilten Bildschirms ändern, wird ggf. ein weiterer geteilter Bildschirm öffnen.
+
+- Das Anwenden einer Vorlage, die aus einer mehrstufigen Liste mit benutzerdefinierten Formatvorlagen besteht, auf bestehende Dokumente kann unter bestimmten Bedingungen die Formatvorlage nicht beibehalten.
+
+- Das Speichern einer Datei nach einem Seriendruck funktioniert unter bestimmten Bedingungen möglicherweise nicht.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wenn Sie ein Diagramm aus Excel in PowerPoint einfügen, kann sich die Größe des Diagramms verringern.
+
+- Das Antworten auf einen Kommentar könnte dazu führen, dass das Textfeld vertikal über den Rand des Bereichs hinaus erweitert wird.
+
+- Bei Produkten mit einer Formatierung für Japan wird der Nachname des Benutzerkontos in der falschen Reihenfolge angezeigt.
+
+- Ein Bug in der Einstellung des Stichtags für ODT- und GPO-Updates wurde behoben, bei dem der relative Stichtag nur beim ersten Festlegen funktionierte. Der Fix aktiviert den relativen Stichtag für spätere Updates.
+
+- Beim Bewegen des Mauszeigers über Kommentare wird möglicherweise eine TextBox-Kontur um den Kommentar angezeigt.
+
+- Es wurde ein Problem behoben, bei dem Office-Aktualisierungen möglicherweise unerwartet Dateien aus dem Office CDN anstelle der beabsichtigten Quelle heruntergeladen haben, beispielsweise eine lokale oder Netzwerkfreigabe oder einen vom Configuration Manager bereitgestellten Speicherort.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
 ## <a name="version-1911-december-10"></a>Version 1911: 10. Dezember
 *Version 1911 (Build 12228.20364)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -42,7 +161,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 - **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
 
-- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ### <a name="outlook"></a>Outlook
 
@@ -50,7 +169,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Wiedergabe von animierten Freihandzeichnungen:** Wenn Sie Freihandeingaben auf Ihren Folien vornehmen, können Sie auf diese Freihandeingaben Replay-Animationen anwenden, um den eigentlichen Zeichenvorgang während der Bildschirmpräsentation wiederzugeben. [Weitere Informationen](https://support.office.com/de-DE/article/fa4f044f-810b-43fe-b774-da04a0b37496)
+- **Wiedergabe von animierten Freihandzeichnungen:** Wenn Sie Freihandeingaben auf Ihren Folien vornehmen, können Sie auf diese Freihandeingaben Replay-Animationen anwenden, um den eigentlichen Zeichenvorgang während der Bildschirmpräsentation wiederzugeben. [Weitere Informationen](https://support.office.com/article/fa4f044f-810b-43fe-b774-da04a0b37496)
 
 - **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
 
@@ -62,7 +181,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 - **Konvertieren von Dateien zur Verbesserung der Barrierefreiheit:** Aktualisieren Sie Ihre Dateien auf das moderne Format, damit alle Personen einfacher darauf zugreifen können.
 
-- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/de-DE/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
+- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
 
 ## <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
@@ -103,7 +222,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Add-In „Datenschnellansicht“: ** erstellen Sie schnell Visio-Flussdiagramme aus Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Add-In „Datenschnellansicht“: ** erstellen Sie schnell Visio-Flussdiagramme aus Excel. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="outlook"></a>Outlook
 
@@ -115,7 +234,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 
 ### <a name="visio"></a>Visio
 
-- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 

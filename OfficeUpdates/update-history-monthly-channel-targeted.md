@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 94dea39daaa8a4952dceaa39fe912093dec5c24a
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6b8d755bf405cc900c090eba6759b39def6bfad6
+ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961952"
+ms.lasthandoff: 12/14/2019
+ms.locfileid: "40023570"
 ---
 # <a name="update-history-for-office-monthly-targeted-channel-for-windows"></a>Updateverlauf für Office Monatlicher Kanal (gezielt) für Windows
 
@@ -22,7 +22,7 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 ## <a name="office-insider-versions-and-builds"></a>Office Insider-Versionen und -Builds
 
-Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Monatlichen Kanals (gezielt) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, lesen Sie [Neuerungen für Office-Insider](https://support.office.com/de-DE/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
+Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Monatlichen Kanals (gezielt) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, lesen Sie [Neuerungen für Office-Insider](https://support.office.com/article/what-s-new-for-office-insiders-c152d1e2-96ff-4ce9-8c14-e74e13847a24).
 
 > [!NOTE]
 > - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet
@@ -30,6 +30,9 @@ Wenn Sie auf der Ebene Monatlicher Kanal (gezielt), vormals als „Insider Slow�
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+**12. Dezember 2019**<br/>
+Version 1912 (Build 12325.20172)<br/>
 
 **10. Dezember 2019**<br/>
 Version 1911 (Build 12228.20364)<br/>
@@ -198,8 +201,7 @@ Version 1903 (Build 11425.20204)<br/>
 **Office Insider auf Twitter**<br/> Auf @OfficeInsider posten wir häufig Informationen zu Insider-Versionen und hosten besondere Ereignisse für Insider.<br/> 
 [Folgen Sie uns auf Twitter](https://go.microsoft.com/fwlink/?linkid=717717)<br/> 
 
-[
-  ![Abbildung des Facebook-Symbols. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/en-us/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
+[![Abbildung des Facebook-Symbols. ](images/facebook.png)](https://www.facebook.com/sharer.php?u=https://support.office.com/article/Update-history-for-Office-Insider-for-Windows-desktop-64bbb317-972a-4933-8b82-cc866f0b067c)       
 
 
 **Neue Features zuerst erhalten**

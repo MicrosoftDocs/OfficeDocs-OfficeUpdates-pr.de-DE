@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: e43a4c0dfcccd71ff2db672328488e9ffd363d71
-ms.sourcegitcommit: cdd69a3af5873fd60a3dabc010339acc19265db3
+ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
+ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/06/2019
-ms.locfileid: "39890459"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40019851"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -23,16 +23,63 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
-
- > [!NOTE]
-> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/de-DE/deployoffice/teams-install).
+> - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
 
+## <a name="version-2001-december-13"></a>Version 2001: 13. Dezember
+*Version 2001 (Build 12410.20000)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Ziehen Sie E-Mails in eine Gruppe, die Sie besitzen:** Verschieben und Kopieren von Nachrichten und Unterhaltungen, indem Sie diese aus Ihrem Posteingang ziehen. Die von ihnen gezogenen Nachrichten werden für alle Gruppenmitglieder freigegeben.
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+- Das Ausführen einer Verbundabfrage, die auf verknüpfte ODBC-Tabellen verweist und eine ORDER BY-Klausel enthält, stürzt den 64-Bit-Zugriff ab.
+- Das Summieren von Daten aus Verbundsabfragen in Access (O365) kann zu einer Verkürzung der dezimalen Daten führen.
+- COM-Schnittstellen für ACE werden nicht für den Einsatz außerhalb von Office-Anwendungen freigegeben.
+
+### <a name="excel"></a>Excel
+- Das Einfügen eines 3D-Modells (animiert oder statisch) und der Versuch, als Bild zu speichern, funktioniert nicht.
+- Die Kurztaste (Alt + Strg + 7/8), um Feedback aus dem Backstage-Bereich zu starten, steht im Konflikt mit QWERTZ-Tastaturen (AltGr + 7/8). Auswirkung: Benutzer sind möglicherweise nicht in der Lage, einige Zeichen wie: '\' zu verwenden.
+
+### <a name="outlook"></a>Outlook
+- Behebt ein Problem, bei dem E-Mails an die für den Empfänger falsche Adresse gesendet wurden.
+- Behebt ein Problem, das dazu führte, dass Outlook-Benutzern mit &quot;Lesezugriff&quot; auf ein Postfach fälschlicherweise erlaubte, den gelesenen/ungelesenen Status einer Nachricht zu ändern.
+- Der Widerruf des Sicherheitszertifikats auf der Website ist für den Produkt Support nicht reproduzierbar. Die Protokollierung muss hinzugefügt werden, um die Ursache für das Problem zu beheben.
+- Behebt ein Problem, bei dem Benutzer Synchronisationsfehler festgestellt haben.
+
+### <a name="powerpoint"></a>PowerPoint
+- Das Einfügen eines 3D-Modells (animiert oder statisch) und der Versuch, als Bild zu speichern, funktioniert nicht.
+
+### <a name="project"></a>Project
+- Die Aufgabenarbeit wird im Summenrollup für manuell geplante Unteraufgaben nicht berechnet.
+- Projekt-VBA-Code, der von einer Multifunktionsleiste aufgerufen wird, funktioniert möglicherweise nicht, wenn versucht wird, serverbasierte Projekte zu speichern.
+- Wenn Project nicht bereits ausgeführt wird, zeigt das Öffnen von Projektdateien aus einer SharePoint-Dokumentbibliothek einen Fehler an und die Datei wird nicht geöffnet.
+
+### <a name="word"></a>Word
+- Das Speichern vorhandener Dateien funktioniert möglicherweise nicht.
+- Die Verwendung der Pfeiltasten im Fenster des Editors für Rechtschreibung und Grammatik kann zu intermittierendem Flackern führen.
+- Bei der Behebung einer Nachverfolgung können zugehörige Kommentare nicht in Punktkommentare umgewandelt werden.
+- Das Einfügen eines 3D-Modells (animiert oder statisch) und der Versuch, als Bild zu speichern, funktioniert nicht.
+
+### <a name="office-suite"></a>Office-Suite
+- Es wurde ein Problem behoben, bei dem Office-Update-Nachrichten in einer anderen Sprache als erwartet angezeigt wurden. In Zukunft entsprechen Office-Update-Nachrichten ordnungsgemäß der Windows-Anzeigesprache.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1912-december-06"></a>Version 1912: 6. Dezember
 *Version 1912 (Build 12325.20012)*
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -47,7 +94,6 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 - **Bereiche im Registerkartenformat:** Jetzt können Sie über die Registerkarten-Benutzeroberfläche auf der rechten Seite der App zwischen mehreren Bereichen wechseln. Die Benutzeroberfläche wird nur angezeigt, wenn Sie mehr als 2 Fenster geöffnet haben.
 
-
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 <br/>
@@ -56,73 +102,45 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
-
 - Beim Speichern von Änderungen bei der Verwendung einiger nicht englischer Zeichengruppen tritt möglicherweise ein Fehler auf.
-
 - Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.
-
 - Das Deaktivieren der Beschleunigung von Hardware-Grafiken mit 4K könnte die Wiedergabe von Zellen verzögern.
-
 - Das Löschen einer langen Formel, die eine Zellbegrenzung überlappt, wird möglicherweise weiterhin über die Zellbegrenzung angezeigt.
-
 - Es wurde ein Problem behoben, bei dem die Anpassung des Menübands beim Öffnen einer eingebetteten Arbeitsmappe nicht geladen wurde.
-
 - Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
 
 ### <a name="onenote"></a>OneNote
-
 - Möglicherweise wird OneNote nicht über das Outlook-Add-in „Besprechungsnotizen“ geöffnet.
 
 ### <a name="outlook"></a>Outlook
-
 - Bei Aufbewahrungsrichtlinien für Bezeichnungen kann der Aufbewahrungszeitraum in Klammern anzeigt sein.
-
 - Auf Visitenkarten mit dem japanischem Sprachpaket können Leerzeichen angezeigt werden.
-
 - Bilder, die in Outlook-E-Mail-Nachrichten Inline eingefügt wurden, können manchmal geändert werden.
 
 ### <a name="powerpoint"></a>PowerPoint
-
 - Wenn ein Benutzer zwei (oder mehr) verschiedene Videos auf einer Folie in einer Cloud-Datei hat, werden die Videobilder korrekt wiedergegeben, aber wenn der Benutzer zum Abspielen auf jedes einzelne klickt, ist der Videoinhalt derselbe.
-
 - In einigen Fällen geht Scrollen bei Touchscreen-Geräten nicht.
-
 - Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
-
 - Safelinks aus einer Office-Anwendung zu einer anderen können die verknüpfte Anwendung nicht starten.
 
 ### <a name="project"></a>Project
-
 - Project stürzt ab, wenn Sie die Funktion „Projekte vergleichen“ verwendet wird.
-
 - Wenn Sie sich im dunklen Modus befinden, können Sie die Tabelle nicht lesen, wenn Sie zu einem Vorgang mit einer überlasteten Ressource im Vorgangsinspektor wechseln.
-
 - Das Festlegen von Aufwand für Vorgänge, die keine Aufgaben haben, wird auf 1 Tag abgerundet.
 
 ### <a name="word"></a>Word
-
 - Das Speichern einer Datei nach einem Seriendruck funktioniert unter bestimmten Bedingungen möglicherweise nicht.
-
 - Im Organizer für Bausteine könnte eine ungültige Warnung angezeigt werden: &quot;Sie haben modifizierte Formen, Bausteine&quot;.
-
 - Der Kommentarbereich wird manchmal beim Kopieren/Einfügen neu geladen.
-
 - Kommentare werden manchmal nicht in der richtigen Reihenfolge eingefügt.
-
 - Das Anwenden einer Vorlage, die aus einer mehrstufigen Liste mit benutzerdefinierten Formatvorlagen besteht, auf bestehende Dokumente kann unter bestimmten Bedingungen die Formatvorlage nicht beibehalten.
-
 - Wenn Sie die Größe eines geteilten Bildschirms ändern, wird ggf. ein weiterer geteilter Bildschirm öffnen.
-
-- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert
-
+- Dropdownmenü „Rand“ wird möglicherweise nicht ordnungsgemäß gerendert.
 - Wenn ein Benutzer auf einer Kommentarkarte erwähnt wird, wird möglicherweise JSON angezeigt.
-
 - Safelinks aus einer Office-Anwendung zu einer anderen können die verknüpfte Anwendung nicht starten.
 
 ### <a name="office-suite"></a>Office-Suite
-
 - Bei Produkten mit einer Formatierung für Japan wird der Nachname des Benutzerkontos in der falschen Reihenfolge angezeigt.
-
 - Beim Bewegen des Mauszeigers über Kommentare wird möglicherweise eine TextBox-Kontur um den Kommentar angezeigt.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -130,14 +148,11 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 ## <a name="version-1912-november-15"></a>Version 1912: 15. November
 *Version 1912 (Build 12307.20000)*
 
-
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="insights-services"></a>Insights-Services
-
 - **Abfragen in natürlicher Sprache in "Excel-Ideen":** Die neue Funktion von "Excel-Ideen", mit der Sie eine Frage zu Ihren Daten in natürlicher Sprache stellen können.
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -147,74 +162,43 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
-
-- <div><span>Die Funktion "Text in Spalte" könnte bei einigen Lokalisierungen nicht funktionieren</span></div>
-
-
-- <div>Beim Bearbeiten von dynamischen Arrayformeln innerhalb einer Zelle könnte Text außerhalb der Begrenzung der Zelle ausgerichtet werden.</div>
-
+- Die Funktion "Text in Spalte" könnte bei einigen Lokalisierungen nicht funktionieren.
+- Beim Bearbeiten von dynamischen Arrayformeln innerhalb einer Zelle könnte Text außerhalb der Begrenzung der Zelle ausgerichtet werden.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Es wurde die Möglichkeit des Erzwingens der S/MIME-Konfiguration über eine Gruppenrichtlinie hinzugefügt.</div>
-
-
-- <div><span>Eingebettete Bilder könnten kleiner als erwartet erscheinen</span></div>
-
+- Es wurde die Möglichkeit des Erzwingens der S/MIME-Konfiguration über eine Gruppenrichtlinie hinzugefügt.
+- Eingebettete Bilder könnten kleiner als erwartet erscheinen.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>Der Cursor verschwindet möglicherweise nach dem Verschieben des Fokus von einem Textinhalt</span></div>
-
+- Der Cursor verschwindet möglicherweise nach dem Verschieben des Fokus von einem Textinhalt.
 
 ### <a name="project"></a>Project
-
-- <div><span>Es könnte ein Fehler hinsichtlich der Lizenzierung auftreten</span></div>
-
-
-- <div><span>Die Schaltfläche "Heute" in der Datumsauswahl könnte ein falsches Datum festlegen</span></div>
-
+- Es könnte ein Fehler hinsichtlich der Lizenzierung auftreten.
+- Die Schaltfläche "Heute" in der Datumsauswahl könnte ein falsches Datum festlegen.
 
 ### <a name="word"></a>Word
-
-- <div><span>Bei einem Rechtsklick könnte manchmal nicht das ganze Wort markiert werden</span></div>
-
-
-- <div>Nach der Konvertierung in ein vorgeschlagenes Format bleibt der Cursor u. U. in einem Objekt aktiv</div>
-
-
-- <div>In einigen Szenarien werden Bilder in Nachrichten u. U. nicht ordnungsgemäß skaliert</div>
-
-
-- <div>Einige Designs erschweren es möglicherweise, den ausgewählten Kommentar zu erkennen</div>
-
-
-- <div><span>Beim Auswählen eines Kommentarhinweises im Bereich "Ansicht wechseln" sollte jetzt der moderne Kommentarbereich angezeigt werden, wenn dieser verborgen war.</span></div>
-
+- Bei einem Rechtsklick könnte manchmal nicht das ganze Wort markiert werden.
+- Nach der Konvertierung in ein vorgeschlagenes Format bleibt der Cursor u. U. in einem Objekt aktiv.
+- In einigen Szenarien werden Bilder in Nachrichten u. U. nicht ordnungsgemäß skaliert.
+- Einige Designs erschweren es möglicherweise, den ausgewählten Kommentar zu erkennen.
+- Beim Auswählen eines Kommentarhinweises im Bereich "Ansicht wechseln" sollte jetzt der moderne Kommentarbereich angezeigt werden, wenn dieser verborgen war.
 
 ### <a name="office-suite"></a>Office-Suite
-
-- <div><span>Das Antworten auf einen Kommentar könnte dazu führen, dass das Textfeld vertikal über den Rand des Bereichs hinaus erweitert wird.</span></div>
-
-
+- Das Antworten auf einen Kommentar könnte dazu führen, dass das Textfeld vertikal über den Rand des Bereichs hinaus erweitert wird.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1912-november-08"></a>Version 1912: 8. November
 *Version 1912 (Build 12231.20000)*
 
-
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="user-lifecycle"></a>Lebenszyklus des Benutzers:
-
-- **Verbesserungen bei der AFO-Aktivierung:** Aktualisierungen der Bildschirme, die den Kunden beim Aktivieren der im Lieferumfang Ihres neuen PCs enthaltenen Office-Version angezeigt werden
+- **Verbesserungen bei der AFO-Aktivierung:** Aktualisierungen der Bildschirme, die den Kunden beim Aktivieren der im Lieferumfang Ihres neuen PCs enthaltenen Office-Version angezeigt werden.
 
 ### <a name="word"></a>Word
-
-- **Neue und verbesserte Online-Videofunktionen in Word:** Neue und sicherere Onlinevideoerfahrung, die Ihnen beim Einfügen neuer Videos und beim Abspielen vorhandener Videos in Word hilft
-
+- **Neue und verbesserte Online-Videofunktionen in Word:** Neue und sicherere Onlinevideoerfahrung, die Ihnen beim Einfügen neuer Videos und beim Abspielen vorhandener Videos in Word hilft.
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -224,49 +208,38 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
-
-- <div><span>Zeitweiliger Absturz bei ordnerübergreifenden Inhalten</span></div>
-
+- Zeitweiliger Absturz bei ordnerübergreifenden Inhalten.
 
 ### <a name="office-suite"></a>Office-Suite
-
-- <div><span>Wenn Sie ein Diagramm aus Excel in PowerPoint einfügen, kann sich die Größe des Diagramms verringern</span></div>
-
-
+- Wenn Sie ein Diagramm aus Excel in PowerPoint einfügen, kann sich die Größe des Diagramms verringern.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-november-01"></a>Version 1911: 1. November
 *Version 1911 (Build 12228.20020)*
 
-
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
-
-- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
+- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
 
 - **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
+- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
 
 - **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
 
 ### <a name="visio"></a>Visio
-
-- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
-
 - **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
 
 - **Verbesserungen bei der gemeinsamen Dokumenterstellung:** Die gemeinsame Dokumenterstellung wurde verbessert, indem Inhaltsänderungen den anderen Benutzern nun nahezu immer in Echtzeit angezeigt werden.
 
 - **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -276,95 +249,45 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
-
-- <div><span>Es wurde ein Problem behoben, durch das das Bearbeiten einer geschützten Datei von einer nicht vertrauenswürdigen Netzwerkfreigabe zum Absturz von Excel geführt haben könnte.</span></div>
-
-
-- <div>Es wurde ein Problem behoben, bei dem das Löschen von Blättern mit Sparklines, die auf Daten auf einem anderen Arbeitsblatt verweisen, dazu führen könnte, dass die Datei beim erneuten Öffnen als fehlerhaft identifiziert wird.</div>
-
-
-- <div>Es wurde ein Problem behoben, bei dem Sie beim Konvertieren von Berichtsfiltern zusammen mit der restlichen PivotTable für Abfragen an tabellarische SQL-Server möglicherweise falsche Ergebnisse erhalten.</span></div>
-
-
-- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
-
-
-- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
-
+- Es wurde ein Problem behoben, durch das die Bearbeitung einer geschützten Datei von einer nicht vertrauenswürdigen Netzwerkfreigabe zum Absturz von Excel geführt haben könnte.
+- Es wurde ein Problem behoben, bei dem das Löschen von Blättern mit Sparklines, die auf Daten auf einem anderen Arbeitsblatt verweisen, dazu führen könnte, dass die Datei beim erneuten Öffnen als fehlerhaft identifiziert wird.
+- Es wurde ein Problem behoben, bei dem Sie beim Konvertieren von Berichtsfiltern zusammen mit der restlichen PivotTable für Abfragen an tabellarische SQL-Server möglicherweise falsche Ergebnisse erhalten.
+- Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.
+- Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.
 
 ### <a name="outlook"></a>Outlook
-
-- <div>Bei einer weitergeleiteten e-Mail fehlen möglicherweise eingebettete Bilder.</div>
-
-
-- <div><span>Das Tool „Raumsuche“ zeigt bei verfügbaren Räumen möglicherweise &quot;Keine&quot; an.</span></div>
-
-
-- <div><span>Benutzer sind möglicherweise nicht in der Lage, Outlook-Profile mit strikter Mandantenbeschränkung zu erstellen.</div></span>
-
+- Bei einer weitergeleiteten e-Mail fehlen möglicherweise eingebettete Bilder.
+- Das Tool „Raumsuche“ zeigt bei verfügbaren Räumen möglicherweise &quot;Keine&quot; an.
+- Benutzer sind möglicherweise nicht in der Lage, Outlook-Profile mit strikter Mandantenbeschränkung zu erstellen.
 
 ### <a name="powerpoint"></a>PowerPoint
-
-- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
-
+- Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.
 
 ### <a name="project"></a>Project
-
-- <div><span>Der Benutzer kann eine Aufgabe nicht als erledigt markieren, und sie wird auf 99 % festgelegt.</span></div>
-
-
-- <div>Überlastungen werden durch einen Abgleich nicht behoben</div>
-
+- Der Benutzer kann eine Aufgabe nicht als erledigt markieren, und sie wird auf 99 % festgelegt.
+- Überlastungen werden durch einen Abgleich nicht behoben.
 
 ### <a name="word"></a>Word
-
-- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
-
-
-- <div><span>Das Öffnen alter Dokumente und das anschließende Wechseln zur Registerkarte „Info“ kann zu einem Absturz führen.</span></div>
-
-
-- <div><span>Vorschläge der Dokumentprüfung werden nicht in Kontextmenüs angezeigt.</span></div>
-
-
-- <div><span>Inhaltsrichtlinien werden nicht ordnungsgemäß auf Kommentare angewendet.</span></div>
-
-
-- <div><span>Alte Kommentare, die mit dunklem Text geschrieben wurden, sind im dunklen Modus nicht sichtbar.</span></div>
-
-
-- <div><span>Bei Verwendung der AutoKorrektur für Koreanisch/Englisch werden möglicherweise falsche Zeichen angezeigt.</span></div>
-
-
-- <div><span>Niedrigere Richtlinienbezeichnungen werden möglicherweise angewendet, wenn eine höhere Richtlinienbezeichnung Vorrang haben sollte.</div></span>
-
-
-- <div><span>Die Links von cid:-Bildern aus Outlook-Nachrichten&nbsp;können nun auf Anforderung erfolgreich unterbrochen werden.</div></span>
-
-
-- <div><span>Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.</span></div>
-
-
-- <div><span>Die Suche im Navigationsbereich schlägt möglicherweise fehl.</span></div>
-
+- Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.
+- Das Öffnen alter Dokumente und das anschließende Wechseln zur Registerkarte „Info“ kann zu einem Absturz führen.
+- Vorschläge der Dokumentprüfung werden nicht in Kontextmenüs angezeigt.
+- Inhaltsrichtlinien werden nicht ordnungsgemäß auf Kommentare angewendet.
+- Alte Kommentare, die mit dunklem Text geschrieben wurden, sind im dunklen Modus nicht sichtbar.
+- Bei Verwendung der AutoKorrektur für Koreanisch/Englisch werden möglicherweise falsche Zeichen angezeigt.
+- Niedrigere Richtlinienbezeichnungen werden möglicherweise angewendet, wenn eine höhere Richtlinienbezeichnung Vorrang haben sollte.
+- Die Links von cid:-Bildern aus Outlook-Nachrichten&nbsp;können nun auf Anforderung erfolgreich unterbrochen werden.
+- Die gleichzeitige Verwendung der Sprachausgabe und der Bildschirmlupe kann zu einem Absturz führen.
+- Die Suche im Navigationsbereich schlägt möglicherweise fehl.
 
 ### <a name="office-suite"></a>Office-Suite
-
-- <div><span>Einige Zeichnungen werden in der Vorschau oder in Bildschirmpräsentationen möglicherweise nicht angezeigt.</span></div>
-
-
-- <div><span>Einige Katakana-Zeichen werden in einem vertikalen Textfeld möglicherweise nicht korrekt angezeigt werden.</span></div>
-
-
-- <div>Der Versuch, eine Datei auf einer nicht verbundenen Netzwerkfreigabe zu speichern, kann zu einem Absturz führen.</div>
-
-
+- Einige Zeichnungen werden in der Vorschau oder in Bildschirmpräsentationen möglicherweise nicht angezeigt.
+- Einige Katakana-Zeichen werden in einem vertikalen Textfeld möglicherweise nicht korrekt angezeigt werden.
+- Der Versuch, eine Datei auf einer nicht verbundenen Netzwerkfreigabe zu speichern, kann zu einem Absturz führen.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1911-october-25"></a>Version 1911: 25. Oktober
 *Version 1911 (Build 12215.20006)*
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
