@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 69b4f1a573d412e665554f9c697cbce9e3003b27
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
+ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023600"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40302974"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
@@ -154,8 +154,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/office36
 - **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://aka.ms/officemipdocs)
 
 ### <a name="outlook"></a>Outlook
-
-- **Nach einem Fehler eine Aufforderung zum Aktualisieren von Outlook erhalten:** wenn Outlook auf einen Fehler stößt, der in einer höheren Version behoben wurde, fordert Outlook den Kunden auf, ein Upgrade durchzuführen und den Fix zu erhalten.
 
 - **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dateien und E-Mails anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://aka.ms/officemipdocs)
 
