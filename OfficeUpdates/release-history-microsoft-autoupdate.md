@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: c4fa1fa339d50ea94a95af16174f1e00c4f280ee
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 5159c896b9293daa54a48228c86aa7fbc550870d
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961800"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889270"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -46,9 +46,9 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 [Download Microsoft Auto Update 4.18-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
-**SHA-256 Hash:**
+**SHA-256-Hashwert:**
 
-3AC34987AE344C6B097081DE15350DC9126FF7B5A00E24105AACD80E6F4DFCAF<br/><br/>
+11D051503067DB9819C84C8D1EBE29435A781D29C6B1FE3173DB03DC88F1B4C3<br/><br/>
 
 ## <a name="november-2019-release"></a>Release von November 2019
 
