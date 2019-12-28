@@ -10,19 +10,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office 2016 für Mac-Releases ab September 2018 zur Verfügung.
-ms.openlocfilehash: 7f489b97cf41119d1fc7bd884e2dde46434cb048
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 2d001ad0d7ef43ef5484267f16b5c388a146cb23
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962212"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889280"
 ---
 # <a name="update-history-for-office-2016-for-mac"></a>Updateverlauf für Office 2016 für Mac
 
 Office 2016 für Mac ist eine Version von Office, die zum einmaligen Erwerb im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist. Sie wird bei Bedarf bis zum 13. Oktober 2020 mit Sicherheitsupdates und Bugfixes unterstützt. Das minimal unterstützte MacOS für Office 2016 für Mac ist 10.10 (Yosemite).
 
 > [!NOTE]
-> - Aus Gründen der Sicherheit wird die Verwendung von SHA-1 von Microsoft nicht mehr unterstützt. [Weitere Informationen](https://docs.microsoft.com/de-DE/security-updates/SecurityAdvisories/2017/4010323)
+> - Aus Gründen der Sicherheit wird die Verwendung von SHA-1 von Microsoft nicht mehr unterstützt. [Weitere Informationen](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
 > - Anmerkungen zur Version für Office 2016 für Mac vor September 2018 finden Sie unter [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md).  
 > - Versionsinformationen für Office für Mac, die Version, die in Office 365-Abonnements enthalten ist, finden Sie in den [Versionshinweisen](release-notes-office-for-mac.md) und im [Updateverlauf](update-history-office-for-mac.md) für Office für Mac.
 > - Office 2019 für Mac ist die neueste Version, die als einmaliger Erwerb zur Verfügung steht. Versionsinformationen für Office 2019 für Mac finden Sie in den [Versionshinweisen](release-notes-office-for-mac.md) und im [Updateverlauf](update-history-office-for-mac.md) für Office für Mac.

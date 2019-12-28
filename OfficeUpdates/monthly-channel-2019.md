@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: 4d5c623be109cc8a0b21b3c90e91ca981ca2c2e8
-ms.sourcegitcommit: 519689175e202f7059ab9e49d70ea0ce6d23075e
+ms.openlocfilehash: 10c4d76d44d2ba8a66f22bfff49bb8c115d30d17
+ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40302974"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889290"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2019
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den monatlichen Channel-Updates für Office 365 ProPlus im Jahre 2019 Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.
 
  > [!NOTE]
->- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+>- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
 
 ## <a name="version-1911-december-10"></a>Version 1911: 10. Dezember
@@ -513,7 +513,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/office36
 
 - Video in einer Besprechung wird auf einem 4K-Monitor richtig zugeschnitten, wenn die Einstellung "Mein Video in Besprechungen zuschneiden und zentrieren" aktiviert ist
 
-- Dateien können von einem Windows 10-Computer mit mehreren Netzwerkadaptern auf ältere Office Communicator-Clients übertragen werden. [Weitere Informationen](help/4508477)
+- Dateien können von einem Windows 10-Computer mit mehreren Netzwerkadaptern auf ältere Office Communicator-Clients übertragen werden.
 
 - Verbesserte Oberfläche für die Kommunikation zwischen Skype for Business- und Microsoft Teams-Teilnehmern
 
