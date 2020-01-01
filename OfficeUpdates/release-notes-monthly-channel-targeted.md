@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 3e02226778b4ffb8b3d57361fcd0b6cff86820d5
-ms.sourcegitcommit: 2152c5d7b0b98398c1f31f659d68a8e74001acea
+ms.openlocfilehash: f11cd846890d876eede81090df2ea718022bb3f9
+ms.sourcegitcommit: e98fd276315194ca861f00d6bcd2795f13edf5d0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40889300"
+ms.lasthandoff: 12/31/2019
+ms.locfileid: "40918441"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -29,6 +29,37 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1912-december-30"></a>Version 1912: 30. Dezember
+*Version 1912 (Build 12325.20240)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Nehmen Sie den Kontext mit ihren SVG-Objekten mit!:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Office konvertieren.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- <div>Behebt ein Problem, das dazu führte, dass Benutzer in Outlook beim Abrufen von Cloudeinstellungen hängen bleiben.</div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1912-december-19"></a>Version 1912: 19. Dezember
 *Version 1912 (Build 12325.20214)*
