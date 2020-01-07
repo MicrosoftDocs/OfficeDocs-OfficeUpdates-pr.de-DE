@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 860ec2d6bbd8623442ecc10657fee71a62c8d89d
-ms.sourcegitcommit: 941b77865c5b2d92e0f98b961fc702e865589ec3
+ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
+ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/13/2019
-ms.locfileid: "40019851"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40951093"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -26,6 +26,41 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2001-january-03"></a>Version 2001: 03. Januar
+*Version 2001 (Build 12425.20000)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+
+### <a name="excel"></a>Excel
+- Einige Rahmenlinien werden auf Papier im Format A4 möglicherweise nicht wie erwartet gedruckt.
+- Das Einfügen eines Bildes in die Kopf-/Fußzeile eines Diagrammobjekts auf einem Blatt mit VBA kann zu einem Fehler führen.
+- Beim Formatieren einer Diagrammachse ist der Abstand zwischen den Beschriftungen auf 255 Zeichen begrenzt.
+- Ein Problem wurde behoben, bei dem beim Versuch, eine XML-Abfrage zu aktualisieren, deren URL zur Datenquelle abgeschnitten wurde, ein Fehler auftrat.
+- In der Arbeitsmappenstatistik wird eine Makroanzahl aus allen geöffneten Arbeitsmappen angezeigt, einschließlich der persönlichen Makroarbeitsmappe.
+
+### <a name="outlook"></a>Outlook
+- Das Wechseln von Ordnern kann zu einem kurzen weißen "Blitz" in der E-Mail-Liste/E-Mail-Vorschau führen. Dieses Verhalten war im dunklen Modus ausgeprägter.
+
+### <a name="powerpoint"></a>PowerPoint
+- Ein Problem mit dem Objektmodell wurde behoben, bei dem das Aufrufen der Methode "Shape.Paste" dazu führte, dass die eingefügte Form den Fokus erhielt.&nbsp;
+- Verbessertes Kopieren-Einfügen-Szenario:&nbsp; Das programmgesteuerte Kopieren einer Form aus einer PowerPoint-Folie und das Einfügen dieser Form in eine andere Folie in einer Schleife konnte mit einem Ausnahmefehler fehlschlagen.&nbsp;
+- Animationen in den Abschnittsüberschriften von Folien wurden nach dem Reduzieren und Erweitern von Abschnittsüberschriften nicht korrekt gerendert.
+
+### <a name="project"></a>Project
+- Ein Problem wurde behoben, bei dem der Textumbruch in der Task- und Ressourcennutzungsansicht nicht funktionierte.
+- Ein Problem wurde behoben, bei dem der Kostenwert bei Aufgaben möglicherweise nicht korrekt ist, wenn eine Ressource mehrere Kostensätze aufweist.
+
+### <a name="word"></a>Word
+- Das Einfügen eines Steuerelements (z. B. eines Textinhaltssteuerelements) in eine Gleichung und das anschließende Speichern und Öffnen der Datei führte zu einem Fehler aufgrund nicht lesbaren Inhalts.
+- Bei der gemeinsamen Dokumenterstellung wird ein Kommentar, der mit Word Online hinzugefügt wurde, auf dem Word-Desktop möglicherweise nicht angezeigt.
+
+### <a name="office-suite"></a>Office-Suite
+- Die Anzeige eines falschen Ablaufdatums der gültigen Lizenz beim Versuch, eine Einzellizenz zu ändern, wurde entfernt.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2001-december-13"></a>Version 2001: 13. Dezember
 *Version 2001 (Build 12410.20000)*
@@ -232,7 +267,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 - **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
 
 ### <a name="visio"></a>Visio
-- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
+- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c).
 
 ### <a name="word"></a>Word
 - **Sehen Sie sich die Stiftoptionen an, wenn Sie Ihren Surface Pen aufnehmen:** Wenn Sie Ihren Surface Pen in Word, Excel oder PowerPoint in die Hand nehmen, wird die Registerkarte „Zeichnen“ aktiviert, damit Sie ganz einfach die Stiftfarben auswählen können.
@@ -294,7 +329,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="visio"></a>Visio
 
-- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 ### <a name="word"></a>Word
 
@@ -513,7 +548,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Add-In „Datenschnellansicht“: ** erstellen Sie schnell Visio-Flussdiagramme aus Excel. [Weitere Informationen](https://support.office.com/de-DE/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Add-In „Datenschnellansicht“: ** erstellen Sie schnell Visio-Flussdiagramme aus Excel. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -709,15 +744,15 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 ### <a name="word"></a>Word
 
-- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/de-DE/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+- **Auf die Plätze, fertig, zeichnen!** Sobald Sie Ihren Surface Pen in der Hand halten, können Sie mit dem Zeichnen beginnen. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -768,7 +803,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Speichern einer Illustration als SVG:** Speichern Sie ein Diagramm, eine Form oder eine andere Abbildung als skalierbare Vektorgrafik, deren Größe ohne Verlust der Bildqualität geändert werden kann. [Weitere Informationen](https://support.office.com/de-DE/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Speichern einer Illustration als SVG:** Speichern Sie ein Diagramm, eine Form oder eine andere Abbildung als skalierbare Vektorgrafik, deren Größe ohne Verlust der Bildqualität geändert werden kann. [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1240,7 +1275,7 @@ Mitten im Entwurfs einer Präsentation? Wenden Sie die Formatvorlage "Skizzenhaf
 - **Schnellere Dateifreigabe**: Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/de-DE/article/194d4320-aa03-478b-9300-df25f0d15dc4)
+- **Um den Zugriff zu erleichtern, wurde die Einstellung zum Drucken von Foliennummern in Handzetteln wurde in das Menü „Drucken“ verschoben:** Sie finden sie in der Dropdownliste Druck > Drucklayout, wenn ein Handzettellayout ausgewählt ist. Auf diese Weise können Sie die Einstellung auch für einzelne Präsentationen ganz einfach umschalten. [Weitere Informationen](https://support.office.com/article/194d4320-aa03-478b-9300-df25f0d15dc4)
 
 - **Schnellere Dateifreigabe** Erteilen Sie die Freigabe für Ihre Dokumente direkt aus der Liste der zuletzt verwendeten Dateien, ohne die entsprechende Datei öffnen zu müssen.
 
@@ -1488,7 +1523,7 @@ Sie können Bilder jetzt in Ihren Outlook-E-Mails zeichnen und kommentieren.
 
 #### <a name="open-document-links-in-word"></a>Öffnen von Dokument-Links in Word
 
-Wenn Sie in Office auf einen Dokument Link klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der Word-App geöffnet wird.  Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Wenn Sie in Office auf einen Dokument Link klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der Word-App geöffnet wird.  Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Erste Schritte:
 
@@ -1509,7 +1544,7 @@ Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einem Wor
 
 #### <a name="open-presentation-links-in-powerpoint"></a>Öffnen Sie Präsentationslinks in PowerPoint
 
-Wenn Sie in Office auf einen Präsentationslink klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der PowerPoint-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Wenn Sie in Office auf einen Präsentationslink klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass er standardmäßig in der PowerPoint-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Erste Schritte:
 
@@ -1530,7 +1565,7 @@ Lösen Sie die Opt-in-Benutzererfahrung aus – öffnen eines Links zu einer Pow
 
 #### <a name="open-workbook-links-in-excel"></a>Öffnen von Arbeitsmappen-Links in Excel
 
-Wenn Sie in Office auf einen Link zu einer Arbeitsmappe klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass diese standardmäßig in der Excel-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/en-us/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
+Wenn Sie in Office auf einen Link zu einer Arbeitsmappe klicken, können Sie Ihre Einstellungen dahingehend aktualisieren, dass diese standardmäßig in der Excel-App geöffnet wird. Um Ihre Einstellungen zu aktualisieren, wechseln Sie zu Datei > Optionen – > Erweitert-> Verhalten von Links. Weitere Informationen: https://support.office.com/article/open-file-links-directly-in-office-desktop-apps-fe241745-9e05-4142-9ba8-1bb1dc044773?ui=en-US&rs=en-US&ad=US
 
 ##### <a name="getting-started"></a>Erste Schritte:
 
