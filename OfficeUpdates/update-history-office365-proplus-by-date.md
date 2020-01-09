@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: c029ad7f9eeac950a9d704a158075f4774f4b9c4
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 6bbaffa6d39dae9f4a35ad382fd7f6ec4efd8b7c
+ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39962292"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "40995535"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -31,7 +31,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich<br/>|1911<br/>|12228.20364<br/>|10. Dezember 2019<br/>|Version 1912 veröffentlicht<br/>|
+|Monatlich<br/>|1912<br/>|12325.20288<br/>|8. Januar 2020<br/>|Version 2001 veröffentlicht<br/>|
 |Halbjährlich (gezielt)<br/>|1908<br/>|11929.20516<br/>|10. Dezember 2019<br/>|10. März 2020<br/>|
 |Halbjährlich<br/>|1902<br/>|11328.20492<br/>|10. Dezember 2019<br/>|8. September 2020<br/>|
 |Halbjährlich<br/>|1808<br/>|10730.20426<br/>|10. Dezember 2019<br/>|10. März 2020<br/>|
@@ -46,6 +46,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|8. Januar|[Version 1912 (Build 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
 |2019|10. Dezember|[Version 1911 (Build 12228.20364)](monthly-channel-2019.md#version-1911-december-10)|[Version 1908 (Build 11929.20516)](semi-annual-channel-targeted-2019.md#version-1911-december-10)  |[Version 1902 (Build 11328.20492)](semi-annual-channel-2019.md#version-1902-december-10)<br/>[Version 1808 (Build 10730.20426)](semi-annual-channel-2019.md#version-1808-december-10)|
 |2019|3. Dezember|[Version 1911 (Build 12228.20332)](monthly-channel-2019.md#version-1911-december-3)| | |
 |2019|22. November|[Version 1910 (Build 12130.20410)](monthly-channel-2019.md#version-1910-november-22)|[Version 1908 (Build 11929.20494)](semi-annual-channel-targeted-2019.md#version-1908-november-22)|[Version 1902 (Build 11328.20480)](semi-annual-channel-2019.md#version-1902-november-22)<br/>[Version 1808 (Build 10730.20422)](semi-annual-channel-2019.md#version-1808-november-22)|
