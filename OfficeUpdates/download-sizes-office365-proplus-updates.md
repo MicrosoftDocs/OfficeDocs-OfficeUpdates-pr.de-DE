@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 230c17cabf76400452e337a9d5045c6d7be85f02
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
+ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995545"
+ms.locfileid: "41004323"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -29,6 +29,32 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="january-9-2020"></a>9. Januar 2020
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+<i>Das erwartete Release ist Version 1908 (Build 11929.20562).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1902 (Build 11328.20492) <br/> |10. Dezember 2019 <br/> |338<br/> |
+|Version 1902 (Build 11328.20480) <br/> |22. November 2019 <br/> |337<br/> |
+
+
+### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
+
+<i>Das erwartete Release ist Version 1908 (Build 11929.20562).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20516) <br/> |10. Dezember 2019 <br/> |59<br/> |
+|Version 1908 (Build 11929.20494) <br/> |22. November 2019 <br/> |64<br/> |
+
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
 
 ## <a name="january-8-2020"></a>8. Januar 2020
 
