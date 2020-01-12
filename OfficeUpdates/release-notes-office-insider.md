@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: b136c43128f6f995057f35c7b47c9e517c457097
-ms.sourcegitcommit: 78fb0c27e6b75aefcfcbd1b0ac7d17c1b53f86e0
+ms.openlocfilehash: 5d4d18cfff0ee6460c8356b61533e77295ab723b
+ms.sourcegitcommit: 9ff490c13fbe6cbe61d34876d36b1717e15014cb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40951093"
+ms.lasthandoff: 01/10/2020
+ms.locfileid: "41022050"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -26,6 +26,38 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2001-january-10"></a>Version 2001: 10. Januar
+*Version 2001 (Build 12430.20000)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+- **Speichern von Shapes als Bildern:** mit nur wenigen Mausklicks können Sie eine Form, ein Symbol oder ein anderes Objekt als Bilddatei speichern, um Sie an anderer Stelle wiederzuverwenden. [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+- **Der Benutzer kann nun Objekte in Word/Excel/Outlook als Bild für Windows speichern.:** Diese Möglichkeit ist bereits aus PowerPoint bekannt, sodass Benutzer nun Objekte in Word, Excel und Outlook als Bild speichern können. Zu den Objekten gehören Formen, Symbole, Bilder und vieles mehr! Sie können über das Kontextmenü darauf zugreifen.
+
+### <a name="word"></a>Word
+- **Wählen Sie auf einfache Weise Freihand in Word aus, indem Sie eine Form um das Freihandobjekt zeichnen.:** das Lassotool auf der Registerkarte „Zeichnen“ hilft Ihnen beim Auswählen von frei handgezeichneten Objekten. Wählen Sie einzelne Striche oder ganze Wörter aus. Das ist praktisch, wenn Sie eine viele Freihandobjekte haben und nur mit einigen davon arbeiten möchten. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
+
+- **Speichern von Shapes als Bildern:** mit nur wenigen Mausklicks können Sie eine Form, ein Symbol oder ein anderes Objekt als Bilddatei speichern, um Sie an anderer Stelle wiederzuverwenden. [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="onenote"></a>OneNote
+- Seitenregisterkarten werden bei einer Auflösung von 100% möglicherweise zu klein und zu nah aneinander angezeigt.
+
+### <a name="word"></a>Word
+- Bei einer großen Gruppe von Kommentaren kann das Löschen eines Kommentars am Ende der Kommentarliste dazu führen, dass der Bereich ganz nach oben gescrollt wird.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2001-january-03"></a>Version 2001: 03. Januar
 *Version 2001 (Build 12425.20000)*
