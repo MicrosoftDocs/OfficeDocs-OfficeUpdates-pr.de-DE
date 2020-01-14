@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Office 365 ProPlus für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: 4743df1d8d437972d0ec8800e2a2e232d7eda7b1
-ms.sourcegitcommit: a553f26c5b5f8035bd2217ad6f03dd56535f9349
+ms.openlocfilehash: 1377ec56666c3a713b8e64500b45a140b19273c0
+ms.sourcegitcommit: 42d66d834fd4c1a062535e27fc7eb4e579527d2e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36444568"
+ms.lasthandoff: 01/13/2020
+ms.locfileid: "41103816"
 ---
 # <a name="release-information-for-updates-to-office-365-proplus"></a>Versionsinformationen zu Updates für Office 365 ProPlus
 
@@ -40,9 +40,9 @@ Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden 
 ## <a name="release-notes-for-office-365-proplus-releases"></a>Anmerkungen zur Version für Office 365 ProPlus-Releases
 
 Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr finden Sie in den folgenden Artikeln:
- - Monatlich: [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
- - Halbjährlich (Gezielt): [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
- - Halbjährlich: [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
+ - Monatlich: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Halbjährlich (gezielt): [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
+ - Halbjährlich: [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
  Eine vollständige Liste der Releases des Office-Bereitstellungstools finden Sie in den folgenden Artikeln:
