@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: cd63909491b0a9c3c838c3357fd8cfd4b0a98ced
-ms.sourcegitcommit: 7878888296fd804525e07ef84947f8133ab7dcba
+ms.openlocfilehash: 9499ba80668b7512888b27f32caef11454c0c1a3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41004323"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122124"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -30,13 +30,24 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-## <a name="january-9-2020"></a>9. Januar 2020
+## <a name="january-14-2020"></a>14. Januar 2020
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+[//]: # (INHALTE NICHT ENTFERNEN START 14. Januar 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 1912 (Build 12325.20298).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1912 (Build 12325.20288) <br/> |8. Januar 2020 <br/> |46<br/> |
+|Version 1911 (Build 12228.20364) <br/> |10. Dezember 2019 <br/> |151<br/> |
+
+
 
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 
-<i>Das erwartete Release ist Version 1908 (Build 11929.20562).</i>
+Das neueste Release ist Version 1908 (Build 11929.20562).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -46,7 +57,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
 
-<i>Das erwartete Release ist Version 1908 (Build 11929.20562).</i>
+Das neueste Release ist Version 1908 (Build 11929.20562).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +65,8 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 1908 (Build 11929.20494) <br/> |22. November 2019 <br/> |64<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 14. Januar 2020)
+
 
 ## <a name="january-8-2020"></a>8. Januar 2020
 

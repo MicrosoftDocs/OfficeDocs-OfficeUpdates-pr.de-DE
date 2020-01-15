@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: ec6f6f5035a2f4436ea429754d5d37d4c26712eb
-ms.sourcegitcommit: fae9e887b442d58328556721a7ee2baa5394d1a7
+ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39961780"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122014"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates
 
@@ -25,6 +25,30 @@ Diese Anmerkungen zur Version enthalten Informationen zu Sicherheitsupdates, die
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.  
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
+
+## <a name="january-14-2020"></a>14. Januar 2020
+Monatlicher Kanal: Version 1912 (Build 12325.20298)  
+Halbjährlicher Kanal (Gezielt): Version 1908 (Build 11929.20562)  
+Halbjährlicher Kanal: Version 1908 (Build 11929.20562)  
+Halbjährlicher Kanal: Version 1902 (Build 11328.20512)  
+Halbjährlicher Kanal: Version 1808 (Build 10730.20432)  
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0651](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0651)
+-   [CVE-2020-0650](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0650)
+-   [CVE-2020-0653](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0653)
+
+### <a name="office-suite"></a>Office-Suite
+
+-   [CVE-2020-0652](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0652)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
 
 ## <a name="december-10-2019"></a>10. Dezember 2019
 Monatlicher Kanal, Version 1911 (Build 12228.20364)  
