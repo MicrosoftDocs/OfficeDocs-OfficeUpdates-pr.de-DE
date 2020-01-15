@@ -3,19 +3,19 @@ title: Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten eine Liste der aktuellen MSP-Dateien für unbefristete Office 2013-Versionen, die Windows Installer (MSI) verwenden
-ms.openlocfilehash: 9afd6c649e6a30bedaeb7aeca4ee9e6d6d887d4c
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: 90b8065a7daeda6f7fd57364807c8a06d9192172
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023660"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122024"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 
@@ -25,15 +25,13 @@ Diese Informationen gelten nur für Office 2013-Produkte, die die Windows Instal
   
 ## <a name="most-recently-updated-msp-files"></a>Zuletzt aktualisierte MSP-Dateien
 
-In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Dezember 2019**aktualisiert wurden. 
+In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Januar 2020**aktualisiert wurden. 
   
 |Nicht sicherheitsrelevante Updates * * * *|Sicherheitsupdates * * * *|
 |:-----|:-----|
-|<br>|ace-x-none<br/>|
 |<br>|excel-x-none<br/>|
 |<br>|graph-x-none<br/>|
-|<br>|powerpoint-x-none<br/>|
-|<br>|word-x-none<br/>|
+
 
 
 
@@ -57,21 +55,21 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |csi-x-none  <br/> |Office 2013  <br/> |11. Juli 2017  <br/> |[3172545](https://support.microsoft.com/help/3172545) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |csisyncclient-x-none  <br/> |Office 2013  <br/> |8. März 2016  <br/> |[3114488](https://support.microsoft.com/kb/3114488) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |dcf-x-none  <br/> |Office 2013  <br/> |8. Dezember 2015  <br/> |[3023068](https://support.microsoft.com/kb/3023068) <br/> |13. Juni 2017  <br/> |[3162051](https://support.microsoft.com/help/3162051) <br/> |Nicht zutreffend  <br/> |
-|duetserver-x-none<sup>1</sup> <br/> |Office 2013  <br/> |14. April 2015  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |Nicht zutreffend  <br/> |–  <br/> |Nicht zutreffend  <br/> |
-|ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |–  <br/> |–  <br/> |–  <br/> |
+|duetserver-x-none<sup>1</sup> <br/> |Office 2013  <br/> |14. April 2015  <br/> |[2965214](https://support.microsoft.com/kb/2965214) <br/> |–  <br/> |–  <br/> |Nicht zutreffend  <br/> |
+|ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Nicht zutreffend  <br/> |–  <br/> |–  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |–  <br/> |–  <br/> |9. Januar 2018  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
-|excel-x-none  <br/> |Excel 2013  <br/> |3. Juli 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |10. Dezember 2019  <br/> |[4484190](https://support.microsoft.com/help/4484190) <br/> |[4484158](https://support.microsoft.com/help/4484158) <br/> |
+|excel-x-none  <br/> |Excel 2013  <br/> |3. Juli 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |14. Januar 2020  <br/> |[4484234](https://support.microsoft.com/help/4484234) <br/> |[4484190](https://support.microsoft.com/help/4484190) <br/> |
 |excelpp-x-none  <br/> |Office 2013  <br/> |6. Juni 2017  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |5. April 2016  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |5. April 2016  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |fm20-x-none  <br/> |Office 2013  <br/> |14. Juli 2015  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |9. Dezember 2014  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |Nicht zutreffend  <br/> |
 |gfonts-x-none  <br/> |Office 2013  <br/> |14. Oktober 2014  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |gkall-x-none  <br/> |Office 2013  <br/> |7. Juni 2016  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |–  <br/> |–  <br/> |–  <br/> |
-|graph-x-none  <br/> |Office 2013  <br/> |2. April 2019  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |10. Dezember 2019  <br/> |[4484184](https://support.microsoft.com/help/4484184) <br/> |[4484152](https://support.microsoft.com/help/4484152) <br/> |
+|graph-x-none  <br/> |Office 2013  <br/> |2. April 2019  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |14. Januar 2020  <br/> |[4484227](https://support.microsoft.com/help/4484227) <br/> |[4484184](https://support.microsoft.com/help/4484184) <br/> |
 |groove-x-none  <br/> |OneDrive for Business  <br/> |7. August 2018  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |ieawsdc-x-none  <br/> |Office 2013  <br/> |–  <br/> |–  <br/> |11. August 2015  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |Nicht zutreffend  <br/> |
 |infopath-x-none  <br/> |InfoPath 2013  <br/> |3. Mai 2016  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8. März 2016  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
-|infopathpc-x-none  <br/> |Office 2013  <br/> |1. November 2016  <br/> |[3127916](https://support.microsoft.com/kb/3127916) <br/> |Nicht zutreffend  <br/> |–  <br/> |Nicht zutreffend  <br/> |
+|infopathpc-x-none  <br/> |Office 2013  <br/> |1. November 2016  <br/> |[3127916](https://support.microsoft.com/kb/3127916) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |ipeditor-x-none  <br/> |InfoPath 2013  <br/> |11. Dezember 2018  <br/> |[4022181](https://support.microsoft.com/kb/4022181) <br/> |8. Mai 2018  <br/> |[3162075](https://support.microsoft.com/help/3162075) <br/> |Nicht zutreffend  <br/> |
 |lync-x-none  <br/> |Lync 2013 (Skype for Business)  <br/> |6. August 2019  <br/> |[4475564](https://support.microsoft.com/help/4475564) <br/> |9. Juli 2019  <br/> |[4475519](https://support.microsoft.com/help/4475519) <br/> |[4461487](https://support.microsoft.com/help/4461487) <br/> |
 |lynchelp- *ll*  -  *cc* <sup>3</sup> <br/> |Lync 2013 (Skype for Business)  <br/> |2. Mai 2017  <br/> |[3191873](https://support.microsoft.com/help/3191873) <br/> |12. September 2017  <br/> |[3213568](https://support.microsoft.com/help/3213568) <br/> |[3191937](https://support.microsoft.com/help/3191937) <br/> |
