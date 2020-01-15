@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 6e0b9a578a8ed68c693ec254ddd304bfbcd9a85e
-ms.sourcegitcommit: f59095492cd5301eff069f004dcae56624345cf4
+ms.openlocfilehash: a58fd969078411936719b79db9ef090db1bd7ef3
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "40995555"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122004"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -30,35 +30,35 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
+## <a name="version-2001-january-14"></a>Version 2001: 14. Januar
+*Version 2001 (Build 12430.20050)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
+
 ## <a name="version-1912-january-08"></a>Version 1912: 8. Januar
 *Version 1912 (Build 12325.20288)*
 
 ## <a name="version-1912-january-07"></a>Version 1912: 7. Januar
 *Version 1912 (Build 12325.20280)*
 
-
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- <div>Behebt ein Problem, durch das Benutzern unter bestimmten Umständen E-Mails angezeigt werden, die an eine Adresse gesendet wurden, die nicht mit der angezeigten SMTP-Adresse übereinstimmt.</div>
-
-
+- Es wurde ein Problem behoben, durch das Benutzern unter bestimmten Umständen E-Mails angezeigt werden, die an eine Adresse gesendet wurden, die nicht mit der angezeigten SMTP-Adresse übereinstimmt.</div>
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1912-january-06"></a>Version 1912: 06. Januar
 *Version 1912 (Build 12325.20264)*
 
-
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="powerpoint"></a>PowerPoint
 
-- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/de-DE/article/a598753e-92de-4f1b-8393-714db4d334b4)
-
+- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 

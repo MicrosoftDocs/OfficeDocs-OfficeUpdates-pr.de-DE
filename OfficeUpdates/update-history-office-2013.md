@@ -3,26 +3,26 @@ title: Updateverlauf für Office 2013
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 12/11/2019
+ms.date: 1/15/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: f20d59daf68b01110c0bca39db28646f2c738dba
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: d4d3ca95f2bdca89936b047b407a3662eb75e619
+ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023756"
+ms.lasthandoff: 01/14/2020
+ms.locfileid: "41122064"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Bestimmte Office 2013-Produkte werden automatisch mithilfe der Technologie "Klick-und-Los" auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die neueste Version von Office 2013 ist **15.0.5197.1000**, die am 10. Dezember 2019 veröffentlicht wurde.
+> Die aktuellste Version von Office 2013 ist **15.0.5207.1000**, die am 14. Januar 2020 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -46,6 +46,7 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
+|2020|14. Januar   |15.0.5207.1000   |[KB 4536554   ](https://support.microsoft.com/help/4536554)  |
 |2019|10. Dezember   |15.0.5197.1000   |[KB 4532624  ](https://support.microsoft.com/help/4532624)  |
 ||12. November   |15.0.5189.1000   |[KB 4527848 ](https://support.microsoft.com/help/4527848)  |
 ||8. Oktober   |15.0.5179.1000   |[KB 4522242 ](https://support.microsoft.com/help/4522242)  |
