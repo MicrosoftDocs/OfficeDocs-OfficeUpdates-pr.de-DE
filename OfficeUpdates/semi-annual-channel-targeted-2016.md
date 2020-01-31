@@ -1,5 +1,5 @@
 ---
-title: Release Notes for Semi-Annual Channel (Targeted) Releases in 2016
+title: Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2016
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,22 +9,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanäle (Zielversionen) für Office 365 proPlus in 2016
-ms.openlocfilehash: 37544af48bda0cb4cd98027a04a446f7bf68b1e0
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (gezielt) für Office 365 ProPlus in 2016
+ms.openlocfilehash: 7560a299409682010d2bf4e435dc733432781dab
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439000"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629232"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Release Notes for Semi-Annual Channel (Targeted) Releases in 2016
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2016"></a>Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2016
 
-Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in den halbjährlichen Kanal Updates (gezielt) für Office 365 proPlus in 2016 enthalten sind.
+Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in den halbjährlichen Kanal Aktualisierungen (gezielt) für Office 365 ProPlus in 2016 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Halbjährlicher Kanal (gezielt) wurde als erste Version für verzögerten Kanal vor September 2017.
+> - Der halbjährliche Kanal (Targeted) wurde zum ersten Release für den verzögerten Kanal vor dem 2017. September ernannt.
 
 ## <a name="version-1609-december-13"></a>Version 1609:13. Dezember
 *Version 1609 (Build 7369.2095)*
@@ -52,7 +52,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem mit VBA-Formularen behoben, das dazu führen kann, dass die Z-Reihenfolge von Rahmen nicht mehr funktioniert oder nicht richtig angezeigt wird.
--   Es wurde ein Problem behoben, bei dem ein von System Center Configuration Manager ausgelöstes Update die UpdateChannel-Einstellung in der Registrierung in einen ungültigen Updatekanal ändert.
+-   Behebung eines Problems, bei dem ein Update-trigged durch Configuration Manager die UpdateChannel-Einstellung in der Registrierung in etwas ändert, das kein gültiger Update Kanal ist.
 -   Es wurde ein Problem behoben, bei dem das Synchronisieren von Dateien von einer OneDrive for Business-Website auf einem lokalen Computer mit dem OneDrive-Synchronisierungsclient bewirkt, dass beim Speichern einer synchronisierten Rückdatei, die von einer URL geöffnet wurde, Word, Excel oder PowerPoint nicht mehr reagiert.
 
 
@@ -84,7 +84,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 -   **Aktualisierte visuelle Elemente:** Änderungen an Symbolen und Farben zur Verbesserung der Barrierefreiheit. [Weitere Informationen](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Aktualisieren der Benutzeroberfläche auf "freigeben":** ändern von "präsentieren" in "freigeben" in Benutzeroberflächenelementen, wie beispielsweise Ändern des "vorhandenen Desktops" in "Freigeben des Desktops" und "Programm präsentieren" auf "Freigeben eines Fensters".
+-   **Aktualisieren Sie die Benutzeroberfläche auf "freigeben":** ändern Sie "vorhanden" in "freigeben" in Benutzeroberflächenelementen, beispielsweise "Desktop präsentieren" in "Freigeben Ihres Desktops" und "Programm präsentieren", um "ein Fenster freizugeben" zu ändern.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Benutzer nach der Migration zu Exchange Online keine Verbindung mit Exchange herstellen kann, um Informationen zum Unterhaltungsverlauf, zu Kontakten oder Voicemail zu erhalten.
@@ -163,7 +163,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   Behebung eines Problems, aufgrund dessen das Löschen eines Tabelle zu einem Absturz von OneNote führte.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person in den Textkörper eines e-Mail-oder Kalenderelements einbinden. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person zum Textkörper einer e-Mail oder eines Kalenderelements hinzufügen. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Zusammenfassungskarten für Reisereservierungen und Pakete:** Prüfen und verfolgen Sie Reisereservierungen sowie Paketzustellungen, indem Sie Zusammenfassungskarten verwenden, die automatisch im Posteingang und im Kalender erstellt wurden. [Weitere Informationen](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-Vorschau für angefügte Fotos**: Wenn ein Foto an eine E-Mail-Nachricht angefügt ist, wird in Outlook eine kleine Vorschau des Fotos in der Nachricht angezeigt.
 -   **Link zum Wiederherstellen gelöschter Objekte:** Im Ordner „Gelöschte Elemente“ wird der Link „Elemente wiederherstellen, die aus diesem Ordner gelöscht wurden“ oberhalb der Liste gelöschter Elemente angezeigt. Außerdem wird beim Klicken auf den Link das Dialogfeld „Gelöschte Elemente wiederherstellen“ aufgerufen.
@@ -418,7 +418,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 *Version 1605 (Build 6965.2058)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Verbesserungen der &-Transformation:** Neue oder verbesserte Daten Transformations-und Datenverbindungsfeatures für Power Query. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Verbesserungen bei der #a0 Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Zusätzliche Datenverbindungen:** Abfragen von Daten aus JSON- und Azure SQL Data Warehouse-Quellen.
 -   **Power Query-Verbesserungen:** Verbesserte und neue Funktionen zur Datentransformation und -konnektivität. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Umfangreiche Address Aware-Unterstützung:** 32-Bit-Versionen von Excel können mehr Speicher verwenden, falls verfügbar. [Weitere Informationen](https://support.microsoft.com/kb/3160741)
@@ -444,7 +444,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Vereinfachte Profilerstellung:** Eine vereinfachte-Benutzeroberfläche (UI) zum Einrichten von zusätzlichen Outlook-Profilen für Office 365-Postfächer, wenn Sie mit einem Office 365-Konto angemeldet sind.
 
-    Hinweis: dieses Feature wird über einen längeren Zeitraum für Abonnenten bereitgestellt, sodass Sie dieses Feature möglicherweise nicht sofort sehen. Der Zeitpunkt, zu dem Sie dieses Feature erhalten, hängt auch davon ab, wie Ihre Organisation Office aktualisiert.
+    Hinweis: dieses Feature wird über einen bestimmten Zeitraum auf Abonnenten festgesetzt, sodass dieses Feature möglicherweise nicht sofort angezeigt wird. Der Zeitpunkt, zu dem Sie dieses Feature erhalten, hängt auch davon ab, wie Ihr Unternehmen Office aktualisiert.
 
 -   **Liste mit Anlagen für Unterhaltungen:** Alle Anlagen für eine Unterhaltung in einer Office 365-Gruppe sind in einer Dropdownliste in der rechten oberen Ecke des Lesebereichs verfügbar.
 
@@ -729,7 +729,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   Behebt ein Problem,bei dem Elemente in der Dropdownliste „Von“ im Modus für hohen Kontrast nicht vollständig hervorgehoben werden.
 -   Behebt ein Problem, bei dem nur der erste Anhang ausgewählt wird, wenn Sie UMSCHALT + KLICK zum Auswählen mehrerer Anhänge verwenden.
 -   Behebung eines Problems, aufgrund dessen bei Verwendung von POP3 alle E-Mails auf dem Server aus dem Posteingang gelöscht wurden, nachdem Outlook die E-Mails heruntergeladen hat. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
--   BeHebung eines Problems, bei dem e-Mail-Nachrichten bei der Konfiguration für die Verwendung von POP3 mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
+-   Behebung eines Problems, bei dem e-Mail-Nachrichten, wenn Sie für die Verwendung von POP3 konfiguriert sind, mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 -   Behebung eines Problems, aufgrund dessen Benutzer nicht auf öffentliche Ordner zugreifen konnten, die auf Exchange Server 2010 gehostet wurden.
 -   Behebung eines Problems, bei dem Bilder in der falschen Größe beim Senden von E-Mails zwischen einem Gerät mit hoher DPI und einem Monitor mit normaler DPI angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen beim Ziehen der Bildlaufleiste in der Nachrichtenliste zum Ende der Liste gewechselt wurde.
@@ -743,7 +743,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Für diesen Dienst ist eine Internetverbindung erforderlich. Um dieses Feature zu deaktivieren, [verwenden Sie die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Verwenden Sie zum Deaktivieren dieses Features [die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
@@ -834,7 +834,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   **Sortierfunktion in Datei \> Öffnen:** Sortieren nach Name oder Änderungsdatum in „Datei“ \> „Öffnen“ in allen Apps außer Outlook. Für Word, Excel und PowerPoint ist die Sortierung auch unter „Datei“ \> „Speichern unter“ verfügbar.
 -   **Funktion zum Durchsuchen von Ordnern in Datei \> Speichern unter:** Verwenden Sie die vollständige Ordnernavigation in Datei \> Speichern unter in Word, Excel und PowerPoint für OneDrive-Ordner, OneDrive for Business-Ordner und „Dieser PC“.
 -   **Optionen für „Senden an“:** Senden eines Dokuments als Anlage oder als PDF-Datei aus dem Bereich „Freigeben“ in Word oder PowerPoint.
--   **Bild-API einfügen:**  Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Document. setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen Office. js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl-Objekten](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absatz](https://msdn.microsoft.com/library/office/mt598682.aspx)undBereichen .
+-   **Einfügen der Bild-API:**  Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [Document. setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen Office. js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl-Objekten](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absatz](https://msdn.microsoft.com/library/office/mt598682.aspx)undBereichen .
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)

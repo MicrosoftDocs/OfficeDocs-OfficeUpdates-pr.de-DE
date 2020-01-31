@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten Informationen über aktuelle Updates für Office für Mac zur Verfügung, einschließlich Links zum Herunterladen von Paketen und einen Updateverlauf.
-ms.openlocfilehash: 97bc297241699a8f919b7a023b42e521009ebc23
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: a825a162ce2854faac8ad67e6bc4fd2fa8485ff8
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122234"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629314"
 ---
 # <a name="update-history-for-office-for-mac"></a>Updateverlauf für Office für Mac
   
@@ -127,26 +127,6 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf und Downloadlinks
 |14. März 2017  <br/> |15.32.0 (17030901)  <br/> ||
 |16. Februar 2017  <br/> |15.31.0 (17021600)  <br/> ||
 |11. Januar 2017  <br/> |15.30.0 (17010700)  <br/> ||
-|15. Dezember 2016  <br/> |15.29.1 (16121500)  <br/> ||
-|13. Dezember 2016  <br/> |15.29.0 (16120900)  <br/> ||
-|17. November 2016  <br/> |15.28.0 (16111700)  <br/> ||
-|15. November 2016  <br/> |15.28.0 (16111501)  <br/> ||
-|15. November 2016  <br/> |15.28.0 (161113)  <br/> ||
-|11. Oktober 2016  <br/> |15.27.0 (161010)  <br/> |<!---[KB 3193438](https://support.microsoft.com/kb/3193438) <br/> -->|||
-|16. September 2016  <br/> |15.26.1 (160916)  <br/> |<!---Public folder fix for Outlook  <br/> -->|||
-|13. September 2016  <br/> |15.26.0 (160910)  <br/> |<!---[KB 3186807](https://support.microsoft.com/kb/3186807) <br/> -->|||
-|26. August 2016  <br/> |15.25.1 (160826)  <br/> |<!---Macro fix for Excel  <br/> --> |||
-|22. August 2016  <br/> |15.25.0 (160817)  <br/> |<!---[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> -->|||
-|22. August 2016  <br/> |15.25.0 (160818)  <br/> |<!---[KB 3179163](https://support.microsoft.com/kb/3179163) <br/> --> |||
-|12. Juli 2016  <br/> |15.24.0 (160709)  <br/> |<!---[KB 3170460](https://support.microsoft.com/kb/3170460) <br/> -->|||
-|25. Juni 2016  <br/> |15.23.2 (160624)  <br/> |<!---MRU service hotfix  <br/> -->|||
-|18. Juni 2016  <br/> |15.23.1 (160617)  <br/> |<!---Japanese macro hotfix  <br/> --> |||
-|14. Juni 2016  <br/> |15.23.0 (160611)  <br/> |<!---[KB 3165798](https://support.microsoft.com/kb/3165798) <br/> -->|||
-|13. Mai 2016  <br/> |15.22.1 (160512)  <br/> |<!---EndNote compatibility fix  <br/> --> |||
-|10. Mai 2016  <br/> |15.22.0 (160506)  <br/> |<!---[KB 3155777](https://support.microsoft.com/kb/3155777) <br/> -->|||
-|12. April 2016  <br/> |15.21.1 (160411)  <br/> |<!---[KB 3142577](https://support.microsoft.com/kb/3142577) <br/> -->|||
-|16. März 2016  <br/> |15.20.0 (160315)  <br/> |<!---[KB 3138327](https://support.microsoft.com/kb/3138327) <br/> --> |||
-|16. Februar 2016  <br/> |15.19.1 (160212)  <br/> |<!---[KB 3134241](https://support.microsoft.com/kb/3134241) <br/> -->|||
-|12. Januar 2016  <br/> |15.18.0 (160109)  <br/> |<!---[KB 3133711](https://support.microsoft.com/kb/3133711) <br/> -->|||
+
 
 [//]: # (VERLAUFSINHALT NICHT ENTFERNEN ENDE)

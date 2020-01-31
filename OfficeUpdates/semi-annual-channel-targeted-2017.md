@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (gezielt) für Office 365 ProPlus in 2017
-ms.openlocfilehash: 6014107ae2471707d226602cc71efaa24f1de310
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 911626feb56a68ab258b51de78142dfaf6926bbe
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439130"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629272"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2017"></a>Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2017
 
@@ -375,7 +375,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2017-8570](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8570): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
--   Behebung eines Problems, aufgrund dessen bei unbeaufsichtigten Upgrades von Office 2013 auf Office 2016 ein Fehler auftritt, wenn System Center Configuration Manager verwendet wird.
+-   Behebung eines Problems, aufgrund dessen bei unbeaufsichtigten Upgrades von Office 2013 bei der Verwendung von Configuration Manager ein Fehler Office 2016.
 -   Behebung eines Problems, aufgrund dessen Legacy-Add-Ins, die aus dem Store über den Unternehmenskatalog bereitgestellt werden, nicht geladen werden.
 
 
@@ -909,7 +909,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Es wurde ein Problem behoben, aufgrund dessen SVG-Bilder nach dem Einfügen in ein Office-Dokument verschwunden waren, nachdem der Benutzer das Dokument gespeichert und neu geöffnet hatte.
 -   Es wurde ein Problem behoben, aufgrund dessen Office Benutzern mit einer anderen Sprache als Englisch während der Aktivierung die folgende Fehlermeldung anzeigte: „The maximum length of the product key is 25 characters.“
 -   Es wurde ein Problem mit VBA-Formularen behoben, das dazu führen kann, dass die Z-Reihenfolge von Rahmen nicht mehr funktioniert oder nicht richtig angezeigt wird.
--   Es wurde ein Problem behoben, bei dem ein von System Center Configuration Manager ausgelöstes Update die UpdateChannel-Einstellung in der Registrierung in einen ungültigen Updatekanal ändert.
+-   Behebung eines Problems, bei dem ein Update-trigged durch Configuration Manager die UpdateChannel-Einstellung in der Registrierung in etwas ändert, das kein gültiger Update Kanal ist.
 
 
 

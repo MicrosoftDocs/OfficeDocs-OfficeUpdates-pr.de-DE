@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2016
-ms.openlocfilehash: 74d992e9f6129772e04ea1245cd2ced8d4a1006e
-ms.sourcegitcommit: 18190a7f0d562d254300120529a4dfd0d47d26d9
+ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/14/2019
-ms.locfileid: "40023590"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629242"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2016
 
@@ -131,7 +131,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem mit VBA-Formularen behoben, das dazu führen kann, dass die Z-Reihenfolge von Rahmen nicht mehr funktioniert oder nicht richtig angezeigt wird.
--   Es wurde ein Problem behoben, bei dem ein von System Center Configuration Manager ausgelöstes Update die UpdateChannel-Einstellung in der Registrierung in einen ungültigen Updatekanal ändert.
+-   Behebung eines Problems, bei dem ein Update-trigged durch Configuration Manager die UpdateChannel-Einstellung in der Registrierung in etwas ändert, das kein gültiger Update Kanal ist.
 
 
 

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für halbjährliche Kanal Versionen für Office 365 ProPlus in 2017
-ms.openlocfilehash: 97df90f17529a2c3336e19a2954b6c596e7d3410
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
+ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439230"
+ms.lasthandoff: 01/30/2020
+ms.locfileid: "41629262"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Anmerkungen zur Version für halbjährliche Kanal Versionen in 2017
 
@@ -388,7 +388,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems mit der Art und Weise, wie einige Programmdateien signiert sind, was dazu führt, dass Antivirenprogramme diese Dateien kennzeichnen, sowie von Problemen mit dem Schützen von oder Zugreifen auf Daten unter Windows Information Protection (WIP).
 -   Behebung eines Problems, das die Anzeige des Dialogfelds „Neuigkeiten“ verhindert.
--   Behebung eines Problems, aufgrund dessen bei unbeaufsichtigten Upgrades von Office 2013 auf Office 2016 ein Fehler auftritt, wenn System Center Configuration Manager verwendet wird.
+-   Behebung eines Problems, aufgrund dessen bei unbeaufsichtigten Upgrades von Office 2013 bei der Verwendung von Configuration Manager ein Fehler Office 2016.
 -   Behebung eines Problems, aufgrund dessen Legacy-Add-Ins, die aus dem Store über den Unternehmenskatalog bereitgestellt werden, nicht geladen werden.
 
 
@@ -742,7 +742,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Es wurde ein Problem behoben, aufgrund dessen SVG-Bilder nach dem Einfügen in ein Office-Dokument verschwunden waren, nachdem der Benutzer das Dokument gespeichert und neu geöffnet hatte.
 -   Es wurde ein Problem behoben, aufgrund dessen Office Benutzern mit einer anderen Sprache als Englisch während der Aktivierung die folgende Fehlermeldung anzeigte: „The maximum length of the product key is 25 characters.“
 -   Es wurde ein Problem mit VBA-Formularen behoben, das dazu führen kann, dass die Z-Reihenfolge von Rahmen nicht mehr funktioniert oder nicht richtig angezeigt wird.
--   Es wurde ein Problem behoben, bei dem ein von System Center Configuration Manager ausgelöstes Update die UpdateChannel-Einstellung in der Registrierung in einen ungültigen Updatekanal ändert.
+-   Behebung eines Problems, bei dem ein Update-trigged durch Configuration Manager die UpdateChannel-Einstellung in der Registrierung in etwas ändert, das kein gültiger Update Kanal ist.
 
 
 
@@ -1064,7 +1064,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem mit VBA-Formularen behoben, das dazu führen kann, dass die Z-Reihenfolge von Rahmen nicht mehr funktioniert oder nicht richtig angezeigt wird.
--   Es wurde ein Problem behoben, bei dem ein von System Center Configuration Manager ausgelöstes Update die UpdateChannel-Einstellung in der Registrierung in einen ungültigen Updatekanal ändert.
+-   Behebung eines Problems, bei dem ein Update-trigged durch Configuration Manager die UpdateChannel-Einstellung in der Registrierung in etwas ändert, das kein gültiger Update Kanal ist.
 -   Es wurde ein Problem behoben, bei dem das Synchronisieren von Dateien von einer OneDrive for Business-Website auf einem lokalen Computer mit dem OneDrive-Synchronisierungsclient bewirkt, dass beim Speichern einer synchronisierten Rückdatei, die von einer URL geöffnet wurde, Word, Excel oder PowerPoint nicht mehr reagiert.
 -   Behebung eines Problems mit VBA-Formularsteuerelementen, das dazu führen kann, dass transparente Bezeichnungsfelder undurchsichtig angezeigt werden, dass vorhandene Formulare nicht mehr angezeigt werden oder nicht mehr wie erwartet funktionieren und dass die Office-Anwendung nicht mehr reagiert, wenn Sie versuchen, eine Datei mit Makros zu öffnen, die Formularsteuerelemente enthält.
 -   Behebung eines Problems, bei dem bei Verwendung von verwalteten Metadateneigenschaften im Abschnitt "Eigenschaften" unter Datei \> Informationen eine Schaltfläche "Details anzeigen" statt der festgelegten Metadatenwerte angezeigt wird.
