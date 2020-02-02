@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 76dbb5c9889b231476f0f1c123109869e4412cf0
-ms.sourcegitcommit: e836e4fa968630fbe51b48d8319a1bfa5a441345
+ms.openlocfilehash: a94cdd19bdfa085381ff053749a506aafc91eac5
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41475232"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650823"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -47,6 +47,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|30. Januar|[Version 2001 (Build 12430.20184)](monthly-channel-2020.md#version-2001-january-30)| | |
 |2020|22. Januar|[Version 1912 (Build 12325.20344)](monthly-channel-2020.md#version-1912-january-22)| | |
 |2020|14. Januar|[Version 1912 (Build 12325.20298)](monthly-channel-2020.md#version-1912-january-14) |[Version 1908 (Build 11929.20562)](semi-annual-channel-targeted-2020.md#version-1908-january-14)|[Version 1908 (Build 11929.20562)](semi-annual-channel-2020.md#version-1908-january-14)<br/>[Version 1902 (Build 11328.20512)](semi-annual-channel-2020.md#version-1902-january-14)<br/>[Version 1808 (Build 10730.20432)](semi-annual-channel-2020.md#version-1808-january-14)|
 |2020|8. Januar|[Version 1912 (Build 12325.20288)](monthly-channel-2020.md#version-1912-january-8)| | |
