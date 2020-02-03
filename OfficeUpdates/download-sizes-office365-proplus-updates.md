@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: f16de46a5402e75b551898fc255eb5ff3ea5f1e5
-ms.sourcegitcommit: d13d7308e9454f121ea1a60a0f035d461e4016c3
+ms.openlocfilehash: 9bf11c4176ba72a31d1bd5ea1bfa46d6217a6805
+ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/15/2020
-ms.locfileid: "41173391"
+ms.lasthandoff: 02/01/2020
+ms.locfileid: "41650803"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -29,6 +29,38 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="january-30-2020"></a>30. Januar 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 30. Januar 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 2001 (Build 12430.20184).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1912 (Build 12325.20344) <br/> |22. Januar 2020 <br/> |134<br/> |
+|Version 1912 (Build 12325.20298) <br/> |14. Januar 2020 <br/> |138<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 30. Januar 2020)
+
+## <a name="january-22-2020"></a>22. Januar 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 22. Januar 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 1912 (Build 12325.20344).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1912 (Build 12325.20298) <br/> |14. Januar 2020 <br/> |53<br/> |
+|Version 1912 (Build 12325.20288) <br/> |8. Januar 2020 <br/> |59<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 22. Januar 2020)
 
 ## <a name="january-14-2020"></a>14. Januar 2020
 
