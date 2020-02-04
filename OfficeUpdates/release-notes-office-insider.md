@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: bd7a0012ea1f348df0c7f581ba06ef1bf05e3324
-ms.sourcegitcommit: 5534ba17ff0437b4dc25213f364c714397911e6a
+ms.openlocfilehash: 89ce9133b52a016c05b5ab4282f8820ce1e538cf
+ms.sourcegitcommit: 65dfebaad3ea5e0ccdf3cf29f8bca8c24a886e05
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2020
-ms.locfileid: "41650833"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711303"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -36,6 +36,8 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 ### <a name="excel"></a>Excel
 
 - **Schnell lesen und antworten:** Antworten Sie auf Kommentare und Erwähnungen direkt aus dem E-Mail-Bereich, ohne die Arbeitsmappe zu öffnen.
+
+- **Datenprofilerstellung im Abfrage-Editor:** Sie können die Daten in Ihren Spalten auf einen Blick analysieren, Fehler- und Leerwerte identifizieren, Verteilungshistogramme anzeigen und vieles mehr.
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
