@@ -3,19 +3,19 @@ title: Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Win
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 1/08/2020
+ms.date: 2/05/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten nicht-sicherheitsrelevanten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: 5bbc11ef2d5c2612fb8f76929522b36a6d1aad39
-ms.sourcegitcommit: 1cf47498ccc05d5933fd27dcf89b786157b419a2
+ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
+ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40961652"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41721816"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
@@ -26,6 +26,12 @@ Diese Seite listet die nicht-sicherheitsrelevanten Updates für Office auf, die 
 > - Die Informationen in diesem Artikel gelten nicht für Office 365-Versionen von Office, z. B. Office 365 ProPlus.
 > - Weitere Informationen zum Installieren von Office-Updates finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="february-4-2020"></a>4. Februar 2020
+
+**Office 2016**<br/>
+Update für Microsoft Project 2016 ([KB4484253](https://support.microsoft.com/help/4484253)) <br/>
+Update für Microsoft Word 2016 ([KB4484249](https://support.microsoft.com/help/4484249)) <br/>
 
 ## <a name="january-7-2020"></a>7. Januar 2020
 
