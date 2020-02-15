@@ -3,19 +3,19 @@ title: Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Win
 ms.author: timda
 author: TimDavenport
 manager: andrewmo
-ms.date: 2/05/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten nicht-sicherheitsrelevanten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: a52a84cbd9a068bad61492730bf870798833f1b3
-ms.sourcegitcommit: fd8217398475375ef1a403f9aac2bb615447eb74
+ms.openlocfilehash: cfc8e4e89f2a3cfb4ec9ae23de4588b7a356bbf0
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41721816"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978653"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
