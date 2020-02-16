@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: 421c8eadf21db20b7ee7fc783f3a3661f6681f75
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: eb10848ed20ff5fc30af6e5c87ff8c5ab6a3f242
+ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122014"
+ms.lasthandoff: 02/14/2020
+ms.locfileid: "41978623"
 ---
 # <a name="release-notes-for-office-365-proplus-security-updates"></a>Anmerkungen zur Version für Office 365 ProPlus-Sicherheitsupdates
 
@@ -25,6 +25,32 @@ Diese Anmerkungen zur Version enthalten Informationen zu Sicherheitsupdates, die
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.  
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
+
+## <a name="february-11-2020"></a>11. Februar 2020
+Monatlicher Kanal: Version 2001 (Build 12430.20264)  
+Halbjährlicher Kanal (gezielt): Version 1908 (Build 11929.20606)  
+Halbjährlicher Kanal: Version 1908 (Build 11929.20606)  
+Halbjährlicher Kanal: Version 1902 (Build 11328.20526)  
+Halbjährlicher Kanal: Version 1808 (Build 10730.20438)  
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696)
+
+### <a name="office-suite"></a>Office-Suite
+
+-   [CVE-2020-0697](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0697)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
 
 ## <a name="january-14-2020"></a>14. Januar 2020
 Monatlicher Kanal: Version 1912 (Build 12325.20298)  
