@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: e20199d7db1f236b86a99b1f748afcc9c5bd7426
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278586"
+ms.locfileid: "42282829"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Kanal im Jahr 2020
 
@@ -31,9 +31,22 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
-### <a name="outlook"></a>Outlook
+### <a name="excel"></a>Excel
 
-- **Updates im Outlook-Ordnerbereich:** Die neue Ordnerliste, die mit Ästhetik v1 angeboten wird, hat eine aktuelle Optik und Haptik und die Gruppen werden auf die gleiche Hierarchie wie Ordner und Favoriten erhöht.
+ - **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+- **Arbeitsmappen-Statistik:** Zellen, Formeln, Diagramme, Tabellen... Wir zählen Sie, damit Sie das nicht müssen.
+
+- **Datenprofilerstellung im Abfrage-Editor:** Sie können die Daten in Ihren Spalten auf einen Blick analysieren, Fehler- und Leerwerte identifizieren, Verteilungshistogramme anzeigen und vieles mehr.
+
+### <a name="outlook"></a>Outlook
+- **Updates im Outlook-Ordnerbereich:** Die neue Ordnerliste, die mit Ästhetik v1 bereitgestellt wird, weist ein modernes Aussehen und Verhalten auf, und die Gruppen werden auf die gleiche Hierarchie wie Ordner und Favoriten erhöht.
+
+### <a name="word"></a>Word
+
+- **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
