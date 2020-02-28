@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: 9d848fcfeca988113987408e7f27f512e2475e24
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: dc67527537f3c8700854f7e1a68bf02976c1976d
+ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978793"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42282819"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -58,6 +58,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|25. Februar 2020   |Version 2002 (Build 12527.20194)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |11. Februar 2020   |Version 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |30. Januar 2020   |Version 2001 (Build 12430.20184)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |22. Januar 2020   |Version 1912 (Build 12325.20344)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
