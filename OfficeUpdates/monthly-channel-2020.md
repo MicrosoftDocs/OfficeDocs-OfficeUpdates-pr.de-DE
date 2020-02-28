@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: bc018a0f362bfbe62c8f8d637bd85d5ae59fd208
-ms.sourcegitcommit: b85764e80564afc70882eac3911a296dcee486dc
+ms.openlocfilehash: 9c3fb7b64b95ee2a0d6f2ae831a2c028fb9e6ba0
+ms.sourcegitcommit: 9161b86498b6aadb2cdfbb951c5ea93439922ea2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42282829"
+ms.lasthandoff: 02/27/2020
+ms.locfileid: "42322591"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Kanal im Jahr 2020
 
@@ -33,18 +33,15 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
- - **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern.  [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 - **Arbeitsmappen-Statistik:** Zellen, Formeln, Diagramme, Tabellen... Wir zählen Sie, damit Sie das nicht müssen.
 
 - **Datenprofilerstellung im Abfrage-Editor:** Sie können die Daten in Ihren Spalten auf einen Blick analysieren, Fehler- und Leerwerte identifizieren, Verteilungshistogramme anzeigen und vieles mehr.
 
-### <a name="outlook"></a>Outlook
-- **Updates im Outlook-Ordnerbereich:** Die neue Ordnerliste, die mit Ästhetik v1 bereitgestellt wird, weist ein modernes Aussehen und Verhalten auf, und die Gruppen werden auf die gleiche Hierarchie wie Ordner und Favoriten erhöht.
-
 ### <a name="word"></a>Word
 
-- **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+- **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern.  [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
 
 
 
@@ -86,7 +83,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ## <a name="version-2001-february-11"></a>Version 2001: 11. Februar
 *Version 2001 (Build 12430.20264)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/office365-proplus-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -220,7 +217,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 
 - **Optimieren Sie Ihre Präsentation für alle:** Die Barrierefreiheitsprüfung hilft Ihnen beim Anordnen von Objekten auf Ihren Folien, indem sie die Sprachausgabe berücksichtigt.
 
-- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/de-DE/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
