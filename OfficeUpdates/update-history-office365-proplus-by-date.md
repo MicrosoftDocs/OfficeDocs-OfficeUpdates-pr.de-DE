@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Office 365 ProPlus-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: bbbd7106d1da3edb232ac5e8d1ea74280a0ff564
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: 075b651912f81195921e102d847c3ca61f484a7b
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278596"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345084"
 ---
 # <a name="update-history-for-office-365-proplus-listed-by-date"></a>Updateverlauf für Office 365 ProPlus (nach Datum)
 
@@ -31,7 +31,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Monatlich<br/>|2002<br/>|12527.20194<br/>|25. Februar 2020<br/>|Version 2003 veröffentlicht<br/>|
+|Monatlich<br/>|2002<br/>|12527.20242<br/>|1. März 2020<br/>|Version 2003 veröffentlicht<br/>|
 |Halbjährlich (gezielt)<br/>|1908<br/>|11929.20606<br/>|11. Februar 2020<br/>|10. März 2020<br/>|
 |Halbjährlich<br/>|1908<br/>|11929.20606<br/>|11. Februar 2020<br/>|9. März 2021<br/>|
 |Halbjährlich<br/>|1902<br/>|11328.20526<br/>|11. Februar 2020<br/>|8. September 2020<br/>|
@@ -47,6 +47,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Monatlicher Kanal**|**Halbjährlicher Kanal (gezielt)**|**Halbjährlicher Kanal**|
 |:-----|:-----|:-----|:-----|:-----|
+|2020|01. März|[Version 2002 (Build 12527.20242)](monthly-channel-2020.md#version-2002-march-01)| | |
 |2020|25. Februar|[Version 2002 (Build 12527.20194)](monthly-channel-2020.md#version-2002-february-25)| | |
 |2020|19. Februar|[Version 2001 (Build 12430.20288)](monthly-channel-2020.md#version-2001-february-19)| | |
 |2020|11. Februar|[Version 2001 (Build 12430.20264)](monthly-channel-2020.md#version-2001-february-11)|[Version 1908 (Build 11929.20606)](semi-annual-channel-targeted-2020.md#version-1908-february-11)|[Version 1908 (Build 11929.20606)](semi-annual-channel-2020.md#version-1908-february-11)<br/>[Version 1902 (Build 11328.20526)](semi-annual-channel-2020.md#version-1902-february-11)<br/>[Version 1808 (Build 10730.20438)](semi-annual-channel-2020.md#version-1808-february-11)|

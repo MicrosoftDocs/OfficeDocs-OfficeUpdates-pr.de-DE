@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: aea29a9d4062e272e61cfc95ef4bbb03d80fe882
-ms.sourcegitcommit: 192019a147f486bc97be39064a6f3c31060555c5
+ms.openlocfilehash: f9520e4be3f349c9bb2333d551e6b6c149822155
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42278576"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345106"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -29,6 +29,22 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="march-1-2020"></a>1. März 2020
+
+[//]: # (INHALT NICHT ENTFERNEN START1. März 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 2002 (Build 12527.20242).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.20194) <br/> |25. Februar 2020 <br/> |57<br/> |
+|Version 2001 (Build 12430.20288) <br/> |19. Februar 2020 <br/> |152<br/> |
+
+
+[//]: # (INHALT NICHT ENTFERNEN ENDE1. März 2020)
 
 ## <a name="february-25-2020"></a>25. Februar 2020
 

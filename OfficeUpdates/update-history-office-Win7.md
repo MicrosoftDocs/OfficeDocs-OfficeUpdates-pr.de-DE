@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt Kunden Versionsinformationen zum Updateverlauf für Office 365 ProPlus für Windows 7 bereit.
-ms.openlocfilehash: 57dc775623bda52d3a265f75df3304d7b165c768
-ms.sourcegitcommit: 950a2b52345f7de17c16a94746760166b2c2d6c3
+ms.openlocfilehash: 787ecad94262a996d29e416a808742250140129a
+ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/14/2020
-ms.locfileid: "41122368"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42345124"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Updateverlauf für Office 365 ProPlus unter Windows 7 
 
@@ -35,6 +35,12 @@ Versionen des halbjährlichen Kanals sind in der Regel nur 14 Monate lang verfü
 Diese erweiterte Verfügbarkeit für Version 2002 gilt auch für andere Updatekanäle, z. B. für den monatlichen und halbjährlichen Kanal (gezielt), gilt jedoch nur für Geräte mit Windows 7.
 
 ##
+
+
+[//]: # (NICHT ENTFERNEN)
+
+
+
 
 > [!NOTE]
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
