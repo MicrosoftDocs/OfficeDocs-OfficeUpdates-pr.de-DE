@@ -9,16 +9,16 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 371be87b4ba3405aeaa103591ca05dadf7578e7e
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 98f2ec2386cc214cbe5912d428b781610d953aca
+ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345144"
+ms.lasthandoff: 03/09/2020
+ms.locfileid: "42568861"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
-Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche heben wir interessante neuer Features, wichtige Fixes und wesentliche Probleme hervor, über die wir Sie gerne informieren möchten. Beachten Sie, dass das Rollout von Funktionen (und manchmal auch Fixes) für Insider häufig über einen längeren Zeitraum erfolgt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden.  
+Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche werden interessante neue Features, wichtige Fehlerbehebungen und alle wichtigen Probleme, über die Sie informiert werden sollen, hervorgehoben. Beachten Sie, dass das Rollout von Funktionen (und manchmal auch Fixes) für Insider häufig über einen längeren Zeitraum erfolgt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn Sie also unten nichts beschrieben sehen, machen Sie sich keine Sorgen, Sie werden es eventuell irgendwann erhalten.  
 
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
@@ -26,6 +26,36 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Microsoft Teams für vorhandene Installationen von Office 365 ProPlus – ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2003-march-06"></a>Version 2003: 6. März
+*Version 2003 (Build 12624.20086)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, bei dem das Erstellen einer Regel mit Outlook Web App auf dem Exchange-Server nicht beibehalten werden konnte und zu einem Konflikt geführt hat.
+- Wurde ein Problem mit Outlook im dunklen Modus behoben, wird möglicherweise die Dropdownliste im Feld "Von:" nicht angezeigt.
+- Behebt ein Problem, das bewirkt hat, dass Benutzer Dateien nicht über den Datei-Explorer ihrer E-Mail-Nachricht als Anlage hinzufügen konnten, wenn diese Datei in einer anderen Anwendung geöffnet war.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, bei dem die empfohlenen Miniaturansichten blinkten, wenn Sie mit der Maus auf die Miniaturansichten gingen. In einigen Fällen kann dies dazu führen, dass PowerPoint abstürzt.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit der compare-Funktion für Dokumente behoben, die für die Bearbeitung geschützt waren.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Behebt ein Problem mit Word/Excel/PowerPoint, bei dem der User-Principal-Name (UPN) nicht mehr die Groß-/Kleinschreibung beachtet, was zu weniger Fehlern beim Arbeiten mit Dateien in SharePoint führt.
+
+- Behebt ein kosmetisches Problem, bei dem die Schaltfläche "OK" im Dialogfeld „Datei \ Optionen“ abgeblendet angezeigt, die Funktionalität aber nicht beeinträchtigt wurde.
+
+[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
+
+[//]: # (FEATUREDETAILS CONTENT START NICHT ENTFERNEN)
 
 ## <a name="version-2003-february-28"></a>Version 2003: 28. Februar
 *Version 2003 (Build 12619.20002)*
@@ -2159,7 +2189,7 @@ Version 1905 (Build 11609.20002)
 
 ### <a name="outlook"></a>Outlook
 
-**Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen.
+**Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen:** Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen.
 
 ### <a name="excel"></a>Excel
 
@@ -2271,7 +2301,7 @@ Unter „Datei" > „Optionen" > Registerkarte „Allgemein" gibt es eine neue E
 
 #### <a name="learning-tools-mode-has-additional-support-for-more-page-colors"></a>Der Modus „Lerntools" unterstützt weitere Seitenfarben.
 
-Lerntools in Word unterstützt weitere Farben für Seitendesigns, wodurch die Hintergrundfarbe der Seite geändert werden kann.  Viele Personen haben Herausforderungen beim Lesen mit einem ganz weißen oder schwarzem Hintergrund, deshalb haben wir die Auswahl von Farben in Word auf PC und Mac erweitert.
+Lerntools in Word unterstützt weitere Farben für Seitendesigns, wodurch die Hintergrundfarbe der Seite geändert werden kann.  Für viele Personen ist es schwierig bei einem vollen weißen oder schwarzen Hintergrund zu lesen, deshalb haben wir die Auswahl von Farben in Word auf PC und Mac erweitert.
 
 #### <a name="getting-started"></a>Erste Schritte:
 
@@ -2451,7 +2481,7 @@ Erstellen Sie eine docm-Datei auf OneDrive for Business, teilen Sie sie mit Ihre
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="word"></a>Word 
-- Ein Problem mit einem Absturz wurde behoben, der beim Drücken von ESC in "Optionen" auftrat
+- Wir haben ein Absturzproblem behoben, der beim Drücken von ESC in "Optionen" auftrat
 - Die Ursache für einen Absturz wurde behoben, der beim Antworten auf Kommentare auftrat.
 - Ein Problem mit dem Kopieren und Einfügen von Word nach PowerPoint Online wurde behoben.
 
@@ -2496,7 +2526,7 @@ Korrekturen in unserem Produkt stellen nun sicher, dass Kommentare, Änderungsna
 ## <a name="notable-fixes"></a>Wichtige Fixes:
 
 ### <a name="word"></a>Word 
-- Ein Problem mit einem Absturz wurde behoben, der beim Drücken von ESC in "Optionen" auftrat
+- Wir haben ein Absturzproblem behoben, der beim Drücken von ESC in "Optionen" auftrat
 - Ein Problem mit dem Kopieren und Einfügen von Word nach PowerPoint Online wurde behoben.
 
 ### <a name="excel"></a>Excel
@@ -2537,8 +2567,8 @@ Geben Sie die Formen an, die Sie morphen möchten.
 #### <a name="getting-started"></a>Erste Schritte:
 
 - Damit beim Morphen zwei Objekte als das gleiche Objekt behandelt werden, kann der Benutzer die Formen über das Auswahlfenster umbenennen.
-- Der Name muss mit "!!"  (zwei Ausrufezeichen) beginnen, damit er beim Morphen zum Überschreiben des Standardabgleichsverhaltens verwendet wird, z. B. "!!Name".
-- Benutzer können Formen weiterhin mit beliebigen Namen umbenennen, die nicht mit "!!" beginnen,  ohne dass dadurch die Funktionsweise von Morph geändert wird.
+- Dem Namen muss "!!" vorangestellt werden. (zwei Ausrufezeichen) für Morph, um es zum Außerkraftsetzen des standardmäßigen Übereinstimmungsverhaltens zu verwenden, z. B. "!!Name"
+- Benutzer können Formen weiterhin in beliebige Namen umbenennen, die nicht mit "!!" beginnen ohne dass dadurch die Funktionsweise von Morph geändert wird.
 
 #### <a name="scenarios-to-try"></a>Mögliche Szenarien:
 
@@ -2668,7 +2698,7 @@ Version 1902 (Build 11326.20000)
 
 ### <a name="powerpoint"></a>PowerPoint
 - Ein Problem wurde behoben, durch das Benutzer eckige Klammern nicht mithilfe der Tastenkombinationen STRG+ALT+7/STRG+ALT+8 eingeben konnten.
-- Ein Problem wurde behoben, bei dem das Einfügen eines lokalen Videos in die PPT-Datei den Festplattenspeicher des Laufwerks C reduzierte.
+- Wir haben ein Problem behoben, bei dem das Einfügen eines lokalen Videos in die PPT-Datei den Festplattenspeicher des Laufwerks C reduzierte.
 - Die Schaltfläche "In Microsoft Stream veröffentlichen", die einigen Benutzern nicht angezeigt wurde, wurde korrigiert.
 
 ### <a name="outlook"></a>Outlook
