@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: ab61d74b3f6631e93ddf5352b65bf239e6063abc
-ms.sourcegitcommit: a1b7e6268b7409711c48461bf80c5f511c817444
+ms.openlocfilehash: 2a080c34ab66fdc76d646c142f37d1bb5fb96c4b
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42345134"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549176"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -29,6 +29,31 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2002-march-05"></a>Version 2002: 05. März
+*Version 2002 (Build 12527.20278)*
+
+- Korrekturen verschiedener Fehler und Leistungsprobleme.
+
+
+## <a name="version-2002-march-04"></a>Version 2002: 04. März
+*Version 2002 (Build 12527.20264)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+
+### <a name="project"></a>Project
+- <div>Ein Problem wurde behoben, bei dem Datumsangaben von Sammelvorgängen nicht immer richtig berechnet wurden.</div>
+
+
+### <a name="office-suite"></a>Office-Suite
+- <div>Behebt ein Problem, das dazu geführt hat, dass beim Öffnen mehrerer Dokumente in Word/Excel/PowerPoint aus derselben SharePoint-Bibliothek lediglich das erste geöffnete Dokument auf Richtlinienkonformität gescannt wurde.</div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSWENDE)
 
 ## <a name="version-2002-march-01"></a>Version 2002: 01. März
 *Version 2002 (Build 12527.20242)*
