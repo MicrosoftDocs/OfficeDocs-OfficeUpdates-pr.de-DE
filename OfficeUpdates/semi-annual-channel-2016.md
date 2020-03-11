@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für halbjährliche Kanal Versionen für Office 365 ProPlus in 2016
 ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439090"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549196"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
 
@@ -32,7 +32,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Es wurde ein Problem behoben, bei dem Skype for Business abstürzt, wenn freigegebener Inhalt vergrößert wird und der freigebende Benutzer eine Drittanbieterimplementierung von RDP verwendet.
 -   Es wurde ein Problem behoben, bei dem Skype for Business abstürzt, wenn die JAWS-Sprachausgabe ausgeführt wird und der Benutzer in eine Liste wie z. B. die Kontaktliste navigiert.
 
@@ -89,7 +89,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigte, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben konnte.
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Verbesserungen bei der #a0 Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Verbesserungen bei der & Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Zusätzliche Datenverbindungen:** Abfragen von Daten aus JSON- und Azure SQL Data Warehouse-Quellen.
 -   **Power Query-Verbesserungen:** Verbesserte und neue Funktionen zur Datentransformation und -konnektivität. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Umfangreiche Address Aware-Unterstützung:** 32-Bit-Versionen von Excel können mehr Speicher verwenden, falls verfügbar. [Weitere Informationen](https://support.microsoft.com/kb/3160741)
@@ -176,7 +176,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Microsoft-Sicherheitsbulletin [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
 -   Microsoft-Sicherheitsbulletin [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem ein Stellvertreter in Skype for Business nach dem Hinzufügen in Exchange Server auch dann nicht angezeigt wird, wenn Skype for Business neu gestartet wurde.
 -   Behebung eines Problems, bei dem der Skype for Business-Client eine Verbindung zu einem Skype for Business-Server im externen Netzwerk herstellt, obwohl das interne Unternehmensnetzwerk verfügbar ist.
 -   Es wurde ein Problem behoben, bei dem Skype bei einigen Benutzern in Besprechungen mit vielen Teilnehmern abstürzt (z. B. bei mehr als 30 Teilnehmern)
@@ -291,7 +291,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ## <a name="version-1602-august-9"></a>Version 1602:9. August
 *Version 1602 (Build 6741.2063)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit einem letzten Sicherheitsupdate, aufgrund dessen beim Öffnen einer HTML-Datei von einem nicht vertrauenswürdigen Speicherort ein leerer Bildschirm ohne Fehlermeldungen in Excel angezeigt wurde. Der Benutzer konnte die Datei nicht in der geschützten Ansicht öffnen.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
@@ -316,7 +316,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 *Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2063) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit einem letzten Sicherheitsupdate, aufgrund dessen beim Öffnen einer HTML-Datei von einem nicht vertrauenswürdigen Speicherort ein leerer Bildschirm ohne Fehlermeldungen in Excel angezeigt wurde. Der Benutzer konnte die Datei nicht in der geschützten Ansicht öffnen.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
@@ -643,7 +643,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 *Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2056) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden der Konferenzfunktionen, u. a. Whiteboard oder Freigeben von Notizen, eine Fehlermeldung angezeigt wurde. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates

@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2016
 ms.openlocfilehash: f2d8fe18751f3b3b7dac9af3412c872325e23949
-ms.sourcegitcommit: e56cc65eb81d949b065e46c847cf8073aa4307e0
+ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/30/2020
-ms.locfileid: "41629242"
+ms.lasthandoff: 03/06/2020
+ms.locfileid: "42549246"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2016"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2016
 
@@ -46,7 +46,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie eine Arbeitsmappe in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Verbesserte Eingabehilfen:** Verbesserte Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien zum Lesen und Bearbeiten von Arbeitsmappen. [Weitere Informationen](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Beheben Sie ein Problem, bei dem ein Hyperlink, der eine Verkettungsformel enthält, einen Teil des Verkettungsergebnisses ignoriert.
 -   Beheben Sie ein Problem, bei dem beim Einfügen einer Excel-Tabelle im Rich-Text-Format (RTF) in Word das Tabellenformat nicht beibehalten wird.
 -   Beheben Sie ein Problem, bei dem der Benutzer die Aktion „Speichern unter“ nicht ausführen kann, wenn die Arbeitsmappe eine MS Excel 4.0-Makrovorlage enthält.
@@ -125,7 +125,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Verbesserte Eingabehilfen:** Verbesserte Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien zum Lesen und Bearbeiten von Dokumenten. [Weitere Informationen](https://support.office.com/article/69aed572-336e-4722-a97e-23393cc481b2)
 -   **Tippen:** Durchsuchen und Wiederverwenden von Inhalten aus relevanten Dokumenten Ihrer Organisation. [Weitere Informationen](https://support.office.com/article/860118fc-1f61-41f6-922f-40084a284658)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Beheben Sie ein Problem, bei dem nach zwei oder drei Strichen verknüpfte Striche nicht mehr angezeigt werden.
 -   Beheben Sie ein Problem, bei dem Anführungszeichen bei Verwendung des Eingabemethoden-Editors (IME) von Google nicht angezeigt werden.
 
@@ -162,7 +162,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Kopieren von Abschnitten:** Kopieren und Einfügen von Abschnitten zwischen Präsentationen.
 -   **Für mich freigegeben:** Finden Sie Dokumente, die andere Personen für Sie freigegeben haben, indem Sie zu Datei \> Öffnen \> Für mich freigegeben wechseln. [Weitere Informationen](https://support.office.com/article/e0476dc7-bf2f-4203-b9ad-c809578b03e7)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem bei Unterhaltungen in Registerkarten beim Doppelklicken auf eine Registerkarte und Beginnen der Eingabe manchmal der Fokus zu einer anderen Registerkarte wechselt und die Eingabe in diesem Unterhaltungsfenster fortgesetzt wird.
 -   Behebung eines Problems, bei dem in einer Chatnachricht enthaltene URLs im Chat-Verlaufsfenster nicht mithilfe der Tastatur markiert werden können.
 -   Behebung eines Problems, bei dem ein Texteingabesound wiedergegeben werden sollte, wenn das Kontrollkästchen "Sound wiedergeben, wenn während einer Chatunterhaltung von einer Person Text eingeben wird" unter den Optionen für Klingeltöne und Sounds aktiviert ist.
@@ -212,12 +212,12 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1609-november-2"></a>Version 1609:2. November
 *Version 1609 (Build 7369.2054)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem durch die Verwendung von VBA-Code zum Kopieren eines Arbeitsblatts ausgeblendete Arbeitsblätter eingeblendet werden.
 -   Behebung eines Problems bei der Verwendung von Solver, bei dem nach der Wahl von "Lösen" eine Fehlermeldung "Datei nicht gefunden Solver32.dll" angezeigt wird.
 -   Behebung eines Problems, bei dem das Symbol für das Add-In "Bing-Karte" nicht angezeigt wird, wenn Sie einen Monitor mit hohem DPI-Wert verwenden und der Fingereingabemodus für das Menüband aktiviert ist.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Outlook abstürzt, wenn eine erweiterte Suche über mehrere Ordner ausgeführt wird.
 -   Behebung eines Problems, bei dem der bei einer Suche in das Textfeld "cc" eingegebene Text nicht an das Hauptsuchfeld angefügt wird und keine Suche erfolgt.
 -   Behebung eines Problems, bei dem in einer Unterhaltung mit mehreren Nachrichten, die Anlagen aufweisen, Outlook beim Öffnen einer Anlage in einer dieser Nachrichten abstürzt, wenn die Anlage an einem Onlinespeicherort gespeichert ist.
@@ -233,7 +233,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem Visio nach dem Schließen einer gespeicherten Visio-Datei nicht geschlossen wird.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem der Fokus zu einem kleinen Dialogfeld in der rechten oberen Ecke wechselt, wenn mit einem Eingabemethoden-Editor (IME) ostasiatische Zeichen eingegeben werden, und der Benutzer dann das Dokument nicht weiter bearbeiten kann.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -251,7 +251,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Schreiben in die Registrierung auf einem Computer, auf dem das Schreiben in die Registrierung nicht zulässig ist, OneNote abstürzte.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim digitalen Signieren oder Verschlüsseln einer E-Mail-Nachricht mit einer Anlage, die Inhalte der Anlage verloren gingen.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
@@ -281,7 +281,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person zum Textkörper einer e-Mail oder eines Kalenderelements hinzufügen. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden von benutzerdefinierten Briefpapier als Standarddesign zusätzliche Zeilenumbrüche zu neuen E-Mail-Nachrichten hinzugefügt und die Schriftart auf Calibri festgelegt wurden.
 -   Behebung eines Problems, aufgrund dessen Outlook beim Öffnen nicht mehr reagierte, wenn die Windows-Anzeige auf 125 % festgelegt war.
 -   Behebung eines Problems, aufgrund dessen die für OLE-Verknüpfungen eingefügten Zellen aus Entwurfs-E-Mails entfernt wurden.
@@ -297,7 +297,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen das automatische Verlinken eines Screenshots mit der URL des Browserfensters nicht funktionierte.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Skype for Business die Skalierung mit Monitoränderungen beim Verwenden von Monitoren mit unterschiedlichen Auflösungen nicht aktualisierte, insbesondere bei Monitoren mit hoher Auflösung.
 -   Behebung eines Problems, aufgrund dessen beim Verwenden der Tastatur zum Anzeigen der Teilnehmerliste in einer Chatunterhaltung der Chatverlauf angezeigt wurde, anstelle der Teilnehmerliste.
 -   Behebung eines Problems, aufgrund dessen die QuickInfos auf dem Bildschirm „Teilnehmeraktionen“ verschwanden, wenn ein Windows-Design mit hohem Kontrast verwendet wurde.
@@ -324,7 +324,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Version and build information:** Version and build information is shown in the Version YYMM (Build \#\#\#\#.\#\#\#\#) format in the Office Updates section when you go to File \> Account. For example, for this release, Version 1609 (Build 7369.2024).
 -   **Lizenzierungstokenerneuerung für die Aktivierung gemeinsam genutzter Computer:** Office versucht, das Lizenzierungstoken für die Aktivierung von gemeinsam genutzter Computer regelmäßig zu erneuern, sobald das Token zu 50 % abgelaufen ist, um Benutzer zu unterstützen, die nicht immer über Internetzugriff verfügen.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Durchführen einer Onlinereparatur die Installationsbenutzeroberfläche nicht angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen das Kontrollkästchen „Nach Onlinevorlagen suchen“ selbst dann aktiviert war, wenn der Zugriff auf Onlinevorlagen durch eine Gruppenrichtlinieneinstellung oder eine Registrierungseinstellung deaktiviert war.
 
@@ -337,7 +337,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen beim Wechsel vom Lasso zum Freihandmodus unerwünschte Freihandstriche angezeigt wurden.
 -   Behebung eines Problems, aufgrund dessen beim Verschieben von Inhalt per Drag&Drop mit Lasso OneNote abstürzte.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Öffnen einer Office-App eine Fehlermeldung angezeigt wurde, dass Microsoft die Lizenz für die Anwendung nicht finden konnte und ein Reparaturversuch nicht erfolgreich oder abgebrochen wurde, und anschließend die Office-App geschlossen wurde.
 
 
@@ -348,7 +348,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Power Query-Layouts beibehalten:** Formate und berechnete Spalten für Daten, die durch Abrufen und Transformieren importiert werden, werden dem Aktualisieren von Abfragen beibehalten.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem die Verwendung des R1C1-Formatvorlagenverweises in der INDIRECT-Funktion mit einer französischen oder deutschen Version von Excel zu einem \#REF!-Fehler anstelle des erwarteten Verweiswerts führt.
 -   Behebung eines Problems, bei dem die EINGABETASTE beim Erstellen einer benutzerdefinierten Sortierliste im Dialogfeld „Benutzerdefinierte Listen“ nicht zum Trennen von Listeneinträgen verwendet werden kann.
 -   Behebung eines Problems, bei dem durch Kopieren oder Verschieben von Informationen eine Fehlermeldung verursacht wird, z. B. „Zwischenablage konnte nicht geöffnet werden“ oder „Wir konnten keinen Platz in der Zwischenablage freimachen. Möglicherweise verwendet gerade ein anderes Programm die Zwischenablage.“
@@ -356,7 +356,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Mini-Vorschau für angefügte Fotos**: Wenn ein Foto an eine E-Mail-Nachricht angefügt ist, wird in Outlook eine kleine Vorschau des Fotos in der Nachricht angezeigt.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen in den von Outlook 2016 gesendeten Besprechungseinladungen Bilder fehlten, wenn die Einladungen in Outlook 2013 oder Outlook 2010 empfangen wurden.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -370,7 +370,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 -   **Citrix-Unterstützung**: Unterstützung für Citrix-basierte VDI-Umgebungen (Virtual Desktop Infrastructure) zusammen mit Citrix HDX Real Time Optimization Pack 2.1.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem eine videobasierte Peer-to-Peer-Bildschirmfreigabesitzung zu einer erhöhten CPU-Auslastung führt und bewirkt, dass Apps und das Betriebssystem auf dem Computer des Referenten weniger schnell reagieren, wenn der Referent eine oder mehrere Anzeigen mit ultrahoher Auflösung verwendet.
 -   Behebung eines Problems, bei dem das Ändern der Größe des Skype for Business-Fensters auf die minimale Größe dazu führt, dass die Voicemailliste nicht sichtbar ist.
 -   Behebung eines Problems, bei dem durch Klicken auf die Schaltfläche „Besprechungsoptionen“ nach dem Öffnen oder Erstellen einer Skype-Besprechung Outlook abstürzt.
@@ -409,7 +409,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1607-september-6"></a>Version 1607:6. September
 *Version 1607 (Build 7167.2055)*
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit binärer Deltakomprimierung, aufgrund dessen die Größe des Downloads der Updates für den vorherigen Build größer als zulässig war.
 
 
@@ -417,7 +417,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1607-august-31"></a>Version 1607:31. August
 *Version 1607 (Build 7167.2047)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Outlook beim Entwerfen eines benutzerdefinierten Formulars beim Ziehen von Feldern in das Formular abstürzte.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -468,7 +468,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1606-august-9"></a>Version 1606:9. August
 *Version 1606 (Build 7070.2036)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit einem letzten Sicherheitsupdate, aufgrund dessen beim Öffnen einer HTML-Datei von einem nicht vertrauenswürdigen Speicherort ein leerer Bildschirm ohne Fehlermeldungen in Excel angezeigt wurde. Der Benutzer konnte die Datei nicht in der geschützten Ansicht öffnen.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
@@ -497,14 +497,14 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die App beim Ausführen einer Abfrage mit einer Sortierung unter Verwendung des Access-Datenbankmoduls abstürzte, z. B. in der Access-App oder mit einem Add-In, die bzw. das das Access-Datenbankmodul als Datenanbieter verwendet.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Einfügen einer PivotTable basierend auf einem ungültigen Bereich eine falsche Fehlermeldung angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer Arbeitsmappe, die eine programmgesteuerte Ebene zum Rückgängigmachen unter Verwendung von Application.OnUndo umfasste, die letzte an der Arbeitsmappe vorgenommene Änderung rückgängig gemacht wurde.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen ein leeres Unterhaltungsfenster angezeigt wurde, wenn der Benutzer unter Verwendung eines Kontos, das nicht mit der Organisation verbunden ist, die die Besprechung hostet, an einer Besprechung teilnahm.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die gleichzeitige Ausführung von Office durch mehrere Benutzer auf einem Computer mit einer bestimmen Berechtigungskonfiguration zu einem Absturz von Office führte.
 -   Behebung eines Problems, aufgrund dessen die Verwendung von Office-Add-In-Befehlen manchmal zu einem Absturz von Excel, Word oder PowerPoint führte.
 
@@ -517,10 +517,10 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen beim Bewegen des Mauszeigers die Verschiebehand ausgeblendet wurde.
 -   Behebung eines Problems, aufgrund dessen das Löschen eines Tabelle zu einem Absturz von OneNote führte.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen das Anzeigen einer Besprechungsanfrage beim Ausführen eines Listeners für die Microsoft-Benutzeroberflächenautomatisierung wie Narrator zu einem Absturz von Outlook führte.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem beim Aktualisieren von Office ODBC-Registrierungseinträge überschrieben werden und das Microsoft Access Database Engine Redistributable neu installiert oder repariert werden muss.
 
 
@@ -540,10 +540,10 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem das Öffnen eines Dokuments auf einem Server, der eine formularbasierte Authentifizierung erfordert, bewirkt, dass Word abstürzt.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem PowerPoint, Word oder Excel abstürzen, wenn ein Office-Dokument von einer URL geöffnet wird, z. B. von SharePoint, und die URL mit dem Zeichen / endet.
 
 
@@ -564,7 +564,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Verbesserungen bei der Datenumwandlung:** Konvertieren von Werten für die Dauer in Jahre, Unterstützung für Leerzeichen und Zeilenvorschüben in der Abfrage-Editor-Vorschau, und direktes Umbenennen von Abfragen im Abfragebereich.
 -   **Verbesserungen bei der Datenkonnektivität:** Erkennen von ungleichmäßigen CSV-Dateien, Unterstützung der Authentifizierung bei einem Microsoft-Konto bei Verwendung des Exchange-Connectors und Überprüfen der URLs, die von Benutzern bereitgestellt werden, wenn diese versuchen, eine Verbindung zu ihrer SharePoint-Liste herzustellen.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem beim Erstellen einer neuen Nachricht an einen Kontakt der Name des Empfängers dreimal in das Feld „An:“ eingetragen wird, obwohl nur eine E-Mail-Adresse für den Kontakt vorhanden ist.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
@@ -578,16 +578,16 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1605-june-30"></a>Version 1605:30. Juni
 *Version 1605 (Build 6965.2063)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Verbesserung der Darstellung von Nachrichten, die Tabellen enthalten, wenn hohe DPI-Werte verwendet werden.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem durch automatisches Speichern einer Präsentation mit einem Diagramm PowerPoint abstürzt.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem der Skype for Business-Client eine Verbindung zu einem Skype for Business-Server im externen Netzwerk herstellt, obwohl das interne Unternehmensnetzwerk verfügbar ist.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem beim Einfügen eines Objekts über „Aus Datei erstellen“ und Auswählen einer JPG-, GIF- oder PNG-Datei eine Fehlermeldung zu „htmlfile“ ausgegeben wird, anstatt ein Symbol zur Darstellung des OLE-Objekts einzufügen.
 -   Behebung eines Problems, bei dem das Einfügen eines Bilds in ein Inhaltssteuerelement für ein Bild fehlschlägt.
 -   Behebung eines Problems, bei dem Word nicht mehr reagiert, wenn mit Dokumenten gearbeitet wird, die Links zu PowerPoint-Folien enthalten.
@@ -620,7 +620,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Es wurde ein Problem behoben, bei dem Word abstürzt, wenn der Benutzer beim Einfügen einer SmartArt-Grafik die Option „Ursprüngliche Formatierung beibehalten“ auswählt.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
@@ -632,9 +632,9 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 *Version 1605 (Build 6965.2053)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Verbesserungen bei der #a0 Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Verbesserungen bei der & Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Es wurde ein Problem behoben, bei dem Dropdownlisten für die Datenüberprüfung in Arbeitsmappen mit mehreren Arbeitsblättern beschädigt und dupliziert werden.
 -   Es wurde ein Problem behoben, bei dem Dateizuordnungen in Excel verloren gehen, wenn eine frühere Version von Office vom Computer deinstalliert wird.
 -   Es wurde ein Problem behoben, bei dem Excel gelegentlich auch nach dem Speichern einer Datei eine temporären Datei beibehält.
@@ -673,7 +673,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 
     Hinweis: Vorhandene Dokumente, die mit einer Vorlage geschützt sind, für die diese Einstellung konfiguriert ist, werden nicht geändert. Der Besitzer verfügt weiterhin über permanenten Vollzugriff für diese Dokumente.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Es wurde ein Problem beim Zwischenspeichern behoben, das dazu führte, dass einige Office 2013-Lizenzierungs- und Programminstallationsinformationen gelöscht wurden, bevor ein von Microsoft initiiertes Upgrade der Office 2013-Version eines Office 365-Clients, wie z. B. Office 365 ProPlus, auf die Office-Version 2016 durchgeführt wurde.
 
 
@@ -681,18 +681,18 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1604-may-23"></a>Version 1604:23. Mai
 *Version 1604 (Build 6868.2067)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem der Link zur Ansicht älterer Nachrichten auf dem Server nicht am Ende der Nachrichtenliste im Ordner (z. B. „Posteingang“ oder „Gelöschte Elemente“) angezeigt wird.
 -   Es wurde ein Problem behoben, bei dem Outlook nicht den Inhalt der Nachricht sendet, wenn Nachrichten mithilfe einer MSG-Datei gesendet werden.
 -   Das Tool zum Reparieren des Posteingangs (scanpst.exe) wurde aktualisiert und erkennt nun Probleme mit beschädigten Dateien, die sich auf die Indizierung und das Durchsuchen von PST-Dateien beziehen, und es kann diese Dateien korrigieren. Diese Art der Beschädigung kann verhindern, dass PST-Dateien geladen werden, kann zum Abstürzen von Outlook führen oder eine hohe CPU-Auslastung verursachen.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
 -   Es wurde ein Problem behoben, bei dem nach dem Neustart von PowerPoint nach einem Absturz und dem Verwenden des Aufgabenfensters „Dokumentwiederherstellung“ eine Fehlermeldung angezeigt wird, wenn Sie versuchen, die wiederhergestellte Datei zu speichern oder die Originaldatei zu öffnen.
 -   Es wurde ein Problem behoben, bei dem PowerPoint abstürzt, wenn Sie versuchen, eine wiederhergestellte Datei zu speichern, die nach einem vorherigen PowerPoint-Absturz erstellt wurde.
 -   Es wurde ein Problem behoben, bei dem PowerPoint abstürzt, wenn Sie versuchen, eine Präsentation mit einer Tabelle als PDF-Datei zu speichern.
 -   Es wurde ein Problem behoben, bei dem beim Speichern einer Präsentation im RTF-Format oder beim Kopieren des Texts in einen Rich-Text-Editor wie WordPad Zahlen und Leerräume verloren gehen.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Es wurde ein Problem behoben, bei dem Word abstürzt oder die SmartArt-Grafik leer angezeigt wird und nicht mehr ausgewählt werden kann, wenn Sie eine Rückgängig-Aktion durchführen, nachdem Sie eine SmartArt-Grafik durch Ziehen verschoben haben.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -721,13 +721,13 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Power Query-Verbesserungen:** Verbesserte und neue Funktionen zur Datentransformation und -konnektivität. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Umfangreiche Address Aware-Unterstützung:** 32-Bit-Versionen von Excel können mehr Speicher verwenden, falls verfügbar. [Weitere Informationen](https://support.microsoft.com/kb/3160741)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem der Startbildschirm bei aktivierten Add-ins angezeigt wird, obwohl dieser gemäß Ihrer Konfiguration beim Öffnen von Excel nicht angezeigt werden soll.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
 -   **Liste mit Anlagen für Unterhaltungen:** Alle Anlagen für eine Unterhaltung in einer Office 365-Gruppe sind in einer Dropdownliste in der rechten oberen Ecke des Lesebereichs verfügbar.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Nachrichtenklassifikationen in Nur-Text-Nachrichten nicht immer angezeigt wurden.
 -   Behebung eines Problems, bei dem die Outlook-Suche doppelte Ergebnisse zurückgab, wenn die Option Unterhaltungseinstellungen \> Ansicht mit klassischem Einzug verwenden aktiviert war.
 -   Behebung eines Problems mit der Tabstoppnavigation in Feldern beim Erstellen einer neuen Nachricht in der spanischen Outlook-Version.
@@ -740,7 +740,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1603-april-28"></a>Version 1603:28. April
 *Version 1603 (Build 6769.2040)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit dem inkorrekten Import eines benannten Bereichs bei der Verwendung von Daten \> Abrufen und Transformieren \> Aus Tabelle.
 -   Behebung eines Problems, bei dem Makros auf Computern, auf denen die Protokollierung für das Telemetriedashboard aktiviert ist, deutlich langsamer ausgeführt werden.
 
@@ -767,7 +767,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebt ein Problem, bei dem nach dem Erstellen von Teilergebnissen der ausgewählte Bereich nicht für die Aufnahme der Teilergebnisse erweitert wird.
 -   Behebt ein Problem, bei dem eine Datei auf einem FTP-Server nicht geöffnet werden kann.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebt ein Problem, bei dem Bilder in HTML-Signaturen als graue Felder angezeigt werden, wann neue Nachrichten oder Antworten gesendet werden.
 -   Behebt ein Problem, bei dem im Suchordner für gelesene Elemente auch ungelesene Elemente angezeigt werden.
 
@@ -780,7 +780,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebt ein Problem, bei dem Shapes, die in einer CAD-Zeichnung platziert werden, nicht in der richtigen Größe exportiert werden.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Fügt eine Schaltfläche „Auswählen“ zum Menüband in Word, Excel und PowerPoint hinzu, die es Benutzern ermöglicht, auszuwählen, ob ein Stift für Freihandanmerkungen oder Mausemulation verwendet wird.
 
 
@@ -788,7 +788,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1602-march-24"></a>Version 1602: März 24
 *Version 1602 (Build 6741.2021)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebt ein Problem, bei dem das Verwenden von Tastenkombinationen für den Zugriff auf einen Anhang in einer E-Mail-Nachricht zum Absturz von Outlook führt.
 
 
@@ -799,7 +799,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Veröffentlichen in Power BI:** Speichern und Veröffentlichen von Arbeitsmappenelementen wie Diagrammen, Bereichen und Tabellen auf powerbi.com und Interagieren mit diesen Daten in einem Dashboardformat. Erfordert ein Power BI-Abonnement. [Weitere Informationen](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden eines Farbdesigns und Ausführen eines Makros oder Add-Ins die Statusleiste in Grün mit grauem Text angezeigt wurde, sodass Benutzer nur mit Mühe den Status in der Statusleiste lesen konnten.
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -823,13 +823,13 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Klicken auf der Taskleiste auf das Vorschaubild für ein neues Unterhaltungsfenster Skype for Business abstürzte.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebt ein Problem, bei dem der Cursor hinter der Benutzereingabe zurückbleibt.
 
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 -   **Kleine Objektauswahlpunkte:** Verbesserte Auswahlpunkte, damit Benutzer kleine Objekte in Word, Excel, PowerPoint und Outlook leichter bearbeiten können, insbesondere beim Verwenden eines Geräts mit Touchfunktion.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Fügen Sie eine Option unter Datei \> Optionen \> Erweitert in Word, Excel und PowerPoint hinzu, damit Benutzer das Standardverhalten für die Verwendung eines Stifts als Maus statt Freihandanmerkungen festlegen können.
 
 
@@ -837,7 +837,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1601-march-4"></a>Version 1601:4. März
 *Version 1601 (Build 6568.2036)*
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen bei Verwendung von POP3 alle E-Mails auf dem Server aus dem Posteingang gelöscht wurden, nachdem Outlook die E-Mails heruntergeladen hat. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 -   Behebung eines Problems, bei dem e-Mail-Nachrichten, wenn Sie für die Verwendung von POP3 konfiguriert sind, mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 
@@ -852,7 +852,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die App abstürzte, wenn der Benutzer die Datei mithilfe von Adobe Acrobat PDF Maker in eine PDF-Datei konvertierte.
 
 
@@ -881,7 +881,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Optionen für die Grammatikprüfung:** Zusätzliche oder aktualisierte Optionen für die Grammatikprüfung für Französisch, Norwegisch und Dänisch, die zur Hervorhebung zusätzlicher Grammatikfehler führen.
 -   **Feedback senden:** Vorschlagen eines Features oder einer Verbesserung für Outlook auf der UserVoice-Website über „Datei \> Feedback“.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Bilder in der falschen Größe beim Senden von E-Mails zwischen einem Gerät mit hoher DPI und einem Monitor mit normaler DPI angezeigt werden.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
@@ -897,7 +897,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **Optionen für die Grammatikprüfung:** Zusätzliche oder aktualisierte Optionen für die Grammatikprüfung für Französisch, Norwegisch und Dänisch, die zur Hervorhebung zusätzlicher Grammatikfehler führen.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem eine E-Mail-Zusammenführung mit Outlook-Kontakten zu einer Fehlermeldung führt.
 -   Behebung eines Problems bei der Verwendung von Word mit virtuellen Desktops in Windows 10.
 
@@ -927,7 +927,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1511-january-25"></a>Version 1511:25. Januar
 *Version 1511 (Build 6366.2062)*
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem das Verwenden von Application.OnKey() zum Abfangen eines Tastendrucks Excel zum Absturz bringt.
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
