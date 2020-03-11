@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 974a5db6f3bfba2bb20cd75f4e35a2777ea94ca8
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 534e73bc6da5a7ee6d8100a925f6f1ce3dfec82d
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978583"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586664"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal im Jahr 2020
 
@@ -25,6 +25,49 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
 
+
+
+
+## <a name="version-1908-march-10"></a>Version 1908: 10. März
+*Version 1908 (Build 11929.20648)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- <div><span>Es wurde ein Problem behoben, durch das einigen Benutzern mehrere Popupfenster angezeigt wurden, wenn externe Links in der Arbeitsmappe vorhanden waren.&nbsp;</span></div>
+
+
+- <div><span style="display:inline !important;">Die Funktion "Text in Spalte" funktioniert bei einigen Gebietsschemas möglicherweise nicht.</span><br></div>
+
+
+- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.</span></div>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- <div>Ein Problem mit der Shape.Paste-Methode wurde behoben: Wenn der Benutzer die Form mit der &nbsp;Shape.Paste-Methode&nbsp;<span style="font-size:13.3333px;display:inline !important;"> kopiert und einfügt, wird die Auswahl in die eingefügte Form geändert.</span></div>
+
+
+### <a name="word"></a>Word
+
+- <div>Ein Problem wurde behoben, bei dem das Speichern einer vorhandenen Datei in einigen Fällen das Dialogfeld "Speichern unter" aufruft und die Datei nie wirklich gespeichert wird.<br></div>
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- <div><span>Diese Änderung betrifft die langsame Darstellung einiger Streudiagramme mit Markierungen.</span></div>
+
+## <a name="version-1902-march-10"></a>Version 1902: 10. März
+*Version 1902 (Build 11328.20554)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
 
 ## <a name="version-1908-february-11"></a>Version 1908: 11. Februar
 *Version 1908 (Build 11929.20606)*
@@ -74,7 +117,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/de-DE/officeupdates/of
 
 - Es wurde ein Problem behoben, das zu einer langsameren Leistung zwischen Nutzern, die zusammenarbeiten, führte.
 
-- Es wurde ein Problem behoben, das auftreten konnte, wenn eine Datei, die schrittweise geöffnet wurde, eine Folie mit mehr als einem eingebetteten Mediendatenstrom enthielt.
+- Es wurde ein Problem behoben, das auftreten konnte, wenn eine Datei, die inkrementell geöffnet wurde, eine Folie mit mehr als einem eingebetteten Mediendatenstrom enthielt.
 
 - Wir haben ein Problem behoben, bei dem beim ersten Start von PowerPoint möglicherweise keine Sicherheitswarnmeldung für nicht vertrauenswürdige Add-Ins angezeigt wird.
 

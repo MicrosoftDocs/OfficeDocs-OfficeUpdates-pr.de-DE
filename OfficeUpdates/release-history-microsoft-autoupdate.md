@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: 25aec4548d1cc6aacd0993a5c88a363370774be5
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: b18b35e7e719669decac4b47b47a41595a5c127f
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403794"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586492"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,26 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="march-2020-release"></a>Version von März 2020
+
+**Veröffentlichungsdatum:** 10. März 2020
+
+*Microsoft Auto Update 4.21*
+
+ **Featureupdates:**
+
+- Statuswiederherstellung aktiviert für Word, Excel und PowerPoint, wenn diese Anwendungen ohne geöffnete Fenster oder mit dem Docstage-Status im Modus "Automatische Updates" von Microsoft AutoUpdate ausgeführt werden. Jetzt werden Updates für Endbenutzer im Modus "Automatische Updates" noch unauffälliger ausgeführt, da Benutzer ihre Apps, die sich für ein Update über die Zustandswiederherstellung qualifizieren, nicht beenden müssen.
+
+
+**MAU-Updatelink:**
+
+[Microsoft Auto Update 4.21-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+46887320AD18BAA9239629A6CFDE83339EBCAA5562822FDFCFEA74D65D0D4FB6
+<br/><br/>
 
 ## <a name="february-2020-release"></a>Release von Februar 2020
 
