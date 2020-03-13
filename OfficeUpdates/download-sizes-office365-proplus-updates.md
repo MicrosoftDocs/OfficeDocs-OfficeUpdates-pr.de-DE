@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 90560ad20c016ad985a3382c2030a1c1d792e507
-ms.sourcegitcommit: 4be8cb98eca74452720348595f0b8cfeaba4cef8
+ms.openlocfilehash: 5d77b6ec5df86de35ef51c6ea8fa16ce9285b9a4
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2020
-ms.locfileid: "42568841"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586402"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -30,13 +30,23 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-## <a name="march-6-2020"></a>6. März 2020
+## <a name="march-10-2020"></a>10. März 2020
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 2002 (Build 12527.20278).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.20242) <br/> |1. März 2020 <br/> |40<br/> |
+|Version 2002 (Build 12527.20194) <br/> |25. Februar 2020 <br/> |266<br/> |
+
+
+[//]: # (INHALT NICHT ENTFERNEN START10. März 2020)
 
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 
-<i>Das erwartete Release ist Version 1908 (Build 11929.20648).</i>
+Das neueste Release ist Version 1908 (Build 11929.20648).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -44,9 +54,9 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 1908 (Build 11929.20562) <br/> |14. Januar 2020 <br/> |73<br/> |
 
 
-### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
+### <a name="semi-annual-targeted-channel"></a>Halbjährlicher(zielgerichteter) Kanal
 
-<i>Das erwartete Release ist Version 2002 (Build 12527.20278).</i>
+Das neueste Release ist Version 2002 (Build 12527.20278).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -54,7 +64,12 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 1908 (Build 11929.20562) <br/> |14. Januar 2020 <br/> |292<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALT NICHT ENTFERNEN ENDE10. März 2020)
+
+## <a name="march-6-2020"></a>6. März 2020
+
+
+
 
 ## <a name="march-1-2020"></a>1. März 2020
 
