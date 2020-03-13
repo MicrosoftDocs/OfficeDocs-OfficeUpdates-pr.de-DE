@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: d76beb68ed6a3e64b5ad8070566e2e864fd898e2
-ms.sourcegitcommit: 6d822269cc24b803dce007a19c5600c1921d110a
+ms.openlocfilehash: 8bd48123203d1cf061d595f8e8ff851cef309c45
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42403804"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586392"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -38,12 +38,13 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|10. März 2020   |Version 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11. Februar 2020   |Version 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759) <br/>  |
 |14. Januar 2020   |Version 1808 (Build 10354.20022)  |[CVE-2020-0650](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0650) <br/> [CVE-2020-0651](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0651) <br/> [CVE-2020-0652](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0652) <br/>  |
 |10. Dezember 2019   |Version 1808 (Build 10353.20037)  |[CVE-2019-1400](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1400) <br/> [CVE-2019-1461](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1461) <br/> [CVE-2019-1462](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1462) <br/> [CVE-2019-1463](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1463) <br/> [CVE-2019-1464](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1464) <br/> |
 |12. November 2019   |Version 1808 (Build 10352.20042)  |[CVE-2019-1402](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1402) <br/> [CVE-2019-1446](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1446) <br/> [CVE-2019-1448](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1448) <br/> [CVE-2019-1449](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1449) <br/>  |
 |8. Oktober 2019   |Version 1808 (Build 10351.20054)  |[CVE-2019-1327](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1327) <br/> [CVE-2019-1331](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1331) <br/> |
-|10. September 2019   |Version 1808 (Build 10350.20019)  |[CVE-2019-1246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1246) <br/> [CVE-2019-1263](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1263) <br/> [CVE-2019-1264](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1264) <br/> [CVE-2019-1297](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-1297) <br/>  |
+
 
 
 
@@ -58,6 +59,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|10. März 2020   |Version 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |1. März 2020   |Version 2002 (Build 12527.20242)  |Behebt ein Problem, das bewirkt hatte, dass Anwendungen von Drittanbietern über Outlook keine E-Mails mehr senden konnten. <br/>  |
 |25. Februar 2020   |Version 2002 (Build 12527.20194)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |11. Februar 2020   |Version 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759) <br/>  |

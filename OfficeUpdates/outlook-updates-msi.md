@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: ec9d4f1ea0cad201e25153455c896e2889d8e59a
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 6c5a726b98c0cd9d5c5de8535163b1e89a42dcf7
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978683"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586512"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -43,7 +43,7 @@ Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Februar 2020 <br/>[KB4484250](https://support.microsoft.com/help/4484250) 
+|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom März 2020 <br/>[KB4462111](https://support.microsoft.com/help/4462111) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013-Updates
 

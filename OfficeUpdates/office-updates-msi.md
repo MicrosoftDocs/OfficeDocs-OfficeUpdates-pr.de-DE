@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: 43524d948ef4520ae8e378b70dc0fc5f55ceb853
-ms.sourcegitcommit: 3598ca5e26109a1f99349ce3a4e70cb1d6f13e05
+ms.openlocfilehash: 3a69734af72daa708ff664e31a28a3231dea759b
+ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2020
-ms.locfileid: "41978693"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42586502"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
@@ -31,23 +31,25 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
 
 |**Versionen und Produkte**|**Neustes Service Pack (SP)**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |Nicht zutreffend  <br/> |Öffentliches Update vom Februar 2020  <br/> [KB4538704](https://support.microsoft.com/help/4538704) <br/> |
+|**2016** <br/> Office 2016  <br/> Project 2016  <br/> Visio 2016  <br/> |–  <br/> |Öffentliches Update vom März 2020  <br/> [KB4538705](https://support.microsoft.com/help/4538705 ) <br/> |
    
 ## <a name="office-2013-updates"></a>Office 2013-Updates
 
 |**Versionen und Produkte**|**Neustes Service Pack (SP)**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|:-----|
-|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Öffentliches Update vom Februar 2020  <br/> [KB4538704](https://support.microsoft.com/help/4538704) <br/> |
+|**2013** <br/> Office 2013  <br/> Project 2013  <br/> Visio 2013  <br/> Office Web Apps  <br/> SharePoint 2013  <br/> Project Server 2013  <br/> |SP1 <br/> [KB2850036](https://support.microsoft.com/kb/2850036) <br/>[KB2850035](https://support.microsoft.com/kb/2850035) <br/> |Öffentliches Update vom März 2020  <br/> [KB4538705](https://support.microsoft.com/help/4538705 ) <br/> |
    
 ## <a name="office-2010-updates"></a>Office 2010-Updates
 
 |**Versionen und Produkte**|**Neustes Service Pack (SP)**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|:-----|
-|**2010** <br/> Office 2010-Produktfamilien  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010-Server  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010-Produkte  <br/> Project Server 2010  <br/> FAST Search Server 2010 für SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Öffentliches Update vom Februar 2020  <br/> [KB4538704](https://support.microsoft.com/help/4538704) <br/>|
+|**2010** <br/> Office 2010-Produktfamilien  <br/> Project 2010  <br/> Visio 2010  <br/> Office 2010-Server  <br/> Office Web Apps  <br/> Search Server 2010  <br/> SharePoint 2010-Produkte  <br/> Project Server 2010  <br/> FAST Search Server 2010 für SharePoint  <br/> |SP2 <br/>[KB2687521](https://support.microsoft.com/kb/2687521) <br/> [KB2687522](https://support.microsoft.com/kb/2687522) <br/> |Öffentliches Update vom März 2020  <br/> [KB4538705](https://support.microsoft.com/help/4538705 ) <br/>|
    
 
    
 ## <a name="updates-released-in-past-12-months"></a>In den letzten 12 Monaten veröffentlichte Updates
+
+[Sicherheits- und nicht sicherheitsrelevante Updates vom März 2020: KB4538705](https://support.microsoft.com/help/4538705)
 
 [Sicherheits- und nicht sicherheitsrelevante Updates vom Februar 2020: KB4538704](https://support.microsoft.com/help/4538704)
 
@@ -71,7 +73,7 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
 
 [Sicherheits- und nicht sicherheitsrelevante Updates vom April 2019: KB4495300](https://support.microsoft.com/help/4495300)
 
-[Sicherheits- und nicht sicherheitsrelevante Updates vom März 2019: KB4491754](https://support.microsoft.com/help/4491754) 
+ 
 
 
 
