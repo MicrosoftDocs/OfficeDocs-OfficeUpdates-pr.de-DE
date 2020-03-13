@@ -11,11 +11,11 @@ localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2017
 ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 59f243dfec169ff246cd68ca7f796fde696e2981
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/06/2020
-ms.locfileid: "42549266"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615004"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2017
 
