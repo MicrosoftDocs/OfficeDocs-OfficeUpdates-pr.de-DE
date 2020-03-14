@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt Kunden Versionsinformationen zum Updateverlauf für Office 365 ProPlus für Windows 7 bereit.
-ms.openlocfilehash: 64964bc3e806179414c77568c04f449f105fbef3
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586362"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612461"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Updateverlauf für Office 365 ProPlus unter Windows 7 
 
@@ -34,8 +34,11 @@ Versionen des halbjährlichen Kanals sind in der Regel nur 14 Monate lang verfü
 
 Diese erweiterte Verfügbarkeit für Version 2002 gilt auch für andere Updatekanäle, z. B. für den monatlichen und halbjährlichen Kanal (gezielt), gilt jedoch nur für Geräte mit Windows 7.
 
-##
+Sie können auf Geräten mit Windows 7 weiterhin Versionen vor der Version 2002 verwenden, solange für diese früheren Versionen noch Support bereitgestellt wird. Beispielsweise können Sie auf Geräten mit Windows 7 die Version 1908 des halbjährlichen Kanals bis März 2021 weiter verwenden. Erst dann endet der Support für Version 1908 im halbjährlichen Kanal.
 
+Am 2. Dienstag jedes Monats wird bei Bedarf ein neuer Build der Version 2002 mit Sicherheitsupdates veröffentlicht. Es gibt nur einen Build für jede Architektur (x86 oder x64), und dieser kann mit jedem bereitgestellten Updatekanal verwendet werden. Es wird keine separaten Builds der Version 2002 für die verschiedenen Kanäle geben. Beispielsweise kann dieselbe Version für die Aktualisierung von Geräten unter Windows 7 im monatlichen Kanal oder halbjährlichen Kanal verwendet werden.
+
+##
 
 [//]: # (NICHT ENTFERNEN)
 
