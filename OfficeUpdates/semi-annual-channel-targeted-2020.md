@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 0c55b3885c6b5f68ac293d92f743ecfcde8c7ea5
-ms.sourcegitcommit: bfec1001e2adc0f70a825f2fd4f2c9fcac39aa2c
+ms.openlocfilehash: 54ec0f4ceaaf2b60e3bce99065154b7399345a29
+ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42586660"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42615107"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal (gezielt) im Jahr 2020
 
@@ -69,7 +69,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 
 ### <a name="outlook"></a>Outlook
 
-- **Anzeigen der LinkedIn-Details von Benutzern in Outlook:** Sie können nun beim Öffnen der Profilkarte eines Kontakts mehr über diesen Kontakt erfahren, indem Sie dessen LinkedIn-Profil ansehen.
+
 
 - **Professionelles Aktivieren und Deaktivieren des Posteingangs mit Relevanz:** Benutzer, die den Posteingang mit Relevanz nicht verwenden, können wieder die Registerkarte „Ungelesen“ in der Nachrichtenliste in allen Ordnern verwenden. Wir haben auch eine Kennzeichnung für die Sortierung hinzugefügt, damit gekennzeichnete Elemente leichter zu finden sind. Posteingang mit Relevanz weist ein besseres Interaktionsmodell mit der Suche auf: Posteingang mit Relevanz ist solange aktiviert, bis ein Benutzer eine Suche ausführt. Die Ergebnisse werden nach Abschluss der Suche angezeigt.
 
@@ -141,7 +141,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 
 - **Suchen und sich freuen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche „Einfügen“ angezeigt, wie viele Elemente Sie ausgewählt haben. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
-- **Warum neu erstellen, wenn Sie etwas wiederverwenden können?** Sparen Sie Zeit, indem Sie Folien, die Sie erstellt haben oder die andere für Sie freigegeben haben, erneut verwenden.
+- **Warum neu erstellen, wenn Sie etwas wiederverwenden können?** Sparen Sie Zeit, indem Sie Folien, die Sie erstellt haben oder die andere für Sie freigegeben haben, erneut verwenden. [Weitere Informationen](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
 - **Ändern der handschriftlichen Freihandeingabe in Formen, Text oder Mathematik in PowerPoint für Office 365:** Wechseln Sie mit wenigen Strichen von der Freihandeingabe zu Office-Formen, Text oder einem mathematischen Ausdruck. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
@@ -198,8 +198,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 ### <a name="office-suite"></a>Office-Suite
 
 - **Bereich „Neuigkeiten“: ** Der Bereich „Neuigkeiten“ wurde in den Bereich „Hilfe“ verschoben, sodass Sie einfacher auf unsere neuesten Updates zugreifen und darüber informiert bleiben können.
-
-- **Die Symbole auf dem Menüband haben einen neuen Look:** Keine Sorge – alles funktioniert wie bisher. Und nun sehen die Symbole auf allen Bildschirmgrößen toll aus. [Weitere Informationen](https://support.office.com/article/your-ribbon-icons-have-a-new-look-c6bc4cd8-d151-41d3-8276-fc7c9975eb79?ui=en-US&rs=en-US&ad=US)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
