@@ -1,5 +1,5 @@
 ---
-title: Updateverlauf für Office (Windows 7)
+title: Updateverlauf für Office unter Windows 7
 ms.author: andrewmo
 author: anankani
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt Kunden Versionsinformationen zum Updateverlauf für Office 365 ProPlus für Windows 7 bereit.
-ms.openlocfilehash: 7502414f60401159e5fab6493c5a8577abe2a721
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 09bfdeddfdf7b2c09bbd5145c909b24b6da505e1
+ms.sourcegitcommit: e2633701e5a00bd20a5f166e95fcb156461973ae
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612461"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42890152"
 ---
 # <a name="update-history-for-office-365-proplus-on-windows-7"></a>Updateverlauf für Office 365 ProPlus unter Windows 7 
 
