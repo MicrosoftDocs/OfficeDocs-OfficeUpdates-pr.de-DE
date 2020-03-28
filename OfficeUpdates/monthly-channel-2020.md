@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 1bd7a4503aff8e0d9e946f8878339189c2c9b644
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
+ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953025"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030922"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Kanal im Jahr 2020
 
@@ -37,12 +37,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.
 
-
-
-
 ### <a name="word"></a>Word
 
 - **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
+
+### <a name="office-suite"></a>Office-Suite
+
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern.
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
