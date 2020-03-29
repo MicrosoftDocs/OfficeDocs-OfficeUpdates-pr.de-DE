@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 972d3b9e94c15c60b44ab5fed06bc4eb20caf313
-ms.sourcegitcommit: 75fe62b67f652ff4a527e8bf674546ff5d14fc26
+ms.openlocfilehash: bfee11b418a3f35fb7ba2d293bbab60b4c42e240
+ms.sourcegitcommit: 251e261d62e807532414ad33904ddb58813867eb
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 03/27/2020
-ms.locfileid: "42983895"
+ms.locfileid: "43024527"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal im Jahr 2020
 
@@ -39,28 +39,28 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- <div><span>Es wurde ein Problem behoben, durch das einigen Benutzern mehrere Popupfenster angezeigt wurden, wenn externe Links in der Arbeitsmappe vorhanden waren.&nbsp;</span></div>
+- Es wurde ein Problem behoben, durch das einigen Benutzern mehrere Popupfenster angezeigt wurden, wenn externe Links in der Arbeitsmappe vorhanden waren.
 
 
-- <div><span style="display:inline !important;">Die Funktion "Text in Spalte" funktioniert bei einigen Gebietsschemas möglicherweise nicht.</span><br></div>
+- Die Funktion "Text in Spalte" funktioniert bei einigen Gebietsschemas möglicherweise nicht.
 
 
-- <div style="box-sizing:border-box;"><span style="box-sizing:border-box;">Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.</span></div>
+- Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- <div>Ein Problem mit der Shape.Paste-Methode wurde behoben: Wenn der Benutzer die Form mit der &nbsp;Shape.Paste-Methode&nbsp;<span style="font-size:13.3333px;display:inline !important;"> kopiert und einfügt, wird die Auswahl in die eingefügte Form geändert.</span></div>
+- Ein Problem mit der Shape.Paste-Methode wurde behoben: Wenn der Benutzer die Form mit der Shape.Paste-Methode kopiert und einfügt, wird die Auswahl in die eingefügte Form geändert.
 
 
 ### <a name="word"></a>Word
 
-- <div>Ein Problem wurde behoben, bei dem das Speichern einer vorhandenen Datei in einigen Fällen das Dialogfeld "Speichern unter" aufruft und die Datei nie wirklich gespeichert wird.<br></div>
+- Ein Problem wurde behoben, bei dem das Speichern einer vorhandenen Datei in einigen Fällen das Dialogfeld "Speichern unter" aufruft und die Datei nie wirklich gespeichert wird.
 
 
 ### <a name="office-suite"></a>Office-Suite
 
-- <div><span>Diese Änderung betrifft die langsame Darstellung einiger Streudiagramme mit Markierungen.</span></div>
+- Diese Änderung betrifft die langsame Darstellung einiger Streudiagramme mit Markierungen.
 
 ## <a name="version-1902-march-10"></a>Version 1902: 10. März
 *Version 1902 (Build 11328.20554)*
