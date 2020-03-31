@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Office 365 ProPlus für jeden Kanal.
-ms.openlocfilehash: 14bf6f3d1223d728a4c666cad103e017746fab8e
-ms.sourcegitcommit: 1735c163ca50f3802e4fd6696285b49a0f28001c
+ms.openlocfilehash: c1a9d8828d928a800fe3f1778fcfa429adc7dee0
+ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42953015"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43046100"
 ---
 # <a name="download-sizes-for-updates-to-office-365-proplus"></a>Downloadgrößen für Updates von Office 365 ProPlus
 
@@ -23,6 +23,14 @@ Unser Ziel ist es, möglichst im Vorfeld Informationen zur Updategröße bereitz
 In den nachfolgenden Tabellen sind die ungefähren Downloadgrößen bei Updates von einer früheren Version von Office 365 ProPlus auf die neueste Version aufgeführt. Die tatsächlichen Downloadgrößen können um bis zu 50 MB abweichen. Bei Updates von älteren Versionen auf die neueste Version können die Downloadgrößen größer sein.
 
 Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, könnte das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
+
+
+> [!IMPORTANT]
+> Office 365 ProPlus heißt jetzt **Microsoft 365 Apps for Enterprise**. Wenn Sie mehr über diese Namensänderung erfahren möchten, [lesen Sie diesen Blogbeitrag](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
+>
+> Wann diese Änderung wirksam wird und welche Aktionen Administratoren möglicherweise ausführen müssen, [erfahren Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+
+
 
 > [!NOTE]
 > - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x64-Version (Englisch USA) von Office 365 ProPlus.
