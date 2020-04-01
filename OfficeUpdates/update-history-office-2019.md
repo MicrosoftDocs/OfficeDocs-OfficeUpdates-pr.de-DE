@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: 2b816a44d0ca102510aa595c1705a9de2395efcf
-ms.sourcegitcommit: 9e7fd0ee5eb91854508f3d09682dadd530e3a440
+ms.openlocfilehash: 9c206097e0e0a82b3caacbc464be0a1d761ce177
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959373"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081767"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -59,6 +59,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|31. März 2020|Version 2003 (Build 12624.20382)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |25. März 2020|Version 2003 (Build 12624.20320)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |10. März 2020|Version 2002 (Build 12527.20278)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0851](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0851) <br/> [CVE-2020-0855](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0855) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |1. März 2020   |Version 2002 (Build 12527.20242)  |Behebt ein Problem, das bewirkt hatte, dass Anwendungen von Drittanbietern über Outlook keine E-Mails mehr senden konnten. <br/>  |
