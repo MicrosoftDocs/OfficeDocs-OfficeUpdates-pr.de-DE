@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: c976d6efb890e2a9245eb2d1730a8df520e733c5
-ms.sourcegitcommit: a406af1a6bfdd36158fe427159cf27c2c1dad902
+ms.openlocfilehash: 1ad39564413906ae45b977b57c7336f19b15e1f9
+ms.sourcegitcommit: 6f8ebfd45430efe3eb3bf43823202cbdd974f5ed
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030922"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43081782"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Kanal im Jahr 2020
 
@@ -24,6 +24,28 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 >
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/deployoffice/teams-install).
+
+## <a name="version-2003-march-31"></a>Version 2003: 31. März
+*Version 2003 (Build 12624.20382)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="onenote"></a>OneNote
+
+- Verbesserte Synchronisierungs- und Serverstabilität durch vorübergehende Deaktivierung des Verschiebens von Seiten in den Papierkorb. Benutzer, die eine Seite löschen möchten, werden stattdessen in einem Dialogfeld gefragt, ob sie die Seite dauerhaft löschen möchten.
+
+- Informieren Sie die Benutzer über die InfoBar über temporäre Anpassungen in Microsoft OneNote, die dazu beitragen werden, die Synchronisierung und die Verfügbarkeit der Dienste bei hoher weltweiter Nutzung zu verbessern.
+
+- Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Änderung der Häufigkeit der Erstellung von Seitenversionshistorien.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem der Benutzer keine zeitgesteuerte Baseline-Arbeit eingeben konnte, wenn die Einstellung zum Schutz der tatsächlichen Arbeit aktiviert ist.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2003-march-25"></a>Version 2003: 25. März
 *Version 2003 (Build 12624.20320)*
@@ -61,11 +83,17 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - Es wurde ein Leistungsproblem beim Erstellen von Diagrammen aus Vorlagen behoben.
 
+### <a name="onenote"></a>OneNote
+
+- Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Reduzierung der maximal zulässigen Größe neuer eingebetteter Anhänge auf 50 MB. Bei Dateien, die dieses Limit überschreiten, haben Benutzer die Möglichkeit, die Datei auf OneDrive hochzuladen und einen Link in OneNote einzufügen.
+
+- Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Deaktivierung der Videoaufzeichnung in der Anwendung in OneNote 2016. Lokale Notizbücher sind von dieser Maßnahme nicht betroffen.
+
+- Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Anpassung der Synchronisierungshäufigkeit in OneNote 2016.
 
 ### <a name="outlook"></a>Outlook
 
 - Es wurde ein Problem behoben, das dazu führte, dass der Outlook-Prozess nach dem Beenden im Task-Manager fortbestand.
-
 
 ### <a name="powerpoint"></a>PowerPoint
 
