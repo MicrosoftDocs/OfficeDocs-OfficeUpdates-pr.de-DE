@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: bf8c3aa36a0b6f31fe209a2b8ad504485b591542
-ms.sourcegitcommit: ee61dcf8fd0ae2e15db586fec9d15897aa712254
+ms.openlocfilehash: 5b3cc2b72424536ec294fe9881bab82d16a5bb11
+ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/25/2020
-ms.locfileid: "42951705"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43076273"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -29,6 +29,32 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2003-march-31"></a>Version 2003: 31. März
+*Version 2003 (Build 12624.20382)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="access"></a>Access
+
+- **Aufgabenbereich "Tabellen hinzufügen":** Der neue Aufgabenbereich "Tabellen hinzufügen" von Access ist endlich da! Mit dieser Funktion können Sie einfach auswählen/mehrfach auswählen, welche Tabellen sie in einem Abfragefenster hinzufügen/entfernen möchten, ohne zum Dialogfeld "Tabellen anzeigen" für Abfragen und für die Beziehungsansicht zu navigieren. Dazu gehört auch eine neue Registerkarte "Verknüpfungen", um verknüpfte Tabellen anzuzeigen, ein Suchfeld, um die aktuelle Liste zu filtern, "Drag & Drop"-Verhalten und mehr!
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="project"></a>Project
+
+- <div><span style="display:inline !important;">Es wurde ein Problem behoben, bei dem der Benutzer keine zeitgesteuerte Baseline-Arbeit eingeben konnte, wenn die Einstellung zum Schutz der tatsächlichen Arbeit aktiviert ist.</span><br></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2003-march-25"></a>Version 2003: 25. März
 *Version 2003 (Build 12624.20320)*
