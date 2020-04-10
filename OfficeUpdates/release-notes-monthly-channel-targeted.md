@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 5fd3eca4e49313af7695271afaccb46f65b7cb0c
-ms.sourcegitcommit: e00aa46a0fb912d45254988ddc5da9fa44850522
+ms.openlocfilehash: cf477b7b6387eefc1959a1da4de6e73b264808da
+ms.sourcegitcommit: 6ef4d6dd466260609bebaf7bc6ef952d268e6897
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43150973"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206472"
 ---
 # <a name="release-notes-for-office-monthly-channel-targeted"></a>Versionshinweise zu Office im monatlichen Kanal (gezielt)
 
@@ -29,6 +29,40 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2003-april-09"></a>Version 2003: 09. April
+*Version 2003 (Build 12624.20442)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **M365 Premium-Inhaltsauswahl:** Gestalten Sie Ihre Dokumente lebendiger! Entdecken Sie 1000 kostenlose Bilder, Symbole und Aufkleber [Weitere Informationen](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="outlook"></a>Outlook
+
+- **M365 Premium-Inhaltsauswahl:** Gestalten Sie Ihre Dokumente lebendiger! Entdecken Sie 1000 kostenlose Bilder, Symbole und Aufkleber [Weitere Informationen](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **M365 Premium-Inhaltsauswahl:** Gestalten Sie Ihre Dokumente lebendiger! Entdecken Sie 1000 kostenlose Bilder, Symbole und Aufkleber [Weitere Informationen](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+### <a name="word"></a>Word
+
+- **M365 Premium-Inhaltsauswahl:** Gestalten Sie Ihre Dokumente lebendiger! Entdecken Sie 1000 kostenlose Bilder, Symbole und Aufkleber [Weitere Informationen](https://support.office.com/article/3c51edf4-22e1-460a-b372-9329a8724344)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2003-april-03"></a>Version 2003: 3. April
 *Version 2003 (Build 12624.20410)*
