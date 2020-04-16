@@ -9,14 +9,18 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2010-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 823951736ba1e8919362b845e6339af94ef61010
-ms.sourcegitcommit: 09d01a3a12518056aec19131ab8b0f6eea9d5cc9
+ms.openlocfilehash: 36eb997635e01c6b9acd0ccc48aec4348c1e1dee
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42603931"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521003"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Updateverlauf für Office 2010-Klick-und-Los-Produkte
+
+> [!IMPORTANT]
+Die Unterstützung für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010 Umgebung begonnen haben, empfehlen wir Ihnen, jetzt zu starten. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zum Ende des Supports](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+
 
 Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Klick-und-Los automatisch auf dem neuesten Stand.
   
@@ -29,7 +33,7 @@ Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Kli
 Wenn Sie eines dieser Produkte verwenden und prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie Ihre Office-Versionsnummer und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuelle Version von Office 2010 ist **14.0.7247.5000**, die am 11. März 2020 veröffentlicht wurde.
+> Die aktuelle Version von Office 2010 ist **14.0.7248.5000**, die am 14. April 2020 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -53,7 +57,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2020|11. März  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
+|2020|14. April  <br/> |14.0.7248.5000  <br/> |[KB 4549670](https://support.microsoft.com/help/4549670 ) <br/> |
+||11. März  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
 ||11. Februar  <br/> |14.0.7245.5000  <br/> |[KB 4538704](https://support.microsoft.com/help/4538704) <br/> |
 ||14. Januar  <br/> |14.0.7244.5000  <br/> |[KB 4536554](https://support.microsoft.com/help/4536554) <br/> |
 |2019|10. Dezember  <br/> |14.0.7243.5000  <br/> |[KB 4532624](https://support.microsoft.com/help/4532624) <br/> |
