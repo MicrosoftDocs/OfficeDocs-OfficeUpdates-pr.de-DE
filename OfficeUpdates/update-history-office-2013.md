@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: e3befb06ffb3d8d36bb2bafae8f2ba9c65575173
-ms.sourcegitcommit: 3f7b4d887019f46dbb5b75dff061ecb27a0bbf2f
+ms.openlocfilehash: ae18e941739bcbfd20cf4a7cadcdc515f09d157f
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42635397"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521143"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Bestimmte Office 2013-Produkte werden automatisch mithilfe der Technologie "Klick-und-Los" auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5223.1001**, die am 13. März 2020 veröffentlicht wurde.
+> Die aktuellste Version von Office 2013 ist **15.0.5233.1000**, die am 14. April 2020 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -45,7 +45,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2020|13. März   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
+|2020|14. April   |15.0.5233.1000   |[KB 4549670 ](https://support.microsoft.com/help/4549670 )  |
+||13. März   |15.0.5223.1001   |[KB 4538705](https://support.microsoft.com/help/4538705 )  |
 ||11. Februar   |15.0.5215.1000   |[KB 4538704](https://support.microsoft.com/help/4538704)  |
 ||14. Januar   |15.0.5207.1000   |[KB 4536554](https://support.microsoft.com/help/4536554)  |
 |2019|10. Dezember   |15.0.5197.1000   |[KB 4532624](https://support.microsoft.com/help/4532624)  |
