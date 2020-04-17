@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: ebcf5fde37793b290e5c8fff1e33462a207c3a55
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 0f6b473a8c72cd5b85f28572ad6fa53463282617
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076272"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521023"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal im Jahr 2020
 
@@ -27,6 +27,46 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 
+## <a name="version-1908-april-14"></a>Version 1908: 14. April
+*Version 1908 (Build 11929.20708)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, das beim Löschen von Spalten mit verbundenen Zellen zu einer verlangsamten Leistung führte.
+
+- Es wurde ein Problem beim Skalieren von Text in Steuerelementen von Formularen beim Anzeigen in der Druckansicht behoben.
+
+### <a name="skype"></a>Skype
+
+- Problembehebung betreffend den Titelname für die Unterhaltungsregisterkarten, während mehrere Unterhaltungen stattfinden.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem es durch das Herunterfahren von Outlook zu einem Absturz kam.
+
+- Es wurde ein Problem behoben, durch das Kunden in einigen Szenarios eine leere Raumliste zu sehen bekamen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem mit dem Textmarker wurde behoben: Weißer Text mit dunkleren Textmarkerfarben wurde Schwarz mit Graustufen gedruckt.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit der Anpassung von Text in einer Tabelle behoben.
+
+
+## <a name="version-1902-april-14"></a>Version 1902: 14. April
+*Version 1902 (Build 11328.20564)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office365-proplus-security-updates) aufgeführt
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1908-march-10"></a>Version 1908: 10. März
 *Version 1908 (Build 11929.20648)*

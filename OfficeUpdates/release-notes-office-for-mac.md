@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Office 356-Abonnenten zur Verfügung
-ms.openlocfilehash: eb80ead5175112c099c78cb641e281db7a278a00
-ms.sourcegitcommit: 4e509f91fd46e9df26ff0d2d775adc9bf58efa6e
+ms.openlocfilehash: 8008445d01b850dedf96f6354716e36c527e1e39
+ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42622139"
+ms.lasthandoff: 04/15/2020
+ms.locfileid: "43521276"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -34,10 +34,25 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 [//]: # (NICHT ENTFERNEN)
+## <a name="april-14-2020"></a>14. April 2020
+*Version 16.36 (Build 20041300)*
 
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
 
+- **Automatisch neue Datentypen verwenden**: Wenn Sie einen Datenwert eingeben, der einem möglichen Aktienelement oder geografischen Speicherort ähnelt, bietet Excel an, diesen in den geeigneten verbundenen Datentyp zu konvertieren – Aktien oder Geografie.
+- **Drucken von Arbeitsblättern mit unterschiedlichen Ausrichtungen**: Wenn Sie eine gesamte Arbeitsmappe gleichzeitig drucken, kann Excel für Mac jedes Blatt im Quer-oder Hochformat – entsprechend den Optionen für das Seiten-Layout – drucken.
+- **Statistiken für Ihre Arbeitsmappe abrufen**: Statistiken zu Arbeitsmappen bieten einen Überblick über den Inhalt einer Arbeitsmappe, um Ihnen das Erkunden des Inhalts zu erleichtern.
 
+### <a name="outlook"></a>Outlook
 
+- **Offline Suche im Kalender auf Outlook Mac**: Wenn Sie den Kalender auf Outlook Mac durchsuchen, während Sie offline sind, können Sie: Ereignisse und Termine anzeigen.
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-0980](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0980)
 
 
 ## <a name="march-10-2020"></a>10. März 2020
