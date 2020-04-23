@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Microsoft 365 Apps für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: c025c0afd3428c3381aeac16821ddd0eb22904b0
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714535"
+ms.locfileid: "43781588"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Versionsinformationen zu Updates für Microsoft 365 Apps
 
@@ -27,19 +27,19 @@ ms.locfileid: "43714535"
 ## <a name="security-updates-for-microsoft-365-apps-releases"></a>Sicherheitsupdates für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Sicherheitsupdates finden Sie im folgenden Artikel:
- - [Sicherheitsupdates für Office 365 ProPlus](office365-proplus-security-updates.md)
+ - [Sicherheitsupdates für Microsoft 365 Apps](office365-proplus-security-updates.md)
 
 
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Updateverlauf für Microsoft 365 Apps-Versionen
 
 Die vollständige Liste der Releases und unterstützten Versionen für die einzelnen Kanäle finden Sie im folgenden Artikel:
- - [Updateverlauf für Office 365 ProPlus (nach Datum)](update-history-office365-proplus-by-date.md)
+ - [Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)](update-history-office365-proplus-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Updategrößen für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden Sie im folgenden Artikel:
- - [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
+ - [Downloadgrößen für Updates von Microsoft 365 Apps](download-sizes-office365-proplus-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Anmerkungen zur Version für Microsoft 365 Apps-Versionen
 
