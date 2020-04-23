@@ -1,5 +1,5 @@
 ---
-title: Versionsinformationen zu Updates für Office 365 ProPlus
+title: Versionsinformationen zu Updates für Microsoft 365 Apps
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,43 +9,39 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Stellt IT-Experten eine Liste der aktuellen Releases für Office 365 ProPlus für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: 033ddc631a8d76f92306752fe743763cf6b18af7
-ms.sourcegitcommit: ddefa52be7376fad84cbcb5554d6f9e9f06c4c60
+description: Stellt IT-Experten eine Liste der aktuellen Releases für Microsoft 365 Apps für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
+ms.openlocfilehash: d6994deeab0a144b4642577519d670fe8a3f5643
+ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43046120"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714535"
 ---
-# <a name="release-information-for-updates-to-office-365-proplus"></a>Versionsinformationen zu Updates für Office 365 ProPlus
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a>Versionsinformationen zu Updates für Microsoft 365 Apps
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus heißt jetzt **Microsoft 365 Apps for Enterprise**. Wenn Sie mehr über diese Namensänderung erfahren möchten, [lesen Sie diesen Blogbeitrag](https://go.microsoft.com/fwlink/p/?linkid=2120533). 
->
-> Wann diese Änderung wirksam wird und welche Aktionen Administratoren möglicherweise ausführen müssen, [erfahren Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).
+> Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
 
 
-
-
-## <a name="security-updates-for-office-365-proplus-releases"></a>Sicherheitsupdates für Office 365 ProPlus-Versionen
+## <a name="security-updates-for-microsoft-365-apps-releases"></a>Sicherheitsupdates für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Sicherheitsupdates finden Sie im folgenden Artikel:
  - [Sicherheitsupdates für Office 365 ProPlus](office365-proplus-security-updates.md)
 
 
-## <a name="update-history-for-office-365-proplus-releases"></a>Updateverlauf für Office 365 ProPlus-Versionen
+## <a name="update-history-for-microsoft-365-apps-releases"></a>Updateverlauf für Microsoft 365 Apps-Versionen
 
 Die vollständige Liste der Releases und unterstützten Versionen für die einzelnen Kanäle finden Sie im folgenden Artikel:
  - [Updateverlauf für Office 365 ProPlus (nach Datum)](update-history-office365-proplus-by-date.md)
 
 
- ## <a name="update-sizes-for-office-365-proplus-releases"></a>Updategrößen für Office 365 ProPlus-Versionen
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Updategrößen für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden Sie im folgenden Artikel:
- - [Downloadgrößen für Updates für Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
+ - [Downloadgrößen für Updates von Office 365 ProPlus](download-sizes-office365-proplus-updates.md)
 
-## <a name="release-notes-for-office-365-proplus-releases"></a>Anmerkungen zur Version für Office 365 ProPlus-Releases
+## <a name="release-notes-for-microsoft-365-apps-releases"></a>Anmerkungen zur Version für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr finden Sie in den folgenden Artikeln:
  - Monatlich: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
@@ -58,7 +54,7 @@ Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr f
 
 ## <a name="office-for-mac-release-information"></a>Releaseinformationen für Office für Mac
 
-Informationen zu Updates für Office für Mac, das in jedem Office 365-Abonnementplan enthalten ist, der Office 365 ProPlus umfasst ist, finden Sie in den folgenden Artikeln:
+Informationen zu Updates für Office für Mac, das in jedem Microsoft 365-Abonnementplan enthalten ist, der Microsoft 365 Apps umfasst ist, finden Sie in den folgenden Artikeln:
  - [Updateverlauf für Office für Mac](update-history-office-for-mac.md)
  - [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md)
  - [MAU-Versionsverlauf](release-history-microsoft-autoupdate.md)
@@ -66,11 +62,11 @@ Informationen zu Updates für Office für Mac, das in jedem Office 365-Abonnemen
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-- [Übersicht über die Updatekanäle für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)
+- [Übersicht über die Updatekanäle von Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).
 - [Office-Bereitstellung](https://docs.microsoft.com/deployoffice/)
-- [Neuerungen in Office 365](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [Office 365-Roadmap](https://products.office.com/business/office-365-roadmap)
-- [Nachrichtencenter in Office 365](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [Neuerungen in Microsoft 365 Apps](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [Microsoft 365 Apps-Roadmap](https://products.office.com/business/office-365-roadmap)
+- [Übersicht über das Microsoft 365 Apps-Nachrichtencenter](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
 - [Windows 10-Versionsinformationen](https://www.microsoft.com/itpro/windows-10/release-information)
 - [Leitfaden für Microsoft-Sicherheitsupdates](https://portal.msrc.microsoft.com/)
 

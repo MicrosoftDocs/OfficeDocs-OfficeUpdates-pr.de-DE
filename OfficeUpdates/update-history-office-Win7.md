@@ -8,22 +8,22 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Stellt Kunden Versionsinformationen zum Updateverlauf für Office 365 ProPlus für Windows 7 bereit.
-ms.openlocfilehash: 933e17220a7d3825369f68e43054a9abfd0eca65
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+description: Stellt Kunden Versionsinformationen zum Updateverlauf für Microsoft 365-Apps für Windows 7 bereit.
+ms.openlocfilehash: a724d0bedbb2770e55ad106870d4874bfaca6969
+ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521033"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43781598"
 ---
-# <a name="update-history-for-office-365-proplus-on-windows-7"></a>Updateverlauf für Office 365 ProPlus unter Windows 7 
+# <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Updateverlauf für Microsoft 365-Apps unter Windows 7 
 
  > [!NOTE]
 >
 >- Der Support für Windows 7 wurde am 14. Januar 2020 eingestellt. [Weitere Informationen](https://www.microsoft.com/microsoft-365/windows/end-of-windows-7-support?rtc=1)
->- Office 365 ProPlus wird unter Windows 7 nicht mehr unterstützt, Sicherheitsupdates werden aber bis 2023 weiterhin bereitgestellt. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/windows-7-support)
+>- Microsoft 365-Apps Werden unter Windows 7 nicht mehr unterstützt, Sicherheitsupdates werden aber bis 2023 weiterhin bereitgestellt. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/windows-7-support)
 >- Wenn Sie ein privater Benutzer sind, der Office unter Windows 7 ausführt, lesen Sie [Ende des Supports für Windows 7 und Office](https://support.office.com/en-us/article/windows-7-end-of-support-and-office-78f20fab-b57b-44d7-8368-06a8493f3cb9?ui=en-US&rs=en-US&ad=US).
-Version 2002 ist die letzte Version von Office 365 ProPlus, die für Geräte unter Windows 7 verfügbar ist, nachdem der Support von Windows 7 im Januar 2020 endet.  
+Version 2002 ist die letzte Version von Microsoft 365-Apps, die für Geräte unter Windows 7 verfügbar ist, nachdem der Support von Windows 7 im Januar 2020 endet.  
 
 Version 2002 wird voraussichtlich in den folgenden Kanälen verfügbar sein:
 - Monatlicher Kanal: Ende Februar 2020
