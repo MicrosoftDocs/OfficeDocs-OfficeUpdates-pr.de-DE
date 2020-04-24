@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: d535c5748afb3dba80096509e48f1f32128c1790
-ms.sourcegitcommit: 937711535d3b08b7d04ef8a8a6cffe038968ce5f
+ms.openlocfilehash: 750a20da1fc38b216957f13260bd504530b897fe
+ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43076290"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796121"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) im Jahr 2019
 
@@ -359,7 +359,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 
 - **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
 
-- **Verabschieden Sie sich von Ablenkungen**: Eine Mac-Lieblingsfunktion ist nun für Windows verfügbar. Wechseln Sie im Menü Ansicht in den Fokusmodus, damit Sie nicht abgelenkt werden und sich auf Ihre Arbeit konzentrieren können. [Weitere Informationen](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **Suchen und sich freuen:** Wir haben die Suche zum Einfügen von Symbolen hinzugefügt, damit Sie das gewünschte Symbol ganz einfach finden können. Und beim Auswählen wird auf der Schaltfläche „Einfügen“ angezeigt, wie viele Elemente Sie ausgewählt haben. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 

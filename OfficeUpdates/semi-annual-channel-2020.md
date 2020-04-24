@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 1917bc762563b025f08f8d6e930072c1dc5b7b36
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: 0138665b66ebca7249dce1bca9b2eeaa4b0e2041
+ms.sourcegitcommit: 4df4bbfe9328d36fdf801081598aadde77af8a9c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714685"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43796111"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal im Jahr 2020
 
@@ -313,8 +313,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/office36
 - **Schnelle Dateisuche:** Sie suchen nach einer Datei, an der Sie kürzlich gearbeitet haben? Geben Sie einfach in das Suchfeld unter „Datei“ > „Start“ den Namen der gesuchten Datei ein.
 
 - **Nahtlos wechseln:** Der neue Konto-Manager zeigt alle Ihre geschäftlichen und privaten Office 365-Konten an einem Ort an. Das Wechseln zwischen den Konten ist so einfach wie nie. [Weitere Informationen](https://support.office.com/article/d17de17e-9f26-4dae-bd08-d7b8f46eb0b9)
-
-- **Verabschieden Sie sich von Ablenkungen**: Eine Mac-Lieblingsfunktion ist nun für Windows verfügbar. Wechseln Sie im Menü Ansicht in den Fokusmodus, damit Sie nicht abgelenkt werden und sich auf Ihre Arbeit konzentrieren können. [Weitere Informationen](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292)
 
 - **Verbessern Sie mit Fokus Linie das Verständnis:** Gehen Sie ohne Ablenkungen von Zeile zu Zeile durch ein Dokument. Passen Sie den Fokus an, um eine, drei oder fünf Zeilen gleichzeitig in die Ansicht zu setzen. [Weitere Informationen](https://support.office.com/article/a857949f-c91e-4c97-977c-a4efcaf9b3c1)
 
