@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: cdaa6ed14bc119079dfc1372820a9bf143f91267
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: f69d29bcfdd070f742fe0c4e8c518ee7b8100c69
+ms.sourcegitcommit: 47db4b680df64397a57f388e5d6f3c8b1bf374ee
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997468"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44021957"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Kanal im Jahr 2020
 
@@ -42,6 +42,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="access"></a>Zugriff
 
 - **Seien Sie beim Arbeiten im Abfrage-Designer, in der SQL-Ansicht und im Fenster „Beziehungen“ produktiver:** Klicken Sie zum Öffnen, Gestalten, Vergrößern oder Verkleinern und Ausblenden mit der rechten Maustaste auf die betreffende Tabelle. Suchen und Ersetzen von Text in der SQL-Ansicht. Auswählen mehrerer Tabellen im Fenster „Beziehungen“.
+
+- **Tabellen mit weniger Klicks hinzufügen:** Verwenden Sie den Aufgabenbereich „Tabellen hinzufügen“, der während Ihrer Arbeit geöffnet bleibt, um Tabellen zu Beziehungen und Abfragen hinzuzufügen. [Weitere Informationen](https://support.office.com/article/56eb7df2-8a52-4e90-a7e0-8f891a5c56bd)
+
 
 ### <a name="excel"></a>Excel
 
