@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 7370f93cc18bff888e264d3b7b06a2ccd94408ee
-ms.sourcegitcommit: bb2e1868f43693fe085ba9080401e6f8137c8a9e
+ms.openlocfilehash: 0c068fd85c8a29c18ad4aa512ab6027d2c1c0b64
+ms.sourcegitcommit: ea14838e5a137a296a86b564cdb711fbc54e9940
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43907899"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044588"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal im Jahr 2020
 
@@ -22,7 +22,6 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 > [!NOTE]
 >
->- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den halbjährlichen Updatekanal eingeführt. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- OneNote 2016 wird jetzt standardmäßig einbezogen, wenn ein Benutzer Microsoft 365 Apps aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
 
 
@@ -30,7 +29,23 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1908-may-04"></a>Version 1908: 04. Mai
+*Version 1908 (Build 11929.20752)*
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="office-suite"></a>Office-Suite
+
+- Behebt ein Problem in Visual Basic for Applications in Microsoft Office, bei dem bestimmte VBA-Projekte, die Verweise auf Codebibliotheken mit DBCS-Zeichen im Bibliotheksnamen oder Bibliothekspfad enthalten, von der Office-Anwendung beim Laden als fehlerhaft angesehen werden.
+
+## <a name="version-1902-may-04"></a>Version 1902: 04. Mai
+*Version 1902 (Build 11328.20572)*
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="office-suite"></a>Office-Suite
+
+- Behebt ein Problem in Visual Basic for Applications in Microsoft Office, bei dem bestimmte VBA-Projekte, die Verweise auf Codebibliotheken mit DBCS-Zeichen im Bibliotheksnamen oder Bibliothekspfad enthalten, von der Office-Anwendung beim Laden als fehlerhaft angesehen werden.
 
 ## <a name="version-1908-april-14"></a>Version 1908: 14. April
 *Version 1908 (Build 11929.20708)*
