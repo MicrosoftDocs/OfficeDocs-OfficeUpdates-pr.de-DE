@@ -1,8 +1,8 @@
-# [Versionsinformationen](release-notes-office365-proplus.md)
+# [Versionsinformationen](release-notes-microsoft365-apps.md)
 # Microsoft 365 Apps
-## [Sicherheitsrelevante Updates](office365-proplus-security-updates.md)
-## [Updateverlauf (nach Datum)](update-history-office365-proplus-by-date.md)
-## [Updategrößen](download-sizes-office365-proplus-updates.md)
+## [Sicherheitsrelevante Updates](microsoft365-apps-security-updates.md)
+## [Updateverlauf (nach Datum)](update-history-microsoft365-apps-by-date.md)
+## [Updategrößen](download-sizes-microsoft365-apps-updates.md)
 
 ## Monatlicher Kanal
 ### [2020](monthly-channel-2020.md)
