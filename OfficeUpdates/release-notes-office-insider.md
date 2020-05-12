@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 21c3262a0d258e5dd50a50c1edc33ed06164b29a
-ms.sourcegitcommit: 13b981a8a5ef2ac7c68f245213167026bdd0bdea
+ms.openlocfilehash: daf99ff348d31230f1905d35484e5ec1ba139c2d
+ms.sourcegitcommit: 2facbab73987c72b5118c055e32f3dfab13822af
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43997478"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44170625"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -25,6 +25,43 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
 [//]: # (NICHT ENTFERNEN)
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-may-08"></a>Version 2006: 08. Mai
+*Version 2006 (Build 12829.20000)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+### <a name="outlook"></a>Outlook
+
+- **Bessere Ergebnisse – im Handumdrehen:** wir haben die Suche aktualisiert, damit Sie intelligenter, schneller und zuverlässiger als je zuvor ist. [Weitere Informationen](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen. [Weitere Informationen](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+
+### <a name="word"></a>Word
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben das Problem untersucht und behoben, bei dem die Bereitstellung von Office 365 ProPlus über InTune nach einem Herunterfahren des Betriebssystems pausiert wurde.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -81,14 +118,9 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
+
 ## <a name="version-2005-april-24"></a>Version 2005: 24. April
 *Version 2005 (Build 12816.20006)*
-
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN INHALTSANFANG)
-
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
-
-<br/>
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -109,6 +141,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 - Diese Änderung behebt ein Problem, bei dem Text mit Hyperlinks möglicherweise nicht angezeigt wurde, wenn die Option "Feldcodes statt ihrer Werte anzeigen" aktiviert war.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
 
 ## <a name="version-2005-april-17"></a>Version 2005: 17. April
 *Version 2005 (Build 12810.20002)*
@@ -139,9 +172,8 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 - Es wurde ein Problem behoben, bei dem Project abstürzen konnte, wenn das Feld „Boardstatus“ in einem Projekt geändert wurde, das mit einer SharePoint-Aufgabenliste verbunden ist.
 - Ein Problem wurde behoben, bei dem Project beim Speichern von Projekten, die mit älteren Project-Versionen erstellt wurden, möglicherweise abstürzt.
 
-
-
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
 
 ## <a name="version-2004-april-10"></a>Version 2004: 10. April
 *Version 2004 (Build 12730.20024)*
