@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: dbff1347c742bb0e0fc7a2e13df822f35da00496
-ms.sourcegitcommit: beff319f87f2fbecd15468f3ffa9bb99416ed165
+ms.openlocfilehash: dca350f83b16f776048c64b2fc023f53980be5ef
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714675"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211110"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,26 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="may-2020-release"></a>Release vom Mai 2020
+
+**Veröffentlichungsdatum:** 12. Mai 2020
+
+*Microsoft Auto Update 4.23*
+
+**Bugfixes und Verbesserungen:**
+- Bei Geräten, die MacOS 10.13 oder höher und Office 2016-Versionen verwenden, werden den Benutzern Benachrichtigung angezeigt, dass der Support für Office 2016 endet. 
+- Wenn in den Apps für Word, Excel und PowerPoint kein Fenster geöffnet ist und sich das Gerät im automatischen Aktualisierungsmodus von Microsoft AutoUpdate befindet, müssen diese Apps von den Benutzern nicht geschlossen werden, damit Updates zur Anwendung kommen. 3. Microsoft AutoUpdate aktualisiert jetzt automatisch sein Update-Dashboard mit den neuesten Versionen im CDN, ohne dass der Benutzer dieses aktualisieren oder eine neue AutoUpdate-Sitzung starten muss.
+
+**MAU-Updatelink:**
+
+[Microsoft Auto Update 4.23-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
+
+<br/><br/>
 
 ## <a name="april-2020-release"></a>Release vom April 2020
 

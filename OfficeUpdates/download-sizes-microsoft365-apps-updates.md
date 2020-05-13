@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 77ecb79a3fbc6af85b16cd48aa375b698324b451
-ms.sourcegitcommit: d062befb07b0fae74b30bce2a10cdec248c252ad
+ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2020
-ms.locfileid: "44163517"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211715"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -26,13 +26,55 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie bitte diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+
 
 > [!NOTE]
 > - Die in den Tabellen aufgeführten ungefähren Downloadgrößen beziehen sich ausschließlich auf die EN-US-x64-Version (Englisch USA) von Microsoft 365 Apps.
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="may-12-2020"></a>12. Mai 2020
+
+[//]: # (INHALT NICHT ENTFERNEN START12. Mai 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 2004 (Build 12730.20270).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2004 (Build 12730.20250) <br/> |4. Mai 2020 <br/> |188<br/> |
+|Version 2004 (Build 12730.20236) <br/> |29. April 2020 <br/> |172<br/> |
+
+
+### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
+
+Das neueste Release ist Version 2003 (Build 12624.20588).
+
+### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (zielgerichtet)
+
+Das neueste Release ist Version 2002 (Build 12527.20612).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.20442) <br/> |14. April 2020 <br/> |67<br/> |
+|Version 2002 (Build 12527.20278) <br/> |10. März 2020 <br/> |79<br/> |
+
+
+### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
+
+Das neueste Release ist Version 1908 (Build 11929.20776).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20708) <br/> |14. April 2020 <br/> |66<br/> |
+|Version 1908 (Build 11929.20648) <br/> |10. März 2020 <br/> |77<br/> |
+
+
+[//]: # (INHALT NICHT ENTFERNEN ENDE12. Mai 2020)
 
 
 ## <a name="may-4-2020"></a>4. Mai 2020

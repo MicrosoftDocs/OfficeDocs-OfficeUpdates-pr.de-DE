@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Microsoft 365 Apps für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: 892731e23b47f5c918d08db7b54a3ffc1a2acfa9
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: b6300a7742b43f0c820882c0362079e05530c55d
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163607"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44211100"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Versionsinformationen zu Updates für Microsoft 365 Apps
 
@@ -33,18 +33,20 @@ Eine vollständige Liste der Sicherheitsupdates finden Sie im folgenden Artikel:
 ## <a name="update-history-for-microsoft-365-apps-releases"></a>Updateverlauf für Microsoft 365 Apps-Versionen
 
 Die vollständige Liste der Releases und unterstützten Versionen für die einzelnen Kanäle finden Sie im folgenden Artikel:
- - [Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)](update-history- microsoft365-apps-by-date.md)
+
+- [Updateverlauf für Microsoft 365 Apps – nach Datum aufgelistet](update-history-microsoft365-apps-by-date.md)
 
 
  ## <a name="update-sizes-for-microsoft-365-apps-releases"></a>Updategrößen für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden Sie im folgenden Artikel:
- - [Downloadgrößen für Updates von Microsoft 365 Apps] (Download-sizes-microsoft365-apps-updates .md)
+ - [Downloadgrößen für Updates von Microsoft 365 Apps](download-sizes-microsoft365-apps-updates.md)
 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Anmerkungen zur Version für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr finden Sie in den folgenden Artikeln:
  - Monatlich: [2020](monthly-channel-2020.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md), [2017](monthly-channel-2017.md), [2016](monthly-channel-2016.md)
+ - Monatlicher Enterprise-Kanal:  [2020](monthly-enterprise-channel-2020.md)
  - Halbjährlich (gezielt): [2020](semi-annual-channel-targeted-2020.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md), [2017](semi-annual-channel-targeted-2017.md), [2016](semi-annual-channel-targeted-2016.md)
  - Halbjährlich: [2020](semi-annual-channel-2020.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md), [2017](semi-annual-channel-2017.md), [2016](semi-annual-channel-2016.md)
 
