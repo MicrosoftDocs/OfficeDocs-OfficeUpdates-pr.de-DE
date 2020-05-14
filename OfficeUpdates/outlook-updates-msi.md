@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: 27cd8850398c5887b4cab2993d32403571e1611c
-ms.sourcegitcommit: fab2c3d8c42b3e2fde49853068c834f96ccbf105
+ms.openlocfilehash: d5a8255e0737a0742dd11c81d71194d36bbc1b43
+ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43521063"
+ms.lasthandoff: 05/12/2020
+ms.locfileid: "44210880"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -22,13 +22,13 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
   
 > [!NOTE]
 > - Die Informationen in diesem Artikel gelten nur für dauerhafte Versionen von Outlook, die die Windows Installer (MSI)-Installationstechnologie verwenden. Beispielsweise wenn Sie eine Volumenlizenzversion von Outlook installiert haben, z. B. Outlook in Office Professional Plus 2016.
-> - Die Informationen in diesem Artikel gelten nicht für Office 365-Versionen von Outlook, z. B. Outlook in Office 365 ProPlus.
+> - Die Informationen in diesem Artikel gelten nicht für Microsoft 365-Apps.
 > - Informationen dazu, wie Sie die von Ihnen verwendete Version von Outlook ermitteln können, finden Sie unter [Welche Outlook-Version habe ich?](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c)
 > - Weitere Informationen zum Installieren von Office-Updates finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
   
-Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt von den Systemanforderungen für Ihre Bereitstellung ab:
+Die Kompatibilität von Outlook mit Microsoft 365 und Ihrer lokalen Umgebung hängt von den Systemanforderungen für Ihre Bereitstellung ab:
   
-- Office 365 funktioniert mit jeder Version von Outlook, für die Mainstream-Support besteht, was die neueste Version von Outlook 2016 umfasst. Von früheren Versionen von Outlook können nur die weiter mit Office 365 arbeiten, für die erweiterter Support besteht, wenn auch mit eingeschränkter Funktionalität. Weitere Informationen finden Sie unter [Microsoft Lifecycle-Richtlinie](https://support.microsoft.com/lifecycle).
+- Microsoft 365 funktioniert mit jeder Version von Outlook, für die Mainstream-Support besteht, was die neueste Version von Outlook 2016 umfasst. Von früheren Versionen von Outlook können nur die weiter mit Microsoft 365 arbeiten, für die erweiterter Support besteht, wenn auch mit eingeschränkter Funktionalität. Weitere Informationen finden Sie unter [Microsoft Lifecycle-Richtlinie](https://support.microsoft.com/lifecycle).
     
 - Für lokale Exchange-Bereitstellungen halten Sie die Systemanforderungen für Ihre Version von Outlook ein:
     
@@ -43,7 +43,7 @@ Die Kompatibilität von Outlook mit Office 365 und Ihrer lokalen Umgebung hängt
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |April 2020 PU <br/>[KB4484274](https://support.microsoft.com/help/4484274) 
+|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Mai 2020 <br/>[KB4484343](https://support.microsoft.com/help/4484343) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013-Updates
 

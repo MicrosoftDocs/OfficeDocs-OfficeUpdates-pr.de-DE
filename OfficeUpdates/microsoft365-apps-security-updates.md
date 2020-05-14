@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Microsoft 365 Apps-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: b2a54edbf0d9f1960f4a52ef112741e6220e8821
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: 91538ad859fe5dc3d45a73d0798ff21708f6178b
+ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138531"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44211705"
 ---
 # <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Anmerkungen zur Version für Microsoft 365 Apps-Sicherheitsupdates
 
@@ -24,11 +24,32 @@ Diese Informationen gelten für Microsoft 365 Apps for Enterprise, für Microsof
 
 
 > [!IMPORTANT]
-> Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor. Unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+
 
  
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
+
+## <a name="may-12-2020"></a>12. Mai 2020
+Monatlicher Kanal: Version 2004 (Build 12730.20270)  
+Monatlicher Enterprise-Kanal: Version 2003 (Build 12624.20588)  
+Halbjährlicher Kanal (Gezielt): Version 2002 (Build 12527.20612)  
+Halbjährlicher Kanal: Version 1908 (Build 11929.20776)  
+Halbjährlicher Kanal: Version 1902 (Build 11328.20586)  
+Microsoft 365-Apps unter Windows 7: Version 2002 (Build 12527.20612)  
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-0901](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0901)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
 
 ## <a name="april-14-2020"></a>14. April 2020
 Monatlicher Kanal: Version 2003 (Build 12624.20442)  
