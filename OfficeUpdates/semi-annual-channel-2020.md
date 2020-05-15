@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 6074529d8a37228a191ae9e5d4a93d966a8d15ad
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 6619411170491543c4853e6db56fa845a7adc6e3
+ms.sourcegitcommit: fb97680a81c7d96b0f0f539dc3e3c8c28ad654e9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210860"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44222078"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2020"></a>Versionshinweise für Releases im halbjährlichen Kanal im Jahr 2020
 
@@ -65,6 +65,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - Es wurde ein Problem behoben, das bewirkt hat, dass die Schaltfläche "In der Cloud speichern" in den Anlagentools fehlte.
 
 - Standardmäßig zeigen die Etiketten der Aufbewahrungsrichtlinien die Aufbewahrungszeitspanne in Klammern an. Dadurch wird ein Registrierungsschlüssel bereitgestellt, mit dem Administratoren festlegen können, dass nur der Name der Richtlinie angezeigt werden soll. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration. 0 = Standard.  1 = nur der "PolicyName" für den Text der Aufbewahrungsrichtlinie wird angezeigt.
+
 
 ### <a name="word"></a>Word
 
