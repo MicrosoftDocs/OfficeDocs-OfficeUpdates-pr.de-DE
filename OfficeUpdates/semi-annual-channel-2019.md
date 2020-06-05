@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: df445c1318293e94d77fc62e4472124bb85c3a25
-ms.sourcegitcommit: 45f5df6186e148390dac8910bb6e728a618589b2
+ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
+ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44163527"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44565070"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -165,7 +165,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="project"></a>Project
 
-- Es wurde das Problem behoben, bei dem die PDF- oder XPS-Datei im folgenden Szenario nicht erstellt wird:</div><ul><li>Sie öffnen ein Projekt.</li><li>Sie klicken auf das Menü „Datei“, dann auf „Exportieren“ und schließlich auf die Schaltfläche <b>PDF/XPS erstellen</b>.</li><li>Im Dialogfeld „Durchsuchen“ geben Sie einen Dateinamen ein, und klicken dann auf "OK".</li></ul>
+- Es wurde das Problem behoben, bei dem die PDF- oder XPS-Datei im folgenden Szenario nicht erstellt wird:<ul><li>Sie öffnen ein Projekt.</li><li>Sie klicken auf das Menü „Datei“, dann auf „Exportieren“ und schließlich auf die Schaltfläche <b>PDF/XPS erstellen</b>.</li><li>Im Dialogfeld „Durchsuchen“ geben Sie einen Dateinamen ein, und klicken dann auf "OK".</li></ul>
 
 ### <a name="word"></a>Word
 
