@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: b803fe8ec20f102d2c8cf3e68cbddb042beffb6e
-ms.sourcegitcommit: be205676acfa15f0c2170593b0b5ad721bea4f2d
+ms.openlocfilehash: 0e58405ba80e3656e5e3d4b8aef45dbd1df272d3
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44424587"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581784"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -30,6 +30,66 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2006-june-05"></a>Version 2006: Juni 05
+*Version 2006 (Build 13001,20002)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Sortieren/Filtern bei der Zusammenarbeit in Excel:** Sie können Ihre Excel-Datei jetzt sortieren und Filtern, während Sie mit anderen Personen zusammenarbeiten. Dieses neue Feature verhindert, dass Sie von den Sortierungen und Filtern anderer Benutzer betroffen sind, während Sie das Dokument gemeinsam erstellen.
+
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können PivotTables in Excel erstellen, die mit wenigen Klicks mit in Power BI gespeicherten Datasets verbunden sind.Auf diese Weise können Sie das Beste aus PivotTables und Power BI erhalten. Berechnen, zusammenfassen und Analysieren Ihrer Daten mit PivotTables aus ihren Secure Power BI-Datasets. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+
+### <a name="outlook"></a>Outlook
+
+- **Schnelles Öffnen von Elementen aus der vorherigen Sitzung:** Wir haben eine Option zum schnellen Öffnen von Elementen aus einer vorherigen Outlook-Sitzung hinzugefügt. Unabhängig davon, ob Outlook abstürzt oder geschlossen wird, können Sie die Elemente jetzt schnell neu starten, wenn Sie die APP erneut öffnen. Dieses Feature ist standardmäßig aktiviert. Wechseln Sie zum Deaktivieren der Option Optionen > allgemeine > Start Optionen.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem benutzerdefinierte Werte auf der Diagrammachse nicht ordnungsgemäß angewendet werden.
+- Es wurde ein Problem behoben, bei dem Arbeitsblätter mit mehreren Formeln mit definierten Namen zu längeren Zeiten beim Speichern von Dateien führten.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem das Fenster IME (Input Method Editor) den zugrunde liegenden Text über den IME überlappen würde, wenn mehrere Monitore mit unterschiedlichen Auflösungen verwendet wurden.
+- Es wurde ein Problem behoben, bei dem das Anzeigen einer Vorlage beim Erstellen einer neuen e-Mail-Nachricht zu einem Absturz führen würde.
+- Es wurde ein Problem behoben, bei dem Benutzer nach Outlook, Version 1911, keine öffentlichen Ordner Exchange 2010 konnten.
+- Es wurde ein Problem behoben, bei dem die Schaltfläche kategorisieren für Gruppenkalender im Office-Menüband deaktiviert wurde.
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer mit Konflikt verursachenden Kontakten in Outlook Abstürze abstürzen konnten.
+- Es wurde ein Problem behoben, aufgrund dessen die Dropdownliste der Online Archive in Ordner Eigenschaften für Benutzer mit hohen dpi-Monitoren fehlte.
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer bei der Arbeit mit Hyperlinks in reinen Text-e-Mails einen Absturz in Outlook verursachten.
+- Es wurde ein Problem behoben, aufgrund dessen Outlook keine langen Dateinamen analysieren konnte, die mit RFC2231 codiert wurden.
+- Es wurde ein Problem behoben, aufgrund dessen Outlook-Benutzer bei der Verwendung von Bildschirmsprachausgaben nicht mehr reagierten.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem beim Öffnen von Server konfigurierten Dateien mit formularbasierter Authentifizierung behoben.
+- Es wurde ein Problem behoben, bei dem PowerPoint-Dateien mit eingebetteten Diagrammen/Arbeitsmappen zu Fehlern beim Speichern der Datei führen könnten.
+- Es wurde ein Problem behoben, bei dem ein Kommentarbereich, der vom Benutzer geschlossen wurde, automatisch erneut geöffnet wurde.
+- Es wurde ein Problem behoben, bei dem sich der Folien Editor von einer Folie zur nächsten Folie hin überschneidet.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, aufgrund dessen verhindert wurde, dass verwaiste Aufgaben gelöscht oder erneut zugewiesen wurden, nachdem der übergeordnete Plan gelöscht wurde.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem Timestamps in Kommentar Bereichen nicht auf der Systemgebietsschema zeitbasierten.
+- Es wurde ein Problem behoben, bei dem Kommentare zwischen der-Webanwendung und der Desktopanwendung nicht synchronisiert wurden.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
 
 ## <a name="version2006may29"></a>Version 2006:29. Mai
 *Version 2006 (Build 12920,20000)*
@@ -466,7 +526,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 - **Aktualisieren von Folien während der Bildschirmpräsentation:** Aktualisieren Sie Folien, die von anderen Autoren während Ihrer Präsentation geändert wurden.
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -479,7 +539,7 @@ Dieser Artikel enthält Versionshinweise zu Insider-Builds von Word, Excel, Powe
 
 ### <a name="outlook"></a>Outlook
 
-- Diese Änderung ist gegen Verzögerungen bei der Verarbeitung von Bildern mit fehlerhaften oder ungültigen Protokollinformationen gerichtet.
+- Diese Änderung betrifft Verzögerungen bei der Verarbeitung von Bildern mit fehlerhaften oder ungültigen Protokollinformationen.
 
 - Diese Änderung behebt ein Problem, bei dem die neuesten Änderungen an E-Mail-Entwürfen nicht aktualisiert wurden.
 
