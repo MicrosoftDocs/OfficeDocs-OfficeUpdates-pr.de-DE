@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2019 zur Verfügung.
-ms.openlocfilehash: e86831dab2f9bc88abcf297fecb293303e22e2c4
-ms.sourcegitcommit: 2474d341cb1c1c2e0b43b5c324345d853e192c59
+ms.openlocfilehash: 4c996b8fb804c82f14e747910f5f9bac76f538ba
+ms.sourcegitcommit: 868c40861ac49ef565519e2917a9c0435ca20740
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44565070"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581774"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2019"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2019
 
@@ -25,9 +25,6 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > - OneNote 2016 wird nicht standardmäßig einbezogen, wenn ein Benutzer Office 365 aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
-
-
-
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
