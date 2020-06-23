@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: b346aba65488adcd2d0c223e17fe71cc22c0b6b3
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: 48af42f973d499fb9ea43bc596d7389cb8fcff01
+ms.sourcegitcommit: 496e2442f722e5152e19cb5be5cfd91050288081
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695580"
+ms.lasthandoff: 06/15/2020
+ms.locfileid: "44735455"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
@@ -42,10 +42,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="excel"></a>Excel
 
-- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einem Arbeitsblatt, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles! [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/).
-
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/).
 
 - **Die Unterstützung für Facebook Connector endet:** Ab April 2020 werden von Excel keine externen Datenverbindungen mehr unterstützt, für die der Facebook-Connector eingesetzt wird.
@@ -53,8 +49,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Neue Bilder, um Ihre Arbeitsmappen zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Arbeitsmappen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/).
 
 ### <a name="outlook"></a>Outlook
-
-- **Eine flexiblere "An:"-Zeile:** Wenn Sie in die Zeile "An:" klicken, um eine Nachricht zu adressieren, schlagen wir Ihnen Empfänger vor, die Sie wahrscheinlich auswählen werden. Außerdem können Sie Ihr Bild sehen, damit Sie wissen, dass Sie an die richtige Person senden. [Weitere Informationen](https://support.office.com/article/147208af-ca8e-4cdf-b71f-77ba81a54069)
 
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/).
 
@@ -66,10 +60,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einer Folie, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles! [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/).
-
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/).
 
 - **Synchronisieren von Änderungen während der Präsentation:** Änderungen können jetzt synchronisiert werden, wenn sie vorgenommen werden, selbst wenn sich die Präsentation im Bildschirmpräsentationsmodus befindet. [Weitere Informationen](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/).
@@ -78,12 +68,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="word"></a>Word
 
-- **Suchen und beheben Sie relevante Korrektur Probleme.:** Im Editor Bereich wird jetzt eine Übersicht Überkorrektur Probleme angezeigt, die in Ihrem Dokument gefunden werden, daher liegt der Schwerpunkt auf der Behebung der für Sie relevanten.
-
-- **Aufzeigen, was hinter einem Bild steckt:** Platzieren Sie ein Bild in einer Folie, wählen Sie die Voreinstellungen aus, und beobachten Sie, wie sich die Transparenz ändert. Das ist alles! [Weitere Informationen](https://support.office.com/article/ea62f9bf-f0ee-4b64-bcc5-c49275bf350d)
-
-- **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2019/08/13/accessible-pdfs-made-easier/).
-
 - **Auswählen von Freihandeingabe:** Das Lasso-Tool auf der Registerkarte "Zeichnen" hilft Ihnen beim Auswählen von per Freihand gezeichneten Objekten. Wählen Sie einzelne Striche oder ganze Wörter aus. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/).
@@ -91,8 +75,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Neue Bilder, um Ihre Dokumente zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Dokumenten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/).
 
 ### <a name="office-suite"></a>Office-Suite
-
-- **Office-Symbole mit neuem Look:** Die Office-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Office-Benutzeroberfläche widerzuspiegeln.
 
 - **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern.
 

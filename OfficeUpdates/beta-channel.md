@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: e754309f8f647f13b6db0a1b6f4cbcfac2f4ffe5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668083"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814304"
 ---
 # <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
 
@@ -30,6 +30,81 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2007-june-19"></a>Version 2007:19. Juni
+*Version 2007 (Build 13012,20000)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem customUI XML für eine benutzerdefinierte menübandregisterkarte beim Speichern einer Arbeitsmappe in SharePoint/OneDrive entfernt wurde.
+- Es wurde ein Problem behoben, bei dem Arbeitsmappen schreibgeschützt waren, als die Datei nur mit Schreibschutz empfohlen wurde.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem das IME-Fenster (Input Method Editor) den zugrunde liegenden Text über den IME überlappen würde, wenn mehrere Monitore mit unterschiedlichen Auflösungen verwendet wurden.
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer den folgenden Fehler beim Schließen eines Termins sehen konnten, der zuvor gespeichert wurde: "das Element kann nicht gespeichert werden, da es von einem anderen Benutzer oder in einem anderen Fenster geändert wurde. Möchten Sie eine Kopie im Standardordner für das Element erstellen? "
+- Es wurde ein Problem behoben, bei dem Datumsangaben im Minikalender für Benutzer in Japan nicht fett dargestellt wurden.
+- Es wurde ein Problem behoben, aufgrund dessen Kalendererinnerungen keine genauen Zeiten für Besprechungen in weniger als einer Woche anzeigen konnten.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem der Anwesenheits Farbindikator eines Benutzers während einer Live-gemeinsamen Erstellungs Sitzung nicht im gemeinsamen Dokument Erstellungs Katalog aktualisiert wurde.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem, wenn feste Daueraufgaben bei 100% abgeschlossen sind, das tatsächliche Ende jedoch nicht angegeben ist, der Vorgang "% abgeschlossen" als weniger als 100% angezeigt wird.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem die Farbe des HTML-Hyperlinks nicht korrekt gerendert wurde.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, bei dem URLs, die nicht http oder HTTPS-basiert waren, nicht in der Liste der zuletzt verwendeten Listen angezeigt wurden.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2007-june-12"></a>Version 2007:12. Juni
+*Version 2007 (Build 13006,20002)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen von Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereit gerollt. Das erhalten der benötigten Informationen und das einfache aktualisieren ist für viele tägliche Workflows entscheidend. Wir geben Ihnen Zugriff auf Ihre Unternehmens-oder Organisationsinformationen von Power BI als einen Datentyp in Excel, wodurch die Möglichkeit erweitert wird, verknüpfte Informationen in Ihren Tabellen zu integrieren. [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/).
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Es wurde ein Problem behoben, aufgrund dessen Microsoft Access Fehler beim Identifizieren einer Identitätsspalte in einer verknüpften SQL Server-Tabelle verursachte, was dazu führen könnte, dass Zeilen fälschlicherweise als gelöscht gemeldet werden.
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem die wichtigsten Rasterlinien von Radar Diagrammen nicht ordnungsgemäß formatiert werden konnten.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das ProjectBeforeTaskChange-Ereignis nicht ausgelöst wurde, als es eine Änderung am Projektsammelvorgang gab, entweder im Feld Projektstart/-Vorgang.
+- Es wurde ein Problem behoben, bei dem ein Baseline-Reset oder-Update Zeitphasen bezogene Kosten/Arbeitsressourcen ändern könnte und der Basisplan falsche Budgetwerte widerspiegeln könnte.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem die Möglichkeit, die Formatierung im Kommentarbereich über die Schaltfläche "Formatierung löschen" im Office-Menüband zu löschen, nicht funktionierte.
+- Es wurde ein Problem behoben, bei dem das Ändern der Größe einer Tabelle, wenn das Lineal nicht angezeigt wird, dazu führte, dass andere Anwendungen, die im Hintergrund ausgeführt werden, mit dem blinken beginnen.
+- Es wurde ein Problem behoben, bei dem im Modus "gemeinsame Dokumenterstellung" Kommentar Antworten manchmal nicht im Kommentarbereich angezeigt, aber im Bereich "Überarbeitung" angezeigt werden.
+- Es wurde ein Problem behoben, bei dem bei einer Liste von mehr als 50 häufig geöffneten Dokumenten in Word ein Überarbeitungsverlauf angezeigt wird, nachdem ein Dokument gespeichert und geöffnet wurde, obwohl keine Änderungen an diesem Dokument vorgenommen wurden.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2006-june-05"></a>Version 2006: Juni 05
 *Version 2006 (Build 13001,20002)*
@@ -144,7 +219,7 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **In fixierten Ordnern speichern:** Durch anheften Ihrer Ordner wird das Speichern von Office-Dateien vereinfacht. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner erhalten möchten, wenn eine neue Datei gespeichert wird. Wir freuen uns darauf, Ihnen eine neue Funktion zu bieten: Heften Sie Ihre Ordner im Dialogfeld Speichern an. Mit dieser neuen Funktion können Sie Ihre Word-, Excel-und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+- **In fixierten Ordnern speichern:** Durch anheften Ihrer Ordner wird das Speichern von Office-Dateien vereinfacht. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner erhalten möchten, wenn eine neue Datei gespeichert wird. Wir freuen uns darauf, Ihnen eine neue Funktion zu bieten: Heften Sie Ihre Ordner im Dialogfeld Speichern an. Mit dieser neuen Funktion können Sie Ihre Word-, Excel-und PowerPoint-Dateien einfacher speichern.<br />Einzelheiten finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
 
 ### <a name="word"></a>Word
 
@@ -539,7 +614,7 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 
 ### <a name="outlook"></a>Outlook
 
-- Diese Änderung betrifft Verzögerungen bei der Verarbeitung von Bildern mit fehlerhaften oder ungültigen Protokollinformationen.
+- Diese Änderung ist gegen Verzögerungen bei der Verarbeitung von Bildern mit fehlerhaften oder ungültigen Protokollinformationen gerichtet.
 
 - Diese Änderung behebt ein Problem, bei dem die neuesten Änderungen an E-Mail-Entwürfen nicht aktualisiert wurden.
 
@@ -665,7 +740,7 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Benachrichtigung Über Vorfall für IT-Administratoren:** Globale Administratoren von Microsoft 365-Mandanten und Administratoren von Office-Apps werden über Outlook und O365 Exchange-Vorfällen benachrichtigt, die sich auf Ihre Benutzer auswirken – mit einer neuen Benachrichtigung im rechten Seitenbereich in Outlook für Windows.
+- **Benachrichtigung Über Vorfall für IT-Administratoren:** Globale Administratoren von Microsoft 365-Mandanten und Administratoren von Office-Apps werden über Outlook und O365 Exchange-Vorfällen benachrichtigt, die sich auf Ihre Benutzer auswirken – mit einer neuen Benachrichtigung im rechten Seitenbereich in Outlook für Windows. [Weitere Informationen](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 ### <a name="powerpoint"></a>PowerPoint
 

@@ -1,5 +1,5 @@
 ---
-title: Versionshinweise aktueller Kanal (Vorschau)
+title: Versionshinweise Aktueller Kanal (Vorschau)
 ms.author: anankani
 author: v-lislo
 manager: andrewmo
@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 6a81894e1eca51356512bbd7181c3d7fa9f73760
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
+ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668084"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44796686"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Anmerkungen zur Version für den aktuellen Office-Kanal (Vorschau)
 
@@ -32,6 +32,200 @@ Dieser Artikel enthält Versionshinweise zu aktuellen Kanälen (Preview) von Wor
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-june-18"></a>Version 2006: Juni 18
+*Version 2006 (Build 13001,20198)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+
+
+- **In fixierten Ordnern speichern:** Anheften Ihrer Ordner erleichtert das Speichern von Office-Dateien wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei zur Verfügung stehen. Wir freuen uns darauf, Ihnen eine neue Funktion zu bieten: Heften Sie Ihre Ordner im Dialogfeld Speichern an. Mit dieser neuen Funktion können Sie Ihre Word-, Excel-und PowerPoint-Dateien einfacher speichern. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **In fixierten Ordnern speichern:** Anheften Ihrer Ordner erleichtert das Speichern von Office-Dateien wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei zur Verfügung stehen. Wir freuen uns darauf, Ihnen eine neue Funktion zu bieten: Heften Sie Ihre Ordner im Dialogfeld Speichern an. Mit dieser neuen Funktion können Sie Ihre Word-, Excel-und PowerPoint-Dateien einfacher speichern.<br />Einzelheiten finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+
+### <a name="word"></a>Word
+
+- **In fixierten Ordnern speichern:** PIN Ihre Ordner macht das Speichern von Office-Dateien easierWe erhalten Feedback, dass die Benutzer mehr Kontrolle über die Ordner zur Verfügung, wenn eine neue Datei gespeichert werden soll. Wir freuen uns darauf, Ihnen eine neue Funktion zu bieten: Heften Sie Ihre Ordner im Dialogfeld Speichern an. Mit dieser neuen Funktion können Sie Ihre Word-, Excel-und PowerPoint-Dateien einfacher speichern. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, aufgrund dessen customUI XML für eine benutzerdefinierte menübandregisterkarte beim Speichern in SharePoint/OneDrive entfernt wurde.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen Strg + Klick nicht mehr funktionierte, wenn die cloudeinstellungen aktiviert waren.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem eine Aufgabe mit der Bezeichnung "100% Complete" fälschlicherweise in weniger als 100% abgeschlossen geändert wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-june-11"></a>Version 2006:11. Juni
+*Version 2006 (Build 13001,20144)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="powerpoint"></a>PowerPoint
+
+- **Verbesserte Stream Videoleistung in PowerPoint:** Wir haben Verbesserungen an der Wiedergabeleistung von Microsoft Stream-Videos vorgenommen, um die Ladezeit von Videos zu minimieren und eine glatte Anzeige zu erzielen. Verwenden Sie Ihre Unternehmensvideos aus Microsoft Stream, um bessere Präsentationen zu erstellen.
+
+### <a name="word"></a>Word
+
+- **Text in Vektoren beibehalten:** Nun können Sie den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Excel, Word und PowerPoint konvertieren.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem Excel gelegentlich beim Eingriff in OneDrive heruntergefahren wurde.
+
+- Es wurde ein Problem behoben, bei dem benutzerdefinierte Werte auf der Diagrammachse nicht ordnungsgemäß angewendet werden.
+
+- Es wurde ein Problem behoben, bei dem Arbeitsblätter mit mehreren Formeln mit definierten Namen zu längeren Zeiten beim Speichern von Dateien führten.
+
+- Es wurde ein Problem behoben, aufgrund dessen Druckernamen in der Liste der verfügbaren Drucker dupliziert wurden.
+
+- Es wurde ein Problem behoben, das zu einer verbesserten Leistungszeit für Benutzer führte, wenn Sie die zusammengeführten Spalten gelöscht haben.
+
+- Es wurde ein Problem behoben, bei dem die Fehlermeldung "diese Arbeitsmappe wird derzeit durch eine andere referenziert und nicht geschlossen werden kann" angezeigt wird, da Add-Ins in alphabetischer Reihenfolge geladen wurden, statt in einer benutzerdefinierten Reihenfolge.
+
+- Es wurde ein Problem behoben, bei dem der Arbeitsspeicher beim Verwalten von Schriftarten zwischen Excel und einigen Anwendungen für Hilfstechnologien von Drittanbietern beschädigt wurde.
+
+- Es wurde ein Problem behoben, bei dem durch Klicken auf einen mit einem Lesezeichen versehenen Hyperlink in derselben Arbeitsmappe das Ausblenden der Arbeitsmappe verursacht würde.
+
+- Es wurde ein Problem behoben, bei dem einige kopierte und eingefügte Diagramm links anstelle universeller Adressen zugeordnete Laufwerks Adressen verwendeten.
+
+- Es wurde ein Problem behoben, aufgrund dessen Excel möglicherweise nicht mehr reagiert, nachdem Sie STRG + UMSCHALT + Pfeiltasten verwendet haben, um zu scrollen, wenn das Excel-Fenster über Teams freigegeben wurde.
+
+- Es wurde ein Problem behoben, bei dem Excel abstürzte, wenn Add-Ins nach Host Elementen in Arbeitsblättern Fragen, die Shapes mit noselect-Sperren enthalten.
+
+- Es wurde ein Problem behoben, bei dem Excel möglicherweise abstürzte, wenn es versucht, PivotTables in ein Diagrammblatt einzufügen.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem das Fenster IME (Input Method Editor) den zugrunde liegenden Text über den IME überlappen würde, wenn mehrere Monitore mit unterschiedlichen Auflösungen verwendet wurden.
+
+- Es wurde ein Problem behoben, bei dem das Anzeigen einer Vorlage beim Erstellen einer neuen e-Mail-Nachricht zu einem Absturz führen würde.
+
+- Es wurde ein Problem behoben, bei dem Benutzer nach Outlook, Version 1911, keine öffentlichen Ordner Exchange 2010 konnten.
+
+- Es wurde ein Problem behoben, bei dem die Schaltfläche kategorisieren für Gruppenkalender im Office-Menüband deaktiviert wurde.
+
+- Es wurde ein Problem behoben, bei dem Outlook Datenverlust-Schutzrichtlinien Tipps Personen für Benutzer, die für den Dienst bezahlt hatten, die sich auf M365 Business Plus-Plänen befanden, nicht aktiviert wurde.
+
+- Es wurde ein Problem behoben, aufgrund dessen Outlook bei einigen Windows-Builds abstürzte.
+
+- Es wurde ein Problem behoben, bei dem Benutzer keinen Kalender für einen Gastbenutzer freigeben konnten.
+
+- Es wurde ein Problem behoben, bei dem Benutzer Kalenderelemente sahen, die den Mitternachts Schwellenwert als ganztägige Ereignisse überspannt haben.
+
+- Es wurde ein Problem behoben, aufgrund dessen die Dropdownliste der Online Archive in Ordner Eigenschaften für Benutzer mit hohen dpi-Monitoren fehlte.
+
+- Es wurde ein Problem behoben, bei dem das Folder. BeforeItemMove-Ereignis nicht ordnungsgemäß ausgelöst wurde, wenn ein Benutzer Elemente zwischen Ordnern verschoben hat.
+
+- Es wurde ein Problem behoben, bei dem Outlook abstürzte, als zwei Add-Ins eine Schaltfläche zu derselben Gruppe im Menüband hinzugefügt haben.
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer bei der Arbeit mit Hyperlinks in reinen Text-e-Mails einen Absturz in Outlook verursachten.
+
+- Es wurde ein Problem behoben, aufgrund dessen Outlook keine langen Dateinamen analysieren konnte, die mit RFC2231 codiert wurden.
+
+- Es wurde ein Problem behoben, aufgrund dessen Outlook-Benutzer bei der Verwendung von Bildschirmsprachausgaben nicht mehr reagierten.
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer mit Konflikt verursachenden Kontakten in Outlook Abstürze abstürzen konnten.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem beim Öffnen von Server konfigurierten Dateien mit formularbasierter Authentifizierung behoben.
+
+- Es wurde ein Problem behoben, bei dem PowerPoint-Dateien mit eingebetteten Diagrammen/Arbeitsmappen zu Fehlern beim Speichern der Datei führen könnten.
+
+- Es wurde ein Problem behoben, bei dem ein-und Auszoomen aus dem Präsentationsbereich zu einer Lücke zwischen dem vergrößerten Auswahlrechteck und dem Mauszeiger führte.
+
+- Es wurde ein Problem behoben, bei dem Folien nach dem Zoomen mit dem Mausrad nicht zentriert wurden.
+
+- Es wurde ein Problem behoben, bei dem Tastenkombinationen und Rechtschreibprüfung nicht wie erwartet funktionieren, wenn Sie eine Englisch Schweiz (QWERTZ)-Tastatur verwenden.
+
+- Es wurde ein Problem behoben, bei dem ein Kommentarbereich, der vom Benutzer geschlossen wurde, automatisch erneut geöffnet wurde.
+
+- Es wurde ein Problem behoben, bei dem sich der Folien Editor von einer Folie zur nächsten Folie hin überschneidet.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das ProjectBeforeTaskChange-Ereignis nicht ausgelöst wird, wenn der Projektsammelvorgang geändert wird – entweder im Feld Projektstart/-Vorgang.
+
+- Es wurde ein Problem behoben, bei dem eine Aufgabe mit der Bezeichnung "100% Complete" fälschlicherweise in weniger als 100% abgeschlossen geändert wurde.
+
+- Es wurde ein Problem behoben, bei dem Project nach dem Klicken auf Optionen abstürzte.
+
+- Es wurde ein Problem behoben, aufgrund dessen verhindert wurde, dass verwaiste Aufgaben gelöscht oder erneut zugewiesen wurden, nachdem der übergeordnete Plan gelöscht wurde.
+
+### <a name="visio"></a>Visio
+
+- Es wurde eine Regression im abhängigen Code vorgenommen, die behoben wurde. Nun werden die Bilder in Visio Services gerendert, die unter SharePoint onprem auszuführen sind.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem Timestamps in Kommentar Bereichen nicht auf der Systemgebietsschema zeitbasierten.
+
+- Es wurde ein Problem behoben, bei dem Word-Dokumente aus benutzerdefinierter Dokumentzustellung (aspx) geöffnet wurden, wenn die URL eine Abfragekomponente enthält.
+
+- Es wurde ein Problem behoben, bei dem das Kopieren und Einfügen von Text in einen Kommentarbereich nicht angezeigt würde.
+
+- Es wurde ein Problem behoben, bei dem Hyperlinks in Kommentaren nicht funktionierten.
+
+- Es wurde ein Problem behoben, bei dem ein-und Auszoomen aus dem Präsentationsbereich zu einer Lücke zwischen dem vergrößerten Auswahlrechteck und dem Mauszeiger führte.
+
+- Es wurde ein Problem behoben, bei dem Kommentare zwischen der-Webanwendung und der Desktopanwendung nicht synchronisiert wurden.
+
+- Es wurde ein Problem behoben, bei dem Kommentar-Hint Bubbles verschwommen bei 100% Zoom erschienen.
+
+- Es wurde ein Problem behoben, bei dem das Hinzufügen eines neuen Kommentars in einem leeren Dokument nichts tun würde.
+
+- Es wurde ein Problem behoben, bei dem das Einfügen von HTML in WordMail for Calendar nicht funktionierte.
+
+- Es wurde ein Problem behoben, bei dem das Antworten auf einen Kommentar in einer gemeinsamen Sitzung manchmal dazu führen könnte, dass Word einfriert.
+
+- Es wurde ein Problem behoben, bei dem das Einfügen oder Aktualisieren eines Index in einem Dokument mit mehr als hundert Einträgen zum Absturz der Anwendung führen würde.
+
+- Es wurde ein Problem behoben, bei dem das Aktivieren von Richtlinien Word 2007 und späteren binären Dokumenten und Vorlagen dazu führen würde, dass einige gemeinsame Dokument Erstellungs Fälle fehlschlagen.
+
+- Es wurde ein Problem behoben, bei dem Dateien mit benutzerdefinierten XML-Werten äußerst langsam geöffnet wurden.
+
+- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (mehr als 32 KB) nicht geöffnet würden und eine entsprechende Fehlermeldung nicht angezeigt wurde.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben das Problem untersucht und behoben, bei dem die Bereitstellung von Office 365 ProPlus über InTune nach einem Herunterfahren des Betriebssystems pausiert wurde.
+
+- Es wurde ein Problem in Visual Basic für Anwendungen in Microsoft Office behoben, bei dem bestimmte VBA-Projekte, die Verweise auf Codebibliotheken mit DBCS-Zeichen im Bibliotheksnamen oder Bibliothekspfad enthalten, von der Office-Anwendung als beschädigt beim Laden angezeigt würden.
+
+- Das Update behebt ein Problem in Microsoft Office, bei dem Visual Basic for Applications-Projekte mit Referenzen, die bei der Suche nach in der PATH-Umgebungsvariable angegebenen Speicherorten gefunden werden sollen, zur Laufzeit möglicherweise nicht richtig gefunden werden, was zu VBA-Laufzeitfehlern führt.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2005-june-08"></a>Version 2005: Juni 08
 *Version 2005 (Build 12827,20336)*
@@ -353,7 +547,7 @@ Dieser Artikel enthält Versionshinweise zu aktuellen Kanälen (Preview) von Wor
 
 - **Bessere Ergebnisse – im Handumdrehen:** wir haben die Suche aktualisiert, damit Sie intelligenter, schneller und zuverlässiger als je zuvor ist. [Weitere Informationen](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
 
-- **Benachrichtigung Über Vorfall für IT-Administratoren:** Globale Administratoren von Microsoft 365-Mandanten und Administratoren von Office-Apps werden über Outlook und O365 Exchange-Vorfällen benachrichtigt, die sich auf Ihre Benutzer auswirken – mit einer neuen Benachrichtigung im rechten Seitenbereich in Outlook für Windows.
+- **Benachrichtigung Über Vorfall für IT-Administratoren:** Globale Administratoren von Microsoft 365-Mandanten und Administratoren von Office-Apps werden über Outlook und O365 Exchange-Vorfällen benachrichtigt, die sich auf Ihre Benutzer auswirken – mit einer neuen Benachrichtigung im rechten Seitenbereich in Outlook für Windows. [Weitere Informationen](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -755,7 +949,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Bereiche im Registerkartenformat:** Jetzt können Sie über die Registerkarten-Benutzeroberfläche auf der rechten Seite der App zwischen mehreren Bereichen wechseln. Die Benutzeroberfläche wird nur angezeigt, wenn Sie mehr als 2 Fenster geöffnet haben.
 
 
-[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 <br/>
 
@@ -941,7 +1135,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-february-22"></a>Version 2002: 22. Februar
 *Version 2002 (Build 12527.20186)*
 
-- Korrekturen verschiedene Fehler und Leistungsprobleme.
+- Korrekturen verschiedener Fehler und Leistungsprobleme.
 
 ## <a name="version-2002-february-21"></a>Version 2002: 21. Februar
 *Version 2002 (Build 12527.20174)*

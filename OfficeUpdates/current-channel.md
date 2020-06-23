@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 13bb14c00a9066c7437cde9a00f94a078788d5c5
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
+ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668010"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44810867"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur Version für aktuelle Kanal Versionen in 2020
 
@@ -354,11 +354,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="onenote"></a>OneNote
 
-- Verbesserte Synchronisierungs- und Serverstabilität durch vorübergehende Deaktivierung des Verschiebens von Seiten in den Papierkorb. Benutzer, die eine Seite löschen möchten, werden stattdessen in einem Dialogfeld gefragt, ob sie die Seite dauerhaft löschen möchten.
-
-- Informieren Sie die Benutzer über die InfoBar über temporäre Anpassungen in Microsoft OneNote, die dazu beitragen werden, die Synchronisierung und die Verfügbarkeit der Dienste bei hoher weltweiter Nutzung zu verbessern.
-
-- Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Änderung der Häufigkeit der Erstellung von Seitenversionshistorien.
+- Informieren Sie die Benutzer über die Infoleiste über temporäre Anpassungen in Microsoft OneNote, die dazu beitragen, die Synchronisierung und Dienstverfügbarkeit bei hoher weltweiter Nutzung zu verbessern.
 
 ### <a name="project"></a>Project
 
@@ -407,8 +403,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="onenote"></a>OneNote
 
 - Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Reduzierung der maximal zulässigen Größe neuer eingebetteter Anhänge auf 50 MB. Bei Dateien, die dieses Limit überschreiten, haben Benutzer die Möglichkeit, die Datei auf OneDrive hochzuladen und einen Link in OneNote einzufügen.
-
-- Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Deaktivierung der Videoaufzeichnung in der Anwendung in OneNote 2016. Lokale Notizbücher sind von dieser Maßnahme nicht betroffen.
 
 - Verbesserte Synchronisierungs- und Servicestabilität durch vorübergehende Anpassung der Synchronisierungshäufigkeit in OneNote 2016.
 
@@ -473,16 +467,9 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern.  [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 - **Arbeitsmappen-Statistik:** Zellen, Formeln, Diagramme, Tabellen... Wir zählen Sie, damit Sie das nicht müssen.
 
 - **Datenprofilerstellung im Abfrage-Editor:** Sie können die Daten in Ihren Spalten auf einen Blick analysieren, Fehler- und Leerwerte identifizieren, Verteilungshistogramme anzeigen und vieles mehr.
-
-### <a name="word"></a>Word
-
-- **Benutzer haben jetzt die Möglichkeit, Objekte in Word und Excel als SVG zu speichern:** Benutzer können Objekte wie Diagramme, Formen, Freihand, Symbole, Bilder und mehr als SVG speichern.  [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
-
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)

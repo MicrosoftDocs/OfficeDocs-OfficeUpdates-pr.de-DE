@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 2bfbf1d8df2923c97e12380e8c054ddcf18f6c1e
-ms.sourcegitcommit: d8a7a35f1f685d01fbdd1780890737897364935a
+ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
+ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/10/2020
-ms.locfileid: "44695567"
+ms.lasthandoff: 06/19/2020
+ms.locfileid: "44814294"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -47,7 +47,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Microsoft 365 Apps auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Microsoft 365 Apps, die in den folgenden Updatekanälen veröffentlicht werden: monatlich, halbjährlich (gezielt) und halbjährlich. Jeder Eintrag in der Tabelle enthält Links zu den Anmerkungen zu dieser Version. Diese Versionshinweise enthalten Informationen zu Funktionen, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.  
+Die folgende Tabelle enthält eine Liste der Versions-und Buildnummer für jedes Update für Microsoft 365-apps, die in den folgenden Update Kanälen veröffentlicht werden: Aktuelles, monatliches Enterprise, halbjährliches Unternehmen (Preview) und halbjährliches Unternehmen. Jeder Eintrag in der Tabelle enthält Links zu den Anmerkungen zu dieser Version. Diese Versionshinweise enthalten Informationen zu Funktionen, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.  
 
 [//]: # (HISTORYTABLESTART)
 

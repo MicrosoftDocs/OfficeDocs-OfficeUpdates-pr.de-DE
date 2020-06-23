@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 29d49b5ff1a6c3aebcac3cf68edc183342085a58
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: e2a72a34490e4403f36f3288fe01c18135f9a7a1
+ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668080"
+ms.lasthandoff: 06/18/2020
+ms.locfileid: "44796696"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Update Verlauf für den aktuellen Office-Kanal (Vorschau) für Windows
 
@@ -37,6 +37,12 @@ Informationen zu Release-Informationen finden Sie unter [What es New for Office 
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**18. Juni 2020**<br/>
+Version 2006 (Build 13001,20198)<br/>
+
+**11. Juni 2020**<br/>
+Version 2006 (Build 13001,20144)<br/>
 
 **Juni 08, 2020**<br/>
 Version 2005 (Build 12827,20336)<br/>
