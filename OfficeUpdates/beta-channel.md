@@ -9,14 +9,14 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: ab1953f105cbab856ac183335fb54edb538b5d43
-ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
+ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44814304"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874791"
 ---
-# <a name="release-notes-for-office-insiders"></a>Anmerkungen zu dieser Version für Office-Insider
+# <a name="release-notes-for-beta-channel"></a>Anmerkungen zur Version für den Beta-Kanal
 
 Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows-Desktop. Jede Woche werden interessante neue Features, wichtige Fehlerbehebungen und alle wichtigen Probleme, über die Sie informiert werden sollen, hervorgehoben. Beachten Sie, dass wir in einem bestimmten Zeitraum häufig Features (und manchmal sogar Fixes) auf den Beta-Kanal aufrollen. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn Sie also unten nichts beschrieben sehen, machen Sie sich keine Sorgen, Sie werden es eventuell irgendwann erhalten.  
 

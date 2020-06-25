@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 913f473e8dd645c58aa17efb1221eb25cc280971
-ms.sourcegitcommit: 69887e53fc949b0890c3a00a8504ac732ee2cad8
+ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44810867"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874781"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur Version für aktuelle Kanal Versionen in 2020
 
@@ -31,6 +31,74 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features und nich
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2005-june-24"></a>Version 2005:24. Juni
+*Version 2005 (Build 12827,20470)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Dieser Fehler wurde nun behoben; Sie sollten in der Lage sein, den erweiterten Datentyp Date/Time in Ihren Code aufzurufen, ohne dass in Ihrer APP ein Absturz auftritt. Lassen Sie das Team wissen, ob weitere Probleme auftreten.
+
+
+- Dieses Problem wurde nun behoben; Sie können nun wieder auf ihre aktuellste Zugriffs Version zurückgreifen und DAO/VBA verwenden, um einen Dezimaldatentyp zu verwalten und zu bearbeiten. Lassen Sie das Access-Team wissen, ob bei der Verwendung unseres Datentyps weitere Probleme auftreten.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, aufgrund dessen customUI XML für eine benutzerdefinierte menübandregisterkarte beim Speichern in SharePoint/OneDrive entfernt wurde.
+
+
+
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem Outlook Datenverlust-Schutzrichtlinien Tipps Personen für Benutzer, die für den Dienst bezahlt hatten, die sich auf M365 Business Plus-Plänen befanden, nicht aktiviert wurde.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer das Erstellungsdatum der Anlagen, die Sie in Ihr Dateisystem kopiert haben, per Drag & Drop auf den 1. Januar 4501 festgelegt sehen.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer die Regeln &quot; auf diesem Computer nicht den Regeln für Microsoft Exchange Meldung entsprechen, &quot; Wenn Sie Ihre Regeln in Outlook aktualisieren.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer der freigegebenen Kalender Verbesserungen Kalender Fehler anzeigen konnten.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer in einigen Szenarien zeitweise hängen und Abstürzen konnten.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer in Outlook fortlaufend aufgefordert werden, das Tool zum Reparieren des Posteingangs auszuführen.
+
+
+- Es wurde ein Problem behoben, bei dem die Suche nach einem Feature in Suggest a Feature zum Zurückgeben von Ergebnissen führte und dem Benutzer keine Option zum Übermitteln einer neuen Feature-Idee ließ.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Absturz Problem mit dem Bereich "Suggestion" behoben.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem eine Aufgabe mit der Bezeichnung "100% Complete" fälschlicherweise in weniger als 100% abgeschlossen geändert wurde.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem beim Ziehen einiger Inhalte aus der APP möglicherweise ein Absturz verursacht wurde.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Diese Änderung behandelt mögliche Abstürze beim Laden und Abspielen von animierten Inhalten wie GIFs oder 3D-Modellen.
+
 
 
 
@@ -312,7 +380,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2003-april-15"></a>Version 2003: 15. April
 *Version 2003 (Build 12624.20466)*

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: cc14aacc0a08dd5c45e22410df7b50a0de51de94
-ms.sourcegitcommit: 6bd9e41014037650170125aaed9847880d438645
+ms.openlocfilehash: 7acd6650c3c084208358cc6cf72f2b4961ff9e6b
+ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44814294"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44874811"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -36,12 +36,12 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Current<br/>|2005<br/>|12827,20336<br/>|9. Juni 2020<br/>|Version 2006 wird veröffentlicht<br/>|
+|Aktueller Kanal<br/>|2005<br/>|12827,20470<br/>|24. Juni 2020<br/>|Version 2006 wird veröffentlicht<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2004<br/>|12730,20430<br/>|9. Juni 2020<br/>|11. August 2020<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2003<br/>|12624,20708<br/>|9. Juni 2020<br/>|14. Juli 2020<br/>|
-|Halbjährliches Unternehmen (Vorschau)<br/>|2002<br/>|12527,20720<br/>|9. Juni 2020<br/>|8. September 2020<br/>|
-|Halbjährliches Unternehmen<br/>|1908<br/>|11929,20838<br/>|9. Juni 2020<br/>|9. März 2021<br/>|
-|Halbjährliches Unternehmen<br/>|1902<br/>|11328,20602<br/>|9. Juni 2020<br/>|8. September 2020<br/>|
+|Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2002<br/>|12527,20720<br/>|9. Juni 2020<br/>|8. September 2020<br/>|
+|Halbjährlicher Enterprise-Kanal<br/>|1908<br/>|11929,20838<br/>|9. Juni 2020<br/>|9. März 2021<br/>|
+|Halbjährlicher Enterprise-Kanal<br/>|1902<br/>|11328,20602<br/>|9. Juni 2020<br/>|8. September 2020<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -53,6 +53,7 @@ Die folgende Tabelle enthält eine Liste der Versions-und Buildnummer für jedes
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|24. Juni|[Version 2005 (Build 12827,20470)](current-channel.md#version-2005-june-24)| | | |
 |2020|Juni 09|[Version 2005 (Build 12827,20336)](current-channel.md#version-2005-june-09)|[Version 2004 (Build 12730,20430)](monthly-enterprise-channel.md#version-2004-june-09)<br/>[Version 2003 (Build 12624,20708)](monthly-enterprise-channel.md#version-2003-june-09)|[Version 2002 (Build 12527,20720)](semi-annual-enterprise-channel-preview.md#version-2002-june-09)|[Version 1908 (Build 11929,20838)](semi-annual-enterprise-channel.md#version-1908-june-09)<br/>[Version 1902 (Build 11328,20602)](semi-annual-enterprise-channel.md#version-1902-june-09)|
 |2020|Juni 02|[Version 2005 (Build 12827,20268)](current-channel.md#version-2005-june-02)| | | |
 |2020|21. Mai|[Version 2004 (Build 12730,20352)](current-channel.md#version-2004-may-21)| | | |
