@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 6287f468ba3d600551da43047227454b26a05e06
-ms.sourcegitcommit: ad8d5cd9c165adcefcb0bbfc6b26d54212bc4c6c
+ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
+ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44796686"
+ms.lasthandoff: 06/25/2020
+ms.locfileid: "44889061"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Anmerkungen zur Version für den aktuellen Office-Kanal (Vorschau)
 
@@ -32,6 +32,46 @@ Dieser Artikel enthält Versionshinweise zu aktuellen Kanälen (Preview) von Wor
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-june-25"></a>Version 2006:25. Juni
+*Version 2006 (Build 13001,20266)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="visio"></a>Visio
+
+- **Erstellen von polierten Visio-Diagrammen in Excel:** Erstellen Sie ein Flussdiagramm oder Organigramm basierend auf Daten in einem Arbeitsblatt.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- <div>Dieses Problem ist nun behoben. Lassen Sie das Team wissen, ob bei diesem Prozess mehr Probleme auftreten.</div>
+
+
+### <a name="outlook"></a>Outlook
+
+- <div><span style="display:inline !important;">Behebt ein Problem, aufgrund dessen Benutzer <span>&nbsp;</span> sehen</span> konnten, <span style="box-sizing:border-box;font-family:Calibri, sans-serif;font-size:14.6667px;display:inline !important;">das Erstellungsdatum der &nbsp; Anlagen, die per Drag & Drop in das Dateisystem kopiert wurden, wird &nbsp; auf den 1. Januar 4501 festgelegt.</span><br></div>
+
+
+- <div><span style="font-family:&quot;Segoe UI&quot;, system-ui, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, sans-serif;display:inline !important;">Behebt ein Problem, aufgrund dessen Benutzer von freigegebenen Kalender Verbesserungen Kalender Fehler anzeigen konnten.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Behebt ein Problem, aufgrund dessen Benutzer in Outlook fortlaufend aufgefordert werden, das Tool zum Reparieren von Posteingang auszuführen.</span><br></div>
+
+
+- <div><span style="display:inline !important;">Behebt ein Problem, bei dem die Suche nach einem Feature in Suggest a Feature zum Zurückgeben von Ergebnissen führte und dem Benutzer keine Option zum Übermitteln einer neuen Feature-Idee ließ.</span><br></div>
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2006-june-18"></a>Version 2006: Juni 18
 *Version 2006 (Build 13001,20198)*
@@ -949,7 +989,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Bereiche im Registerkartenformat:** Jetzt können Sie über die Registerkarten-Benutzeroberfläche auf der rechten Seite der App zwischen mehreren Bereichen wechseln. Die Benutzeroberfläche wird nur angezeigt, wenn Sie mehr als 2 Fenster geöffnet haben.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -1135,7 +1175,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-february-22"></a>Version 2002: 22. Februar
 *Version 2002 (Build 12527.20186)*
 
-- Korrekturen verschiedener Fehler und Leistungsprobleme.
+- Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 ## <a name="version-2002-february-21"></a>Version 2002: 21. Februar
 *Version 2002 (Build 12527.20174)*
@@ -1308,7 +1348,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Diese Änderung behebt gemeldete Probleme mit Grafikadaptern, die die integrierte Intel-GPU nutzen.
 
-[//]: # (BUGDETAILS INHALTSENDE NICHT ENTFERNEN)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
