@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 9585d43c73676e2a12f38b34cbd6c57172bbe917
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
+ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874791"
+ms.lasthandoff: 06/26/2020
+ms.locfileid: "44906910"
 ---
 # <a name="release-notes-for-beta-channel"></a>Anmerkungen zur Version für den Beta-Kanal
 
@@ -30,6 +30,34 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2007-june-26"></a>Version 2007:26. Juni
+*Version 2007 (Build 13020,20004)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Es wurde ein Problem behoben, bei dem der Tabellenverknüpfungs-Manager einen Primärschlüssel auffordern würde, wenn eine verknüpfte SQL-Tabelle aktualisiert wurde.
+- Es wurde ein Problem behoben, bei dem Abfragen im Abfrage-Editor aus dem Blickfeld gescrollt wurden.
+- Es wurde ein Problem behoben, bei dem die Ausführung der Abfrage etwa doppelt so lange dauert, bis Sie abgeschlossen ist als erwartet.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem Benutzer keine "Senden als" oder "Senden im Auftrag von" einer Verteilerliste durchführen konnten.
+- Es wurde ein Problem behoben, bei dem das Einfügen eines Bilds Inline in eine Nachricht und das anschließende Speichern der Nachricht als Entwurf zu einer Größenänderung des Bilds führen würde.
+- Es wurde ein Problem behoben, aufgrund dessen der Textkörper einer NDR-Nachricht nach dem Bearbeiten des Betreffs von Unicode in ASCII geändert wurde.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Projektplaner-Links in den Cloud-Umgebungen der öffentlichen Community deaktiviert waren.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, bei dem der in einer skalierbaren Vektorgrafik (SVG) eingefügte Text unleserlich war, nachdem er in eine Word-, Excel-oder PowerPoint-Datei eingefügt, die Datei gespeichert und geschlossen und dann erneut geöffnet wurde.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2007-june-19"></a>Version 2007:19. Juni
 *Version 2007 (Build 13012,20000)*
@@ -614,7 +642,7 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 
 ### <a name="outlook"></a>Outlook
 
-- Diese Änderung ist gegen Verzögerungen bei der Verarbeitung von Bildern mit fehlerhaften oder ungültigen Protokollinformationen gerichtet.
+- Diese Änderung betrifft Verzögerungen bei der Verarbeitung von Bildern mit fehlerhaften oder ungültigen Protokollinformationen.
 
 - Diese Änderung behebt ein Problem, bei dem die neuesten Änderungen an E-Mail-Entwürfen nicht aktualisiert wurden.
 
