@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 6ff977d90ed98988af281f026276cbc3f0d21807
-ms.sourcegitcommit: a0285b69d4d48b5ef4ac3c54678fb67ce399b73e
+ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
+ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44874781"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45015627"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur Version für aktuelle Kanal Versionen in 2020
 
@@ -31,6 +31,89 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features und nich
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-june-30"></a>Version 2006:30. Juni
+*Version 2006 (Build 13001,20266)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Längere Dateinamen:** Excel für Windows Desktop unterstützt jetzt OneDrive/SharePoint-Dateien mit Namen und Pfaden von bis zu 400 Zeichen.
+
+### <a name="outlook"></a>Outlook
+
+- **Neue Option zum Deaktivieren von Vorschlägen für @Erwähnungen beim Verfassen von E-Mails in Outlook:** Finden Sie die @Erwähnung-Auswahl eher lästig als sinnvoll? Wenn Sie das möchten, können Sie diese nun deaktivieren.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/).
+
+- **Benachrichtigung Über Vorfall für IT-Administratoren:** Globale Administratoren von Microsoft 365-Mandanten und Administratoren von Office-Apps werden über Outlook und O365 Exchange-Vorfällen benachrichtigt, die sich auf Ihre Benutzer auswirken – mit einer neuen Benachrichtigung im rechten Seitenbereich in Outlook für Windows. [Weitere Informationen](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Zusätzliche Schaltflächen zu Outlook-Popupbenachrichtigungen hinzugefügt:** Schaltflächen für die schnell Aktion werden jetzt in Outlook-Popupbenachrichtigungen angezeigt, wenn Outlook unter Windows 10 ausführt wird
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Verbesserte Stream Videoleistung in PowerPoint:** Wir haben Verbesserungen an der Wiedergabeleistung von Microsoft Stream-Videos vorgenommen, um die Ladezeit von Videos zu minimieren und eine glatte Anzeige zu erzielen. Verwenden Sie Ihre Unternehmensvideos aus Microsoft Stream, um bessere Präsentationen zu erstellen.
+
+### <a name="teams"></a>Microsoft Teams
+
+- **PSTN-Teilnehmer Telefonnummern werden von externen Benutzern maskiert:** Für Kunden mit Audiokonferenzen, die für Ihre Teams-Besprechungen aktiviert sind, werden wir die Telefonnummer des PSTN-Teilnehmers für Benutzer maskieren, die von außerhalb Ihrer Organisation miteinander verbunden sind.
+
+- **Vereinfachte Möglichkeit zum Verwalten der Einstellungen für Kanal Benachrichtigungen:** Über die Liste "Teams und Kanäle" oder über den kanalkopf können die Benutzer Ihre Benachrichtigungseinstellungen schnell verwalten, indem Sie alle Aktivitäten mit einem einzigen Mausklick aktivieren oder deaktivieren, um Ihre bevorzugten Permutationen festzulegen.
+
+- **Walkie Talkie:** Sofortige Sprachkommunikation mit Push-to-Talk.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Es wurde ein Problem behoben, bei dem die Ausführung der Abfrage etwa doppelt so lange dauert, bis Sie abgeschlossen ist als erwartet.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, aufgrund dessen customUI XML für eine benutzerdefinierte menübandregisterkarte beim Speichern in SharePoint/OneDrive entfernt wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer das Erstellungsdatum der Anlagen, die Sie in Ihr Dateisystem kopiert haben, per Drag & Drop auf den 1. Januar 4501 festgelegt sehen.
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer der freigegebenen Kalender Verbesserungen Kalender Fehler anzeigen konnten.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer in Outlook fortlaufend aufgefordert werden, das Tool zum Reparieren des Posteingangs auszuführen.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Strg + Klick nicht mehr funktionierte, wenn die cloudeinstellungen aktiviert waren.
+
+
+- Es wurde ein Problem behoben, bei dem die Suche nach einem Feature in Suggest a Feature zum Zurückgeben von Ergebnissen führte und dem Benutzer keine Option zum Übermitteln einer neuen Feature-Idee ließ.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Projekte nicht im Project-Desktop-Client aus Project Web App geöffnet werden konnten, wenn die URL in. com endete.
+
+
+- Es wurde ein Problem behoben, bei dem das ProjectBeforeTaskChange-Ereignis nicht ausgelöst wird, wenn der Projektsammelvorgang geändert wird – entweder im Feld Projektstart/-Vorgang.
+
+
+- Es wurde ein Problem behoben, bei dem eine Aufgabe mit der Bezeichnung "100% Complete" fälschlicherweise in weniger als 100% abgeschlossen geändert wurde.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem Word-Dokumente aus benutzerdefinierter Dokumentzustellung (aspx) geöffnet wurden, wenn die URL eine Abfragekomponente enthält.
 
 
 

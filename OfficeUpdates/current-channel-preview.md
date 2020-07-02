@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 5d3f5834c1199f9d68fd527d231114611b2255fc
-ms.sourcegitcommit: 6cec37b303b316500774846b6fcdd83814b2b364
+ms.openlocfilehash: fbc1e657c6afa8d50b5756ef5c8584ad74c3be34
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2020
-ms.locfileid: "44889061"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001179"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Anmerkungen zur Version für den aktuellen Office-Kanal (Vorschau)
 
@@ -360,12 +360,9 @@ Dieser Artikel enthält Versionshinweise zu aktuellen Kanälen (Preview) von Wor
 ## <a name="version-2005-may-21"></a>Version 2005:21. Mai
 *Version 2005 (Build 12827,20210)*
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN INHALTSANFANG)
 
-### <a name="feature-updates"></a>Featureupdates
-### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Excel-Datentypen:** Sie können Daten aus Ihrer Organisation mithilfe von Excel-Datentypen einfügen. Konvertieren Sie eine Zelle in Ihrer Arbeitsmappe, und erhalten Sie weitere Informationen, und aktualisieren Sie die Daten jederzeit, wenn Sie dies benötigen.
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1175,7 +1172,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-february-22"></a>Version 2002: 22. Februar
 *Version 2002 (Build 12527.20186)*
 
-- Korrekturen verschiedene Fehler und Leistungsprobleme.
+- Korrekturen verschiedener Fehler und Leistungsprobleme.
 
 ## <a name="version-2002-february-21"></a>Version 2002: 21. Februar
 *Version 2002 (Build 12527.20174)*
@@ -1348,7 +1345,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Diese Änderung behebt gemeldete Probleme mit Grafikadaptern, die die integrierte Intel-GPU nutzen.
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (BUGDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
