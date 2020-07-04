@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 55d62bf10375c72a09f93369c20f7f5b6d1b963f
-ms.sourcegitcommit: f9bf47d0d27e084205311ab6e844d044da83f252
+ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
+ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/26/2020
-ms.locfileid: "44906910"
+ms.lasthandoff: 07/03/2020
+ms.locfileid: "45037079"
 ---
 # <a name="release-notes-for-beta-channel"></a>Anmerkungen zur Version für den Beta-Kanal
 
@@ -30,6 +30,58 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2007-july-03"></a>Version 2007: Juli 03
+*Version 2007 (Build 13029,20006)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Erstellen von Umfragen in Outlook mit schnell Abstimmung:** Einfaches Erstellen einer Umfrage, Sammeln von Stimmen und Anzeigen von Ergebnissen in einer e-Mail [Weitere Informationen](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Neue Raumsuche:** suchen Sie in unterschiedlichen Kategorien nach Konferenzräumen.
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem Datenmodell Tabellen, die in bestimmten Versionen von Excel erstellt wurden, in der tabellenvorschau nicht angezeigt werden konnten, obwohl die mit der Tabelle verknüpfte Abfrage nicht bearbeitet wurde.
+- Es wurde ein Problem behoben, bei dem das Deaktivieren von Verweisen auf "relative/absolute ignorieren" im Dialogfeld "Namen definieren \ Namen übernehmen" bewirkt, dass Formeln nicht funktionieren.
+- Es wurde ein Problem behoben, bei dem das Löschen eines erweiterten Datenfilters die Tabellenformatierung verlieren könnte.
+- Es wurde ein Problem behoben, bei dem der vollständige Pfad eines eingebetteten PDF-Dokuments in der Dokument Beschriftung statt nur im Dateinamen angezeigt würde.
+- Es wurde ein Problem behoben, bei dem nach dem Deaktivieren des Wolfram Cloud-Konnektors und anschließendes Speichern und erneutes Öffnen einer Excel-Arbeitsmappe zu einem Absturz führen könnte.
+- Es wurde ein Problem behoben, bei dem das Booten von Excel mit aktiviertem Solver-Add-in zu einem Absturz führen würde.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem Outlook nicht mehr reagierte, wenn es mehr als 130 Empfänger in der Zeile "an" gäbe, und wir haben auch die Leistung beim Rendern des Texts verbessert.
+- Es wurde ein Problem in der "Aufgabenleiste" behoben, bei dem Ereignisse, die mehr als zwei Tage überspannt wurden, für alle nachfolgenden Tage mit demselben Endzeitpunkt angezeigt wurden.
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer von Outlook nach der Verwendung freigegebener Kalender einige Minuten die Aktualisierung der Nachrichtenliste beenden konnten.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem das Einfügen von HTML in einen Textbereich auf einer Folie stattdessen in ein Textfeld eingefügt wird, das oben auf der Folie erstellt wurde.
+- Es wurde ein Problem behoben, bei dem das Auswählen aller Folien in der Referentenansicht, das anschließende Beenden der Referentenansicht mithilfe von Alt + Tab und das zurückkehren zur Bildschirmpräsentation und klicken auf "Show beenden" zu einer nicht behandelten Ausnahme führen würde.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Project beim Öffnen bestimmter XML-Dateien möglicherweise abstürzt.
+- Es wurde ein Problem behoben, bei dem Sie eine Projektdatei aus einer SharePoint-Dokumentbibliothek nicht öffnen konnten, wenn sich die Bibliothek im modernen Modus befand.
+- Es wurde ein Problem behoben, bei dem Projekte nicht im Project Web App im Project-Desktop Client geöffnet werden konnten, wenn die URL in ". com" endete.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem im Modus für die gemeinsame Dokumenterstellung behoben, wenn ein Zusammenführungskonflikt vorliegt und der Benutzer bereits beschlossen hat, Änderungen zu verwerfen, wird die Option zum Speichern oder Verwerfen von Änderungen nicht mehr angezeigt.
+- Es wurde ein Problem behoben, das beim Speichern einer Datei mit einem Makro unter einem neuen Namen dazu führen würde, dass Sie mit der Erweiterung DOCX und dem Dateinamen "WRO0004.docx" gespeichert wird, unabhängig davon, was der Benutzer eingegeben hat, wodurch das Dokument unbrauchbar wird.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2007-june-26"></a>Version 2007:26. Juni
 *Version 2007 (Build 13020,20004)*
