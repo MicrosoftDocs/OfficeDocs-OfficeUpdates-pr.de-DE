@@ -9,12 +9,11 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 7003006056b0cd045d6a21111aee512cef07e040
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
-ms.translationtype: MT
+ms.openlocfilehash: e5be723b830639d3ef70ee249fa123fec97e604f
+ms.sourcegitcommit: ac8d77e50d9588c67e18cc5e1e294179fbadfea3
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015627"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45049485"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur Version für aktuelle Kanal Versionen in 2020
 
@@ -824,3 +823,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 > [!NOTE]
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
+
+[//]: # (Admin Center-Metadaten-Inhalt wird nicht geändert Start)
+[//]: # (| Win32 | CC | Produktion | | 16.0.13001.20266 | Version-2006-Juni-30 |)
+[//]: # (Admin Center-Metadaten-Inhalts Ende nicht ändern)
