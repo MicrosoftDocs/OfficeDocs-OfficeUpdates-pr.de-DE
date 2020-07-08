@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 2daa8404f34380ab751e17a527885dba8f084380
-ms.sourcegitcommit: 3e203ec35b9830a70836fe7b50bcf4fea5615b57
+ms.openlocfilehash: b7337f4dcc20631c9f0b941a7ff8060816d89e73
+ms.sourcegitcommit: 6e27566f8c2e6718da5c5597a62f91a882c8b20f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "45037079"
+ms.lasthandoff: 07/07/2020
+ms.locfileid: "45052628"
 ---
 # <a name="release-notes-for-beta-channel"></a>Anmerkungen zur Version für den Beta-Kanal
 
@@ -997,3 +997,7 @@ Dieser Artikel enthält Versionshinweise für Beta-Kanal-Builds von Word, Excel,
 - Behebt ein Problem, das dazu geführt hat, dass Korrekturhilfe-Paket Norwegen Nynorsk (nn-no) nicht ordnungsgemäß installiert wurde.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (Admin Center-Metadaten-Inhalt wird nicht geändert Start)
+[//]: # (Admin Center-Metadaten-Inhalts Ende nicht ändern)

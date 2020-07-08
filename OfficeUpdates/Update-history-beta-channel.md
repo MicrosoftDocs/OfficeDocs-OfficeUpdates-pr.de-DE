@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: 38755dab9e7e7d6b2497245da2b65a23a241f0db
-ms.sourcegitcommit: f92dbf2ec2e2f11a344e97327e9cef08e9569670
+ms.openlocfilehash: 75dba530be25321c904196bcb9b25ee611652175
+ms.sourcegitcommit: b3740a6df29ec013b7b8b7d74fbe05f5147cc74e
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45015637"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45080160"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Update Verlauf für Office-Beta Kanal
 
@@ -38,6 +38,9 @@ Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windo
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**Juli 07, 2020**<br/>
+Version 2008 (Build 13102,20002)<br/>
 
 **01. Juli 2020**<br/>
 Version 2007 (Build 13029,20006)<br/>
