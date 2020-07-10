@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: b1d25b4ab4db03580e3a108fcb0435a659c2df0f
-ms.sourcegitcommit: 18f8f5d6dcd9743005ae2ba87c8e9e2d9edfe8c4
+ms.openlocfilehash: 8fd7abbc8ed7c24162c9daeef0d0a2fad8d05bab
+ms.sourcegitcommit: e94688d66388221a9ebd9d29f49487544da5cc49
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44211715"
+ms.lasthandoff: 07/08/2020
+ms.locfileid: "45083361"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -26,7 +26,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie bitte diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
 
 
@@ -35,6 +35,120 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+
+
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+
+
+## <a name="june-30-2020"></a>30. Juni 2020
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das neueste Release ist Version 2006 (Build 13001.20266).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2005 (Build 12827.20470) <br/> |24. Juni 2020 <br/> |155<br/> |
+|Version 2005 (Build 12827.20336) <br/> |9. Juni 2020 <br/> |154<br/> |
+
+
+## <a name="june-24-2020"></a>24. Juni 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 24. Juni 2020)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das neueste Release ist Version 2005 (Build 12827.20470).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2005 (Build 12827.20336) <br/> |9. Juni 2020 <br/> |55<br/> |
+|Version 2005 (Build 12827.20268) <br/> |2. Juni 2020 <br/> |63<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 24. Juni 2020)
+
+
+## <a name="june-9-2020"></a>9. Juni 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 9. Juni 2020)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das neueste Release ist Version 2005 (Build 12827.20336).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2005 (Build 12827.20268) <br/> |2. Juni 2020 <br/> |58<br/> |
+|Version 2004 (Build 12730.20270) <br/> |12. Mai 2020 <br/> |182<br/> |
+
+### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
+
+Das neueste Release ist Version 2004 (Build 12730.20430).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2003 (Build 12624.20588) <br/> |12. Mai 2020 <br/> |168<br/> |
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
+
+Das neueste Release ist Version 2002 (Build 12527.20720).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.20612) <br/> |12. Mai 2020 <br/> |55<br/> |
+|Version 2002 (Build 12527.20442) <br/> |14. April 2020 <br/> |70<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
+
+Das neueste Release ist Version 1908 (Build 11929.20838).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 1908 (Build 11929.20776) <br/> |12. Mai 2020 <br/> |60<br/> |
+|Version 1908 (Build 11929.20708) <br/> |14. April 2020 <br/> |70<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 9. Juni 2020)
+
+
+
+
+## <a name="june-2-2020"></a>2. Juni 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 2. Juni 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 2005 (Build 12827.20268).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2004 (Build 12730.20352) <br/> |21. Mai 2020 <br/> |175<br/> |
+|Version 2004 (Build 12730.20270) <br/> |12. Mai 2020 <br/> |181<br/> |
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 2. Juni 2020)
+
+## <a name="may-21-2020"></a>21. Mai 2020
+
+[//]: # (INHALT NICHT ENTFERNEN START 21. Mai 2020)
+
+### <a name="monthly-channel"></a>Monatlicher Kanal
+
+Das neueste Release ist Version 2004 (Build 12730.20352).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2004 (Build 12730.20270) <br/> |12. Mai 2020 <br/> |62<br/> |
+|Version 2004 (Build 12730.20250) <br/> |4. Mai 2020 <br/> |71<br/> |
+
+
+[//]: # (INHALT NICHT ENTFERNEN ENDE 21. Mai 2020)
 
 ## <a name="may-12-2020"></a>12. Mai 2020
 
@@ -118,8 +232,6 @@ Das neueste Release ist Version 2004 (Build 12730.20236).
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE29. April 2020)
 
-
-
 [//]: # (INHALT NICHT ENTFERNEN ENDE 26. April 262020)
 
 ## <a name="april-15-2020"></a>15. April 2020
@@ -134,7 +246,6 @@ Das neueste Release ist Version 2003 (Build 12624.20466).
 |:-----|:-----|:-----|
 |Version 2003 (Build 12624.20442) <br/> |14. April 2020 <br/> |52<br/> |
 |Version 2003 (Build 12624.20382) <br/> |31. März 2020 <br/> |69<br/> |
-
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE15. April 2020)
 
@@ -151,8 +262,6 @@ Das neueste Release ist Version 2003 (Build 12624.20442).
 |Version 2003 (Build 12624.20382) <br/> |31. März 2020 <br/> |69<br/> |
 |Version 2003 (Build 12624.20320) <br/> |25. März 2020 <br/> |334<br/> |
 
-
-
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
 
 Das neueste Release ist Version 1908 (Build 11929.20708).
@@ -161,7 +270,6 @@ Das neueste Release ist Version 1908 (Build 11929.20708).
 |:-----|:-----|:-----|
 |Version 1908 (Build 11929.20648) <br/> |10. März 2020 <br/> |72<br/> |
 |Version 1908 (Build 11929.20606) <br/> |11. Februar 2020 <br/> |82<br/> |
-
 
 ### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
 
@@ -172,9 +280,7 @@ Das neueste Release ist Version 2002 (Build 12527.20442).
 |Version 2002 (Build 12527.20278) <br/> |10. März 2020 <br/> |78<br/> |
 |Version 1908 (Build 11929.20606) <br/> |11. Februar 2020 <br/> |290<br/> |
 
-
 [//]: # (INHALT NICHT ENTFERNEN ENDE14. April 2020)
-
 
 ## <a name="march-31-2020"></a>31. März 2020
 
@@ -188,7 +294,6 @@ Das neueste Release ist Version 2003 (Build 12624.20382).
 |:-----|:-----|:-----|
 |Version 2003 (Build 12624.20320) <br/> |25. März 2020 <br/> |64<br/> |
 |Version 2002 (Build 12527.20278) <br/> |10. März 2020 <br/> |168<br/> |
-
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE 31. März 2020)
 
@@ -205,7 +310,6 @@ Das neueste Release ist Version 2003 (Build 12624.20320).
 |Version 2002 (Build 12527.20278) <br/> |10. März 2020 <br/> |171<br/> |
 |Version 2002 (Build 12527.20242) <br/> |1. März 2020 <br/> |172<br/> |
 
-
 [//]: # (INHALT NICHT ENTFERNEN ENDE 25. März 2020)
 
 ## <a name="march-10-2020"></a>10. März 2020
@@ -219,7 +323,6 @@ Das neueste Release ist Version 2002 (Build 12527.20278).
 |Version 2002 (Build 12527.20242) <br/> |1. März 2020 <br/> |40<br/> |
 |Version 2002 (Build 12527.20194) <br/> |25. Februar 2020 <br/> |266<br/> |
 
-
 [//]: # (INHALT NICHT ENTFERNEN START10. März 2020)
 
 ### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
@@ -231,7 +334,6 @@ Das neueste Release ist Version 1908 (Build 11929.20648).
 |Version 1908 (Build 11929.20606) <br/> |11. Februar 2020 <br/> |64<br/> |
 |Version 1908 (Build 11929.20562) <br/> |14. Januar 2020 <br/> |73<br/> |
 
-
 ### <a name="semi-annual-targeted-channel"></a>Halbjährlicher(zielgerichteter) Kanal
 
 Das neueste Release ist Version 2002 (Build 12527.20278).
@@ -241,9 +343,7 @@ Das neueste Release ist Version 2002 (Build 12527.20278).
 |Version 1908 (Build 11929.20606) <br/> |11. Februar 2020 <br/> |291<br/> |
 |Version 1908 (Build 11929.20562) <br/> |14. Januar 2020 <br/> |292<br/> |
 
-
 [//]: # (INHALT NICHT ENTFERNEN ENDE10. März 2020)
-
 
 ## <a name="march-1-2020"></a>1. März 2020
 
@@ -258,169 +358,7 @@ Das neueste Release ist Version 2002 (Build 12527.20242).
 |Version 2002 (Build 12527.20194) <br/> |25. Februar 2020 <br/> |57<br/> |
 |Version 2001 (Build 12430.20288) <br/> |19. Februar 2020 <br/> |152<br/> |
 
-
 [//]: # (INHALT NICHT ENTFERNEN ENDE1. März 2020)
-
-## <a name="february-25-2020"></a>25. Februar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 25. Februar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Das neueste Release ist Version 2002 (Build 12527.20194).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 2001 (Build 12430.20288) <br/> |19. Februar 2020 <br/> |145<br/> |
-|Version 2001 (Build 12430.20264) <br/> |11. Februar 2020 <br/> |143<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 25. Februar 2020)
-
-## <a name="february-19-2020"></a>19. Februar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 19. Februar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Das neueste Release ist Version 2001 (Build 12430.20288).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 2001 (Build 12430.20264) <br/> |11. Februar 2020 <br/> |46<br/> |
-|Version 2001 (Build 12430.20184) <br/> |30. Januar 2020 <br/> |55<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 19. Februar 2020)
-
-## <a name="february-11-2020"></a>11. Februar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 11. Januar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Das neueste Release ist Version 2001 (Build 12430.20264).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 2001 (Build 12430.20184) <br/> |30. Januar 2020 <br/> |54<br/> |
-|Version 1912 (Build 12325.20344) <br/> |22. Januar 2020 <br/> |137<br/> |
-
-
-
-### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
-
-Das neueste Release ist Version 1908 (Build 11929.20606).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1908 (Build 11929.20562) <br/> |14. Januar 2020 <br/> |65<br/> |
-|Version 1902 (Build 11328.20492) <br/> |10. Dezember 2019 <br/> |339<br/> |
-
-
-### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
-
-Das neueste Release ist Version 1908 (Build 11929.20606).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1908 (Build 11929.20562) <br/> |14. Januar 2020 <br/> |65<br/> |
-|Version 1908 (Build 11929.20516) <br/> |10. Dezember 2019 <br/> |68<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 11. Januar 2020)
-
-
-
-
-## <a name="january-30-2020"></a>30. Januar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 30. Januar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Das neueste Release ist Version 2001 (Build 12430.20184).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1912 (Build 12325.20344) <br/> |22. Januar 2020 <br/> |134<br/> |
-|Version 1912 (Build 12325.20298) <br/> |14. Januar 2020 <br/> |138<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 30. Januar 2020)
-
-## <a name="january-22-2020"></a>22. Januar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 22. Januar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Das neueste Release ist Version 1912 (Build 12325.20344).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1912 (Build 12325.20298) <br/> |14. Januar 2020 <br/> |53<br/> |
-|Version 1912 (Build 12325.20288) <br/> |8. Januar 2020 <br/> |59<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 22. Januar 2020)
-
-## <a name="january-14-2020"></a>14. Januar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 14. Januar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Das neueste Release ist Version 1912 (Build 12325.20298).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1912 (Build 12325.20288) <br/> |8. Januar 2020 <br/> |46<br/> |
-|Version 1911 (Build 12228.20364) <br/> |10. Dezember 2019 <br/> |151<br/> |
-
-
-
-### <a name="semi-annual-channel"></a>Halbjährlicher Kanal
-
-Das neueste Release ist Version 1908 (Build 11929.20562).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1902 (Build 11328.20492) <br/> |10. Dezember 2019 <br/> |338<br/> |
-|Version 1902 (Build 11328.20480) <br/> |22. November 2019 <br/> |337<br/> |
-
-
-### <a name="semi-annual-targeted-channel"></a>Halbjährlicher Kanal (gezielt)
-
-Das neueste Release ist Version 1908 (Build 11929.20562).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1908 (Build 11929.20516) <br/> |10. Dezember 2019 <br/> |59<br/> |
-|Version 1908 (Build 11929.20494) <br/> |22. November 2019 <br/> |64<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 14. Januar 2020)
-
-
-## <a name="january-8-2020"></a>8. Januar 2020
-
-[//]: # (INHALTE NICHT ENTFERNEN START 8. Januar 2020)
-
-### <a name="monthly-channel"></a>Monatlicher Kanal
-
-Die neueste Version ist Version 1912 (Build 12325.20288).
-
-|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
-|:-----|:-----|:-----|
-|Version 1911 (Build 12228.20364) <br/> |10. Dezember 2019 <br/> |142<br/> |
-|Version 1911 (Build 12228.20332) <br/> |3. Dezember 2019 <br/> |145<br/> |
-
-
-[//]: # (INHALTE NICHT ENTFERNEN ENDE 8. Januar 2020)
-
-
-
 
 ## <a name="related-topics"></a>Verwandte Themen
 
