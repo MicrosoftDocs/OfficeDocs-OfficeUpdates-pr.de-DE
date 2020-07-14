@@ -9,27 +9,27 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: 3be9843eec64b0110124d386591a50a0f0e4a2b9
-ms.sourcegitcommit: 1c78e7def81461cd758dded4b443b5dcffa17461
+ms.openlocfilehash: 073e9fac962b8340f6598a485dc82cd19fa0884a
+ms.sourcegitcommit: fba8a23022418305d52bcbd57be1a3fc77647e01
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2020
-ms.locfileid: "44210850"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45001125"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
-Microsoft veröffentlicht Sicherheits- und Qualitätsupdates für die Klick-und-Los-Version (C2R) von Office 2016 und für Office 2019, das ausschließlich als C2R-Version verfügbar ist. Diese Updates werden etwa einmal im Monat veröffentlicht, in der Regel am zweiten Dienstag im Monat.
+Microsoft releases security and quality updates for the Click-To-Run (C2R) version of Office 2016 and for Office 2019, which is exclusively C2R. These updates are released approximately once a month, usually on the second Tuesday of the month.
 
-Wenn Sie prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie Ihre Office-Versionsnummer und aktualisieren Sie Office bei Bedarf manuell. Gehen Sie zum Überprüfen der Office-Version folgendermaßen vor:
+If you'd like to verify that you're up to date, check your Office version number and manually update Office if necessary. To check your version of Office, do the following:
 
   1.    Öffnen Sie eine beliebige Office-Anwendung wie Word oder Excel.
   2.    Wählen Sie **Datei > Konto** aus.
   3.    Prüfen Sie unter **Produktinformationen** die Versionsnummer unter dem **Infoabschnitt**.
 
-Wenn die Versionsnummer der aktuellen Version entspricht, sind Sie auf dem neuesten Stand. Andernfalls können Sie eine manuelle Aktualisierung vornehmen, um die neueste Office-Version zu erhalten. Zum Aktualisieren von Office [führen Sie diese Schritte aus](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
+If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
 
-Die folgende Tabelle enthält den Updateverlauf für die volumenlizenzierte Version von Office 2019 sowie die Einzelhandelsversionen von Office 2016 C2R und Office 2019, wobei die neueste Version zuerst aufgeführt wird. Die Tabelle umfasst die Versions- und Buildnummer für die Version und listet die Sicherheitsupdates auf, die in der Version enthalten sind, sowie einen Link zu mehr Informationen über das Sicherheitsupdate. 
+The following tables provide the update history for the volume licensed version of Office 2019, as well as the retail versions of Office 2016 C2R and Office 2019, with the most recent release date listed first. The tables include the version and build number for the release and list the security updates that are included, along with a link to more information about the security update.
 
 Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 
@@ -38,6 +38,7 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|9. Juni 2020   |Version 1808 (Build 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1322) <br/>|
 |12. Mai 2020   |Version 1808 (Build 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0901) <br/> |
 |14. April 2020   |Version 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10. März 2020   |Version 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0892) <br/>  |
@@ -61,8 +62,13 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|30. Juni 2020|Version 2006 (Build 13001.20266)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
+|24. Juni 2020|Version 2005 (Build 12827.20470)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
+|9. Juni 2020|Version 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1322)  <br/>|
+|2. Juni 2020|Version 2005 (Build 12827.20268)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
+|21. Mai 2020|Version 2004 (Build 12730.20352)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |12. Mai 2020|Version 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0901)  <br/>  |
-|4. Mai 2020|Version 2004 (Build 12730.20250)  |Behebt ein Problem, bei dem bestimmte VBA-Projekte, die Verweise auf Codebibliotheken mit DBCS-Zeichen (Double-Byte) im Bibliotheksnamen oder Bibliothekspfad enthalten, von der Office-Anwendung beim Laden als fehlerhaft angesehen werden. <br/>  |
+|4. Mai 2020|Version 2004 (Build 12730.20250)  |[Link](https://support.microsoft.com/office/excel-word-powerpoint-file-becomes-corrupt-when-opening-a-file-that-contains-a-vba-project-or-after-enabling-a-macro-in-an-open-file-ad6ee6ca-db23-4614-a403-282821eb99f6?ui=en-us&rs=en-us&ad=us)<br/>  |
 |29. April 2020|Version 2004 (Build 12730.20236)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |15. April 2020|Version 2003 (Build 12624.20466)  |Korrekturen verschiedener Fehler und Leistungsprobleme. <br/>  |
 |14. April 2020|Version 2003 (Build 12624.20442)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0979](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0979) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0991) <br/> |
