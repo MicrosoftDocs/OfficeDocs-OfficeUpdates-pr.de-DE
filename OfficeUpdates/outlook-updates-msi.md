@@ -9,26 +9,26 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: b77cb6441af020b35a0b082448f1809271b39d55
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 360447f59f9cf8f09bbdb90ab92d24872a786d19
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666637"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138631"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
 Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuesten Updates für die dauerhaften Versionen von Outlook 2016, Outlook 2013 und Outlook 2010 zu erhalten und diese herunterzuladen.
   
 > [!NOTE]
-> - Die Informationen in diesem Artikel gelten nur für dauerhafte Versionen von Outlook, die die Windows Installer (MSI)-Installationstechnologie verwenden. Beispielsweise wenn Sie eine Volumenlizenzversion von Outlook installiert haben, z. B. Outlook in Office Professional Plus 2016.
+> - The information in this article only applies to perpetual versions of Outlook that use the Windows Installer (MSI) installation technology. For example, if you installed a volume licensed version of Outlook, such as Outlook included with Office Professional Plus 2016.
 > - Die Informationen in diesem Artikel gelten nicht für Microsoft 365-Apps.
 > - Informationen dazu, wie Sie die von Ihnen verwendete Version von Outlook ermitteln können, finden Sie unter [Welche Outlook-Version habe ich?](https://support.office.com/article/b3a9568c-edb5-42b9-9825-d48d82b2257c)
 > - Weitere Informationen zum Installieren von Office-Updates finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). 
   
 Die Kompatibilität von Outlook mit Microsoft 365 und Ihrer lokalen Umgebung hängt von den Systemanforderungen für Ihre Bereitstellung ab:
   
-- Microsoft 365 funktioniert mit jeder Version von Outlook, für die Mainstream-Support besteht, was die neueste Version von Outlook 2016 umfasst. Von früheren Versionen von Outlook können nur die weiter mit Microsoft 365 arbeiten, für die erweiterter Support besteht, wenn auch mit eingeschränkter Funktionalität. Weitere Informationen finden Sie unter [Microsoft Lifecycle-Richtlinie](https://support.microsoft.com/lifecycle).
+- Microsoft 365 works with any version of Outlook that is in mainstream support, which includes the latest version of Outlook 2016. For previous versions of Outlook, only those that have extended support may continue to work with Microsoft 365, although with reduced functionality. For more information, see [Microsoft Lifecycle Policy](https://support.microsoft.com/lifecycle).
     
 - Für lokale Exchange-Bereitstellungen halten Sie die Systemanforderungen für Ihre Version von Outlook ein:
     
@@ -43,13 +43,13 @@ Die Kompatibilität von Outlook mit Microsoft 365 und Ihrer lokalen Umgebung hä
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Juni 2020 <br/>[KB4484398](https://support.microsoft.com/help/4484398) 
+|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Juli 2020 <br/>[KB4484433](https://support.microsoft.com/help/4484433) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013-Updates
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Öffentliches Update vom Dezember 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |April 2020 PU <br/>[KB4484281](https://support.microsoft.com/help/4484281)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Öffentliches Update vom Dezember 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Öffentliches Update vom Juli 2020 <br/>[KB4484363](https://support.microsoft.com/help/4484363)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010-Updates
 > [!IMPORTANT]
@@ -57,6 +57,6 @@ Der Support für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit 
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |April 2020 PU <br/>[KB4484284](https://support.microsoft.com/help/4484284) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Öffentliches Update vom Juli 2020 <br/>[KB4484382](https://support.microsoft.com/help/4484382) <br><br><br><br/>|
    
 
