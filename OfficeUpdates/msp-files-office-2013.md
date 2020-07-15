@@ -9,29 +9,30 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten eine Liste der aktuellen MSP-Dateien für unbefristete Office 2013-Versionen, die Windows Installer (MSI) verwenden
-ms.openlocfilehash: 37db4b1c053fbb98ace482cf488b0c98a8033217
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 735ff46ec0e9d6faa01b88edcce4c3e2788592c6
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666537"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138721"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 
-Die folgenden Informationen stellen eine Liste der aktuellen MSP-Dateien bereit, die IT-Experten einschließen müssen, wenn sie ein Installations-Image für ein Office 2013-Produkt erstellen, einschließlich Visio 2013 und Project 2013. Durch Einschließen dieser MSP-Dateien werden die aktuellen sicherheitsrelevanten und nicht sicherheitsrelevanten Updates automatisch auf die Office-Installation angewendet, wenn Benutzer das Office 2013-Produkt installieren.
+The following information provides a list of the most current .msp files that IT professionals need to include when they create an installation image for an Office 2013 product, including Visio 2013 and Project 2013. By including these .msp files, when their users install the Office 2013 product, the most current security and non-security updates are automatically applied to the Office installation.
   
-Diese Informationen gelten nur für Office 2013-Produkte, die die Windows Installer (MSI)-Installationstechnologie verwenden. Beispielsweise verwenden die Volumenlizenz-Editionen von Office Professional Plus 2013 und Visio Standard 2013 MSI.
+This information only applies to Office 2013 products that use the Windows Installer (MSI) installation technology. For example, the volume license editions of Office Professional Plus 2013 and Visio Standard 2013 use MSI.
   
 ## <a name="most-recently-updated-msp-files"></a>Zuletzt aktualisierte MSP-Dateien
 
-In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Juni 2020**aktualisiert wurden. 
+In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Juli 2020**aktualisiert wurden. 
   
 |Nicht sicherheitsrelevante Updates * * * *|Sicherheitsupdates * * * *|
 |:-----|:-----|
-|vbe7-x-none<br>|excel-x-none<br/>|
-||mso-x-none<br/>|
-||project-x-none<br/>|
-||word-x-none<br/>|
+|mso-x-none<br>|outlook-x-none<br/>|
+|powerpoint-x-none<br>|project-x-none<br/>|
+| |word-x-none<br/>|
+ 
+
 
 
 
@@ -79,7 +80,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |mscomct2-x-none  <br/> |Office 2013  <br/> |–  <br/> |–  <br/> |13. Mai 2014  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |Nicht zutreffend  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |–  <br/> |–  <br/> |12. Januar 2016  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |4. April 2017  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |–  <br/> |–  <br/> |–  <br/> |
-|mso-x-none  <br/> |Office 2013  <br/> |6. August 2019  <br/> |[4475556](https://support.microsoft.com/help/4475556) <br/> |9. Juni 2020  <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|[4484117](https://support.microsoft.com/help/4484117) <br/> |
+|mso-x-none  <br/> |Office 2013  <br/> |7. Juli 2020  <br/> |[4484442](https://support.microsoft.com/help/4484442) <br/> |9. Juni 2020  <br/> |[4484351](https://support.microsoft.com/help/4484351) <br/>|[4484117](https://support.microsoft.com/help/4484117) <br/> |
 |msohevi-x-none  <br/> |Office 2013  <br/> |–  <br/> |–  <br/> |8. Januar 2019  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |Nicht zutreffend  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |3. Juli 2018  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |11. August 2015  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |Nicht zutreffend  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |9. Juni 2015  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |–  <br/> |–  <br/> |–  <br/> |
@@ -100,11 +101,11 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |–  <br/> |–  <br/> |8. März 2016  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-none  <br/> |Office 2013  <br/> |5. März 2019  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |outlfltr-x-none  <br/> |Office 2013  <br/> |2. August 2016  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |–  <br/> |–  <br/> |–  <br/> |
-|outlook-x-none  <br/> |Outlook 2013  <br/> |1. Oktober 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |14. April 2020  <br/> |[4484281](https://support.microsoft.com/help/4484281) <br/> |[4484156](https://support.microsoft.com/help/4484156) <br/> |
+|outlook-x-none  <br/> |Outlook 2013  <br/> |1. Oktober 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |14. Juli 2020  <br/> |[4484363](https://support.microsoft.com/help/4484363) <br/> |[4484281](https://support.microsoft.com/help/4484281) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |8. September 2015  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Nicht zutreffend  <br/> |–  <br/> |Nicht zutreffend  <br/> |
-|powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |7. August 2018  <br/> |[4018374](https://support.microsoft.com/help/4018374) <br/> |14. April 2020  <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |
+|powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |7. Juli 2020  <br/> |[4484349](https://support.microsoft.com/help/4484349) <br/> |14. April 2020  <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |–  <br/> |–  <br/> |–  <br/> |
-|project-x-none  <br/> |Project 2013  <br/> |2. April 2019 <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |9. Juni 2020  <br/> |[4484369](https://support.microsoft.com/help/4484369) <br/> |[4484125](https://support.microsoft.com/help/4484125) <br/> |
+|project-x-none  <br/> |Project 2013  <br/> |2. April 2019 <br/> |[4462136](https://support.microsoft.com/help/4462136) <br/> |14. Juli 2020  <br/> |[4484450](https://support.microsoft.com/help/4484450) <br/>|[4484369](https://support.microsoft.com/help/4484369) <br/> |
 |proof- *ll*  -  *cc* <sup>3</sup> <br/> |Office 2013  <br/> |7. Mai 2019  <br/> |[4011677](https://support.microsoft.com/help/4011677) <br/> |13. Mai 2014  <br/> |[2880463](https://support.microsoft.com/kb/2880463) <br/> |Nicht zutreffend  <br/> |
 |protocolhndlr-x-None  <br/> |Office 2013  <br/> |7. Juni 2016  <br/> |[3023049](https://support.microsoft.com/kb/3023049) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |publisher-x-none  <br/> |Publisher 2013  <br/> |6. Dezember 2015  <br/> |[3114329](https://support.microsoft.com/help/3114329) <br/> |14. April 2020  <br/> |[3162033](https://support.microsoft.com/help/3162033) <br/> |[3085561](https://support.microsoft.com/help/3085561) <br/> |
@@ -119,7 +120,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |visio-x-none  <br/> |Visio 2013  <br/> |2. April 2019  <br/> |[4464505](https://support.microsoft.com/help/4464505) <br/> |14. April 2020  <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |[3115020](https://support.microsoft.com/help/3115020) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |8. April 2014  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |7. November 2015  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |–  <br/> |–  <br/> |–  <br/> |
-|word-x-none  <br/> |Word 2013  <br/> |2. Juli 2019 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |9. Juni 2020  <br/> |[4484361](https://support.microsoft.com/help/4484361) <br/> |[4484319](https://support.microsoft.com/help/4484319) <br/> |
+|word-x-none  <br/> |Word 2013  <br/> |2. Juli 2019 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |14. Juli 2020  <br/> |[4484446](https://support.microsoft.com/help/4484446) <br/>|[4484361](https://support.microsoft.com/help/4484361) <br/> |
 |wordpia-x-none  <br/> |Word 2013  <br/> |7. November 2017  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |8. März 2016  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |–  <br/> |–  <br/> |–  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |13. Oktober 2015  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Nicht zutreffend  <br/> |–  <br/> |Nicht zutreffend  <br/> |

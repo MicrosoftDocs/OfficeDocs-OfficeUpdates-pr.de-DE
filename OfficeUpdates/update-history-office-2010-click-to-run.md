@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2010-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: dec15fba44ac8c936ec10d9aaac81854bd2bbdda
-ms.sourcegitcommit: 6a6295bb1d4cdef49379bf11db5ea0cc8e927e8b
+ms.openlocfilehash: 97d44abc2663f643fd7f38333280eedb90c1f4c5
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44666590"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138791"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Updateverlauf für Office 2010-Klick-und-Los-Produkte
 
@@ -33,7 +33,7 @@ Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Kli
 Wenn Sie eines dieser Produkte verwenden und prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie Ihre Office-Versionsnummer und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuelle Version von Office 2010 ist **14.0.7252.5000**, die am 9. Juni 2020 veröffentlicht wurde.
+> Die aktuellste Version von Office 2010 ist **14.0.7254.5000**, die am 14. Juli 2020 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -43,21 +43,22 @@ Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
     
 3. Sehen Sie sich unter **Klick-und-Los-Produktupdates** die Versionsnummer an, die aufgeführt ist.
     
-    Wenn die Versionsnummer der aktuellen Version entspricht, verwenden Sie die neuste Version. Wenn dies nicht der Fall ist, können Sie manuell ein Update auf die aktuelle Version von Office 2010 durchführen. [Gehen Sie folgendermaßen vor,](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010) um Office zu aktualisieren.
+    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2010. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Liste der Veröffentlichungsdaten, Versionsnummern und Informationen zu Fixes für Office 2010-Updates
 
-Die folgende Tabelle enthält eine Liste der Updates für Office 2010, wobei die neuesten zuerst aufgeführt werden. Die Tabelle umfasst die Versionsnummer für die Version und Links (falls verfügbar) zu Microsoft Knowledge Base-Artikeln oder Microsoft-Sicherheitsbulletins, die Informationen zu im Update enthaltenen Fixes enthalten.
+The following table provides a list of updates for Office 2010, with the most recent release date listed first. The table includes the version number for the release and links, if available, to Microsoft Knowledge Base (KB) articles or Microsoft Security Bulletins that contains information about the fixes that are included in the update.
   
 Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 
 > [!NOTE]
-> Die nachstehend aufgeführten KB-Artikel KB dienen nur zu Informationszwecken. Klick-und-Los-Updates enthalten alle in den KB-Artikeln aufgeführten Fixes. Sie müssen die in den KB-Artikeln aufgeführten Updates nicht separat herunterladen.
+> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
 
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2020|09. Juni  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
+|2020|14. Juli <br/> |14.0.7254.5000 <br/> |[KB 4559453](https://support.microsoft.com/help/4559453) <br/>|
+||09. Juni  <br/> |14.0.7252.5000  <br/> |[KB 4559448](https://support.microsoft.com/help/4559448 ) <br/> |
 ||12. Mai  <br/> |14.0.7249.5000  <br/> |[KB 4549680 ](https://support.microsoft.com/help/4549680 ) <br/> |
 ||14. April  <br/> |14.0.7248.5000  <br/> |[KB 4549670 ](https://support.microsoft.com/help/4549670 ) <br/> |
 ||11. März  <br/> |14.0.7247.5000  <br/> |[KB 4538705](https://support.microsoft.com/help/4538705 ) <br/> |
