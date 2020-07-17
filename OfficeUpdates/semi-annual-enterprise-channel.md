@@ -11,7 +11,7 @@ ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
 ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
 ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 06/09/2020
 ms.locfileid: "44668100"
