@@ -1,5 +1,5 @@
 ---
-title: Anmerkungen zur Version für halbjährliche Enterprise-Kanal Versionen in 2020
+title: Versionshinweise für Versionen des halbjährlichen Unternehmenskanals im Jahr 2020
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,29 +9,29 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 4e6a61acab775f8619851c4d65327616ef204a63
-ms.sourcegitcommit: 1f8cb906d8d0af5eb26eaedf008180375d2fd55d
+ms.openlocfilehash: 3fe55eb66d368490258f6d200c8553a08b556323
+ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44668100"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45121755"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Anmerkungen zur Version für halbjährliche Enterprise-Kanal Versionen in 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Versionshinweise für Versionen des halbjährlichen Unternehmenskanals im Jahr 2020
 
-Diese Anmerkungen zur Version enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Enterprise-Kanal Updates in 2020 für Microsoft 365-Apps für Unternehmen, Microsoft 365 apps for Business und die Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Kanal-Updates im Jahr 2020 für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. [Lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441), um mehr zu erfahren.
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 >
->- OneNote 2016 wird nun standardmäßig hinzugefügt, wenn ein Benutzer im halbjährlichen Unternehmens Kanal Microsoft 365-apps unter Windows 10 aus dem Office-Portal herunterlädt und installiert.
+>- OneNote 2016 wird jetzt standardmäßig einbezogen, wenn ein Benutzer im halbjährlichen Unternehmenskanal Microsoft 365 Apps aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-1908-june-09"></a>Version 1908: Juni 09
-*Version 1908 (Build 11929,20838)*
+## <a name="version-1908-june-09"></a>Version 1908: 9. Juni
+*Version 1908 (Build 11929.20838)*
 
 Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
@@ -41,7 +41,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Es wurde ein Problem behoben, bei dem Excel nach der Verwendung von STRG + UMSCHALT + Pfeiltasten nicht mehr reagierte, um zu scrollen, wenn das Excel-Fenster über Teams freigegeben wurde.
+- Es wurde ein Problem behoben, bei dem Excel u. U. nicht mehr reagierte, nachdem STRG+UMSCHALT+Pfeiltasten zum Scrollen verwendet wurden, wenn das Excel-Fenster über Microsoft Teams gemeinsam genutzt wurde.
 
 - Ein Problem mit der Skalierung von Kontrollkästchen in Formularsteuerelementen beim Drucken wurde behoben.
 
@@ -53,13 +53,13 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Wir haben die Kanalnamen für die Zweige Januar und Juli 2019 auf die neuen Kanalnamen aktualisiert.
+- Die Kanalnamen für die Januar- und Juli 2019-Verzweigungen wurden auf die neuen Namen aktualisiert.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-1902-june-09"></a>Version 1902: Juni 09
-*Version 1902 (Build 11328,20602)*
+## <a name="version-1902-june-09"></a>Version 1902: 9. Juni
+*Version 1902 (Build 11328.20602)*
 
 Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
@@ -69,9 +69,9 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="office-suite"></a>Office-Suite
 
-- Wir haben die Kanalnamen für die Zweige Januar und Juli 2019 auf die neuen Kanalnamen aktualisiert.
+- Die Kanalnamen für die Januar- und Juli 2019-Verzweigungen wurden auf die neuen Namen aktualisiert.
 
-- Wir haben veraltete Verweise aus den Basisdateien entfernt, die den C2R-Build unterbrechen.
+- Es wurden veraltete Verweise aus den Basisdateien entfernt, die zu einem Fehler im C2R-Build führten.
 
 
 
@@ -92,7 +92,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, aufgrund dessen Benutzer beim Öffnen von MSG-und. oft-Dateien nach der Anwendung einer aktuellen Windows-Aktualisierung einen Absturz festgestellt haben.
+- Es wurde ein Problem behoben, das dazu führte, dass Benutzer beim Öffnen von MSG- und OFT-Dateien nach der Anwendung eines kürzlich durchgeführten Windows-Updates einen Absturz erlebten.
 
 ### <a name="word"></a>Word
 
@@ -132,7 +132,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Es wurde ein Problem behoben, das bewirkt hat, dass die Schaltfläche "In der Cloud speichern" in den Anlagentools fehlte.
 
-- Standardmäßig zeigen die Etiketten der Aufbewahrungsrichtlinien die Aufbewahrungszeitspanne in Klammern an.Dadurch wird ein Registrierungsschlüssel bereitgestellt, mit dem Administratoren festlegen können, dass nur der Name der Richtlinie angezeigt werden soll.HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = Standard 1 = Es wird nur der Richtlinienname für den Text der Aufbewahrungsrichtlinie angezeigt.
+- Standardmäßig zeigen die Etiketten der Aufbewahrungsrichtlinien die Aufbewahrungszeitspanne in Klammern an.Dadurch wird ein Registrierungsschlüssel bereitgestellt, mit dem Administratoren festlegen können, dass nur der Name der Richtlinie angezeigt werden soll. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Preferences\HideRetentionPolicyDuration.0 = Standard; 1 = nur der "PolicyName" für den Text der Aufbewahrungsrichtlinie wird angezeigt.
 
 ### <a name="office-suite"></a>Office-Suite
 
@@ -146,10 +146,10 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Behebt ein Problem in Visual Basic for Applications in Microsoft Office, bei dem bestimmte VBA-Projekte, die Verweise auf Codebibliotheken mit DBCS-Zeichen im Bibliotheksnamen oder Bibliothekspfad enthalten, von der Office-Anwendung beim Laden als fehlerhaft angesehen werden.
 
-## <a name="version1908april-26"></a>Version 1908:26. April
-*Version 1908 (Build 11929,20736)*
+## <a name="version1908april-26"></a>Version 1908: 26. April
+*Version 1908 (Build 11929.20736)*
 
- [Hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführte Sicherheitsupdates
+Sicherheitsupdates sind  [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
@@ -165,7 +165,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="onenote"></a>OneNote
 
-- Lokalisiert die Benachrichtigung, mit der der Benutzer mehr über temporäre Maßnahmen erfahren kann, die in der OneNote-Benutzeroberfläche umgesetzt werden, um die Synchronisierung und die Dienststabilität zu verbessern.
+- Lokalisiert die Benachrichtigung, durch die der Benutzer mehr über temporäre Maßnahmen erfahren kann, die in der OneNote-Benutzeroberfläche implementiert sind, um die Synchronisierungs-und Dienststabilität zu verbessern.
 
 
 ## <a name="version-1908-april-14"></a>Version 1908: 14. April
@@ -211,7 +211,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-march-10"></a>Version 1908: 10. März
 *Version 1908 (Build 11929.20648)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) gelistet
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -252,7 +252,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-february-11"></a>Version 1908: 11. Februar
 *Version 1908 (Build 11929.20606)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) gelistet
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -320,7 +320,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-february-11"></a>Version 1902: 11. Februar
 *Version 1902 (Build 11328.20526)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) gelistet
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -349,7 +349,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-january-14"></a>Version 1908: 14. Januar
 *Version 1908 (Build 11929.20562)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgelistet
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -414,7 +414,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Neuer Speicherort für Onlinevideos**: Speichern Sie ein Video in Microsoft Stream, damit es jeder in Ihrem Unternehmen ansehen kann. Fügen Sie den Videolink ein, und profitieren Sie von Multimediapräsentationen mit einem Bruchteil der üblichen Dateigröße. [Weitere Informationen](https://support.office.com/article/8340ec69-4cee-4fe1-ab96-4849154bc6db)
 
-- **Speichern Sie Ihre Änderungen, während sie entstehen:** Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
+- **Speichern Sie Ihre Änderungen, während sie entstehen**: Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 
 - **Befragen Sie Ihr Publikum mit einem Quiz oder einer Umfrage:** Fügen Sie ein Quiz oder eine Umfrage einer Folie hinzu. Office sammelt und speichert die Antworten für Sie. [Weitere Informationen](https://support.office.com/article/1a316f81-9ea7-4bc2-bda0-024c0d780df1)
 
@@ -745,3 +745,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 > [!NOTE]
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
+
+
+[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
