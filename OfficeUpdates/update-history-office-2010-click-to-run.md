@@ -43,16 +43,16 @@ Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
     
 3. Sehen Sie sich unter **Klick-und-Los-Produktupdates** die Versionsnummer an, die aufgeführt ist.
     
-    If the version number matches the most current version, you're up to date. If not, you can manually update to get the latest version of Office 2010. To update Office, [follow these steps](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010).
+    Wenn die Versionsnummer der aktuellen Version entspricht, verwenden Sie die neuste Version. Wenn dies nicht der Fall ist, können Sie manuell ein Update auf die aktuelle Version von Office 2010 durchführen. [Gehen Sie folgendermaßen vor,](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5#ID0EAABAAA=Office_2010) um Office zu aktualisieren.
     
 ### <a name="list-of-release-dates-version-numbers-and-fix-information-for-office-2010-updates"></a>Liste der Veröffentlichungsdaten, Versionsnummern und Informationen zu Fixes für Office 2010-Updates
 
-The following table provides a list of updates for Office 2010, with the most recent release date listed first. The table includes the version number for the release and links, if available, to Microsoft Knowledge Base (KB) articles or Microsoft Security Bulletins that contains information about the fixes that are included in the update.
+Die folgende Tabelle enthält eine Liste der Updates für Office 2010, wobei die neuesten zuerst aufgeführt werden. Die Tabelle umfasst die Versionsnummer für die Version und Links (falls verfügbar) zu Microsoft Knowledge Base-Artikeln oder Microsoft-Sicherheitsbulletins, die Informationen zu im Update enthaltenen Fixes enthalten.
   
 Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 
 > [!NOTE]
-> The KB articles listed below are for reference purposes only. Click-to-Run updates include all the fixes listed in the KB articles. You don't need to download the separate updates listed in the KB articles.
+> Die nachstehend aufgeführten KB-Artikel KB dienen nur zu Informationszwecken. Klick-und-Los-Updates enthalten alle in den KB-Artikeln aufgeführten Fixes. Sie müssen die in den KB-Artikeln aufgeführten Updates nicht separat herunterladen.
 
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|

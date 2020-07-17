@@ -18,9 +18,9 @@ ms.locfileid: "45138721"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 
-The following information provides a list of the most current .msp files that IT professionals need to include when they create an installation image for an Office 2013 product, including Visio 2013 and Project 2013. By including these .msp files, when their users install the Office 2013 product, the most current security and non-security updates are automatically applied to the Office installation.
+Die folgenden Informationen stellen eine Liste der aktuellen MSP-Dateien bereit, die IT-Experten einschließen müssen, wenn sie ein Installations-Image für ein Office 2013-Produkt erstellen, einschließlich Visio 2013 und Project 2013. Durch Einschließen dieser MSP-Dateien werden die aktuellen sicherheitsrelevanten und nicht sicherheitsrelevanten Updates automatisch auf die Office-Installation angewendet, wenn Benutzer das Office 2013-Produkt installieren.
   
-This information only applies to Office 2013 products that use the Windows Installer (MSI) installation technology. For example, the volume license editions of Office Professional Plus 2013 and Visio Standard 2013 use MSI.
+Diese Informationen gelten nur für Office 2013-Produkte, die die Windows Installer (MSI)-Installationstechnologie verwenden. Beispielsweise verwenden die Volumenlizenz-Editionen von Office Professional Plus 2013 und Visio Standard 2013 MSI.
   
 ## <a name="most-recently-updated-msp-files"></a>Zuletzt aktualisierte MSP-Dateien
 
