@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: ff7377974bb0cb152b1200b1d890c6dc7e3ae620
-ms.sourcegitcommit: 7759ec0cf20d53865fa24f5eb483392c9e9fa53b
+ms.openlocfilehash: 1fc2292361cd1a881393e130682755e9ade1c471
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45091051"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138571"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+## <a name="july-14-2020"></a>14. Juli 2020
 
-## <a name="july-9-2020"></a>9. Juli 2020
+[//]: # (INHALTE NICHT ENTFERNEN START 14. Juli 2020)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das neueste Release ist Version 2006 (Build 13001.20384).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2006 (Build 13001.20266) <br/> |30. Juni 2020 <br/> |61<br/> |
+|Version 2005 (Build 12827.20470) <br/> |24. Juni 2020 <br/> |350<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2005 (Build 12827.20550).</i>
+Das neueste Release ist Version 2005 (Build 12827.20538).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
 
-<i>Das erwartete Release ist Version 2002 (Build 12527.20880).</i>
+Das neueste Release ist Version 2002 (Build 12527.20880).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -63,7 +72,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2002 (Build 12527.20880).</i>
+Das neueste Release ist Version 2002 (Build 12527.20880).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +80,10 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 1908 (Build 11929.20776) <br/> |12. Mai 2020 <br/> |291<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 14. Juli 2020)
+
+
+
 
 
 
