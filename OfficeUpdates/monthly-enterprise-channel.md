@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 0cc298e264f0c1381aae004d161f87112e6005d2
-ms.sourcegitcommit: afe8763e09c99ef05ff0dcd35eccf3c0fd326742
+ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
+ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45121745"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45138681"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
@@ -26,6 +26,111 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 [//]: # (NICHT ENTFERNEN)
 
 
+
+## <a name="version-2005-july-14"></a>Version 2005:14. Juli
+*Version 2005 (Build 12827.20538)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Bessere Ergebnisse – im Handumdrehen:** wir haben die Suche aktualisiert, damit Sie intelligenter, schneller und zuverlässiger als je zuvor ist. [Weitere Informationen](https://support.office.com/article/96fee452-80cd-492d-a35c-5c37584b416b)
+
+### <a name="word"></a>Word
+
+- **Anders ausgedrückt:** Wenn Sie etwas anders formulieren möchten, hilft Ihnen „Neu schreiben“ dabei. „Neu schreiben“ bietet Alternativen zum Verbessern Ihrer Formulierungen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2019/08/12/rewrite-in-word-say-it-another-way/)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Ein Problem wurde behoben, um den Datentyp Datum/Uhrzeit in Ihrem Code aufrufen zu können, ohne dass die APP abstürzt.
+
+- Ein Problem wurde behoben, damit Sie jetzt wieder zu Ihrer am meisten aktualisierten Access-Version zurückkehren können, und verwenden Sie DAO/VBA zum Verwalten und Bearbeiten eines Dezimal-Datentyps.
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem Excel u. U. nicht mehr reagierte, nachdem STRG+UMSCHALT+Pfeiltasten zum Scrollen verwendet wurden, wenn das Excel-Fenster über Microsoft Teams gemeinsam genutzt wurde.
+
+- In einigen Fällen führt das Anklicken einer Verknüpfung zu einem Ort innerhalb derselben Arbeitsmappe dazu, dass die Arbeitsmappe ausgeblendet wird.
+
+- Es wurde ein Problem behoben, das dazu führte, dass CustomUI XML für eine benutzerdefinierte Multifunktionsleisten-Registerkarte beim Speichern in SharePoint/OneDrive entfernt wurde.
+
+- Es wurde ein Problem behoben, bei dem Excel abstürzen kann, wenn versucht wird, PivotTables in ein Diagrammblatt einzufügen.
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, bei dem Benutzer beim Senden von Feedback von einer Administratorbenachrichtigung einen Absturz hatten.
+
+- Behebt ein Problem, das dazu führte, dass bei der Suche nach einem Feature in "Features vorschlagen" keine Ergebnisse zurückgegeben wurden und der Benutzer keine Möglichkeit hatte, eine neue Idee für Features einzureichen.
+
+- Behebt ein Problem, durch das Benutzer sehen, dass Outlook Sie kontinuierlich auffordert, das Tool zum Reparieren des Posteingangs auszuführen.
+
+- Behebt ein Problem, durch das Benutzer von Windows 10 Server-Versionen die Warnung "Antivirus-Status: ungültig" angezeigt wurde. Diese Windows-Version unterstützt die Virenerkennung, es wurde jedoch kein Virenschutzprogramm gefunden, obwohl das Virenschutzprogramm korrekt installiert war.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer in einigen Szenarios zeitweilig hängen bleiben und abstürzen.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer von Verbesserungen des freigegebenen Kalenders Kalenderfehler sahen.
+
+- Behebt ein Problem, das bewirkt, dass Benutzer die Nachricht &quot;Die Regeln auf diesem Computer stimmen nicht mit den Regeln in Microsoft Exchange überein&quot; sahen, wenn sie ihre Regeln in Outlook aktualisieren.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer das Erstellungsdatum für &nbsp; Anlagen, die sie per Drag & Drop in ihr Dateisystem kopiert hatten, auf 1. Januar 4501 gesetzt wurde.
+
+- Behebt ein Problem, bei dem Outlook die Datenschutzrichtlinie nicht aktiviert hat, um Tipps für Benutzer zu geben, die für den Dienst bezahlt haben und M365 Business Plus-Pläne nutzen.
+
+- Behebt ein Problem mit dem Ereignis CLP-Überwachung für die Bezeichnung "Antwort/Weiterleitung".
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Dies behebt einen Absturz, wenn Benutzer sowohl moderne als auch ältere Kommentare in einer Datei haben, wodurch ein Upgrade der Kommentare ausgelöst wird.
+
+- Wir haben ein Absturzproblem mit dem Vorschlagsbereich behoben.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das Ereignis "ProjectBeforeTaskChange" nicht ausgelöst wurde, wenn eine Änderung am Projektzusammenfassungsvorgang – entweder am Projektstart/Aufgabenfeld – vorgenommen wurde.
+
+- Es wurde ein Problem behoben, bei dem eine Aufgabe, die als 100 % abgeschlossen gekennzeichnet ist, fälschlicherweise weniger als 100 % abgeschlossen ist.
+
+### <a name="skype"></a>Skype
+
+- Wenn ein Benutzer eine Richtlinie erhält, die ihn in die Kategorie "Nur für Teams" verschiebt, konnte er dennoch das Outlook-Add-In "Skype for Business" zur Planung von Besprechungen verwenden. Nach diesem Update können Sie keine Besprechungen mit Skype for Business mehr planen, nachdem der Client die Richtlinie gelesen hat, in der angegeben ist, dass der Benutzer "Nur für Teams" ist, und in den Modus "Nur an Besprechung teilnehmen" wechselt. Darüber hinaus aktiviert sich das Outlook-Add-In "Skype for Business" beim Start nicht selbst, wenn es sieht, dass sich der Skype for Business-Client im Modus "Nur an Besprechung teilnehmen" befindet.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, das beim Ziehen einiger Inhalte aus der App möglicherweise zu einem Absturz führte.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Mit dieser Änderung werden potenzielle Probleme beim Laden und Abspielen von animierten Inhalten wie GIFs oder 3D-Modellen behoben.
+
+- Es wurde das Problem der Fehlerrate von „ValidateInstall“ behoben, indem die Bing-Add-On-Installationsvalidierung standardmäßig auf „wahr“ gesetzt und die erfolgreiche Ausführung von MSI als erfolgreiche Installation betrachtet wurde.
+
+- Das Update behebt ein Problem in Microsoft Office, bei dem Visual Basic for Applications-Projekte mit Referenzen, die bei der Suche nach in der PATH-Umgebungsvariable angegebenen Speicherorten gefunden werden sollen, zur Laufzeit möglicherweise nicht richtig gefunden werden, was zu VBA-Laufzeitfehlern führt.
+
+- Dieses Update behebt ein Problem in Visual Basic for Applications in Microsoft Office, bei dem bestimmte VBA-Projekte, die Verweise auf Codebibliotheken mit DBCS-Zeichen im Bibliotheksnamen oder Bibliothekspfad enthalten, von der Office-Anwendung beim Laden als fehlerhaft angesehen werden.
+
+- Der Office-Host stürzte in Fenstern ab, wenn ein Add-In aktiviert wird, während der Registrierungsschlüssel HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth auf Null gesetzt ist. Mit dieser Änderung wird dieses Problem behoben.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2004-july-14"></a>Version 2004: 14. Juli
+*Version 2004 (Build 12730.20602)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 ## <a name="version-2004-june-09"></a>Version 2004: 9. Juni
 *Version 2004 (Build 12730.20430)*
@@ -311,4 +416,5 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
