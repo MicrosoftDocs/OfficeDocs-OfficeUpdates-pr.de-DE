@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste der wichtigsten neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: d80bc153a2de2f3f364003a5691753d12bbb0416
-ms.sourcegitcommit: 39056b7c6c4fc271ff1c559f4231800862f279b4
+ms.openlocfilehash: 12cfa4a285201c2d3839abfd93c5085fa5ea1d13
+ms.sourcegitcommit: a58e0b1ff6d1170fabfd95ba7f25e2eb1e4fad0a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/10/2020
-ms.locfileid: "45098669"
+ms.lasthandoff: 07/17/2020
+ms.locfileid: "45166713"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,47 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2008-july-17"></a>Version 2008: 17. Juli
+*Version 2008 (Build 13115.20000)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Wir haben ein Problem behoben, bei dem jedes Mal, wenn ein Pivot-Diagramm mit ausgeblendeten Führungslinien gespeichert und wieder geöffnet wurde, die Führungslinien sichtbar wurden.
+
+- Ein Problem wurde behoben, bei dem Diagramme nicht immer wie erwartet aktualisiert wurden, wenn "ForceFullCalculation" über VBA für die Arbeitsmappe aktiviert wurde.
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem beim Erstellen mehrerer Profile in Outlook aus derselben E-Mail-Domäne behoben.
+- Behebt ein Problem, bei dem das Schloss-Symbol nicht im Header von S/MIME-verschlüsselten Nachrichten angezeigt wurde.
+- Behebt ein Problem, das bewirkte, dass Anhänge beim unverschlüsselten Senden von S/MIME-Nachrichten entfernt wurden.
+- Behebt ein Problem, durch das nur-Text-S/MIME-Nachrichten beim Senden unlesbar wurden.
+- Behebt ein Problem, durch das Anhänge beschädigt wurden, wenn eine S/MIME-E-Mail unverschlüsselt gesendet wurde.
+- Behebt ein Problem, das bewirkte, dass Benutzer OneDrive Anlagen von außerhalb ihres Mandanten nicht auf dem lokalen Computer speichern konnten, wenn sie im Dialogfeld Sicherheit die Option Speichern auswählten.
+- Behebt ein Problem, das bewirkte, dass Empfänger nicht in der Lage waren, geschützte Nachrichten zu speichern, auch wenn der Absender die Berechtigung „Speichern unter" erhalten hatte.
+- Behebt ein Problem, bei dem die Beschriftungen für einige Optionen für die erweiterte Suche in einigen Sprachen abgeschnitten wurden.
+
+### <a name="project"></a>Projekt
+
+- Wir haben ein Problem behoben, bei dem die in der Task Board-Ansicht aufgelisteten Aufgaben nicht mit denen im Dialogfeld "Ressourcen zuordnen" synchronisiert wurden.
+- Wir haben ein Problem behoben, bei dem beim Kopieren und Einfügen einer Aufgabe mit mehreren Abhängigkeiten nicht alle Abhängigkeiten korrekt kopiert wurden.
+
+### <a name="word"></a>Word
+
+- Wir haben ein Problem behoben, bei dem der Befehl 'Editor' deaktiviert wurde, als sich der Fokus in einem Kommentartextfeld befand.
+- Wir haben ein Problem behoben, bei dem der Befehl 'Markup anzeigen' deaktiviert wurde, als sich der Fokus in einem Kommentartextfeld befand.
+- Wir haben ein Problem in benutzerdefiniertem XML behoben, bei dem der Status der Kommentare beim Öffnen des Dokuments verloren geht.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben ein Problem behoben, durch das, nach dem der User ein neues App-Fenster über die Taskleiste geöffnet und ein neues leeres Dokuments erstellt hatte, zusätzliche Dateien erstellt wurden.
+- Wir haben ein Problem behoben, bei dem ein Benutzer, der ein Dokument bearbeitete, aber zwischenzeitlich die Berechtigungen verloren hatte, wir den Benutzer nicht darüber informierten, dass er sich erneut authentifizieren musste.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2008-july-10"></a>Version 2008: 10. Juli
 *Version 2008 (Build 13102.20002)*
@@ -1022,5 +1063,6 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13115.20000|version-2008-Juli-17|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13102.20002|version-2008-july-10|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
