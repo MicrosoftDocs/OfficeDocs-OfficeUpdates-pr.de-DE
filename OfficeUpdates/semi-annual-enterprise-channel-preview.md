@@ -1,5 +1,5 @@
 ---
-title: Anmerkungen zur Version für halbjährliche Enterprise-Kanal-Releases (Preview) in 2020
+title: Versionshinweise für Versionen des halbjährlichen Unternehmenskanals (Vorschau) im Jahr 2020
 ms.author: andrewmo
 author: andymosten
 manager: andrewmo
@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: be72a3d95178f0fde5bbe48428abb0895d5afefd
-ms.sourcegitcommit: cc48ae789324e085a976c3a7a388353447b10d42
+ms.openlocfilehash: 28b78e3952867cb55b2b91e9e6d9d8d5f2e35063
+ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44724961"
+ms.lasthandoff: 07/20/2020
+ms.locfileid: "45187585"
 ---
-# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Anmerkungen zur Version für halbjährliche Enterprise-Kanal-Releases (Preview) in 2020
+# <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Versionshinweise für Versionen des halbjährlichen Unternehmenskanals (Vorschau) im Jahr 2020
 
-Diese Anmerkungen zur Version enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die im halbjährlichen Enterprise-Kanal-Update (Preview) in 2020 für Microsoft 365-Apps für Unternehmen, Microsoft 365 apps for Business und die Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Kanal-Updates (Vorschau) im Jahr 2020 für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. [Lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441), um mehr zu erfahren.
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 
-## <a name="version-2002-june-09"></a>Version 2002: Juni 09
-*Version 2002 (Build 12527,20720)*
+## <a name="version-2002-july-14"></a>Version 2002: 14. Juli
+*Version 2002 (Build 12527.20880)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) gelistet
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -35,9 +35,80 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Es wurde ein Problem behoben, bei dem der externe Link nach dem erneuten Öffnen der Datei nicht mehr funktioniert, wenn der Dateipfad zu lang ist.
+- Beschleunigen des Ladens von Dateien, die im lokalen OneDrive-Ordner zur Verfügung stehen.
 
-- Es wurde ein Problem behoben, bei dem Excel nach der Verwendung von STRG + UMSCHALT + Pfeiltasten nicht mehr reagierte, um zu scrollen, wenn das Excel-Fenster über Teams freigegeben wurde.
+- Es wurde ein Problem behoben, das dazu führte, dass CustomUI XML für eine benutzerdefinierte Multifunktionsleisten-Registerkarte beim Speichern in SharePoint/OneDrive entfernt wurde.
+
+- Es wurde ein Problem behoben, bei dem die Fehlermeldung „Diese Arbeitsmappe wird derzeit von einer anderen Arbeitsmappe referenziert und kann nicht geschlossen werden“ eingeblendet wurde, weil Add-Ins in alphabetischer Reihenfolge und nicht in einer vom Benutzer festgelegten Reihenfolge geladen wurden.
+
+- Es wurde ein Problem behoben, bei dem beim Klicken auf einen Hyperlink zu einer Stelle in einer bereits geöffneten Arbeitsmappe eine Arbeitsmappe ausgeblendet werden konnte.
+
+- Es wurde ein Problem behoben, bei dem einige kopierte und eingefügte Diagrammverknüpfungen zugeordnete Laufwerksadressen anstelle von Universaladressen verwendeten.
+
+- Die Leistung beim Löschen von Spalten mit verbundenen Zellen wurde verbessert.
+
+- Ein Problem wurde behoben, bei dem Druckernamen in der Liste der Drucker im Dialogfeld „Drucken“ wiederholt werden konnten.
+
+- Es wurde ein Problem behoben, bei dem Arbeitsblätter, die mehrere Formeln mit definierten Namen enthielten, zu längeren Zeiten beim Speichern von Dateien geführt haben.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem das IME-Fenster (Eingabemethoden-Editor) den zugrunde liegenden Text, der über den IME eingegeben wird, überlappte, wenn mehrere Monitore mit unterschiedlichen Auflösungen verwendet wurden.
+
+- Es wurde ein Problem behoben, das bewirkte, dass bei einer bevorstehenden Änderung der Zeitzonendefinition Terminserien oder Besprechungen zur falschen Uhrzeit angezeigt wurden.
+
+- Es wurde ein Problem behoben, durch das Benutzern die Nachricht "Die Regeln auf diesem Computer entsprechen nicht den Regeln in Microsoft Exchange" angezeigt wird, wenn sie ihre Regeln in Outlook aktualisieren.
+
+- Es wurde ein Problem behoben, bei dem die Option "Weiterleitung zulassen" in den "Antwortoptionen" für Kalenderbesprechungen nicht angezeigt wurde, wenn die Option für das Herunterladen freigegebener Ordner NICHT aktiviert war.
+
+- Ein Problem wurde behoben, durch das gelegentlich Kategorien in E-Mail-Nachrichten nicht mehr aufschienen.
+
+- Ein Problem wurde behoben, durch das Stellvertretungen auf unterschiedlichen Computern unterschiedliche Ordnerhierarchien für freigegebene Postfächer angezeigt wurden.
+
+- Ein Problem wurde behoben, durch das Stellvertretungen beim Bearbeiten eines vorhandenen Kalendertermins im Kalender eines Managers eine Fehlermeldung erhalten haben.
+
+- Ein Problem wurde behoben, das bewirkt hatte, dass der Text einer NDR-Nachricht nach der Bearbeitung des Betreffs von Unicode in ASCII geändert wurde.
+
+- Es wurde ein Problem behoben, durch das Benutzer einen Absturz erfahren, wenn zwei Add-Ins der gleichen Menübandgruppe eine Schaltfläche hinzufügen.
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer nicht in der Lage waren, E-Mails an eine persönliche Verteilerliste zu senden.
+
+- Es wurde ein Problem behoben, das bewirkt, dass Links nicht zu E-Mails mit der richtigen standardmäßigen Mandantenberechtigung hinzugefügt werden können, wenn die standardmäßige Mandantenberechtigung als "jeder" konfiguriert ist.
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer OneDrive-Anlagen von außerhalb ihres Mandanten nicht auf ihrem lokalen Computer speichern konnten, wenn sie im Dialogfeld "Sicherheit" die Option "Speichern" wählten.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem im Coautthoring behoben, wenn die Richtlinie "FileBlick\Word2007Files" aktiviert wird.
+
+- Es wurde das Problem behoben, dass Word QuickPart beim Hinzufügen eines Suchfelds, das umbenannt wurde, nicht funktioniert.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Problem wurde behoben, bei dem Benutzer bei der gemeinsamen Erstellung von großen PowerPoint-Dateien übermäßige Netzwerk- und CPU-Auslastung erfahren können.
+
+- Ein neuer Sturz von AppV51 wurde zurückportiert, um eine Regression im vorherigen AppV51 zu beheben.
+
+- Es wurde ein Absturzproblem mit dem Office-Host in Windows behoben, wenn ein Add-In aktiviert wird, während die Registrierung TabProcGrowth den Wert REG_SZ Typ hat.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2002-june-09"></a>Version 2002: 9. Juni
+*Version 2002 (Build 12527.20720)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem die externe Verknüpfung nicht mehr funktioniert, nachdem die Datei erneut geöffnet wurde, wenn der Dateipfad zu lang ist.
+
+- Es wurde ein Problem behoben, bei dem Excel u. U. nicht mehr reagierte, nachdem STRG+UMSCHALT+Pfeiltasten zum Scrollen verwendet wurden, wenn das Excel-Fenster über Microsoft Teams gemeinsam genutzt wurde.
 
 - Ein Problem mit der Skalierung von Kontrollkästchen in Formularsteuerelementen beim Drucken wurde behoben.
 
@@ -45,17 +116,17 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Das Einfügen einer Spalte in eine gefilterte Liste würde länger dauern als erwartet.
 
-- Es wurde ein Problem behoben, bei dem ein @-Symbol, das eine Formel beginnt, als impliziter Knotenpunkt Operator betrachtet wird.
+- Es wurde ein Problem behoben, bei dem ein @-Symbol, mit dem eine Formel beginnt, als impliziter Schnittmengenoperator betrachtet wird.
 
 ### <a name="outlook"></a>Outlook
 
-- Ermöglicht die direkte Teilnahme an einer Microsoft Teams-Besprechung über den Native Teams-Client.
+- Ermöglicht die Teilnahme an einer Teambesprechung direkt über den systemeigenen Teams-Client.
 
-- Es wurde ein Problem behoben, bei dem Outlook Datenverlust-Schutzrichtlinien Tipps Personen für Benutzer, die für den Dienst bezahlt hatten, die sich auf M365 Business Plus-Plänen befanden, nicht aktiviert wurde.
+- Es wurde ein Problem behoben, bei dem Outlook die Datenschutzrichtlinie nicht aktiviert hat, um Tipps für Benutzer zu geben, die für den Dienst bezahlt haben und M365 Business Plus-Pläne nutzen.
 
-- Es wurde ein Problem behoben, aufgrund dessen Benutzer mit der falschen Browser Emulations Einstellung die Authentifizierungsaufforderung für Gmail nicht abschließen konnten.
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer mit der falschen Browseremulationseinstellung nicht die Authentifizierungsaufforderung für Gmail ausführen konnten.
 
-- Es wurde ein Problem behoben, aufgrund dessen Outlook-Benutzer auf Server-Betriebssystemen den Fehler "Antivirus-Status: ungültig" angezeigt haben. Diese Version von Windows unterstützt die Antivirus-Erkennung, aber es wurde kein Antivirus gefunden, "obwohl Anti-Virus ordnungsgemäß konfiguriert wurde.
+- Es wurde ein Problem behoben, aufgrund dessen Outlook-Benutzern auf Serverbetriebssystemen die Fehlermeldung "Antivirenstatus: Ungültig" angezeigt wurde. Diese Version von Windows unterstützt die Erkennung von Antivirus, aber es wurde kein Antivirus gefunden, obwohl Antivirus korrekt konfiguriert war.
 
 ### <a name="word"></a>Word
 
@@ -63,13 +134,13 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Dieses Problem wurde behoben, indem die Kanalnamen in der Backstage-Phase auf die neuen Kanalnamen in der Verzweigung vom Januar 2020 aktualisiert wurden.
+- Dieses Problem wurde behoben, indem die Kanalnamen in der Januar 2020-Verzweigung in der Backstage-Version auf die neuen Kanalnamen aktualisiert wurden.
 
-- Wir haben dieses Problem behoben und gehen weiter, wenn ein Gerät mit Richtlinienverwaltung verwaltet wird, wird die DMS-Zielgruppen-API nicht aufgerufen.
+- Dieses Problem wurde behoben. Wenn ein Gerät nun mit Richtlinien verwaltet wird, wird nicht die DMS Audience-API aufgerufen.
 
-- Es wurde das Problem behoben, bei dem beim Hinzufügen und Entfernen von apps in einer einzelnen Transaktion ein unvollständiges entfernen vorliegt.
+- Es wurde das Problem behoben, aufgrund dessen es beim Hinzufügen oder Entfernen von Apps in einer einzigen Transaktion zu einer unvollständigen Entfernung kam.
 
-- Der Office-Host stürzte in Windows ab, wenn ein Add-in aktiviert wird, während der Registrierungsschlüssel HKEY_CURRENT_USER \SOFTWARE\Microsoft\Internet Explorer\Main\TabProcGrowth auf NULL festgelegt ist. Diese Änderung würde dieses Problem beheben.
+- Der Office-Host stürzte in Fenstern ab, wenn ein Add-In aktiviert wird, während der Registrierungsschlüssel HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\TabProcGrowth auf Null gesetzt ist. Mit dieser Änderung wird dieses Problem behoben.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -132,7 +203,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Dieses Update behebt ein Problem, bei dem Microsoft Outlook beim Anzeigen oder Verfassen von Nachrichten nicht die aktuelle Vertraulichkeitskennzeichnung anzeigt.
 
-- Es wurde ein Problem behoben, aufgrund dessen Benutzer keine e-Mails an eine persönliche Verteilerliste adressieren konnten.
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer nicht in der Lage waren, E-Mails an eine persönliche Verteilerliste zu senden.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -273,13 +344,9 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Statistiken für Ihre Arbeitsmappe abrufen:** Arbeitsmappenstatistiken bieten einen Überblick über den Inhalt einer Arbeitsmappe, um Ihnen das Erkunden des Inhalts zu erleichtern.
 
-
-
-
+- **Weitere Symbole für Ihre Stimmung:** Wir haben über 300 neue Icons hinzugefügt. Sie finden diese unter "Einfügen" > "Symbole". [Weitere Informationen](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="outlook"></a>Outlook
-
-
 
 - **Verbinden Ihres LinkedIn-Netzwerks mit Outlook:** Stellen Sie eine sichere Verbindung zwischen Ihrem LinkedIn-Konto und Ihrem Microsoft-Konto her, um Informationen aus LinkedIn-Profilen direkt auf der Karte mit Ihren Kontakten anzuzeigen. [Weitere Informationen](https://support.office.com/article/98253fdc-a3c2-47e4-8852-ebb4fbed0bc5)
 
@@ -303,7 +370,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Sehen Sie Ihre Nachrichten in einem neuen Licht:** Verwenden Sie die Sonne/Mond-Schaltfläche, um im Lesebereich zwischen hellem und dunklem Hintergrund zu wechseln. [Weitere Informationen](https://support.office.com/article/3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
 
-
+- **Weitere Symbole für Ihre Stimmung:** Wir haben über 300 neue Icons hinzugefügt. Sie finden diese unter "Einfügen" > "Symbole". [Weitere Informationen](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -311,13 +378,11 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Neue Tools zum Korrekturlesen:** Machen Sie sich keine Sorgen mehr über Ihre Texte. PowerPoint bietet jetzt Grammatik- und Textvorschläge. [Weitere Informationen](https://support.office.com/article/91ecbe1b-d021-4e9e-a82e-abc4cd7163d7)
 
-
 - **Live-Beschriftungen und -Untertitel:** die Worte des Referenten werden automatisch als Beschriftungen oder Untertitel in der von Ihnen gewünschten Sprache auf dem Bildschirm angezeigt. [Weitere Informationen](https://support.office.com/article/68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 - **Sie berechnen, wir formatieren:** Von Hand gezeichnete mathematische Ausdrücke werden in Standardzeichen umgewandelt. Wählen Sie einfach "Freihand in Gleichung" und Ihre handschriftlichen Notizen aus, um loszulegen. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/2457d4d8-48a8-4ad4-ab89-5a0657aa8446)
-
 
 - **Suchen und Beheben von fehlenden Folientiteln:** Folientitel verleihen Ihrem Pitch mehr Nachdruck und machen Ihre Folien für Benutzer mit unterschiedlichen Fähigkeiten zugänglich. Die Barrierefreiheitsprüfung zeigt Ihnen, wo Titel fehlen, damit Sie diese schnell hinzufügen können. [Weitere Informationen](https://support.office.com/article/c5286802-495a-4b47-a8ae-212fb8a7dc74)
 
@@ -346,6 +411,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Ändern der handschriftlichen Freihandeingabe in Formen, Text oder Mathematik in PowerPoint für Office 365:** Wechseln Sie mit wenigen Strichen von der Freihandeingabe zu Office-Formen, Text oder einem mathematischen Ausdruck. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Erstellen Sie eine hervorragende Folie:** Konvertieren Sie Ihre Freihandeingaben in Standardformen und -text, und lassen Sie sich dann von PowerPoint-Designer intelligente Folienentwurfsideen anzeigen. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
+
+- **Weitere Symbole für Ihre Stimmung:** Wir haben über 300 neue Icons hinzugefügt. Sie finden diese unter "Einfügen" > "Symbole". [Weitere Informationen](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
 ### <a name="visio"></a>Visio
 
@@ -379,8 +446,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Keine Umleitung zum Browser mehr:** Sie legen fest, wie Links zu Office-Dokumenten geöffnet werden: im Browser oder in der App. [Weitere Informationen](https://support.office.com/article/fe241745-9e05-4142-9ba8-1bb1dc044773)
 
-- **Andere sehen Ihre Änderungen schnell:** Verbesserungen bei der gemeinsamen Dokumenterstellung bewirken, dass Ihre Mitarbeiter Ihre Änderungen noch schneller erkennen können als früher.
-
 - **Verbesserungen bei der gemeinsamen Dokumenterstellung:** Verbesserte Zuverlässigkeit bei der gemeinsamen Dokumenterstellung.
 
 - **Erstellen von barrierefreien PDF-Dateien:** Erstellen Sie eine PDF-Datei, und die Barrierefreiheitsprüfung weist auf Barrierefreiheitsprobleme hin, die vor dem Speichern behoben werden sollten. [Weitere Informationen](https://support.office.com/article/064625e0-56ea-4e16-ad71-3aa33bb4b7ed)
@@ -389,7 +454,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Eine sicherere Video-Umgebung:** Security-Verbesserungen bedeuten für Sie eine sicherere Online-Video-Umgebung. [Weitere Informationen](https://support.office.com/article/bf11b812-0243-4f53-a1f9-432fbf7ace2c)
 
-- **Speichern von Shapes als Bildern:** mit nur wenigen Mausklicks können Sie eine Form, ein Symbol oder ein anderes Objekt als Bilddatei speichern, um Sie an anderer Stelle wiederzuverwenden. [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
 
 
 
@@ -663,3 +728,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 > [!NOTE]
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
+
+
+[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20880|version-2002-july-14|)
+[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
