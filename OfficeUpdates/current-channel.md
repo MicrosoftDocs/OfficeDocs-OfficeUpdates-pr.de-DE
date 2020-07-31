@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 001bc31abe7d885133eac48c58c2c03ae67e6ac8
-ms.sourcegitcommit: 6f79e3c3948db4d7ae1c6dfc855970551d3b1678
+ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
+ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45187595"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46506612"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -35,6 +35,35 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-july-28"></a>Version 2006: 28. Juli
+*Version 2006 (Build 13001.20498)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem beim Laden einer Arbeitsmappe mit mehreren Blättern in der Seitenumbruchvorschau ein Fehler oder eine Unterbrechung auftreten kann.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem beim Kopieren und Einfügen des SVG-Bilds behoben.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem beim Kopieren und Einfügen des SVG-Bilds behoben.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Timing-Problem könnte beim Schließen von Office-Dateien zu einem Absturz führen.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2006-july-14"></a>Version 2006: 14. Juli
 *Version 2006 (Build 13001.20384)*
@@ -863,6 +892,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: bb253c92976d420d74da61968dae95ce42313188
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: b6b4c21b61b32eed96ca96a77d30e787915b4765
+ms.sourcegitcommit: 5a58fccf5a097a2b66b42c9c00b140a8d21a1eb1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138754"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522432"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -58,6 +58,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|28. Juli 2020|Version 2006 (Build 13001.20498)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |14. Juli 2020|Version 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30. Juni 2020|Version 2006 (Build 13001.20266)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |24. Juni 2020|Version 2005 (Build 12827.20470)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
