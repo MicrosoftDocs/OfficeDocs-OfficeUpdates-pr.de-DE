@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: dbc49b56f2769318b9ec38253979262123844866
-ms.sourcegitcommit: 525e9abf1319f42ed01a4f2ba2852b1a74181e81
+ms.openlocfilehash: f45483874015c51255690647cc36952b6f4e257b
+ms.sourcegitcommit: 3e6b6412adb50393fb5cabcb52671bbb00d9e697
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46506612"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46532590"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -31,6 +31,105 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2007-july-30"></a>Version 2007: 30. Juli
+*Version 2007 (Build 13029.20308)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Eine PDF-Verbindung herstellen:** Herstellen einer Verbindung zu, Importieren und Aktualisieren von Daten aus einer PDF-Datei. [Weitere Informationen](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Filtern und Sortieren, ohne andere zu stören: ** Sie können jetzt Ihre Excel-Datei sortieren und filtern, während Sie mit anderen mit der Blattansicht zusammenarbeiten. Diese neue Funktion verhindert, dass Sie von den Sortierungen und Filtern anderer Benutzer beeinflusst werden, während Sie das Dokument mitverfassen. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden.
+
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind. Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Mehr dazu](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+
+### <a name="outlook"></a>Outlook
+
+- **Erstellen von Umfragen in Outlook mit Quick Poll**: Einfaches Erstellen einer Umfrage, Sammeln von Stimmen und Anzeigen der Ergebnisse in einer E-Mail [Weitere Informationen](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Bewahren Sie die Klangtreue Ihrer Bilder, wenn Sie diese als Teil einer E-Mail versenden:** Eine neue Outlook-Einstellung ist verfügbar, um die Bildkomprimierung zu begrenzen, wenn Sie Bilder als Teil des E-Mail-Inhalts versenden.
+
+- **Schnelles Wiederöffnen von Elementen aus der vorherigen Sitzung:** Wir haben eine Option zum schnellen Wiederöffnen von Elementen aus einer vorherigen Outlook-Sitzung hinzugefügt. Unabhängig davon, ob Outlook abstürzt oder ob sie es schließen, jetzt können Sie beim erneuten Öffnen der App Elemente schnell neu starten. Diese Funktion ist standardmäßig aktiviert. Um Sie zu deaktivieren, wechseln Sie zu Optionen > Allgemein > Startoptionen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen: ** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen.
+
+- **Verbesserte Stream-Video-Leistung in PowerPoint:** Wir haben die Wiedergabeleistung von Microsoft Stream-Videos verbessert, um die Ladezeit von Videos zu minimieren und eine reibungslose Wiedergabe zu ermöglichen. Verwenden Sie Ihre Unternehmensvideos aus Microsoft Stream, um bessere Präsentationen zu erstellen.
+
+### <a name="teams"></a>Teams
+
+- **Neue vereinfachte Benachrichtigungseinstellungen:** Benutzende können ihre Benachrichtigungseinstellungen jetzt in einer vereinfachten Weise mit erweiterten Funktionalitäten verwalten.
+
+- **Windows Native Notification wird jetzt in Teams unterstützt:** Benutzende können nun die von ihnen bevorzugte Art der Benachrichtigungszustellung auswählen, entweder über in Teams integrierte Banner oder über die Windows-eigenen Banner.
+
+- **Kanal-Infofenster:** Wenn Sie auf das Symbol „Kanalinfo“ in der Kopfzeile des Kanals klicken, öffnet sich ein Fensterbereich, in dem Sie eine Zusammenfassung der Kanalinformationen sehen, einschließlich der Kanalbeschreibung, eine Liste der letzten Mitwirkenden und Mitglieder sowie die neue Startseite für Systemnachrichten.
+
+- **Vorschau für Ihre Chat-Benachrichtigungen ausschalten: ** Benutzende können Einstellungen ändern und Vorschauen für ihre Chat-Benachrichtigungs-Toasts verwalten.
+
+- **Vorgeschlagene Antworten:** Wir haben die Möglichkeit für Team-Benutzende hinzugefügt, eine vorgeschlagene Antwort auf ihre Unterhaltungen zu erhalten. Diese Vorschläge werden unten in einer Chat-Nachricht angezeigt, wenn sie aktiviert sind. Dadurch wird die Beantwortung von Nachrichten schnell und einfach!
+
+### <a name="word"></a>Word
+
+- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen: ** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen.
+
+- **Beibehalten von Text in Vektoren:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Excel, Word und PowerPoint konvertieren.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Diese Korrektur behebt das Problem, bei dem der Versuch, bestimmte Abfragen auszuführen, zuvor die Fehlermeldung „Abfrage ist zu komplex“ erzeugt hat.
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem beim Laden einer Arbeitsmappe mit mehreren Blättern in der Seitenumbruchvorschau ein Fehler oder eine Unterbrechung auftreten kann.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das zu einem Absturz führte, wenn Benutzer von CLP die Absenderadresse in einer Antwort von geschütztem in ungeschützten Kontext wechselten.
+
+
+- Es wurde ein Problem behoben, bei dem die Option "Weiterleitung zulassen" in den "Antwortoptionen" für Kalenderbesprechungen nicht angezeigt wurde, wenn die Option für das Herunterladen freigegebener Ordner NICHT aktiviert war.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Delegierte beim Bearbeiten eines vorhandenen Kalendertermins im Kalender eines Managers eine Fehlermeldung erhielten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer OneDrive-Anlagen von außerhalb ihres Mandanten nicht auf ihrem lokalen Computer speichern konnten, wenn sie im Dialogfeld "Sicherheit" die Option "Speichern" wählten.
+
+- Ein Problem wurde behoben, das dazu führte, dass die Seite des Terminplanungs-Assistenten nicht angezeigt wurde.
+
+- Ein Problem wurde behoben, das zu Formatierungsproblemen in Benachrichtigungen über einen Sicherheitsvorfälle führte.
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem die im Dialogfeld "Ressourcen zuordnen" ausgewählte Aufgabe nicht mit der in der Ansicht "Task Board" ausgewählten Aufgabe identisch ist.
+
+- Es wurde ein Problem behoben, bei dem beim Einfügen einer Aufgabe, die mehrere Abhängigkeiten aufweist, nicht alle Abhängigkeiten korrekt kopiert werden.
+
+- Es wurde ein Problem behoben, bei dem Sie eine PDF/XPS-Datei aus Project nicht in einer SharePoint-Dokumentenbibliothek speichern konnten.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, das dazu führte, dass eine Laufzeitmeldung angezeigt wurde, obwohl der Übergang zum vollständigen Produkt abgeschlossen ist. Der Fix für dieses Problem bestand darin, sicherzustellen, dass der Dienst hinzugefügte Produkte ordnungsgemäß berechnet. Wir haben die neu hinzugefügten Produkte herausgefiltert (dabei wurde sichergestellt, dass sie auch in der neuen Konfiguration vorhanden sind) und sie am Ende der vorhandenen Produkt-Release-IDs hinzugefügt.
 
 
 
@@ -892,6 +991,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20498|version-2006-july-28|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20384|version-2006-july-14|)
 [//]: # (|Win32|CC|Production| |16.0.13001.20266|version-2006-june-30|)
