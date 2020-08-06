@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: a8bf6662fb1c0fcd652f32068f3cf42e87fdae56
-ms.sourcegitcommit: 8e0c8f95645d60a8651f7a2085a79c6e0bc02bdd
+ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
+ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46525056"
+ms.lasthandoff: 08/06/2020
+ms.locfileid: "46576797"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -27,6 +27,36 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2007-august-05"></a>Version 2007: 5. August
+*Version 2007 (Build 13029.20344)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook keine Suchvorschläge abrufen konnte.
+
+
+- Ein Problem wurde behoben, das gelegentlich zu einem Absturz führte, wenn Benutzer Persona-Informationen abriefen.
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem ein Projekt, das in einen ungültigen Zustand geraten war, nicht geöffnet werden konnte.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2007-july-29"></a>Version 2007: 29. Juli
 *Version 2007 (Build 13029.20308)*
