@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: f51a17e603f506a099b750b1b673fc13a5452e4b
-ms.sourcegitcommit: 094f41a7cd3ac7044923aab24da75e9236772836
+ms.openlocfilehash: 01d2cc4d699e233e7bb60946b7400f25cc2c2e3f
+ms.sourcegitcommit: 20be7ca53ff4bb9bb64d9c347420af575497ea9b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46530344"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46612337"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -36,6 +36,9 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 ## <a name="volume-licensed-versions-of-office-2019"></a>Volumenlizenzierte Versionen von Office 2019
 Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 2019, z. B. Office Professional Plus 2019, das Sie über einen Volumenlizenzvertrag erworben haben.
 
+[//]: # (NICHT ENTFERNEN VL TABELLE START)
+
+
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
 |14. Juli 2020   |Version 1808 (Build 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1449) <br/>|
@@ -46,15 +49,30 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 |11. Februar 2020   |Version 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (NICHT ENTFERNEN VL TABELLE ENDE)
+
+<details>
+<summary>Ältere Versionen</summary>
+ 
+[//]: # (NICHT ENTFERNEN VL ALTE TABELLE START)
 
 
+|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
+|:-----|:-----|:-----|
 
+
+[//]: # (NICHT ENTFERNEN VL ALTE TABELLE ENDE)
+
+</details>
 
 
 <br/>
 
 ## <a name="retail-versions-of-office-2016-c2r-and-office-2019"></a>Einzelhandelsversionen von Office 2016 C2R und Office 2019
 Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 2016 C2R und Office 2019 mit denselben Veröffentlichungsdaten und Versionsnummern.
+
+[//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE START)
+
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
@@ -64,6 +82,18 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 |30. Juni 2020|Version 2006 (Build 13001.20266)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |24. Juni 2020|Version 2005 (Build 12827.20470)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |9. Juni 2020|Version 2005 (Build 12827.20336)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1225)  <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1226)  <br/> [CVE-2020-1229](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1229)  <br/> [CVE-2020-1321](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1321)  <br/> [CVE-2020-1322](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1322)  <br/>|
+
+
+[//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
+
+<details>
+<summary>Ältere Versionen</summary>
+ 
+[//]: # (NICHT ENTFERNEN EINZELHANDEL ALTE TABELLE START)
+
+
+|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
+|:-----|:-----|:-----|
 |2. Juni 2020|Version 2005 (Build 12827.20268)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |21. Mai 2020|Version 2004 (Build 12730.20352)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |12. Mai 2020|Version 2004 (Build 12730.20270)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0901)  <br/>  |
@@ -79,7 +109,9 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 |11. Februar 2020   |Version 2001 (Build 12430.20264)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0697](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0697) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
 
+[//]: # (NICHT ENTFERNEN EINZELHANDEL ALTE TABELLE ENDE)
 
+</details>
 
 
 
