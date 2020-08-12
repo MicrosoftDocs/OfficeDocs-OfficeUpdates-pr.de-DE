@@ -1,5 +1,5 @@
 ---
-title: Anmerkungen zur Version für Microsoft 365 Apps-Sicherheitsupdates
+title: Versionshinweise für Microsoft Office-Sicherheitsupdates
 ms.author: andrewmo
 author: TimDavenport
 manager: andrewmo
@@ -8,29 +8,77 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
-description: Stellt IT-Experten Anmerkungen zur Version für Microsoft 365 Apps-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: 58228af0a7958547331b95c28c6497b5bfa3f460
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+description: Stellt IT-Experten Anmerkungen zur Version für Microsoft Office-Sicherheitsupdates zur Verfügung.
+ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
+ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138521"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46641801"
 ---
-# <a name="release-notes-for-microsoft-365-apps-security-updates"></a>Anmerkungen zur Version für Microsoft 365 Apps-Sicherheitsupdates
+# <a name="release-notes-for-microsoft-office-security-updates"></a>Versionshinweise für Microsoft Office-Sicherheitsupdates
 
-Diese Anmerkungen zur Version enthalten Informationen zu Sicherheitsupdates, die in den Updates für Microsoft 365 Apps enthalten sind.
+Diese Versionshinweise enthalten Informationen zu Sicherheitskorrekturen, die in den Updates für Microsoft Office enthalten sind.
 
-Diese Informationen gelten für Microsoft 365 Apps for Enterprise, für Microsoft 365 Apps for Business sowie für die Abonnementversionen der Desktop-Apps für Project und Visio.
+Diese Informationen gelten für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business, Office 2016-Einzelhandel (C2R) und Office 2019.
 
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor. Unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
 
 
  
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
+
+## <a name="august-11-2020"></a>11. August 2020
+Aktueller Kanal: Version 2007 (Build 13029.20344)  
+Monatlicher Enterprise-Kanal: Version 2006 (Build 13001.20520)  
+Monatlicher Enterprise-Kanal: Version 2005 (Build 12827.20656)  
+Halbjährlicher Enterprise-Kanal (Vorschau): Version 2002 (Build 12527.20988)  
+Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.20988)  
+Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.20934)  
+Halbjährlicher Enterprise-Kanal: Version 1902 (Build 11328.20644)  
+Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.20988)  
+Office 2019 Retail: Version 2007 (Build 13029,20344)  
+Office 2016 Retail: Version 2007 (Build 13029,20344)  
+Office 2019 Volume Licensed: Version 1808 (Build 10364.20059)  
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2020-1582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1582)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1498)
+-   [CVE-2020-1496](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1496)
+-   [CVE-2020-1497](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1497)
+-   [CVE-2020-1494](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1494)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-1493](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1493)
+-   [CVE-2020-1483](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1483)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1583)
+-   [CVE-2020-1502](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1502)
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1503)
+
+### <a name="office-suite"></a>Office Suite
+
+-   [CVE-2020-1581](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1581)
+-   [CVE-2020-1563](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1563)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
 
 ## <a name="july-14-2020"></a>14. Juli 2020
 Aktueller Kanal: Version 2006 (Build 13001.20384)  

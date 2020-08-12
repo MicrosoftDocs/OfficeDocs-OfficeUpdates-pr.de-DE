@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: ad34c6a3f64da52611f8bb5b3502f448d823c096
-ms.sourcegitcommit: 460a51d38fc5364ad8fbf7b32a46786ee8b62dea
+ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45145112"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637643"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,30 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="august-2020-release"></a>Release vom August 2020
+
+**Veröffentlichungsdatum:** 11. August 2020
+
+*Microsoft Auto Update 4.26*
+
+**Bugfixes und Verbesserungen:**
+-   Das MAU-Symbol im Dock zeigt nun die Anzahl der verfügbaren Updates an. 
+-   MAU wird jetzt im minimierten Zustand gestartet, wenn Updates erkannt werden.
+-   Neue Einstellung "IgnoreUIOpenAfterInstall" wurde hinzugefügt, die verwendet werden kann, um zu verhindern, dass die Mau-Benutzeroberfläche nach der Installation gestartet wird.
+-   Berechtigungsproblem behoben, das die Anzeige der Meldung "Falsche Installation" verursachte 
+-   Persistenz der MAU-Benachrichtigung "Aktualisierungsfrist" von 60 Sekunden auf 1 Stunde erweitert.
+
+
+**MAU-Updatelink:**
+
+[Download Microsoft Auto Update 4.26 Package](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
+
+<br/><br/>
 
 ## <a name="july-2020-release"></a>Juli 2020-Release
 

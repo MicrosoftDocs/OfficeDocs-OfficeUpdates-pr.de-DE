@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: 360447f59f9cf8f09bbdb90ab92d24872a786d19
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 7c5208b6abab7ccf29aa1d8ec4f43f254c20018c
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138631"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637623"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -43,20 +43,20 @@ Die Kompatibilität von Outlook mit Microsoft 365 und Ihrer lokalen Umgebung hä
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |Öffentliches Update vom Juli 2020 <br/>[KB4484433](https://support.microsoft.com/help/4484433) 
+|Nicht zutreffend  <br/> |Öffentliches Update vom März 2016 <br/>[KB3114861](https://support.microsoft.com/help/3114861) <br/> |August 2020 PU <br/>[KB4484475](https://support.microsoft.com/help/4484475) 
 
 ## <a name="outlook-2013-updates"></a>Outlook 2013-Updates
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Öffentliches Update vom Dezember 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |Öffentliches Update vom Juli 2020 <br/>[KB4484363](https://support.microsoft.com/help/4484363)  |
+|SP1  <br/>[KB2850036](https://go.microsoft.com/fwlink/p/?LinkId=512538) <br/> |Öffentliches Update vom Dezember 2015 <br/>[KB3114349](https://support.microsoft.com/kb/3114349) <br/> |August 2020 PU <br/>[KB4484486](https://support.microsoft.com/help/4484486)  |
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010-Updates
 > [!IMPORTANT]
-Der Support für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010-Umgebung begonnen haben, wird empfohlen, damit jetzt zu beginnen. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zur Einstellung des Supports](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+> Der Support für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010-Umgebung begonnen haben, wird empfohlen, damit jetzt zu beginnen. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zur Einstellung des Supports](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
-|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Öffentliches Update vom Juli 2020 <br/>[KB4484382](https://support.microsoft.com/help/4484382) <br><br><br><br/>|
+|SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |August 2020 PU <br/>[KB4484497](https://support.microsoft.com/help/4484497) <br><br><br><br/>|
    
 
