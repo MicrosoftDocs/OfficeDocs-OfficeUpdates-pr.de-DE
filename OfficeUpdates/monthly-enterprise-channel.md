@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: f76ceaf76f505d9a4301f2bba66c9efcb6278ca4
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: 9e734fb545548386b10a62366c1b2fa93dc134f0
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138681"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634801"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
@@ -26,6 +26,112 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 [//]: # (NICHT ENTFERNEN)
 
 
+
+## <a name="version-2006-august-11"></a>Version 2006: 11. August
+*Version 2006 (Build 13001.20520)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+- **Filtern und Sortieren, ohne andere zu stören: ** Sie können jetzt Ihre Excel-Datei sortieren und filtern, während Sie mit anderen mit der Blattansicht zusammenarbeiten. Diese neue Funktion verhindert, dass Sie von den Sortierungen und Filtern anderer Benutzer beeinflusst werden, während Sie das Dokument mitverfassen. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+
+### <a name="outlook"></a>Outlook
+
+- **Schützen von Daten in einer Gruppe:** Die beim Erstellen einer Gruppe ausgewählte Vertraulichkeitsbezeichnung wird auf Gruppen-E-Mails, Dokumente und Teamwebsites angewendet.
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+- **Neue Option zum Deaktivieren von Vorschlägen für @Erwähnungen beim Verfassen von E-Mails in Outlook:** Finden Sie die @Erwähnung-Auswahl eher lästig als sinnvoll? Wenn Sie das möchten, können Sie diese nun deaktivieren.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/26/feedback-in-action-disable-mentions/)
+
+- **Bewahren Sie die Klangtreue Ihrer Bilder, wenn Sie diese als Teil einer E-Mail versenden:** Eine neue Outlook-Einstellung ist verfügbar, um die Bildkomprimierung zu begrenzen, wenn Sie Bilder als Teil des E-Mail-Inhalts versenden.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+- **Verbesserte Stream-Video-Leistung in PowerPoint:** Wir haben die Wiedergabeleistung von Microsoft Stream-Videos verbessert, um die Ladezeit von Videos zu minimieren und eine reibungslose Wiedergabe zu ermöglichen. Verwenden Sie Ihre Unternehmensvideos aus Microsoft Stream, um bessere Präsentationen zu erstellen.
+
+### <a name="word"></a>Word
+
+- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen.
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Ein Problem wurde behoben, bei dem die Abfrageausführung ungefähr doppelt so lange dauerte als erwartet.
+
+- Es wurde ein Problem mit dem Einfügen von verknüpften SQL-Tabellen behoben, die eine Identität (z. b. Autowert) enthalten.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, das dazu führte, dass CustomUI XML für eine benutzerdefinierte Multifunktionsleisten-Registerkarte beim Speichern in SharePoint/OneDrive entfernt wurde.
+
+- Es wurde ein Problem behoben, bei dem beim Laden einer Arbeitsmappe mit mehreren Blättern in der Seitenumbruchvorschau ein Fehler oder eine Unterbrechung auftreten kann.
+
+- Ein Absturz wurde behoben, der beim Versuch einer Datenverbindung herzustellen auftreten könnte, wenn Sie sich von Ihrem Konto abgemeldet haben.
+
+- Bei Arbeitsmappen, die sich im schreibgeschützten Modus befanden, wurde möglicherweise die automatische Dokumentklassifizierung durchgeführt.
+
+### <a name="onenote"></a>OneNote
+
+- Verbessern Sie die Erkennung des Status der gemeinsamen Dokumenterstellung, um die Ressourcennutzung zu verringern.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem beim Kopieren und Einfügen des SVG-Bilds behoben.
+
+- Behebt ein Problem, das dazu führte, dass bei der Suche nach einem Feature in "Features vorschlagen" keine Ergebnisse zurückgegeben wurden und der Benutzer keine Möglichkeit hatte, eine neue Idee für Features einzureichen.
+
+- Behebt ein Problem, das dazu führte, dass STRG+Klicken nicht mehr funktionierte, wenn die Cloud-Einstellungen aktiviert waren.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer OneDrive-Anlagen von außerhalb ihres Mandanten nicht auf ihrem lokalen Computer speichern konnten, wenn sie im Dialogfeld "Sicherheit" die Option "Speichern" wählten.
+
+- Behebt ein Problem, durch das Benutzer sehen, dass Outlook Sie kontinuierlich auffordert, das Tool zum Reparieren des Posteingangs auszuführen.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer von Verbesserungen des freigegebenen Kalenders Kalenderfehler sahen.
+
+- Behebt ein Problem, durch das Benutzer das Erstellungsdatum der Anlagen sehen konnten, die Sie per Drag & Drop in Ihr Dateisystem kopiert haben, wobei es auf den 1. Januar 4501 festgestellt wurde.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das Ereignis "ProjectBeforeTaskChange" nicht ausgelöst wurde, wenn eine Änderung am Projektzusammenfassungsvorgang – entweder am Projektstart/Aufgabenfeld – vorgenommen wurde.
+
+- Es wurde ein Problem behoben, bei dem eine Aufgabe, die als 100% abgeschlossen gekennzeichnet ist, fälschlicherweise weniger als 100% abgeschlossen ist.
+
+- Ein Problem wurde behoben, bei dem Projekte aus Project Web App nicht im Project-Desktop Client geöffnet werden konnten, wenn die URL in .com endete.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem beim Kopieren und Einfügen des SVG-Bilds behoben.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein neuer Sturz von AppV51 wurde zurückportiert, um eine Regression im vorherigen AppV51 zu beheben.
+
+- Ein Timing-Problem konnte beim Schließen von Office-Dateien zu einem Absturz führen
+
+- Es wurde ein Absturzproblem mit dem Office-Host in Windows behoben, wenn ein Add-in aktiviert wird, während die Registrierung TabProcGrowth den Wert REG_SZ Typ hat.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2005-august-11"></a>Version 2005: 11. August
+*Version 2005 (Build 12827.20656)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 ## <a name="version-2005-july-14"></a>Version 2005:14. Juli
 *Version 2005 (Build 12827.20538)*
@@ -82,9 +188,9 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Behebt ein Problem, das dazu führte, dass Benutzer von Verbesserungen des freigegebenen Kalenders Kalenderfehler sahen.
 
-- Behebt ein Problem, das bewirkt, dass Benutzer die Nachricht &quot;Die Regeln auf diesem Computer stimmen nicht mit den Regeln in Microsoft Exchange überein&quot; sahen, wenn sie ihre Regeln in Outlook aktualisieren.
+- Behebt ein Problem, das bewirkt, dass Benutzer die Nachricht "Die Regeln auf diesem Computer stimmen nicht mit den Regeln in Microsoft Exchange überein" sahen, wenn sie ihre Regeln in Outlook aktualisierten.
 
-- Behebt ein Problem, das dazu führte, dass Benutzer das Erstellungsdatum für &nbsp; Anlagen, die sie per Drag & Drop in ihr Dateisystem kopiert hatten, auf 1. Januar 4501 gesetzt wurde.
+- Behebt ein Problem, durch das Benutzer das Erstellungsdatum der Anlagen sehen konnten, die Sie per Drag & Drop in Ihr Dateisystem kopiert haben, wobei es auf den 1. Januar 4501 festgestellt wurde.
 
 - Behebt ein Problem, bei dem Outlook die Datenschutzrichtlinie nicht aktiviert hat, um Tipps für Benutzer zu geben, die für den Dienst bezahlt haben und M365 Business Plus-Pläne nutzen.
 
@@ -416,5 +522,6 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
