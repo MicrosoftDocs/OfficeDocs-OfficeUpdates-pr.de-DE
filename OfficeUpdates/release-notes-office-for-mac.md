@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: 4c1b7d69a40afae6c6172d3d3135c2e22a7daa71
-ms.sourcegitcommit: 9fba85e39543d5fa71669437ad88913c574c4371
+ms.openlocfilehash: d723fa5a294e8dbd3650d0ac69fa201538486089
+ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45138541"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46637693"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -39,6 +39,48 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="august-11-2020"></a>11. August 2020
+*Version 16.40 (Build 20081000)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
+
+### <a name="outlook"></a>Outlook
+
+- **Verbesserte Sicherheit für Outlook.com-Konten: ** Sicherheitsverbesserungen bedeuten, dass Sie kein App-Kennwort mehr festlegen müssen, wenn die zweistufige Verifizierung für Ihr Outlook.com-Konto aktiviert ist.
+
+### <a name="powerpoint-mac"></a>PowerPoint für Mac
+
+- **Sagen Sie in Tusche:** Mit Ihrem digitalen Stift können Sie Ihre Punkte während der Aufzeichnung einer Präsentation illustrieren, und Ihre freihändigen Striche werden ebenfalls aufgezeichnet. [Weitere Informationen](https://support.office.com/article/0b9502c6-5f6c-40ae-b1e7-e47d8741161c)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1495](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1495)
+-   [CVE-2020-1498](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1498)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1503](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1503)
+-   [CVE-2020-1583](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1583)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="july-14-2020"></a>14. Juli 2020
 *Version 16.39 (Build 20071300)*
@@ -707,8 +749,8 @@ Dieses Release umfasst die folgenden Updates:
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
 |Word  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Beibehalten Sie den Look Ihres Texts bei:** Betten Sie Schriftarten ein, um sicherzustellen, dass der Texts in Ihrem Dokument auf jedem Computer gleich aussieht. Keine bösen Überraschungen mehr! [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Eingebettete Schriftarten in Dokumenten anzeigen** : ermöglicht das Rendern von Schriftarten, die in eine Datei eingebettet wurden, in Word für Mac.<br/><br/>**Im Fokusmodus aufrufbare Statusleiste:** Im Fokusmodus können Sie in der aufrufbaren Statusleiste die Wortanzahl und den Zugriff auf Zoom-Steuerelemente einfacher anzeigen.<br/><br/>**Mehr Möglichkeiten mit dem Fokusmodus:** Wir haben Ihnen zugehört! Der Fokusmodus wird jetzt mit Ihrem festgelegten Zoomfaktor geöffnet und zeigt zudem während des Scrollens die Seitenzahl an.| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
-|Excel  <br/>|  **Entlasten Sie Ihre Augen durch den dunklen Modus:** Ein dunkler Hintergrund schont die Augen in schwach beleuchteten Umgebungen. Erfordert macOS Mojave. <br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
-|PowerPoint  <br/>| **Entlasten Sie Ihre Augen durch den dunklen Modus:** Ein dunkler Hintergrund schont die Augen in schwach beleuchteten Umgebungen. Erfordert macOS Mojave. <br/><br/>  **Im Handumdrehen von iPhone zu PowerPoint:** Verwenden Sie die Continuity Camera von Apple, um ein Foto von Ihrem iPhone in Ihre Folie einzufügen. macOS Mojave erforderlich. [Weitere Informationen](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
+|Excel  <br/>|  **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
+|PowerPoint  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Im Handumdrehen von iPhone zu PowerPoint:** Verwenden Sie die Continuity Camera von Apple, um ein Foto von Ihrem iPhone in Ihre Folie einzufügen. macOS Mojave erforderlich. [Weitere Informationen](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Freigeben Ihres Kalenders:** Geben Sie Ihren Kalender für Familie, Freunde und Kollegen frei. Öffnen Sie für Sie freigegebene Kalender in Mac-, PC- oder Cloud-Versionen von Outlook. [Weitere Informationen](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Deaktivieren der Weiterleitung für eine Besprechung** Verhindern Sie, dass Teilnehmer Ihre Besprechung an andere weiterleiten. [Weitere Informationen](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Verwenden von Teams zum Herstellen einer Verbindung mit Ihren Besprechungen:** Sie arbeiten mit Remoteteams? Vewrenden Sie Teams in Outlook, um Onlinebesprechungen zu planen und an diesen teilzunehmen. [Weitere Informationen](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Sehen, wer an der Besprechung teilnimmt:** Klicken Sie auf eine Besprechung oder ein Ereignis in Ihrem Kalender, um zu sehen, wer daran teilnehmen wird.<br/><br/> **Anzeigen von drei Zeitzonen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um ganz einfach die Verfügbarkeit aller Teilnehmer anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.6 <br/>| Sicherheitskataloge wurden aktualisiert und enthalten nun SHA-256-Hashes anstelle von SHA-1. <br/>|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.6.18120801_Updater.pkg)|
 |Office-Suite  <br/>|**Die Symbole auf dem Menüband haben einen neuen Look:** Keine Sorge – alles funktioniert wie bisher. Außerdem sehen alle Symbole auf Bildschirmen aller Größen hervorragend aus. [Weitere Informationen](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)<br/><br/>**Aktualisierter Alternativtext-Bereich:** vereinfachen Sie die Barrierefreiheit Ihrer Inhalte, indem Sie hilfreiche Beschriftungen hinzufügen oder sogar Elemente als dekorativ markieren. |<br/>||
@@ -1085,8 +1127,8 @@ Dieses Release umfasst die folgenden Updates.
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|
 |:-----|:-----|:-----|
 |Word  <br/> |**Moderne Hintergründe für den Fokusmodus:** Wählen Sie zwischen Abenddämmerung oder Polarnacht als Hintergrund, wenn Sie sich im Fokusmodus auf der Registerkarte **Ansicht** befinden. [Weitere Informationen](https://support.office.com/article/51af2fb2-194f-424b-ab7e-b65de9ec9292.aspx)  <br/><br/> **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|Excel  <br/> |**Schriftart „Dubai“**: Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
-|PowerPoint  <br/> |**Schriftart „Dubai“**: Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|Excel  <br/> |**Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
+|PowerPoint  <br/> |**Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Outlook  <br/> |**Gruppen:** Zeigen Sie Ihre 10 wichtigsten Gruppen an, und lesen oder beantworten Sie Gruppenunterhaltungen direkt im Ordner „Gruppen“.  <br/> <br/> **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e.aspx) |
 |Office-Suite  <br/> ||[CVE-2017-0254](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2017-0254): Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung   |
 
