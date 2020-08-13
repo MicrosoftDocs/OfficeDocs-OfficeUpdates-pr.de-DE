@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: 236270115273755c69cbd334e7341ccec839e353
-ms.sourcegitcommit: 9033eb8901f337897a27b10b9fdb3cbd4acf4c38
+ms.openlocfilehash: 1af6025eea51fcf6d231796b453eca1aac0f9cf3
+ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46576797"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634851"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -27,6 +27,125 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2008-august-11"></a>Version 2008: 11. August
+*Version 2008 (Build 13127.20164)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Diese Korrektur behebt das Problem, bei dem der Versuch, bestimmte Abfragen auszuführen, zuvor die Fehlermeldung „Abfrage ist zu komplex“ erzeugt hat.
+
+- Wenn Sie Office 365 installiert haben, müssen Sie nicht mehr unsere ACE Redistributable Engine installieren, um ACE außerhalb des Office-Ökosystems bereitzustellen. Daher benötigen Sie für Benutzende mit Office 365 die ACE Redist Engine nicht mehr, und folglich sollte dieses Problem nicht auftreten.
+
+- Das Problem wurde gelöst – Sie können nun unseren ODBC-Treiber außerhalb der Office-Click-to-Run-App verwenden.
+
+### <a name="excel"></a>Excel
+
+- Das Problem wurde behoben, bei dem, wenn die Reihenfolge einer Diagrammserie geändert wurde, das entsprechende, an der Serie ausgerichtete Kontrollkästchen nicht zusammen mit der Serie neu geordnet wurde.
+
+- Beim Versuch eine Datei zu speichern, die eine Formel mit der Funktion LET() enthält, konnte ein Fehler auftreten.
+
+- Ein Problem wurde behoben, bei dem Diagramme nicht immer wie erwartet aktualisiert wurden, wenn "ForceFullCalculation" über VBA für die Arbeitsmappe aktiviert wurde.
+
+- Ein Problem wurde behoben, bei dem die Kopie eines Bildes mit einer radialen Verlaufsfüllung nicht mit dem Original übereinstimmte.
+
+### <a name="onenote"></a>OneNote
+
+- Wir haben ein Problem behoben, bei dem der Platzhaltertext im Bearbeitungsfeld „Suchen“ überlaufen würde, wenn die Größe des Anwendungsfensters auf eine kleine Dimension geändert wurde.
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem beim Erstellen mehrerer Profile in Outlook von derselben E-Mail-Domäne behoben.
+
+- Es wurde ein Problem behoben, durch das einige Benutzende des Features "Verbesserungen bei gemeinsam genutzten Kalendern" nicht in der Lage waren, einen neu hinzugefügten freigegebenen Kalender anzuzeigen.
+
+- Es wurde ein Problem behoben, das dazu führte, dass das Schloss-Symbol im Header von S/MIME-verschlüsselten Nachrichten nicht angezeigt wurde.
+
+- Wir haben ein Problem behoben, bei dem die Option "Weiterleitung zulassen" in den "Antwortoptionen" der freigegebenen Kalenderbesprechung fehlte, wenn "Gemeinsamer Ordner herunterladen" NICHT aktiviert war.
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer OneDrive-Anlagen von außerhalb ihres Mandanten nicht auf ihrem lokalen Computer speichern konnten, wenn sie im Dialogfeld "Sicherheit" die Option "Speichern" wählten.
+
+- Es wurde ein Problem behoben, bei dem die Schaltfläche "Drucken" als deaktiviert angezeigt wurde, auch wenn Benutzende über die entsprechenden Druckberechtigungen verfügten.
+
+- Behebung eines Problems, das dazu führte, dass Anhänge aus S/MIME-Nachrichten entfernt wurden, wenn diese unverschlüsselt gesendet wurden.
+
+- Behebung eines Problems, das dazu führte, dass Klartext-S/MIME-Nachrichten beim Senden verstümmelt wurden.
+
+- Behebt ein Problem, durch das Anhänge beschädigt wurden, wenn eine S/MIME-E-Mail unverschlüsselt gesendet wurde.
+
+- Es wurde ein Problem behoben, das dazu führt, dass Empfänger geschützte Nachrichten nicht speichern können, selbst wenn der/die Absender/in die Erlaubnis zum Speichern als Datei erteilt hat.
+
+- Diese Korrektur behebt ein Problem, bei dem Benutzende beim Beantworten einer mit digitalen Rechten verwalteten Nachricht in einem Inspektorfenster keine Signatur hinzufügen konnten, wenn sie keine Eigentümerrechte für die Nachricht hatten, auf die sie antworteten.
+
+- Diese Korrektur behebt ein Problem, das dazu führte, dass Outlook Zeilenumbrüche in Abschrifteninhalten nicht richtig anzeigte.
+
+- Behebt ein Problem, bei dem die Bezeichnungen für einige Optionen für die erweiterte Suche in einigen Sprachen abgeschnitten wurden.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, bei dem die Kopie eines Bildes mit einer radialen Verlaufsfüllung nicht mit dem Original übereinstimmte.
+
+- Ein Problem wurde behoben, bei dem die Schaltfläche „Formulare“ in PowerPoint das Erstellen von Formularen nicht zulässt, wenn der Zugriff auf den Microsoft Store nicht zulässig war.
+
+### <a name="project"></a>Project
+
+- Wir haben ein Problem behoben, bei dem die in der Task Board-Ansicht aufgelisteten Aufgaben nicht mit denen im Dialogfeld "Ressourcen zuordnen" synchronisiert wurden.
+
+- Wir haben ein Problem behoben, bei dem beim Versuch, ein PDF/XPS aus dem Projekt in eine SharePoint-Dokumentenbibliothek zu speichern, nichts passiert.
+
+- Wir haben ein Problem behoben, bei dem beim Kopieren und Einfügen einer Aufgabe mit mehreren Abhängigkeiten nicht alle Abhängigkeiten korrekt kopiert wurden.
+
+- Ein Problem wurde behoben, bei dem für eine SharePoint-Aufgabenliste die Schaltflächen auf dem Menüband auf der zweiten Registerkarte deaktiviert sein können.
+
+### <a name="skype"></a>Skype
+
+- Der Hautton des Tanzemoticons wurde auf neutrale Farbe geändert
+
+### <a name="visio"></a>Visio
+
+- Wenn Benutzende nach dieser Korrektur die Ausführung des Löschbefehls durch einen dazwischen liegenden Mechanismus angehalten haben (in diesem Fall durch ein Add-in), wird der Speicher nicht lecken und die gesamte Maschine wird nicht beeinträchtigt.
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, bei dem Word nicht mehr reagierte, nachdem Text und ein Bild in ein Kommentarfeld eingefügt wurden.
+
+- Ein Problem wurde behoben, bei dem die Kopie eines Bildes mit einer radialen Verlaufsfüllung nicht mit dem Original übereinstimmte.
+
+- Wir haben ein Problem behoben, bei dem der Platzhaltertext im Bearbeitungsfeld „Suchen“ überlaufen würde, wenn die Größe des Anwendungsfensters auf eine kleine Dimension geändert wurde.
+
+- Ein Problem wurde behoben, bei dem sich das Überarbeitungsfeld unerwartet öffnet, wenn ein Kommentar hinzugefügt wurde, um eine Änderung zu verfolgen.
+
+- Wir haben ein Problem behoben, bei dem der Befehl „Editor“ deaktiviert wurde, als sich der Fokus in einem Kommentartextfeld befand.
+
+- Wir haben ein Problem behoben, bei dem der Befehl „Markup anzeigen“ deaktiviert wurde, als sich der Fokus in einem Kommentartextfeld befand.
+
+- Ein Problem wurde behoben, bei dem die Schaltfläche „Neuer Kommentar“ nach dem Löschen des letzten Kommentars deaktiviert wurde.
+
+- Wir haben ein Problem behoben, bei dem die Option „Bestimmte Personen“ zum Nachverfolgen von Änderungen deaktiviert wurde.
+
+- Ein Problem wurde behoben, bei dem Links zu Dokumenten nicht über die Dropdown-Liste Einfügen -> Link in das Kommentarfeld eingefügt wurden.
+
+- Wir haben ein gelegentliches Aufhängen beim Öffnen von HTML-Dateien behoben.
+
+- Wir haben ein Problem in benutzerdefiniertem XML behoben, bei dem der Status der Kommentare beim Öffnen des Dokuments verloren geht.
+
+- Ein Problem wurde behoben, bei dem die Anzahl der Hyperlinks in der VBA-Hyperlinks-Sammlung nach dem Hinzufügen eines Bildes, das einen Hyperlink enthält, nicht korrekt iteriert wurde.
+
+- Bei dem alten, nicht webdienstbasierten Bereich Freigeben könnte das Schließen des Dokuments bei geöffnetem Bereich Freigeben zu einem Absturz führen. Dieses Problem wurde behoben.
+
+- Wir haben ein Problem behoben, durch das, nach dem der User ein neues App-Fenster über die Taskleiste geöffnet und ein neues leeres Dokuments erstellt hatte, zusätzliche Dateien erstellt wurden.
+
+- Wir haben ein Problem behoben, bei dem ein Benutzer, der ein Dokument bearbeitete, aber zwischenzeitlich die Berechtigungen verloren hatte, wir den Benutzer nicht darüber informierten, dass er sich erneut authentifizieren musste.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2007-august-05"></a>Version 2007: 5. August
 *Version 2007 (Build 13029.20344)*
@@ -71,10 +190,6 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="outlook"></a>Outlook
 
 - **Auswählen, wo gesucht werden soll:** Das neue Dropdownmenü für den Suchbereich ermöglicht es Ihnen, Ihre Suche einfacher zu ändern und zwischen dem aktuellen Ordner und dem aktuellen Postfach zu wechseln. Vielen Dank an alle in "Demnächst verfügbar", die uns ihr Feedback zu der neuen Search-at-Top-Erfahrung gesendet haben. Das vorliegende Design und Update sind aus diesem Feedback entstanden!
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Verbesserte Stream-Video-Leistung in PowerPoint:** Wir haben die Wiedergabeleistung von Microsoft Stream-Videos verbessert, um die Ladezeit von Videos zu minimieren und eine reibungslose Wiedergabe zu ermöglichen. Verwenden Sie Ihre Unternehmensvideos aus Microsoft Stream, um bessere Präsentationen zu erstellen.
 
 ### <a name="word"></a>Word
 
