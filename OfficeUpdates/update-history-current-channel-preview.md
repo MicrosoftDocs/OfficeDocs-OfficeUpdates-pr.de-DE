@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: f924cb5a1634d989b6400600063fc995583f2f9d
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 4d42d0ab7d2a3eddbba2f7143e7715c082b84a23
+ms.sourcegitcommit: 343e545db0b69c4ad91ce36f5977f43e1583b4b0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634571"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46788965"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -37,6 +37,9 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.mic
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**17. August 2020**<br/>
+Version 2008 (Build 13127.20208)<br/>
 
 **11. August 2020**<br/>
 Version 2008 (Build 13127.20164)<br/>
