@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: a33941600839c16e69449e27a240a52711cee246
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 7dc470707e716895df22427c56f9a4006a07c810
+ms.sourcegitcommit: e2d9d976f1463ab1c704e73318a9b07d460d74c0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634827"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46818354"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -253,6 +253,10 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Vereinfachte Methode zum Verwalten Ihrer Kanal Benachrichtigungseinstellungen:** über die Liste "Teams und Kanäle" oder über den "Header Kanal" können die Benutzer Ihre Benachrichtigungseinstellungen schnell verwalten, indem Sie alle Aktivitäten mit nur einem Klick aktivieren oder deaktivieren oder tief in Benutzerdefiniert eintauchen, um Ihre bevorzugten Permutationen festzulegen.
 
 - **Walkie Talkie:** Sofortige Sprachkommunikation über "Drücke, um zu Sprechen".
+
+### <a name="word"></a>Word
+
+- **Bestätigung der Aktion in Sprachausgaben:** Bestätigung der Aktion ist eine wichtige Voraussetzung für die Barrierefreiheit. Mit der Einführung einer neuen Benachrichtigungs-API von Windows können wir jetzt Benutzer der Sprachausgabe über den Erfolg ihrer Aktionen informieren. „Ausschneiden“, „Kopieren“, „Einfügen“, „Fett“, „Kursiv“, „Unterstrichen“, „Rückgängig“, „Wiederholen“, "Autokorrektur“ und "Automatische Großschreibung“ werden jetzt Benutzern der Sprachausgabe in Word unter Win32 angekündigt. Zum Aktivieren dieses Features aktivieren Sie die Sprachausgabe, indem Sie WINDOWS+STRG+EINGABE drücken.
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
