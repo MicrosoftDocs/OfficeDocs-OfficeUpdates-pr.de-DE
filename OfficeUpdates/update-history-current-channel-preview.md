@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 582ec8c33a442ae0e66cc7d4f353f77a147f9a5d
-ms.sourcegitcommit: 20a982ebe52a35e43739162151bb490971203cf7
+ms.openlocfilehash: 95bc3020972a2acd7eb86d96bdba4ee9536d871b
+ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46826858"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895739"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -24,7 +24,7 @@ Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum In
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Current Channel (Vorschau)
 
 Wenn Sie für Current Channel (Vorschau) registriert sind, die früher als Insider Slow bezeichnet wurde, erhalten Sie ungefähr einmal im Monat ein neues Office-Funktionsupdate sowie nachfolgende Builds mit wichtigen Korrekturen oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds von Current Channel (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
-Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/en-us/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/de-DE/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/de-DE/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -36,7 +36,9 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.mic
 > - Die Versionshinweise werden in langsamerer Kadenz aktualisiert und können eine Kompilation von Updates für mehrere Builds bis zur veröffentlichten Buildnummer der Versionshinweise darstellen.
 
 
-[//]: # (NICHT ENTFERNEN)
+
+**25. August 2020**<br/>
+Version 2008 (Build 13127.20268)<br/>
 
 **17. August 2020**<br/>
 Version 2008 (Build 13127.20208)<br/>
