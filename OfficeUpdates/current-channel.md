@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 8e6bae8a355d7d42e43c90db51355c42d9226198
-ms.sourcegitcommit: 52894617de8b2f9e74dd58163bee481377cbce45
+ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
+ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "46895689"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47291073"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -26,6 +26,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
  > [!NOTE]
 >
 >- Wir stellen häufig Features (und manchmal sogar Fixes) zu Aktuell über einen bestimmten Zeitraum zusammen.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features des aktuellen Kanals, da sie einen häufigen Versionswechsel aufweisen.
 
 
 
@@ -940,7 +941,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
-### <a name="feature-updates"></a>Funktionsupdates
+### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
 - **Schnell lesen und antworten:** Antworten Sie auf Kommentare und Erwähnungen direkt aus dem E-Mail-Bereich, ohne die Arbeitsmappe zu öffnen.
