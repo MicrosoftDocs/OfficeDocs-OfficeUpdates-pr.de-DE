@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 753f95cd70404c2fb027d500409d83919be495f4
-ms.sourcegitcommit: 7334591a0116e3ec442be378a72bec42826cc506
+ms.openlocfilehash: a0ddedfa36170790d7d21ba7ac27fdd677fab501
+ms.sourcegitcommit: 28b617b37fdd0d1ac629b12b20970d8f300d5122
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/27/2020
-ms.locfileid: "47291073"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47319002"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -32,6 +32,108 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2008-august-31"></a>Version 2008: 31. August
+*Version 2008 (Build 13127.20296)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="outlook"></a>Outlook
+
+- **Verbesserte Links in E-Mails:** Wenn Sie einen Link zu einer Datei einfügen, ersetzt der Dateiname die URL. Sie können die Berechtigungen so ändern, dass alle Empfänger Zugriff haben. [Weitere Informationen](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+
+- **Unterstützung natürlicher Sprache in der Suche:** mit der Implementierung der Unterstützung natürlicher Sprache in der Suche können Benutzer die Suchergebnisse ganz einfach filtern, ohne sich an eine bestimmte Suchsyntax erinnern zu müssen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="teams"></a>Teams
+
+- **Anruf Zusammenführung:** mit Call Merge können Endnutzer ihren aktiven, nicht gehaltenen 1:1-Anruf in einen anderen 1:1-Anruf oder einen anderen Gruppenanruf zusammenführen. Das gilt für Teams VoIP- und PSTN-Anrufe.
+
+- **Admins können für ihre Firstline-Mitarbeiter schichtbasierte Anwesenheit (während der Schicht, außerhalb der Schicht) konfigurieren:** Admins können für ihre Firstline-Mitarbeiter schichtbasierte Anwesenheitsstatus konfigurieren: Auf Schicht, Besetzt (kann während der Schicht umgeschaltet werden) und Außerhalb der Schicht.
+
+- **Cortana Voice Skills in Teams:** mit den Cortana Voice Skills in Teams Mobile-App können Benutzer Besprechungs-, Kommunikations- und Kooperationsaufgaben einfach mit gesprochener natürlicher Sprache durchführen. Benutzer können mit Cortana sprechen, indem sie in der Teams-App auf die Mikrofon-Schaltfläche klicken. Sie können Anfragen wie "Megan anrufen" oder "Eine Nachricht an mein nächstes Treffen senden" stellen, wenn sie jemanden kontaktieren möchten, während sie mit Hausarbeit beschäftigt sind, mit dem Hund spazieren gehen oder allgemein unterwegs sind. Benutzer können an Besprechungen teilnehmen, indem sie einfach sagen: "meiner nächsten Besprechung beitreten" oder ihren Kalender überprüfen, indem sie fragen: "Was habe ich heute Morgen?“. Sobald Sie sich in einer Besprechung oder einem Anruf befinden, können Sie Cortana über das Überlaufmenü in der Besprechungs-Ebene aufrufen und typische Besprechungs-Aufgaben ausführen, z. B. Personen nach Name oder Nummer hinzufügen ("Megan zum Anruf hinzufügen"), die Foliensatz präsentieren ("vierteljährlichen Review-Foliensatz präsentieren") oder Folien navigieren ("zur Folie im Anhang"). Andere Funktionen, die das Feature unterstützt, sind das Finden und Austauschen von Dateien, die Suche und das Navigieren innerhalb der Teams-App ("Öffne meinen Chat mit John, Zu meiner ungelesenen Aktivität, Zu meinen Erwähnungen usw.). Cortana in Teams erfüllt die gleichen Datenschutz-, Sicherheits- und Compliance-Zusagen für Cortana Enterprise-Dienste wie in den [Onlinedienstbedingungen (Online Services Terms, OST)](https://www.microsoft.com/licensing/product-licensing/products)
+
+- **Gruppenchat-Steigerung:** In Teams können jetzt 250 Teilnehmer an einem Gruppenchat teilnehmen.
+
+- **Taggen nach Schicht:** mit diesem Feature werden Personen automatisch Tags zugewiesen, die ihren Plan- und Schicht Gruppennamen in der [Schicht-App](https://support.microsoft.com/office/get-started-in-shifts-5f3e30d8-1821-4904-be26-c3cd25a497d6#bkmk_openshiftsappdesktop) in Teams entsprechen.
+
+### <a name="word"></a>Word
+
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+### <a name="office-suite"></a>Office-Suite
+
+- **Bereiche im Registerkartenformat:** Jetzt können Sie über die Registerkarten-Benutzeroberfläche auf der rechten Seite der App zwischen mehreren Bereichen wechseln. Die Benutzeroberfläche wird nur angezeigt, wenn Sie mehr als 2 Fenster geöffnet haben.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Das Problem wurde gelöst – Sie können nun unseren ODBC-Treiber außerhalb der Office-Click-to-Run-Apps verwenden.
+
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, das dazu führte, dass Benutzer, die versuchten, eine Besprechungsanfrage von einem zu ihrem Profil hinzugefügten sekundären Konto aus zu erstellen, kein leeres Von: Feld anstelle ihrer E-Mail-Adresse sahen.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer nach dem Hinzufügen eines gemeinsam genutzten Postfachs keine Verbindung zu öffentlichen Ordnern herstellen konnten.
+
+- Es wurde ein Problem behoben, das bewirkt hat, dass Besprechungen aus dem Kalender eines Managers nicht entfernt werden konnten, wenn sie von einem Delegierten unter bestimmten Umständen abgelehnt wurden.
+
+- Es wurde ein Problem behoben, durch das einige Benutzende des Features "Verbesserungen bei gemeinsam genutzten Kalendern" nicht in der Lage waren, einen neu hinzugefügten freigegebenen Kalender anzuzeigen.
+
+- Behebt ein Problem, das zu gelegentlichen Abstürzen bei der Interaktion mit Cloud-Anhängen führte.
+
+- Es wurde ein Problem behoben, das bewirkt hat, dass Benutzende einiger Zeichensätze beim Hinzufügen eines Smart Link zu einer Microsoft Office SharePoint Online-Datei Dateinamen falsch angezeigt bekamen.
+
+- Behebt ein Problem, das zum Absturz beim Beantworten oder Verfassen neuer E-Mails führte.
+
+- Es wurde ein Problem behoben, das zu einem Absturz führte, wenn Benutzende beim Löschen von 4 oder mehr E-Mails von einem POP-Konto mit der Option "Nur Kopfzeilen herunterladen" einen Absturz erlebten.
+
+- Es wurde ein Problem behoben, das dazu führte, dass die Seite des Planungsassistenten von einigen Benutzern nicht angezeigt wurde.
+
+- Behebt ein Problem, das zu gelegentlichen Abstürzen beim Bearbeiten von Empfängern führte.
+
+- Behebt ein Problem, das dazu führte, dass Benutzer bei der Verwendung der Kompaktansicht Anomalien sahen.
+
+- Es wurde ein Problem behoben, das bewirkt hat, dass das Rechtsklick-Kontextmenü nicht in den Suchsteuerelementen angezeigt wurde.
+
+- Behebt ein Problem, durch das Benutzern beim Beantworten von oder Verfassen neuer E-Mails den folgenden Fehler angezeigt wurde: „Einige der Dateien auf dieser Webseite befinden sich nicht am erwarteten Speicherort. Möchten Sie sie dennoch herunterladen? Wenn Sie sicher sind, dass die Webseite aus einer vertrauenswürdigen Quelle stammt, klicken Sie auf 'Ja'.“
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das Projektabschlussdatum für Projekte, die mit der Microsoft Office SharePoint Online-Aufgabenliste verbunden sind, nicht aktualisiert wird.
+
+- Ein Problem wurde behoben, bei dem die Restkosten nicht immer richtig berechnet wurden, wenn für eine Ressource mehrere Kostensatztabellen definiert waren.
+
+### <a name="skype"></a>Skype
+
+- Der Hautton des Tanzemoticons wurde auf neutrale Farbe geändert.
+
+### <a name="word"></a>Word
+
+- Diese Änderung behebt ein Problem, bei dem Office-Anwendungen nach einer vorherigen gemeinsamen Dokumenterstellung in einem Silent-Save-Fehlerstatus hängenbleiben konnten.
+
+- Es wurde ein Problem behoben, bei dem das Makro „AutoOpen“ vor „Autoexec“ ausgeführt wird.
 
 
 
@@ -1063,6 +1165,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
