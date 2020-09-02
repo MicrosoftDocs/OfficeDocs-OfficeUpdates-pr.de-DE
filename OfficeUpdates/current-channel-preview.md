@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereit.
-ms.openlocfilehash: b14aec3680a609752ae84dbd3d9c12732e01345f
-ms.sourcegitcommit: d7a1fa2d08122b27a4fb4a6f7c89f8c88f15a8a8
+ms.openlocfilehash: 73fc4756a5e6152fdbabdac3514e16b6937f5c9e
+ms.sourcegitcommit: 606fd85803eea49b4d3895a7f204f66b4f4aa118
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47294377"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47320793"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -33,13 +33,8 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
-### <a name="feature-updates"></a>Featureupdates
-### <a name="outlook"></a>Outlook
 
-- **Empfangen von Anlagevorschlägen bei der Suche:** Während Sie Ihre Suchbegriffe in Outlook eingeben, werden Ihnen in den Vorschlägen die relevantesten Dateien angezeigt.
-
-
-[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 <br/>
 
@@ -48,7 +43,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- Behebt ein Problem, das dazu führte, dass Benutzern beim Versuch, eine Besprechungsanfrage aus einem sekundären Konto heraus zu erstellen, das ihrem Profil hinzugefügt worden war, kein leeres „Von:“-Feld anstelle ihrer E-Mail-Adresse angezeigt wurde.
+- Behebt ein Problem, das dazu führte, dass Benutzer, die versuchten, eine Besprechungsanfrage von einem zu ihrem Profil hinzugefügten sekundären Konto aus zu erstellen, kein leeres Von: Feld anstelle ihrer E-Mail-Adresse sahen.
 
 - Behebt ein Problem, das dazu führte, dass Benutzer nach dem Hinzufügen eines freigegebenen Postfachs keine Verbindung mit öffentlichen Ordnern herstellen konnten.
 
