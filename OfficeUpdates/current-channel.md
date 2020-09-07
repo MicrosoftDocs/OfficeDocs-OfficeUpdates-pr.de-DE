@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 239ab8450f6aaf71f7dd6b4730d1832170ac9b56
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
+ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364176"
+ms.lasthandoff: 09/04/2020
+ms.locfileid: "47399652"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -527,6 +527,25 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Lasso und Radierer in der Freihand-Toolbox:** Wenn Sie die Zeichentools verwenden, sind Lasso und Radierer jetzt in der Freihand-Toolbox verfügbar.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Lasso und Radierer in der Freihand-Toolbox:** Wenn Sie die Zeichentools verwenden, sind Lasso und Radierer jetzt in der Freihand-Toolbox verfügbar.
+
+### <a name="word"></a>Word
+
+- **Lasso und Radierer in der Freihand-Toolbox:** Wenn Sie die Zeichentools verwenden, sind Lasso und Radierer jetzt in der Freihand-Toolbox verfügbar.
+
+
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
