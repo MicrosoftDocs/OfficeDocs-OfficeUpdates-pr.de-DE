@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 5f78997f33f73d23e4b8be0261b2f8a0e42618a5
-ms.sourcegitcommit: d93d7fb502ee4afac66dbccfe6a4397baa9eebc6
+ms.openlocfilehash: a6407186bb113b209692db657f7a62c1e68839fa
+ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2020
-ms.locfileid: "47364166"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47420719"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -36,42 +36,59 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+## <a name="september-9-2020"></a>9. September 2020
 
-## <a name="september-3-2020"></a>3. September 2020
+[//]: # (INHALTE NICHT ENTFERNEN START 9. September 2020)
 
+### <a name="current-channel"></a>Aktueller Kanal
+
+Die aktuellste Version ist Version 2008 (Build 13127.20408).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20296) <br/> |31. August 2020 <br/> |51<br/> |
+|Version 2007 (Build 13029.20460) <br/> |25. August 2020 <br/> |510<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 9. September 2020)
+
+## <a name="september-8-2020"></a>8. September 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 8. September 2020)
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2007 (Build 13029.20514).</i>
+Die aktuellste Version ist Version 2007 (Build 13029.20534).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2006 (Build 13001.20520) <br/> |11. August 2020 <br/> |157<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
 
-<i>Das erwartete Release ist Version 2008 (Build 13127.20360).</i>
+Die aktuellste Version ist Version 2008 (Build 13127.20408).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |375<br/> |
+|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |374<br/> |
 |Version 2002 (Build 12527.20880) <br/> |14. Juli 2020 <br/> |600<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2002 (Build 12527.21074).</i>
+Die aktuellste Version ist Version 2002 (Build 12527.21104).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |67<br/> |
-|Version 2002 (Build 12527.20880) <br/> |14. Juli 2020 <br/> |72<br/> |
+|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |59<br/> |
+|Version 2002 (Build 12527.20880) <br/> |14. Juli 2020 <br/> |74<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 8. September 2020)
+
+
+
 
 ## <a name="august-31-2020"></a>31. August 2020
 
