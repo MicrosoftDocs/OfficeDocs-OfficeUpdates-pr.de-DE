@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: fca07168058b5b96ece88ec163ce4775cd5413a2
-ms.sourcegitcommit: 4fd6ebb878e4a30e416064d9c434c66dfc48fd47
+ms.openlocfilehash: 469b87ca79a0f4f091e69cf1239715cee7b9dace
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634601"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413073"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-releases-in-2020"></a>Versionshinweise für Versionen des halbjährlichen Unternehmenskanals im Jahr 2020
 
@@ -29,6 +29,41 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2002-september-08"></a>Version 2002: 08. September
+*Version 2002 (Build 12527.21104)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Damit wird ein Problem behoben, bei dem interne Tabelleneigenschaften für Verbindungen, die vom SQL-Datenanbieter in älteren Office-Versionen erstellt wurden, anders als in Office 365 festgelegt wurden. Dies führte dazu, dass die Dropdown-Liste "Tabellenvorschau/Abfrageeditor" für Dateien mit Verbindungen, die in älteren Office-Versionen erstellt wurden, deaktiviert wurde, wenn sie mit Office 365 geöffnet wurden.
+
+
+- Ein Problem wurde behoben, bei dem Freihandeingaben dazu führen konnten, dass Excel nicht mehr reagierte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, das dazu führte, dass Benutzer nach dem Hinzufügen eines freigegebenen Postfachs keine Verbindung mit öffentlichen Ordnern herstellen konnten.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Diese Änderung behebt ein Problem, bei dem im Dialogfeld „Bild komprimieren“ bestimmte Benutzereinstellungen nicht beibehalten werden.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-1908-september-08"></a>Version 1908: 08. September
+*Version 1908 (Build 11929.20946)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt.
 
 ## <a name="version-2002-august-11"></a>Version 2002: 11. August
 *Version 2002 (Build 12527.20988)*
@@ -1662,6 +1697,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-july-11|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

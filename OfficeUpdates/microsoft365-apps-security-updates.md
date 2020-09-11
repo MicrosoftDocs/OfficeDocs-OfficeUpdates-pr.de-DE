@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Microsoft Office-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: d9485549b015ae78f3bfe524f8fbcda55bf3c522
-ms.sourcegitcommit: c018dbeeecba6e838bd5fc6178ba1cc78680415f
+ms.openlocfilehash: ae1402e77905e221cbcd0a6736ad3fb4ba4d507b
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46641801"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413083"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Versionshinweise für Microsoft Office-Sicherheitsupdates
 
@@ -32,7 +32,40 @@ Diese Informationen gelten für Microsoft 365 Apps for Enterprise, Microsoft 365
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
 
-## <a name="august-11-2020"></a>11. August 2020
+## <a name="september-08-2020"></a>08. September 2020
+Monatlicher Enterprise-Kanal: Version 2007 (Build 13029.20534)  
+Monatlicher Enterprise-Kanal: Version 2006 (Build 13001.20648)  
+Halbjährlicher Enterprise-Kanal (Preview): Version 2008 (Build 13127.20408)  
+Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21104)  
+Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.20946)  
+Office 2019-Volumenlizenz: Version 1808 (Build 10366.20016)  
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-1594](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1594)
+-   [CVE-2020-1335](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1335)
+-   [CVE-2020-1224](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1224)
+-   [CVE-2020-1332](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1332)
+
+### <a name="word"></a>Word
+
+-   [CVE-2020-1338](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1338)
+-   [CVE-2020-1218](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1218)
+-   [CVE-2020-1445](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1445)
+
+### <a name="office-suite"></a>Office-Suite
+
+-   [CVE-2020-1458](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1458)
+-   [CVE-2020-1193](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1193)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+
+## <a name="august-11-2020"></a>11. August 2020
 Aktueller Kanal: Version 2007 (Build 13029.20344)  
 Monatlicher Enterprise-Kanal: Version 2006 (Build 13001.20520)  
 Monatlicher Enterprise-Kanal: Version 2005 (Build 12827.20656)  

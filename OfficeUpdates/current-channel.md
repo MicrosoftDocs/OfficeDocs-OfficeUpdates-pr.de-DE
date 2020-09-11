@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: b3e74d8867a1970350b2aed1cbc792edb7cfb38e
-ms.sourcegitcommit: 770b87eb73d3fd4142157eef2bcc5bc9bc8f95a6
+ms.openlocfilehash: 4032a576a996076dd4c352112e7be533dce4c3bc
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47399652"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47413053"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -376,6 +376,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="excel"></a>Excel
 
 - **Längere Dateinamen:** Excel für Windows-Desktop unterstützt jetzt OneDrive/SharePoint-Dateien mit Namen und Pfaden von bis zu 400 Zeichen.
+
+- **RTD-Verbesserungen (Real-Time Data):** In Office 365, Version 2002, monatlicher Kanal und höher, ist die Excel-Funktion RealTimeData (RTD) beim Berechnen der Daten in der Tabelle wesentlich schneller als in Excel 2010. Wir haben Engpässe in den zugrunde liegenden Arbeitsspeicher- und Datenstrukturen entfernt und sie threadsicher gemacht, damit sie für alle verfügbaren Threads der Multithread-Neuberechnung (MTR) berechnet werden können.
 
 ### <a name="outlook"></a>Outlook
 
@@ -884,6 +886,10 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - **Ziehen Sie E-Mails in eine Gruppe, die Sie besitzen:** Verschieben und Kopieren von Nachrichten und Unterhaltungen, indem Sie diese aus Ihrem Posteingang ziehen. Die von ihnen gezogenen Nachrichten werden für alle Gruppenmitglieder freigegeben.
 
 - **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.
+
+###<a name="powerpoint"></a>PowerPoint
+
+- **Kommentare:** Die neue Kommentarumgebun g in PowerPoint ermöglicht es Ihnen, schnell und einfach Kommentare zu Ihren Dokumenten zu entdecken und hinzuzufügen. Modernisieren Sie Ihre Arbeitsabläufe bei der Zusammenarbeit mit neuen Funktionen wie Verankern und Auflösen von Kommentaren, Aufgaben, verbesserten Benachrichtigungen über Erwähnungen und vielem mehr.
 
 ### <a name="word"></a>Word
 

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 64e8dff5a369300676ae6342ab76e4d8c6d2fae3
-ms.sourcegitcommit: 0f37f62725ac99324a39cffeca7f4ce750d98e28
+ms.openlocfilehash: 9c44e177282a394deae512e9cb57da494189a5f1
+ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798371"
+ms.lasthandoff: 09/09/2020
+ms.locfileid: "47412993"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
@@ -26,6 +26,120 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 [//]: # (NICHT ENTFERNEN)
 
 
+
+## <a name="version-2007-september-08"></a>Version 2007: 08. September
+*Version 2007 (Build 13029.20534)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Benachrichtigung Über Vorfall für IT-Administratoren:** Globale Administratoren von Microsoft 365-Mandanten und Administratoren von Office-Apps werden über Outlook und O365 Exchange-Vorfällen benachrichtigt, die sich auf Ihre Benutzer auswirken – mit einer neuen Benachrichtigung im rechten Seitenbereich in Outlook für Windows. [Weitere Informationen](https://support.office.com/article/46c07f08-1277-41ce-b353-4e205e9da333)
+
+- **Schnelles Wiederöffnen von Elementen aus der vorherigen Sitzung:** Wir haben eine Option zum schnellen Wiederöffnen von Elementen aus einer vorherigen Outlook-Sitzung hinzugefügt. Unabhängig davon, ob Outlook abstürzt oder ob sie es schließen, jetzt können Sie beim erneuten Öffnen der App Elemente schnell neu starten. Diese Funktion ist standardmäßig aktiviert. Um Sie zu deaktivieren, wechseln Sie zu Optionen > Allgemein > Startoptionen.
+
+### <a name="word"></a>Word
+
+- **Beibehalten von Text in Vektoren:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Excel, Word und PowerPoint konvertieren.
+
+### <a name="office-suite"></a>Office-Suite
+
+- **Bereiche im Registerkartenformat:** Jetzt können Sie über die Registerkarten-Benutzeroberfläche auf der rechten Seite der App zwischen mehreren Bereichen wechseln. Die Benutzeroberfläche wird nur angezeigt, wenn Sie mehr als 2 Fenster geöffnet haben.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/20/improved-pane-management/)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Diese Korrektur behebt das Problem, bei dem der Versuch, bestimmte Abfragen auszuführen, zuvor die Fehlermeldung „Abfrage ist zu komplex“ erzeugt hat.
+
+
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, bei dem beim Laden einer Arbeitsmappe mit mehreren Blättern in der Seitenumbruchvorschau ein Fehler oder eine Unterbrechung auftreten kann.
+
+
+- Beim Versuch eine Datei zu speichern, die eine Formel mit der Funktion LET() enthält, konnte ein Fehler auftreten.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das zu Formatierungsproblemen in Benachrichtigungen über einen Sicherheitsvorfälle führte.
+
+
+- Es wurde ein Problem behoben, durch das Outlook-Benutzern in kompakten Ansichten Probleme mit der Navigation angezeigt wurden.
+
+
+- Ein Problem wurde behoben, das beim Abrufen von Persona-Informationen gelegentlich zu einem Absturz führte.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass die Seite des Terminplanungs-Assistenten nicht angezeigt wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer OneDrive-Anlagen von außerhalb ihres Mandanten nicht auf ihrem lokalen Computer speichern konnten, wenn sie im Dialogfeld "Sicherheit" die Option "Speichern" wählten.
+
+
+- Es wurde ein Problem behoben, bei dem die Option "Weiterleitung zulassen" in den "Antwortoptionen" für Kalenderbesprechungen nicht angezeigt wurde, wenn die Option für das Herunterladen freigegebener Ordner NICHT aktiviert war.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook keine Suchvorschläge abrufen konnte.
+
+
+- Es wurde ein Problem behoben, das bewirkt hat, dass Benutzende einiger Zeichensätze beim Hinzufügen eines Smart Link zu einer Microsoft Office SharePoint Online-Datei Dateinamen falsch angezeigt bekamen.
+
+
+- Ein Problem wurde behoben, das zu einem Absturz führte, wenn Benutzer von CLP die Absenderadresse in einer Antwort von geschütztem in ungeschützten Kontext wechselten.
+
+- Es wurde ein Problem behoben, durch das es bei Benutzern beim Antworten auf oder Verfassen einer neuen E-Mail zu einem Absturz kam.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Wir haben ein Absturzproblem mit der PowerPoint-App behoben.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem man kein PDF/XPS aus Project in einer SharePoint-Dokumentbibliothek speichern konnte.
+
+
+- Es wurde ein Problem behoben, das bewirkt, dass nicht alle Abhängigkeiten korrekt kopiert werden, wenn ein Vorgang mit mehreren Abhängigkeiten eingefügt wird.
+
+
+- Ein Problem wurde behoben, bei dem die im Dialogfeld "Ressourcen zuordnen" ausgewählte Aufgabe nicht mit der in der Ansicht "Task Board" ausgewählten Aufgabe identisch ist.
+
+
+- Ein Problem wurde behoben, bei dem ein Projekt, das in einen ungültigen Zustand geraten war, nicht geöffnet werden konnte.
+
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben ein Problem behoben, bei dem Benutzer unter bestimmten Bedingungen die Benutzeroberflächenelemente oder -inhalte nicht angezeigt wurden, insbesondere beim Öffnen oder Verlassen der Referentenansicht oder bei der Verwendung mehrerer Bildschirme.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass eine Laufzeitmeldung angezeigt wurde, obwohl der Übergang zum vollständigen Produkt abgeschlossen ist. Der Fix für dieses Problem bestand darin, sicherzustellen, dass der Dienst hinzugefügte Produkte ordnungsgemäß berechnet. Wir haben die neu hinzugefügten Produkte herausgefiltert (dabei wurde sichergestellt, dass sie auch in der neuen Konfiguration vorhanden sind) und sie am Ende der vorhandenen Produkt-Release-IDs hinzugefügt.
+
+
+- Bei dem alten, nicht webdienstbasierten Bereich Freigeben könnte das Schließen des Dokuments bei geöffnetem Bereich Freigeben zu einem Absturz führen. Dieses Problem wurde behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2006-september-08"></a>Version 2006: 08. September
+*Version 2006 (Build 13001.20648)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt.
 
 ## <a name="version-2006-august-11"></a>Version 2006: 11. August
 *Version 2006 (Build 13001.20520)*
@@ -257,7 +371,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Die Unterstützung für Facebook Connector endet:** Ab April 2020 werden von Excel keine externen Datenverbindungen mehr unterstützt, für die der Facebook-Connector eingesetzt wird.
 
-- **Neue Bilder, um Ihre Arbeitsmappen zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Arbeitsmappen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Arbeitsmappen zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Arbeitsmappen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -267,7 +381,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Der Kalender wird rundumerneuert:** Sie können visuelle Aktualisierungen anzeigen, mit denen Ihr Kalender einfacher durchsucht werden kann. [Weitere Informationen](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Neue Bilder, um Ihre Nachrichten zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Nachrichten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Nachrichten zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Nachrichten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/).
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -275,7 +389,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Synchronisieren von Änderungen während der Präsentation:** Änderungen können jetzt synchronisiert werden, wenn sie vorgenommen werden, selbst wenn sich die Präsentation im Bildschirmpräsentationsmodus befindet. [Weitere Informationen](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Neue Bilder, um Ihre Folien zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Präsentationen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Folien zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Präsentationen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/).
 
 ### <a name="word"></a>Word
 
@@ -513,7 +627,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 [//]: # (ENDE NICHT ENTFERNEN)
 
@@ -522,6 +636,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
