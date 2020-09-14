@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste der wichtigsten neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: eb4b836572e45be9d0e67facda63c4aa3b77d361
-ms.sourcegitcommit: 7a1e592270aad83a5496f7946c3c2af9d6b4e42f
+ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
+ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "47395424"
+ms.lasthandoff: 09/11/2020
+ms.locfileid: "47431574"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -39,9 +39,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Datentypen mit Microsoft Power Query für Excel erstellen:** Erstellen Sie umfangreiche Datentypen mit Microsoft Power Query für Excel von jeder Datenquelle
-
-- **Branding-Ausrichtung von Azure Synapse Analytics:** Azure SQL Data Warehouse Data Connector wurde in Azure Synapse Analytics umbenannt
+- **Datentypen mit Microsoft Power Query für Excel erstellen:** Erstellen Sie umfangreiche Datentypen mit Microsoft Power Query für Excel aus jeder beliebigen Datenquelle.
 
 ### <a name="outlook"></a>Outlook
 
