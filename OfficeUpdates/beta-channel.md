@@ -9,12 +9,12 @@ ms.service: o365-proplus-
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insiders Fast die aktuelle Liste der wichtigsten neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: ddff6144ac2e7ae86bfbfdb40bfe2b9802bfd347
-ms.sourcegitcommit: 3832aa4f4117ee05f88018a2227b3f4a51550ea9
+ms.openlocfilehash: 4ca5dc1d6e3050de558adfad9ea3c7709ca79d46
+ms.sourcegitcommit: 67f8d4a8655b95abc51fc6a81ff7142baf2194d4
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 09/11/2020
-ms.locfileid: "47431574"
+ms.locfileid: "47449558"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,69 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2010-september-11"></a>Version 2010: 11. September
+*Version 2010 (Build 13304.20000)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="access"></a>Access
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="excel"></a>Excel
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="onenote"></a>OneNote
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="outlook"></a>Outlook
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="project"></a>Project
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="publisher"></a>Publisher
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="visio"></a>Visio
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+### <a name="word"></a>Word
+
+- **Office kann Ihre Einstellung für den dunklen Modus in Windows 10 ausführen:** Windows 10 im dunklen Modus verwenden? Office kann jetzt Designs so wechseln, dass sie automatisch angepasst werden – Wählen Sie einfach „Systemeinstellung verwenden“ als Office-Design aus.
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, bei dem beim Wechseln zwischen Arbeitsblättern mit großen Datenmengen eine deutliche Verzögerung auftrat, wenn ‚Seitenumbruchvorschau‘ aktiviert war.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem E-Mails ausgeblendet wurden, wenn „Posteingang mit Relevanz“ deaktiviert und eine Sortierung durchgeführt wurde.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, bei dem GIF-Dateien nur im Editor und in Bildschirmpräsentationen animiert wurden.
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2010-september-04"></a>Version 2010: 04. September
 *Version 2010 (Build 13301.20004)*
@@ -1329,6 +1392,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
