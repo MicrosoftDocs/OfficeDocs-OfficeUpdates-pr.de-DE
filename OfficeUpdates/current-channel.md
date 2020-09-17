@@ -1,20 +1,20 @@
 ---
 title: Anmerkungen zur aktuellen Kanalversion in 2020
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: d3309f60d502cdcc50564028e8de5954a43af71f
-ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
+ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420749"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942832"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -1196,7 +1196,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Optimieren Sie Ihre Präsentation für alle:** Die Barrierefreiheitsprüfung hilft Ihnen beim Anordnen von Objekten auf Ihren Folien, indem sie die Sprachausgabe berücksichtigt.
 
-- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/de-DE/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 

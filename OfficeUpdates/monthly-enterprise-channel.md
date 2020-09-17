@@ -1,20 +1,20 @@
 ---
 title: Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 9c44e177282a394deae512e9cb57da494189a5f1
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47412993"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942802"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 

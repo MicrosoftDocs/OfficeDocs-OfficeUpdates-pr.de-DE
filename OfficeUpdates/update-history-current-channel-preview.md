@@ -2,19 +2,19 @@
 title: Versionshinweise für Office Current Channel (Vorschau)
 ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 54f60a987331ad4211b2f306ec267ce53bd3bc6c
-ms.sourcegitcommit: ba25ac98f7eb014f8730caee66fc34699c341121
+ms.openlocfilehash: c6fc1ef5e8b84d770e152fb6a4d84047bff7e465
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816606"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942822"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -24,7 +24,7 @@ Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum In
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Current Channel (Vorschau)
 
 Wenn Sie für Current Channel (Vorschau) registriert sind, die früher als Insider Slow bezeichnet wurde, erhalten Sie ungefähr einmal im Monat ein neues Office-Funktionsupdate sowie nachfolgende Builds mit wichtigen Korrekturen oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds von Current Channel (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
-Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/de-DE/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/de-DE/releasenotes/windows/slow).
+Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]

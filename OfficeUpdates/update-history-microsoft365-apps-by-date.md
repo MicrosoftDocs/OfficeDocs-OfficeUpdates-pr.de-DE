@@ -1,20 +1,20 @@
 ---
 title: Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
-ms.author: andrewmo
+ms.author: anankani
 author: anankani
-manager: andrewmo
+manager: anankani
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 8886b44e67501b018e2b0a6937d8acb3d438fc02
-ms.sourcegitcommit: 931b78282277a0d12779c6b4cae33181b4568c34
+ms.openlocfilehash: 0302068c774aa7bd7556345fe5cb907bc21738ca
+ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47420709"
+ms.lasthandoff: 09/16/2020
+ms.locfileid: "47942787"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
