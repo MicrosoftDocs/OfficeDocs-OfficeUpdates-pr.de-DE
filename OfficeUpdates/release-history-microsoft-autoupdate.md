@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: aa066d6d5cc89060d3c56be2106559e47e93e9b9
-ms.sourcegitcommit: 79f26d59de01abb85869e9d91f3af30129709f62
+ms.openlocfilehash: 621874246e5c7e31c4929f10540b622299a342dd
+ms.sourcegitcommit: 0b73dd4daece14e061c1d29dbb6486367c0b5621
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46637643"
+ms.lasthandoff: 09/17/2020
+ms.locfileid: "47947161"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,25 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="september-2020-release"></a>Release von September 2020
+
+**Veröffentlichungsdatum:** 16. September 2020
+
+*Microsoft Auto Update 4.27*
+
+**Bugfixes und Verbesserungen:**
+-   Der MAU-Update-Assistent initiiert jetzt Updates bei einem gesperrten Bildschirm, auch wenn der reguläre Prüfzyklus nicht erreicht ist.
+
+**MAU-Updatelink:**
+
+[Microsoft Auto-Update 4.27-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+7AF6ACDC5E1278CF4D227F305A127A6FE5A275094D945C1504DC108C2090F2CB
+
+<br/><br/>
 
 ## <a name="august-2020-release"></a>Release vom August 2020
 
