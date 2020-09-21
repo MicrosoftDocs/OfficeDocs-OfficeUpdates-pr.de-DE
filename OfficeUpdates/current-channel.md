@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: b19d5a9a0dab889d2c06b894a4143f856a959176
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: f9aa18090ec3cad58f37cd9699e1e85a74736992
+ms.sourcegitcommit: 751e19cd300a15d25b3757f8978ec491fc720740
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942832"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "48100197"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -45,7 +45,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="access"></a>Zugriff
 
-- In Access wurde dieses aktuelle Problem behoben, es werden allerdings unsere zusätzlichen Schnittstellen untersucht, um sicherzustellen, dass dieses Problem nicht fortbesteht. Das Team wird Sie über zukünftige Updates informieren. Wir bedanken uns für Ihre Geduld.
+- Durch diese Änderung wird ein Problem behoben, das beim Starten des Zoom-Felds (UMSCHALT+F2) zum Bearbeiten von Text zum Absturz führen könnte.
 
 
 ### <a name="excel"></a>Excel
@@ -895,7 +895,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Informieren Sie die Benutzer über die Infoleiste über temporäre Anpassungen in Microsoft OneNote, die dazu beitragen, die Synchronisierung und Dienstverfügbarkeit bei hoher weltweiter Nutzung zu verbessern.
 
-### <a name="project"></a>Projekt
+### <a name="project"></a>Project
 
 - Es wurde ein Problem behoben, bei dem der Benutzer keine zeitgesteuerte Baseline-Arbeit eingeben konnte, wenn die Einstellung zum Schutz der tatsächlichen Arbeit aktiviert ist.
 
@@ -1196,7 +1196,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Optimieren Sie Ihre Präsentation für alle:** Die Barrierefreiheitsprüfung hilft Ihnen beim Anordnen von Objekten auf Ihren Folien, indem sie die Sprachausgabe berücksichtigt.
 
-- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/de-DE/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
