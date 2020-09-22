@@ -2,19 +2,19 @@
 title: Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 ms.author: timda
 author: TimDavenport
-manager: andrewmo
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten eine Liste der aktuellen MSP-Dateien für unbefristete Office 2013-Versionen, die Windows Installer (MSI) verwenden
-ms.openlocfilehash: c46af9e7fb8b8022230b55485fc863a563d49f42
-ms.sourcegitcommit: db30154a1be72ca2b3b41f4dcc8ce6986834f6da
+ms.openlocfilehash: 3b6bacd76cc7c947c415915ea22bad086f5473bb
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "47413103"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174614"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 
@@ -44,8 +44,8 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
   
 |****MSP-Dateiname***|****Produkt****|****Datum der nicht sicherheitsrelevanten Veröffentlichung****|****Nicht sicherheitsrelevanter KB-Artikel****|****Datum der sicherheitsrelevanten Veröffentlichung****|****Sicherheitsrelevanter KB-Artikel****|****Sicherheitsrelevante KB veraltet****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|access-x-none  <br/> |Access 2013  <br/> |5. Februar 2019  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |11. August 2020  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
-|ace-x-none  <br/> |Office 2013  <br/> |1. November 2016  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |11. August 2020  <br/> |[4484359](https://support.microsoft.com/help/4484359) <br/>|[4484229](https://support.microsoft.com/help/4484229) <br/> |
+|access-x-none  <br/> |Access 2013  <br/> |5. Februar 2019  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |11. August 2020  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
+|ace-x-none  <br/> |Office 2013  <br/> |1. November 2016  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |11. August 2020  <br/> |[4484359](https://support.microsoft.com/help/4484359) <br/>|[4484229](https://support.microsoft.com/help/4484229) <br/> |
 |acmserver-x-none  <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3172512](https://support.microsoft.com/help/3172512) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |airspacewer-x-none  <br/> |Office 2013  <br/> |9. Dezember 2014  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |analys32-x-none  <br/> |Office 2013  <br/> |9. Februar 2016  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
@@ -96,7 +96,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |otkruntimertl-x-none  <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |8. März 2016  <br/> |[3039746](https://support.microsoft.com/kb/3039746) <br/> |[2910941](https://support.microsoft.com/kb/2910941) <br/> |
 |outexum-x-none  <br/> |Office 2013  <br/> |5. März 2019  <br/> |[4092455](https://support.microsoft.com/kb/4092455) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |outlfltr-x-none  <br/> |Office 2013  <br/> |2. August 2016  <br/> |[3115404](https://support.microsoft.com/kb/3115404) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|outlook-x-none  <br/> |Outlook 2013  <br/> |1. Oktober 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |11. August 2020  <br/> |[4484486](https://support.microsoft.com/help/4484486) <br/> |[4484363](https://support.microsoft.com/help/4484363) <br/> |
+|outlook-x-none  <br/> |Outlook 2013  <br/> |1. Oktober 2019  <br/> |[4484096](https://support.microsoft.com/help/4484096) <br/> |11. August 2020  <br/> |[4484486](https://support.microsoft.com/help/4484486) <br/> |[4484363](https://support.microsoft.com/help/4484363) <br/> |
 |peopledatahandler-x-none  <br/> |Office 2013  <br/> |8. September 2015  <br/> |[3039766](https://support.microsoft.com/kb/3039766) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |powerpoint-x-none  <br/> |PowerPoint 2013  <br/> |7. Juli 2020  <br/> |[4484349](https://support.microsoft.com/help/4484349) <br/> |14. April 2020  <br/> |[4484226](https://support.microsoft.com/help/4484226) <br/> |[4461590](https://support.microsoft.com/help/4461590) <br/> |
 |ppaddin-x-none  <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3213536](https://support.microsoft.com/help/3213536) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
