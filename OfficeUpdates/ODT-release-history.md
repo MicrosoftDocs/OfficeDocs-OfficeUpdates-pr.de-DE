@@ -1,20 +1,20 @@
 ---
 title: Versionsverlauf für das Office-Bereitstellungstool (ODT)
-ms.author: andrewmo
-author: andymosten
-manager: andrewmo
+ms.author: timda
+author: TimDavenport
+manager: TimDavenport
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: 70e000f7cbdc597bde156257fc7e4b2a1e6e69eb
-ms.sourcegitcommit: 58d55cf532d1d02cca85772920a6dd71089b071d
+ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
+ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43781568"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48174644"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -23,12 +23,22 @@ Das Office-Bereitstellungstool (ODT) ist ein Befehlszeilentool, mit dem Sie Offi
 
 Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können definieren, welche Produkte und Sprachen installiert werden, wie diese Produkte aktualisiert werden sollen und ob den Benutzern der Installationsvorgang angezeigt werden soll. Informationen zur Verwendung des ODT finden Sie unter [Übersicht über das Office-Bereitstellungstool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Unterstützte Betriebssysteme**: Windows 10, Windows 7, Windows 8, Windows 8.1, Windows Server 2008 R2, Windows Server 2012, Windows Server 2012 R2. 
+ **Unterstützte Betriebssystem**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
  **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+
+## <a name="june-9-2020"></a>9. Juni 2020
+
+Version 16.0.12827.20268 (setup.exe-Version 16.0.12827.20258)
+- Der aktuelle Kanal ist jetzt der Standardkanal, wenn kein Kanal angegeben wird.
+- Unterstützung für den monatlichen Enterprise-Kanal hinzugefügt
+- Unterstützung für neue Kanalnamen hinzugefügt
+- Zusätzliche Resilienz-Features, um die Installation fortzusetzen, wenn möglich, auch wenn einige Sprachressourcen nicht verfügbar sind
+- Erweiterte MSIRemove-Funktionen zum Entfernen von Office 2007-Produkten
+- Erweiterte MSIRemove-Funktionen, um Access-Datenbankmodul zu entfernen 
 
 ## <a name="april-15-2020"></a>15. April 2020
 
