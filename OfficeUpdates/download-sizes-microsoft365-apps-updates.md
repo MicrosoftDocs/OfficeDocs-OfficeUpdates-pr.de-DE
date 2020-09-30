@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 522f8cacbee425af065b6f34a6d2083119834f14
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: 7d90ba304db45d7f105e37c99b3a24e730f1df32
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222461"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297158"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -35,6 +35,22 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="september-28-2020"></a>28. September 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 28. September 2020)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Die aktuellste Version ist Version 2009 (Build 13231.20262).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20508) <br/> |22. September 2020 <br/> |124<br/> |
+|Version 2008 (Build 13127.20408) <br/> |8. September 2020 <br/> |124<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 28. September 2020)
 
 ## <a name="september-22-2020"></a>22. September 2020
 

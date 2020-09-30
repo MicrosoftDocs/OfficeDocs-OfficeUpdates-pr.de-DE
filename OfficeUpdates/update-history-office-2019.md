@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: 47a880af474186502d897357ed089050f84c1bba
-ms.sourcegitcommit: 75494441a6d325f8cb947f1905fe623dce2f05f0
+ms.openlocfilehash: facdcf576b69d4736fd6d889b2df014e9959c0c7
+ms.sourcegitcommit: 98c502abe92df8183e816225934bd70f6940e935
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48222451"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48297138"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -84,12 +84,12 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|28. September 2020|Version 2009 (Build 13231.20262)| |
 |22. September 2020|Version 2008 (Build 13127.20508)| |
 |9. September 2020|Version 2008 (Build 13127.20408)|Siehe unter der Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31. August 2020|Version 2008 (Build 13127.20296)| |
 |25. August 2020|Version 2007 (Build 13029.20460)| |
 |11. August 2020|Version 2007 (Build 13029.20344)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
-|30. Juli 2020|Version 2007 (Build 13029.20308)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 
 
 [//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
@@ -103,6 +103,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|30. Juli 2020|Version 2007 (Build 13029.20308)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |28. Juli 2020|Version 2006 (Build 13001.20498)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |14. Juli 2020|Version 2006 (Build 13001.20384)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1449) <br/>[CVE-2020-1458](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1458) <br/>|
 |30. Juni 2020|Version 2006 (Build 13001.20266)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
