@@ -1,38 +1,38 @@
 ---
-title: Release Notes for Monthly Channel Releases in 2015
-ms.author: andrewmo
+title: Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2015
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/11/2015
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 proPlus in 2015
-ms.openlocfilehash: 0b235ba177dd2378cbb953315e2ead6b692ed52b
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2015
+ms.openlocfilehash: 29e4500dafb8fe95569608b0dca148a03c182a6b
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32438809"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369913"
 ---
-# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Release Notes for Monthly Channel Releases in 2015
+# <a name="release-notes-for-monthly-channel-releases-in-2015"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2015
 
-Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in monatlichen Kanal Updates für Office 365 proPlus in 2015 enthalten sind.
+Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in monatlichen Kanal Aktualisierungen für Office 365 ProPlus in 2015 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Der monatliche Kanal wurde vor dem 2017.
+> - Monatlicher Kanal hieß aktueller Kanal vor September 2017.
 
 ## <a name="version-1511-december-11"></a>Version 1511:11. Dezember
 *Version 1511 (Build 6366.2036)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **BI-Vorlagen:** Drei neue Vorlagen, die die Business Intelligence (BI)-Funktionen von Excel nutzen: [Kalender](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40)Einblicke, [Aktienanalyse](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [mein Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
+-   **BI-Vorlagen:** Drei neue Vorlagen, die die Business Intelligence (BI)-Funktionen von Excel nutzen: [Kalender Einblicke](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Aktienanalyse](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [mein Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen das Ziehen eines Ausfüllkästchens einer mit einer Zahl für das Langformat für Datum formatierten Zelle zu einem Absturz von Excel führte.
 -   Behebung eines Problems, aufgrund dessen das Erstellen einer PivotTable oder eines PivotChart aus eines Datenverbindung und das Platzieren von diesen in einem neuen Arbeitsblatt zu einem Absturz von Excel führte.
 -   Behebung eines Problems, aufgrund dessen die Filterschaltflächen nicht angezeigt wurden, wenn es keine Filterung der zugrundeliegenden PivotTable-Felder gab.
@@ -55,7 +55,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/8dd1c7b2-b935-44f5-a74c-741d8d9244ea)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Für diesen Dienst ist eine Internetverbindung erforderlich. Um dieses Feature zu deaktivieren, [verwenden Sie die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Verwenden Sie zum Deaktivieren dieses Features [die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools | Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen SmartArt mit Animationen nicht in der erwarteten Reihenfolge in der Bildschirmpräsentationsansicht mit der Referentenansicht angezeigt wurden.
@@ -69,9 +69,9 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 -   **Optionen für „Senden als“**: Senden eines Dokuments als Anlage oder als PDF-Datei aus dem Bereich „Freigeben“ in Word oder PowerPoint.
--   **Einfügen der Bild-API**: Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [document.setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die JavaScript-API für Word stellt hostspezifische Methodennamens insertInlinePictureFromBase64 () zum Festlegen von Inlinebildern für [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)-, [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)-, [Paragraph](https://msdn.microsoft.com/library/office/mt598682.aspx)-und Range-Objekte bereit.
+-   **Einfügen der Bild-API**: Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [document.setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die Word-JavaScript-API bietet hostspezifische Methodennamens insertInlinePictureFromBase64 (), um Inline Bilder für [Body](https://msdn.microsoft.com/library/office/mt598674.aspx)-, [ContentControl](https://msdn.microsoft.com/library/office/mt598675.aspx)-, [Paragraph](https://msdn.microsoft.com/library/office/mt598682.aspx)-und Range-Objekte festzulegen.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen das Änderungsdatum beim Klicken auf „Öffnen“ oder „Speichern unter“ abgeschnitten war.
 -   Behebung eines Problems, aufgrund dessen die App beim Doppelklicken auf den Textbereich für SmartArt-Grafiken abstürzte.
 -   Behebung eines Problems, aufgrund dessen das während der Installation wiedergegebene Video, nach Abschluss der Wiedergabe auf einem schwarzen Bildschirm angezeigt wird, bis das Dialogfeld „Installation ist abgeschlossen“ geschlossen wird.
@@ -101,7 +101,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen ein geschützter Trennstrich bei Verwendung bestimmter Schriftarten als Rechteck angezeigt wurde.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -120,7 +120,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eins Problems, aufgrund dessen die Aufzeichnung eines Makros für eine Abfrageerstellung zu einem Kompilierungsfehler führte.
 -   Behebung eines Problems, aufgrund dessen nach dem Löschen einer Spalte im Abfrage-Editor nach der Aktualisierung der Abfrage eine leere Spalte am Tabellenende angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen beim Auswählen der Registerkarte „Sparklines“ unter Schnellanalyse der Abfragetabelle ein unerwarteter Fehler auftrat.
@@ -133,7 +133,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Einfügen von Text in Outlook nicht der vollständige Text angezeigt wurde, wenn der eingefügte Text die Fensterhöhe überschritten hat.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
@@ -162,7 +162,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die Fußnotennummerierung in Word nicht mit der in dem ausgedruckten Dokument übereinstimmte, wenn ein Dokument mit der Fußnoteneinstellung „Nummerierung auf jeder Seite neu beginnen“ im Hintergrund ausgedruckt wurde.
 -   Behebung eines Problems, aufgrund dessen die gemeinsame Dokumenterstellung in Echtzeit nicht für in OneDrive gespeicherte Dateien funktionierte. Dabei wurde anderen Benutzern auch nicht angezeigt, dass ein Benutzer Dateien in Echtzeit bearbeitet, und es waren keine Anwesenheitsinformationen verfügbar.
 -   Behebung eines Problems, aufgrund dessen Word bei gemeinsamer Dokumenterstellung in Echtzeit abstürzte, wenn diese ein über SharePoint oder OneDrive geöffnetes Dokument betraf.
@@ -171,7 +171,7 @@ Diese Versionshinweise bieten Informationen zu neuen Features, Sicherheitsupdate
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen der Benutzer beim Öffnen von Dateien über SharePoint Online wiederholt zur Anmeldung aufgefordert wurde.
 -   Behebung eines Problems, aufgrund dessen angeheftete Verknüpfungen auf der Taskleiste nicht beim manuellen Upgrade für alle Benutzer entfernt wurden.
 -   Funktion zum manuellen Upgrade mithilfe von Klick-und-Los hinzugefügt, um festzustellen, ob Outlook mit Exchange Server 2007 verbunden oder ob Business Contact Manager installiert ist, damit Benutzer über potenzielle Probleme bei der Durchführung des Upgrades gewarnt werden.

@@ -1,8 +1,8 @@
 ---
 title: Anmerkungen zur Version für halbjährliche Kanal Versionen in 2017
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/12/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für halbjährliche Kanal Versionen für Office 365 ProPlus in 2017
-ms.openlocfilehash: 9d3a8a62656e52fd556920745d64ba2d1da47b1f
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e98b5359a10f2a6cba7dd8539983496f95b5177a
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615075"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370163"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2017"></a>Anmerkungen zur Version für halbjährliche Kanal Versionen in 2017
 
@@ -140,12 +140,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Unterstützung für „Große Zahl“ (bigint):** Verwenden Sie den Datentyp „Große Zahl“ in Access-Tabellen, um große Zahlen zu berechnen und für die Verknüpfung mit oder den Import aus externen Datenquellen, die einen entsprechenden Datentyp verwenden, z. B. bigint in SQL Server. [Weitere Informationen](https://blogs.office.com/2017/03/06/new-in-access-2016-large-number-bigint-support/)
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Unterstützung für Windows Information Protection (WIP):**    Excel ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    Excel ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 -   **Verbesserung beim Abrufen und Transformieren:** Erstellen Sie im Abfrage-Editor eine neue Spalte, indem Sie Beispielwerte angeben. Während der Eingabe erkennt Excel die erforderlichen Transformationen und zeigt eine Vorschau der neuen Spalte an.
 -   **Einfügen von Links zu zuletzt verwendeten Elementen:** Fügen Sie einfach Hyperlinks an zuletzt verwendete cloudbasierte Dateien oder Websites an, und erstellen Sie aussagekräftige Anzeigenamen für Personen, die Sprachausgaben verwenden.[Weitere Informationen](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Personalisieren des PivotTable-Standardlayouts:** Richten Sie eine PivotTable ganz nach Wunsch ein, und beginnen jedes Mal, wenn Sie eine neue PivotTable erstellen, mit diesem personalisierten Layout. [Weitere Informationen](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
 -   **Verbesserungen beim Abrufen und Transformieren:** Benutzer können neue Spalten anhand eines Beispiels erstellen und Tabellenspalten in Zeilen teilen. Das Angeben von Parametern für SAP HANA und das Gruppieren von Daten sind nun einfacher.
--   **Zentrale Bereitstellung von Add-Ins**: Administratoren können Add-Ins über das Office 365 Admin Center für Benutzer oder Gruppen bereitstellen und aktualisieren. [Weitere Informationen](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **Zentrale Bereitstellung von Add-Ins**: Administratoren können Add-Ins über das Office 365 Admin Center für Benutzer oder Gruppen bereitstellen und aktualisieren.  [Weitere Informationen](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Anpassung der Symbolleiste für den Schnellzugriff:** Die Symbole für „Tiefgestellt“ und „Hochgestellt“ können der Symbolleiste für den Schnellzugriff hinzugefügt werden.
 -   **Verbesserungen beim Abrufen und Transformieren:** Trennzeichen werden beim Teilen von Spalten mit dem Abfrage-Editor automatisch erkannt, Sie können auswählen, welche Beispieldatei Sie für „Binärdateien kombinieren“ verwenden möchten, und Sie können die Paketsammlung angeben, mit der bei Verwendung des DB2-Connector eine Verbindung hergestellt werden soll.
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -154,7 +154,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Verwenden eines Stifts zum Auswählen und Ändern von Objekten:** Sie können jetzt einen digitalen Stift nutzen, um über die Objektziehpunkte die Größe eines Objekts zu ändern, es zu drehen, zu bewegen und mehr.
 -   **Map-Diagramm:** Vergleichen von Werten und Anzeigen von Kategorien über geografische Regionen hinweg. [Weitere Informationen](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b)
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in Arbeitsmappen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   Verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics), indem Sie Symbole in Grafiken einfügen \> \> . [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie eine Arbeitsmappe in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Verbesserte Eingabehilfen:** Verbesserte Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien zum Lesen und Bearbeiten von Arbeitsmappen. [Weitere Informationen](https://support.office.com/article/51fcb17a-b15b-4b13-ae04-d4f38ece3f78)
 
@@ -191,7 +191,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen Inhalte oder Aktualisierungen vom OneNote-Canvas ausgeblendet werden, wenn viele Absätze angezeigt werden.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   **Unterstützung für Windows Information Protection (WIP):**    Outlook ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    Outlook ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 -   **Einfügen von Links zu zuletzt verwendeten Elementen:** Fügen Sie Hyperlinks an zuletzt verwendete cloudbasierte Dateien oder Websites an, und erstellen Sie aussagekräftige Anzeigenamen für Personen, die Sprachausgaben verwenden. [Weitere Informationen](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Freistellen:** Entfernen eines Bildhintergrunds mit einem Freiform-Zeichentool.
@@ -199,7 +199,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Festlegen von Berechtigungen für Anlagen:** Für OneDrive- oder SharePoint-Anlagen kann der Benutzer festlegen, ob Empfänger in der Organisation oder extern Lese- oder Bearbeitungsberechtigungen für die Anlage erhalten.
 -   **Anheftbarer Aufgabenbereich:** Sie können den Add-In-Aufgabenbereich geöffnet lassen, während Sie die Nachrichten in Ihrem Postfach durchgehen. [Weitere Informationen](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in E-Mails. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln.   [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   Verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics), indem Sie Symbole in Grafiken einfügen \> \> .  [ Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
 -   [CVE-2017-0106](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0106): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
@@ -220,13 +220,13 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem ein Bild in einer Nachricht ausgeblendet wird, wenn es von einem Computer mit hohem DPI-Wert gesendet wird.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
--   **Unterstützung für Windows Information Protection (WIP):**    PowerPoint ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand von konfigurierten Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    PowerPoint ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 -   **Einfügen von Links zu zuletzt verwendeten Elementen:** Fügen Sie Hyperlinks an zuletzt verwendete cloudbasierte Dateien oder Websites an, und erstellen Sie aussagekräftige Anzeigenamen für Personen, die Sprachausgaben verwenden. [Weitere Informationen](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Zentrale Bereitstellung von Add-Ins**: Administratoren können Add-Ins über das Office 365 Admin Center für Benutzer oder Gruppen bereitstellen und aktualisieren.  [Weitere Informationen](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Freistellen:** Entfernen eines Bildhintergrunds mit einem Freiform-Zeichentool.
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in Präsentationen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   Verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics), indem Sie Symbole in Grafiken einfügen \> \> . [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **Echt Zeit Eingabe bei der gemeinsamen Dokumenterstellung:** Sehen Sie, wo andere in der Präsentation arbeiten, und zeigen Sie Änderungen bei der Eingabe an. [Weitere Informationen](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie eine Präsentation in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Erstellen Sie präzise Freihand-Shapes:** Ziehen Sie den Segmentradierer, um übermäßige Freihandbits bis zur nächsten Zeile zu entfernen.
@@ -245,7 +245,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="project-feature-updates"></a>Projekt: Featureupdates
 -   **Schnelle Dropdownliste zum Festlegen von Vorgängern:** Verwenden Sie die Dropdownliste für das Gantt-Diagramm, um auswählen, welche Vorgänger oder Nachfolger Sie mit einer Aufgabe verknüpfen möchten.
--   **Vorgangs Zusammenfassungs Name:**   schreibgeschütztes Vorgangsfeld, das den Namen des Sammelvorgangs des Vorgangs anzeigt.  
+-   **Name der Aufgabenzusammenfassung:**   Schreibgeschütztes Vorgangsfeld, das den Namen des Sammelvorgangs des Vorgangs anzeigt.  
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Werte, die für ein Diagramm/eine Tabelle ausgewählt werden, nicht im Diagramm-/Tabellenbereich angezeigt werden.
@@ -343,7 +343,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Codeausschnitte:** Erstellen von Ausschnitten einer Visio-Zeichnung und Exportieren dieser als Folien in PowerPoint. [Weitere Informationen](https://support.office.com/article/e7da404b-4208-49d1-9518-6fe1a4723657)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
--   **Unterstützung für Windows Information Protection (WIP):**    Word ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    Word ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 -   **Einfügen von Links zu zuletzt verwendeten Elementen:** Fügen Sie Hyperlinks an zuletzt verwendete cloudbasierte Dateien oder Websites an, und erstellen Sie aussagekräftige Anzeigenamen für Personen, die Sprachausgaben verwenden. [Weitere Informationen](https://support.office.com/article/002684c4-bf06-422b-821f-b4ef84fdb0e3)
 -   **Zentrale Bereitstellung von Add-ins**: Administratoren können Add-Ins für Benutzer oder Gruppen über das Office 365 Admin Center bereitstellen und aktualisieren.   [Weitere Informationen](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
@@ -351,7 +351,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Seite nach Seite:** Navigieren in Seiten in der Drucklayoutansicht durch Blättern wie in einem Papierstapel. [Weitere Informationen](https://support.office.com/article/21bfd0ff-0e1f-4c43-b188-8b36dfe6dcf4)
 -   **Verwenden eines Stifts zum Auswählen und Ändern von Objekten:** Sie können jetzt einen digitalen Stift nutzen, um über die Objektziehpunkte die Größe eines Objekts zu ändern, es zu drehen, zu bewegen und mehr.
 -   **SVG-Bilder:** Einfügen und Bearbeiten von skalierbaren Vektorgrafiken (SVG) in Dokumenten. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
--   **Symbole einfügen:**   verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics) \> , \> indem Sie die Symbole zum Einfügen von Illustrationen wechseln.   [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
+-   **Symbole einfügen:**   Verwenden Sie Symbole aus einer standardmäßigen Bibliothek von SVG-Dateien (Scalable Vector Graphics), indem Sie Symbole in Grafiken einfügen \> \> .  [ Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 -   **In zuletzt verwendeten Ordnern speichern:** Speichern Sie ein Dokument in einem der zuletzt verwendeten Ordner, indem Sie die Registerkarte „Zuletzt verwendet“ aufrufen, wenn Sie zu „Datei“ \> „Speichern unter“ navigieren.
 -   **Verbessertes Lesen mit Lernwerkzeugen:** Neue Befehle im Lesemodus bieten Lesefunktionen, wie das Anpassen der Textabstände, das Anzeigen von Umbrüchen zwischen Silben und das Hervorheben der einzelnen Begriffe, wenn das Dokument laut vorgelesen wird. [Weitere Informationen](https://support.office.com/article/29efa413-e2da-4cac-b2a5-2defc6d34fd9)
 -   **Shape-Erkennung:** Automatisches Umwandeln von Zeichnungen in Shapes mithilfe von Zeichnen \> In Shape konvertieren.[Weitere Informationen](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -637,7 +637,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Es wurde ein Problem behoben, aufgrund dessen bei Verwendung von Polycom CX100-Geräten in Anrufen kein Mikrofon erkannt wurde.
 -   Es wurde ein Problem behoben, aufgrund dessen bei Auswahl eines Links wie „\\\\servername“ oder „file://“ in einer Sofortnachricht eine Fehlermeldung statt des entsprechenden Speicherorts angezeigt wurde.
 -   Es wurde ein Problem behoben, aufgrund dessen Benutzer in virtuellen Desktop-Infrastrukturen mit standortbasiertem Routing keine PSTN-Anrufe tätigen oder annehmen konnte, weil der Server davon ausging, dass der Standort des Benutzers kein gültiger Standort für PSTN-Anrufe ist.
--   Es wurde die Betreffzeile der E-Mail geändert, die gesendet wird, wenn der Benutzer seinen Status auf „Beschäftigt“ oder „Hält Präsentation“ gesetzt hat und eine Nachricht verpasst. Der Text wurde von „Verpasste Unterhaltung mit \<Name\>“ in „\<Name\> sent you a message in Skype for Business.“ geändert.
+-   Ändern Sie die Betreffzeile der e-Mail, die für eine verpasste Nachricht gesendet wurde, wenn der Status des Benutzers auf nicht stören oder präsentieren festgelegt ist, von "verpasste Unterhaltung mit \<name\> " an " \<Name\> Ihnen eine Nachricht in Skype for Business gesendet".
 -   Sie können den Zeitstempel für die erste Anmeldung auf dem Gerät als Teil der [Zensusdaten](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) erfassen, um Trends bei der Anmeldungszuverlässigkeit zu identifizieren.
 -   Beheben Sie ein Problem, wenn die Option einen sekundären Monitor zu teilen bei bestimmten Monitorkonfigurationen in Windows 10, Version 1607 (auch bekannt als das Anniversary Update) nicht angezeigt wird.
 -   Beheben Sie ein Problem, wenn Skype for Business abstürzt, wenn freigegebener Inhalt vergrößert wird, wenn der Teilende eine Drittanbieterimplementierung von RDP verwendet.
@@ -927,7 +927,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen das Löschen eines Tabelle zu einem Absturz von OneNote führte.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   ** \@Erwähnungen:** Stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person zum Textkörper einer e-Mail oder eines Kalenderelements hinzufügen. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
+-   ** \@ Erwähnungen:** stellen Sie sicher, dass die Empfänger wissen, dass Sie zur Eingabe oder Aktion aufgefordert werden, indem Sie das @-Symbol gefolgt vom Namen der Person in den Textkörper einer e-Mail oder eines Kalenderelements einschließen. Dadurch wird diese Person auch automatisch in dem „An“-Feld hinzugefügt. [Weitere Informationen](https://support.office.com/article/90701709-5dc1-41c7-aa48-b01d4a46e8c7)
 -   **Zusammenfassungskarten für Reisereservierungen und Pakete:** Prüfen und verfolgen Sie Reisereservierungen sowie Paketzustellungen, indem Sie Zusammenfassungskarten verwenden, die automatisch im Posteingang und im Kalender erstellt wurden. [Weitere Informationen](https://blogs.office.com/2016/06/28/stay-on-top-of-your-travel-and-deliveries-with-outlook/)
 -   **Mini-Vorschau für angefügte Fotos**: Wenn ein Foto an eine E-Mail-Nachricht angefügt ist, wird in Outlook eine kleine Vorschau des Fotos in der Nachricht angezeigt.
 -   **Link zum Wiederherstellen gelöschter Objekte:** Im Ordner „Gelöschte Elemente“ wird der Link „Elemente wiederherstellen, die aus diesem Ordner gelöscht wurden“ oberhalb der Liste gelöschter Elemente angezeigt. Außerdem wird beim Klicken auf den Link das Dialogfeld „Gelöschte Elemente wiederherstellen“ aufgerufen.
@@ -974,7 +974,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 -   **Aktualisierte visuelle Elemente:** Änderungen an Symbolen und Farben zur Verbesserung der Barrierefreiheit. [Weitere Informationen](https://blogs.technet.microsoft.com/nexthop/2016/10/27/new-skype-for-business-2016-look-and-feel-coming-your-way/)
--   **Aktualisieren Sie die Benutzeroberfläche auf "freigeben":** ändern Sie "vorhanden" in "freigeben" in Benutzeroberflächenelementen, beispielsweise "Desktop präsentieren" in "Freigeben Ihres Desktops" und "Programm präsentieren", um "ein Fenster freizugeben" zu ändern.
+-   **Aktualisieren der Benutzeroberfläche auf "freigeben":**   Ändern Sie "Present" in "Share" in Benutzeroberflächenelementen, wie beispielsweise "Desktop präsentieren" ändern in "Freigeben Ihres Desktops" und "Programm präsentieren", um "ein Fenster freizugeben".
 -   **Citrix-Unterstützung**: Unterstützung für Citrix-basierte VDI-Umgebungen (Virtual Desktop Infrastructure) zusammen mit Citrix HDX Real Time Optimization Pack 2.1.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates

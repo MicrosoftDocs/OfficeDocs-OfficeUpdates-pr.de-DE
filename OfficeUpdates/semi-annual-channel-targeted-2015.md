@@ -1,8 +1,8 @@
 ---
 title: Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2015
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/8/2015
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (gezielt) für Office 365 ProPlus in 2015
-ms.openlocfilehash: 4b6eb5b96fddc57d8a1f64adfaeb10166d541c42
-ms.sourcegitcommit: 358a0cbd1b722d309556c50d53abbe6c1a348f60
+ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32439140"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370103"
 ---
 # <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2015
 
@@ -46,7 +46,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen ein geschützter Trennstrich bei Verwendung bestimmter Schriftarten als Rechteck angezeigt wurde.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -65,7 +65,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eins Problems, aufgrund dessen die Aufzeichnung eines Makros für eine Abfrageerstellung zu einem Kompilierungsfehler führte.
 -   Behebung eines Problems, aufgrund dessen nach dem Löschen einer Spalte im Abfrage-Editor nach der Aktualisierung der Abfrage eine leere Spalte am Tabellenende angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen beim Auswählen der Registerkarte „Sparklines“ unter Schnellanalyse der Abfragetabelle ein unerwarteter Fehler auftrat.
@@ -78,7 +78,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Einfügen von Text in Outlook nicht der vollständige Text angezeigt wurde, wenn der eingefügte Text die Fensterhöhe überschritten hat.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
@@ -107,7 +107,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die Fußnotennummerierung in Word nicht mit der in dem ausgedruckten Dokument übereinstimmte, wenn ein Dokument mit der Fußnoteneinstellung „Nummerierung auf jeder Seite neu beginnen“ im Hintergrund ausgedruckt wurde.
 -   Behebung eines Problems, aufgrund dessen die gemeinsame Dokumenterstellung in Echtzeit nicht für in OneDrive gespeicherte Dateien funktionierte. Dabei wurde anderen Benutzern auch nicht angezeigt, dass ein Benutzer Dateien in Echtzeit bearbeitet, und es waren keine Anwesenheitsinformationen verfügbar.
 -   Behebung eines Problems, aufgrund dessen Word bei gemeinsamer Dokumenterstellung in Echtzeit abstürzte, wenn diese ein über SharePoint oder OneDrive geöffnetes Dokument betraf.
@@ -116,7 +116,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen der Benutzer beim Öffnen von Dateien über SharePoint Online wiederholt zur Anmeldung aufgefordert wurde.
 -   Behebung eines Problems, aufgrund dessen angeheftete Verknüpfungen auf der Taskleiste nicht beim manuellen Upgrade für alle Benutzer entfernt wurden.
 -   Funktion zum manuellen Upgrade mithilfe von Klick-und-Los hinzugefügt, um festzustellen, ob Outlook mit Exchange Server 2007 verbunden oder ob Business Contact Manager installiert ist, damit Benutzer über potenzielle Probleme bei der Durchführung des Upgrades gewarnt werden.

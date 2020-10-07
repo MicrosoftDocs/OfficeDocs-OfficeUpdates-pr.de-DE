@@ -1,8 +1,8 @@
 ---
 title: Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 12/13/2016
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für halbjährliche Kanal Versionen für Office 365 ProPlus in 2016
-ms.openlocfilehash: b70dda115d271a4ec0779c4b99927275dae7969d
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615035"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48370143"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
 
@@ -32,7 +32,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 -   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem Skype for Business abstürzt, wenn freigegebener Inhalt vergrößert wird und der freigebende Benutzer eine Drittanbieterimplementierung von RDP verwendet.
 -   Es wurde ein Problem behoben, bei dem Skype for Business abstürzt, wenn die JAWS-Sprachausgabe ausgeführt wird und der Benutzer in eine Liste wie z. B. die Kontaktliste navigiert.
 
@@ -176,7 +176,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Microsoft-Sicherheitsbulletin [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
 -   Microsoft-Sicherheitsbulletin [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Stellvertreter in Skype for Business nach dem Hinzufügen in Exchange Server auch dann nicht angezeigt wird, wenn Skype for Business neu gestartet wurde.
 -   Behebung eines Problems, bei dem der Skype for Business-Client eine Verbindung zu einem Skype for Business-Server im externen Netzwerk herstellt, obwohl das interne Unternehmensnetzwerk verfügbar ist.
 -   Es wurde ein Problem behoben, bei dem Skype bei einigen Benutzern in Besprechungen mit vielen Teilnehmern abstürzt (z. B. bei mehr als 30 Teilnehmern)
@@ -643,7 +643,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 *Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2056) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden der Konferenzfunktionen, u. a. Whiteboard oder Freigeben von Notizen, eine Fehlermeldung angezeigt wurde. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates

@@ -1,8 +1,8 @@
 ---
 title: Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2017
-ms.author: andrewmo
+ms.author: anankani
 author: andymosten
-manager: andrewmo
+manager: anankani
 ms.date: 7/11/2018
 ms.audience: ITPro
 ms.topic: reference
@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Anmerkungen zur Version für monatliche Kanal Versionen für Office 365 ProPlus in 2017
-ms.openlocfilehash: 7c3523a10f3fe5db8f38e792e0061b0eed2745bf
-ms.sourcegitcommit: 9301d8769d8860013e7b789a3360f48de461ad49
+ms.openlocfilehash: e08e53d617cf74329210e0f758b2c440995ca2f5
+ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42615004"
+ms.lasthandoff: 10/07/2020
+ms.locfileid: "48369903"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Anmerkungen zur Version für monatliche Kanal Veröffentlichungen in 2017
 
@@ -48,7 +48,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Roaming der Revisionsnachverfolgungsinformationen:** Der Status gelesen/ungelesen zum Hervorheben von freigegebenen Folien, die von anderen Benutzern geändert wurden, wird nun im Roamingdienst gespeichert (statt auf dem lokalen Computer des Benutzers), sodass diese Informationen über mehrere Geräte oder Plattformen hinweg synchronisiert werden können.
 -   **Schneller Zugriff auf Ihre Websites und Gruppen:** Verwenden Sie das Menü „Datei“ zum Arbeiten mit Dokumenten, die in Ihren häufig verwendete Websites und Gruppen gespeichert sind.
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Vorgänge als abgeschlossen angezeigt werden, auch wenn noch verbleibende Arbeit vorliegt.
 -   Behebung eines Problems, aufgrund dessen Project bei Verwendung des Features „Aufgabenpfad“ nicht mehr reagiert.
 -   Behebung eines Problems, aufgrund dessen an der Zeitskala die Zeitskalabeschriftungen nicht angezeigt werden.
@@ -56,7 +56,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen eine Datei bei Problemen beim Speichern beschädigt wurde und Project beim Öffnen abstürzte.
 -   Behebung eines Problems, aufgrund dessen Aufgaben in den Ansichten „Zeitachse“ und „Timeplaner“ nicht gezogen werden konnten.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen in den aufgezeichneten Unterhaltungen der Anrufer anstelle des Angerufenen angezeigt wurde. Dies geschah dann, wenn die geschäftliche Telefonnummer des Angerufenen mithilfe von Active Directory geändert wurde.
 -   Behebung eines Problems, aufgrund dessen bei ausgehenden PSTN-Anrufen an Mobiltelefone die Empfängerinformationen im Anrufprotokoll nicht in den aufgezeichneten Anrufen angezeigt wurden.
 -   Behebung eines Problems, aufgrund dessen beim Initiieren einer Chatnachricht aus einer E-Mail in Outlook die Betreffzeile der E-Mail nicht im Betreff der Chatnachricht enthalten war.
@@ -71,7 +71,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Zeichenanzahl:** Zeigen Sie die Anzahl der Zeichen auf der Statusleiste während der Eingabe an. Sie können dies im Menü „Statusleiste anpassen“ aktivieren.
 -   **Schneller Zugriff auf Ihre Websites und Gruppen:** Verwenden Sie das Menü „Datei“ zum Arbeiten mit Dokumenten, die in Ihren häufig verwendete Websites und Gruppen gespeichert sind.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Die Option „Jetzt aktualisieren“ ist unter „Datei“ \> „Konto“ \> „Updateoptionen“ ausgeblendet, wenn ein Office-COM-Objekt aktiviert ist, sodass Office 365-Clientupdates von Configuration Manager verwaltet werden.
 
 
@@ -82,7 +82,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen die Fehlermeldung „Schwerwiegender Fehler“ beim Öffnen einer Office 2007- oder älteren Arbeitsmappe (XLS oder XLA) mit Makros nicht richtig angezeigt wurde.
 -   Behebung eines Problems, aufgrund dessen Excel möglicherweise abstürzte, wenn ein Benutzer ein Kontextmenü öffnete.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Office-App abstürzte, wenn der Benutzer versuchte, Office über das Dialogfeld „Office aktivieren“ zu aktivieren.
 
 
@@ -92,14 +92,14 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Öffnen einer Access-Laufzeitanwendung (ACCDE-Datei) die Fehlermeldung „Diese Datenbank weist ein unbekanntes Format auf“ ausgegeben und die Anwendung nicht geöffnet wird.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Excel abstürzt, wenn der Benutzer beim Versuch, ein Objekt in eine vorhandene Arbeitsmappe einzufügen, auf „Durchsuchen“ klickt.
 -   Behebung eines Problems, aufgrund dessen beim Schützen eines Bereichs mit einem Kennwort das Dialogfeld zur Eingabe des Kennworts zum Aufheben der Bereichssperre nicht angezeigt wird.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Outlook beim Wechseln zwischen Ordnern abstürzt, wenn mit Accessible Event Watcher (AccEvent.exe) überwacht wird.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen bei Verweisen auf Flash Player-basierte YouTube-Einbindungscodes ein neues Fenster zum Wiedergeben des Videos geöffnet wird. Alte Einbindungscodes wurden aktualisiert und verweisen jetzt auf HTML5-basierte YouTube-Videos, sodass diese korrekt im gleichen Fenster wiedergegeben werden.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -117,7 +117,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   [CVE-2017-11878](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11878): Microsoft Excel – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 -   [CVE-2017-11884](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-11884): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen ein Benutzer eine Arbeitsmappe in der geschützten Ansicht nicht schließen kann, wenn der Dateiname eckige Klammern enthält.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
@@ -147,7 +147,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Task Board-Ansicht:** Sortieren Sie Aufgaben auf Karten in der Task Board-Ansicht. Ordner Sie Karten neu an, und verschieben Sie sie zwischen den Spalten im Board, genau wie in Agile-Projekten.
 -   **Agile-Projekte:** Verwalten Sie Ihre Agile-Projekte mit Backlogs, Task Boards, Sprints usw. Sowohl Scrum- als auch Kanban-Methoden werden unterstützt. [Weitere Informationen](https://support.office.com/article/1b9b44d7-fd8e-4b3b-ab94-2b97deb9945b)  
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Ressourcenverfügbarkeit nicht in Team Builder angezeigt wird.
 -   Behebung eines Problems, aufgrund dessen grafische Indikatoren nicht ordnungsgemäß angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen Project beim Abgleich auf Stunden- oder Tagesbasis abstürzt.
@@ -155,14 +155,14 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen beim Hinzufügen von Zuweisungen zu einem Vorgang mit fester Dauer eine namenlose Ressource entstehen kann.
 -   Behebung eines Problems, aufgrund dessen eine falsche Fehlermeldung bzgl. einer Änderung von geschützter Arbeit ausgegeben wird.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Möglichkeit zum Beenden des Empfangs von Anrufen durch Benutzer im Namen eines Sammelanschlusses wurde hinzugefügt.
 -   Möglichkeit zum automatischen Halten von Anrufen in Fällen, in denen ein Anruf in Skype for Business oder Teams aktiv ist und ein neuer Anruf empfangen oder initiiert wird, wurde hinzugefügt.
 -   Behebung eines Problems, aufgrund dessen Benutzer nach einer Vollbildfreigabe nicht chatten können.
 -   Behebung eines Problems, aufgrund dessen Benutzer in der Lobby nicht benachrichtigt werden, wenn ihr Beitritt zum Meeting verweigert wird.
 -   Behebung eines Problems, aufgrund dessen die automatische Verstärkung während Anrufen unkontrolliert zunimmt.
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
 -   **Erstellen eines Drahtmodelldiagramms für eine Website:** Erstellen Sie schnell ein Drahtmodelldiagramm einer Website, einschließlich Benutzeroberfläche, Navigation und wie sie zusammenarbeiten. [Weitere Informationen](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 -   **Erstellen Sie ein Drahtmodell Ihrer mobilen Anwendung:** Verwenden Sie eine Vorlage, um ein Drahtmodell Ihrer mobilen Anwendung zu erstellen. [Weitere Informationen](https://support.office.com/article/2d54dc55-f5c4-49a2-85da-d649eb7fc281)
 
@@ -180,7 +180,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen bei Auswahl von Text in einem Text- oder Kombinationsfeld anscheinend der gesamte Text anstelle der angegebenen Auswahl ausgewählt wird.
 
-### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
+### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Platzierung der QuickInfo beim Ziehen oder Füllen durch Ziehen nicht korrekt ausgerichtet ist.
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer Arbeitsmappe mit „Datei“ \> „Speichern unter“ Dateinamen mit Punkten im Dialogfeld „Datei speichern“ leer oder abgeschnitten angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer durch Synchronisieren gesicherten Datei Office die Datei nicht auf Datenträger schreibt, sondern weiter auf OneDrive hochlädt. Mit diesem Fix wird Benutzern jetzt eine Fehlermeldung angezeigt, und der Upload wird nicht fortgesetzt.
@@ -204,7 +204,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Ausführen einer Bildschirmpräsentation mit digitalem Stift:** Verwenden Sie den Surface-Stift oder einen anderen Stift mit einer Bluetooth-Taste, um durch die Präsentation zu blättern. Windows 10 Fall Creators Update ist erforderlich. [Weitere Informationen](https://support.office.com/article/e36da834-7d34-4b71-aafd-071727549f7a)
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Project beim Wechseln zu Berichten mit mehreren Bildern möglicherweise abstürzt.
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -267,10 +267,10 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen PowerPoint abstürzt, wenn eine Präsentation von einem SharePoint-Server mit einer älteren Version als SharePoint Server 2016 geöffnet wird.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Word abstürzt, wenn das Aktivitätenfenster für ein Dokument geöffnet wird, das von einem SharePoint-Server mit einer älteren Version als SharePoint Server 2016 geöffnet wurde.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen der Fortschritt der Onlinereparatur dem Benutzer nicht angezeigt wird.
 -   Behebung eines Problems, aufgrund dessen Office-Dateieigenschaften nicht im Datei-Explorer angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen Office-Add-In-Schaltflächen aus dem Menüband verschwinden, wenn ein zweites Dokument geöffnet ist.
@@ -362,7 +362,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   [CVE-2017-8742](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8742): Sicherheitsanfälligkeit in Microsoft PowerPoint bezüglich Remotecodeausführung
 -   [CVE-2017-8743](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-8743): PowerPoint – Sicherheitsrisiko bei Remotecodeausführung
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Project beim Öffnen bestimmter Dateien aus Project Online abstürzt.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
@@ -390,7 +390,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem COM-Add-Ins keine Ereignisse beim Öffnen von Dokumenten erhalten, wenn eine Visio-Datei durch Doppelklicken auf ein Dateisymbol oder den Dateinamen geöffnet wird.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Anwendung bei einigen Benutzern abstürzte, wenn sie auf die Registerkarte „Zeichnen“ klickten.
 -   Behebung eines Problems, bei dem die Anwendung abstürzte, wenn der Mauszeiger über ein allgemeines Steuerelement gehalten wurde, das eine QuickInfo enthält.
 -   Behebung eines Problems, bei dem eine Lizenzierungsfehlermeldung angezeigt wurde, wenn allgemeine Steuerelemente verwendet wurden.
@@ -404,7 +404,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen Sie kein IMAP-Konto in Outlook konfigurieren können.
 -   Behebung eines Problems, das beim Öffnen von Outlook einen zeitweiligen Absturz verursacht.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Word beim Laden des Grammatik-Add-Ins unerwartet geschlossen wird.
 -   Behebung eines Problems, aufgrund dessen Word unter bestimmten Umständen bei dem Versuch abstürzt, cloudbasierte Dateien wiederherzustellen.
 
@@ -421,7 +421,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1707-august-7"></a>Version 1707:7. August
 *Version 1707 (Build 8326.2070)*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen der Anmeldebildschirm für einige andere Sprachen als Englisch leer ist.
 
 
@@ -429,7 +429,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ## <a name="version-1707-july-31"></a>Version 1707:31. Juli
 *Version 1707 (Build 8326.2062)*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen nichtenglische Zeichen in Chatnachrichten und im Chatverlauf unleserlich angezeigt werden.
 
 
@@ -472,7 +472,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Hilfreiche Sounds verbessern die Barrierefreiheit:** Aktivieren Sie Audiohinweise, um Sie bei der Arbeit zu leiten. Sie finden sie unter „Datei“ \> „Optionen“ \> „Erleichterte Bedienung“. Kein Add-In erforderlich. [Weitere Informationen](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Dateispeicherorte nach Konto:** Beim Öffnen oder Speichern einer Datei wird die Liste der Orte nach dem zugeordneten Konto organisiert.
 
-### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
+### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Ist-Arbeit fälschlicherweise in eine Enterprise-Ressource übertragen wird, wenn sie eine lokale Ressource ersetzt und geschützte Arbeit aktiviert ist.
 -   Behebung eines Problems, aufgrund dessen Project abstürzt, wenn die erste Spalte einer Tabelle „Vorgangsname“ lautet, die Spalte gesperrt ist und Sie auf einen Vorgang klicken.
 -   Behebung eines Problems, aufgrund dessen Sie dieselbe Ressource über die Ansicht „Vorgang: Einsatz“ mehrmals dem gleichen Vorgang zuweisen können.
@@ -480,7 +480,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen ein Vorgangseinzug auf oberster Ebene nicht ordnungsgemäß aus Project in eine SharePoint-Aufgabenliste synchronisiert wird.
 -   Behebung eines Problems, aufgrund dessen beim Importieren von Vorgangs-, Ressourcen- oder Zuweisungsinformationen aus einer Excel-Arbeitsmappe die Werte im Arbeitsfeld möglicherweise ignoriert werden.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Bei einem eingehenden Anruf, der von der automatischen Telefonzentrale der Organisation verarbeitet wird, wird die Telefonnummer des Anrufers angezeigt, wenn der Name des Benutzers nicht bekannt ist.
 -   Es wurde eine In-Band-Einstellung hinzugefügt, die die Einschränkung  „Jeder (ohne Einschränkungen)“ als Option für „Folgende Personen müssen nicht im Wartebereich warten“ ermöglicht.
 -   Die Möglichkeit zum Aktivieren oder Deaktivieren von Self-Video für P2P-Videoanrufe in VDIv2 wurde hinzugefügt.
@@ -494,7 +494,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Hilfreiche Sounds verbessern die Barrierefreiheit:** Aktivieren Sie Audiohinweise, um Sie bei der Arbeit zu leiten. Sie finden sie unter „Datei“ \> „Optionen“ \> „Erleichterte Bedienung“. Kein Add-In erforderlich. [Weitere Informationen](https://support.office.com/article/49fda9be-cce5-4c72-a87f-b11000197f5f)
 -   **Dateispeicherorte nach Konto:** Beim Öffnen oder Speichern einer Datei wird die Liste der Orte nach dem zugeordneten Konto organisiert.
 
-### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
+### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Hinzufügung von 64-Bit-Unterstützung für „mscomctl.ocx“, sodass Benutzer, die in 64-Bit-Versionen von Office arbeiten, Makrodateien erstellen, bearbeiten und öffnen können, die die allgemeinen Steuerelemente enthalten.
 -   Verbesserung der Barrierefreiheit von Steuerelementen, die in „mscomctl.ocx“ verwendet werden.
 
@@ -507,7 +507,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen Fehler angezeigt werden, wenn Sie versuchen, Änderungen an Dokumenten zu speichern, die mit dem OneDrive-Client synchronisiert wurden.
 -   Behebung eines Problems, aufgrund dessen an keiner Stelle Änderungen in einem Arbeitsblatt vorgenommen werden können, wenn eine PivotTable mit Feldern im Filterbereich, aber an keiner anderen Stelle vorhanden ist.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Verbreiterung der Schaltfläche für den Besprechungsbeitritt, um das Problem zu beheben, dass sie in einigen lokalisierten Sprachen abgeschnitten war.
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -560,7 +560,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Es wurde ein Problem behoben, bei dem kein leeres Unterhaltungsfenster angezeigt wird, bis Sie erfolgreich einer Besprechung beigetreten sind.
 -   Es wurde ein Problem behoben, bei dem das Feld mit den Abteilungsinformationen auf einer Visitenkarte in den Suchergebnissen leer ist, wenn das Titelfeld leer ist.
 -   Es wurden Fehler bei der Anmeldung von Benutzern, die von einer lokalen Version auf die Online-Version migriert wurden, aufgrund von Firewallregeln behoben.
--   Es wurde ein neuer DWORD-Registrierungsschlüssel hinzugefügt, um ein Problem zu beheben, aufgrund dessen beim Anmelden eines Benutzers beim Client in einem externen Netzwerk, in dem LyncAutoD ausgeführt wird, der Client den OAuthUsed-Registrierungsschlüssel auf „false“ zurücksetzt. Um das Problem zu beheben, legen Sie den Wert für EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket unter HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> auf 1 fest.
+-   Es wurde ein neuer DWORD-Registrierungsschlüssel hinzugefügt, um ein Problem zu beheben, aufgrund dessen beim Anmelden eines Benutzers beim Client in einem externen Netzwerk, in dem LyncAutoD ausgeführt wird, der Client den OAuthUsed-Registrierungsschlüssel auf „false“ zurücksetzt. Um das Problem zu beheben, legen Sie den Wert für EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket unter HKEY \_ aktuelle \_ Benutzer \\ Software \\ Microsoft \\ Office \\ 16,0 \\ lync \\ \<SipID\> auf 1 fest.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 - **Stiftanpassung:** Wählen Sie einen persönlichen Satz von Stiften und Textmarkern für die Freihandeingabe aus. Ihr benutzerdefinierter Satz steht Ihnen dann auf all Ihren Windows-PCs zur Verfügung.
@@ -601,7 +601,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Abfragen freigeben**: Exportieren Sie eine beliebige Abfragedefinition in eine ODC-Datei (Office Database Connection), und geben Sie diese dann über Arbeitsmappen hinweg oder für andere Personen frei.
 -   **Daten laden:** Laden Sie Daten direkt aus einer Abfrage in PivotTables oder PivotCharts, ohne die Daten im Datenmodell speichern zu müssen.
 -   **Verbesserung beim Abrufen und Transformieren:** Erstellen Sie im Abfrage-Editor eine neue Spalte, indem Sie Beispielwerte angeben. Während der Eingabe erkennt Excel die erforderlichen Transformationen und zeigt eine Vorschau der neuen Spalte an.
--   **Unterstützung für Windows Information Protection (WIP):**    Excel ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    Excel ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem „Verbinden und Zentrieren“ in gruppierten Arbeitsblättern nicht funktioniert.
@@ -616,7 +616,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Untertitel für Videos:** Fügen Sie einem Video Untertitel hinzu, damit die Barrierefreiheit erhöht wird. [Weitere Informationen](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Verbesserung am Designer:** Der Designer schlägt jetzt Entwurfsideen für Diagramme vor, die Ihren Folien hinzugefügt werden.
--   **Unterstützung für Windows Information Protection (WIP):**    PowerPoint ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand von konfigurierten Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    PowerPoint ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
 -   Korrektur des Dialogfelds „Projektwebsite erstellen“ derart, dass nun, da jede Enterprise-Projektvorlage in Project Online über eine eigene URL für Projektwebsites verfügt, der korrekte Ort der Website angezeigt wird.
@@ -633,7 +633,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Benachrichtigung für die Bildschirmfreigabe:** Im Unterhaltungsfenster wird eine Benachrichtigung angezeigt, wenn Sie einen Bildschirm in einer Chatunterhaltung freigegeben haben oder wenn die Bildschirmfreigabe fortgesetzt wird, nachdem Sie eine Besprechung verlassen haben. Die Benachrichtigung erinnert Sie daran, dass Sie Ihren Bildschirm immer noch freigeben, und ermöglicht das einfache Beenden der Freigabe über die Schaltfläche „Freigabe beenden“.
 -   **Unterstützung für Windows Information Protection (WIP):** Skype for Business wird nun als „WIP Work Only“-App unterstützt.Wenn Sie Skype zu Ihrer Liste der zugelassenen Apps hinzufügen, erkennt Windows, dass es keine persönlichen Daten verarbeiten soll.Die Daten werden von Windows im Namen von Skype for Business geschützt.   [Weitere Informationen](https://aka.ms/wiptechnet)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Ändern Sie die Meldung für versuchte Anrufe an Benutzer, deren Audio gemäß Richtlinie deaktiviert ist, von „Der Anruf kann nicht durchgeführt werden“ in „Der Anruf kann nicht durchgeführt werden, weil ein IT-Administrator Audio beschränkt hat. Versuchen Sie, stattdessen Instant Messaging oder E-Mails zu verwenden, und wenden Sie sich an Ihren IT-Administrator.“
 -   Fügen Sie den Hyperlink „PIN für Einwahl vergessen?“ zu Besprechungseinladungen für Benutzer von Skype for Business Online hinzu, die für PSTN-Konferenzen aktiviert sind.
 -   Aktivieren Sie die Besprechungsteilnahme von Teams von Skype for Business Online aus.
@@ -646,7 +646,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **Verbesserte Unterstützung beim Verfassen im Editorbereich:** Verwenden Sie den Editorbereich für erweiterte Empfehlungen zu Rechtschreibung, Grammatik und Schreibstil. Der Zugriff ist dank verbesserter Unterstützung mithilfe von Hilfstechnologien möglich.
 -   **Alternativtexterstellung:** Ein cloudbasierten Dienst generiert automatisch Alternativtext (ALT-Text) für Bilder in einem Dokument.
--   **Unterstützung für Windows Information Protection (WIP):**    Word ist jetzt eine aufgeklärte APP und kann zwischen Unternehmensdaten und personenbezogenen Daten differenzieren und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**    Word ist jetzt eine aufgeklärte APP und kann zwischen unternehmensbezogenen und persönlichen Daten unterscheiden und anhand konfigurierter Richtlinien richtig bestimmen, welcher geschützt werden soll.   [Weitere Informationen](https://aka.ms/wiptechnet)
 
 ## <a name="version-1704-june-1"></a>Version 1704:1. Juni
 *Version 1704 (Build 8067.2157)*
@@ -654,7 +654,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Inhalte oder Aktualisierungen vom OneNote-Canvas ausgeblendet werden, wenn viele Absätze angezeigt werden.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen das Rendern im Outlook-Navigationsbereich beendet wird, wenn der Computer nicht über genügend Arbeitsspeicher verfügt.
 
 
@@ -667,7 +667,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Personalisieren des PivotTable-Standardlayouts:** Richten Sie eine PivotTable ganz nach Wunsch ein, und beginnen jedes Mal, wenn Sie eine neue PivotTable erstellen, mit diesem personalisierten Layout. [Weitere Informationen](https://support.office.com/article/efd8569c-f07a-43c1-9db2-4f2912a0f94e)
 -   **Verbesserte Datenimportfunktion:** Importieren und modellieren Sie problemlos Daten aus verschiedenen Quellen. Verwalten Sie Arbeitsmappenabfragen und Verbindungen mit dem Seitenbereich „Abfragen und Verbindung“, und geben Sie Abfragen über ODC-Dateien für andere frei. [Weitere Informationen](https://support.office.com/article/ad78befd-eb1c-4ea7-a55d-79d1d67cf9b3)
 -   **Verbesserungen beim Abrufen und Transformieren:** Benutzer können neue Spalten anhand eines Beispiels erstellen und Tabellenspalten in Zeilen teilen. Das Angeben von Parametern für SAP HANA und das Gruppieren von Daten sind nun einfacher.
--   **Zentrale Bereitstellung von Add-Ins**: Administratoren können Add-Ins über das Office 365 Admin Center für Benutzer oder Gruppen bereitstellen und aktualisieren. [Weitere Informationen](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
+-   **Zentrale Bereitstellung von Add-Ins**: Administratoren können Add-Ins über das Office 365 Admin Center für Benutzer oder Gruppen bereitstellen und aktualisieren.  [Weitere Informationen](https://dev.office.com/docs/add-ins/publish/centralized-deployment)
 -   **Anpassung der Symbolleiste für den Schnellzugriff:** Die Symbole für „Tiefgestellt“ und „Hochgestellt“ können der Symbolleiste für den Schnellzugriff hinzugefügt werden.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
@@ -697,7 +697,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen Project beim Öffnen eines Projekts aus einer SharePoint-Aufgabenliste eventuell abstürzt, wenn Project die Vorgangssynchronisierung startet.
 -   Behebung eines Problems, aufgrund dessen Project manchmal abstürzt, wenn das Team zusammengestellt wird.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Anzeige geöffneter Räume zusätzlich zu gefolgten Räume in Raumauswahllisten.
 -   Hinzufügung der Möglichkeit, die VoIP-Funktion zu deaktivieren, während die benutzerdefinierte RCC-App aktiv ist.
 -   Änderung des Offline-Chatslogans in „Testen Sie die mobile Skype for Business-App“.
@@ -786,7 +786,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Schriftart „Dubai“:** Schriftfamilie, die sowohl westeuropäische Sprachen unterstützt als auch die wichtigsten Sprachen, die arabische Schrift verwenden. [Weitere Informationen](https://support.office.com/article/c862df16-ae0d-46d9-b117-aa3f41f9706e)
 -   **Sichere Links:** Wenn ein Benutzer auf einen Link klickt, überprüft Office 365 Advanced Threat Protection (ATP) den Link, um festzustellen, ob er schädlich ist. Wenn der Link als schädlich eingestuft wird, wird der Benutzer zu einer Warnseite anstelle der ursprünglichen Ziel-URL umgeleitet. [Weitere Informationen](https://support.office.com/article/dd6a1fef-ec4a-4cf4-a25a-bb591c5811e3)
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beim Speichern eines Dokuments als PDF-Datei wird das Dokument als PDF-Version 1.7 gespeichert.
 
 
@@ -811,7 +811,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Behebung eines Problems, aufgrund dessen beim Speichern einer großen Datei in OneDrive for Business die Datei gesperrt wird und der Benutzer die Datei erst bearbeiten kann, nachdem er Excel geschlossen und wieder geöffnet hat.
 -   Behebung eines Problems, aufgrund dessen ein neues Fenster beim Öffnen einer XLS-Arbeitsmappe abgeblendet angezeigt wird.
 
-### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
+### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen der Benutzer keine PST-Dateien durchsuchen kann.
 -   Behebung eines Problems, aufgrund dessen der Benutzer einen neuen Speichertyp „Microsoft Exchange“ im Dialogfeld „Neue Outlook-Datendatei“ sieht und die Auswahl dieses neuen Datentyps bewirkt, dass das Profil des Benutzers nicht mehr verwendet werden kann.
 
@@ -861,12 +861,12 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Freistellen:** Entfernen eines Bildhintergrunds mit einem Freiform-Zeichentool.
 -   **Designer-Verbesserungen:** Empfehlung professioneller Designideen für aktionsorientierte Listen.
 
-### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Updates
+### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem PowerPoint abstürzt, wenn der Bereich „Designideen“ angezeigt wird und die Datei „mfplat.dll“ nicht auf dem Computer installiert ist.
 -   Behebung eines Problems, aufgrund dessen die Befehlsschaltfläche für ein Add-In nach dem Upgrade des Add-Ins oder nach dem Entfernen und erneuten Herunterladen des Add-Ins aus dem Office Store nicht funktionsfähig ist.
 
 ### <a name="project-feature-updates"></a>Projekt: Featureupdates
--   **Vorgangs Zusammenfassungs Name:**   schreibgeschütztes Vorgangsfeld, das den Namen des Sammelvorgangs des Vorgangs anzeigt.  
+-   **Name der Aufgabenzusammenfassung:**   Schreibgeschütztes Vorgangsfeld, das den Namen des Sammelvorgangs des Vorgangs anzeigt.  
 
 ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, bei dem Basisplaninformationen beim Speichern eines Projekts verloren gehen.
@@ -938,7 +938,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   **Beratende Übertragung:** Wenden Sie sich innerhalb eines Anrufs an einen anderen Benutzer über einen Chat oder einen Anruf, bevor Sie den Anruf an diesen Benutzer übertragen. [Weitere Informationen](https://techcommunity.microsoft.com/t5/Skype-Operations-Framework-Skype/Skype-for-Business-2016-on-Windows-Consultative-Transfer/ba-p/41122)
 -   **Mikrofonbenachrichtigungen:** Im Unterhaltungsfenster wird eine Benachrichtigung angezeigt, wenn das Mikrofon im Betriebssystem stumm geschaltet wird oder das Mikrofon keinen Ton verzeichnet.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Änderung der Schaltfläche „Wartebereich“, die zum Zulassen oder Verweigern von Teilnehmer von Text zu Bildern (X oder ein Häkchen) verwendet wurde.
 -   Ändern Sie den Benachrichtigungstext für die Konferenzbenachrichtigung von „Annehmen“ zu „Verknüpfen“.
 -   Aktualisieren Sie die Nachricht, die dem Absender einer Chatnachricht angezeigt wird, wenn der Status des Empfängers auf „Bitte nicht stören (DND) eingestellt ist.
@@ -957,13 +957,13 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Beheben eines Problems, bei dem Benachrichtigungsinformationen, wie z. B. die Anrufdauer, nicht korrekt in von rechts nach links laufenden Sprachen wiedergegeben werden.
 -   Beheben Sie ein Problem, bei dem beim Erstellen eines Themenfeeds, das Löschen der Suchergebnisse nicht die Ergebnisse in eine Liste der gefolgten Räume zurücksetzt.
 
-### <a name="visio-feature-updates"></a>Visio: Featureupdates
+### <a name="visio-feature-updates"></a>Visio: Feature-Updates
 -   **Datenbankmodellierung-Add-In:** Verwenden Sie das Add-In, um ein Datenbankmodell einer vorhandenen Datenbank zu erstellen, um eine neue Datenbank zu planen oder eine vorhandene Datenbank zu verstehen. [Weitere Informationen](https://support.office.com/article/fb034862-acfc-45bc-88b2-f33d1e1f8614), [Add-In herunterladen](https://go.microsoft.com/fwlink/p/?linkid=835953)
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **Verwenden eines Stifts zum Auswählen und Ändern von Objekten:** Sie können jetzt einen digitalen Stift nutzen, um über die Objektziehpunkte die Größe eines Objekts zu ändern, es zu drehen, zu bewegen und mehr.
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben eines Problems, bei dem das Anzeigen eines Dokuments im Lesemodus verhindert, dass die TAB-Taste in einem zweiten Dokument, das im Drucklayout angezeigt wird, funktioniert.
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -978,7 +978,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 ### <a name="onedrive-for-business-non-security-updates"></a>OneDrive for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben Sie ein Problem, bei dem beim Laden der GrooveIntlResource.dll-Datei (unter normalen Umständen unwahrscheinlich), aufgrund dessen eine Office-App gelegentlich abstürzt, wenn der Benutzer versucht, eine Datei in einem synchronisierten Ordner zu öffnen oder zu speichern, oder aufgrund dessen Windows-Explorer abstürzt, wenn der Benutzer mithilfe von Windows-Explorer zu einem synchronisierten Ordner navigiert.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen Skype for Business nicht reagierte, wenn mehrere Unterhaltungsfenster gleichzeitig geöffnet waren.
 
 
@@ -1043,7 +1043,7 @@ Diese Anmerkungen zur Version bieten Informationen zu neuen Features, Sicherheit
 -   Es wurde ein Problem behoben, aufgrund dessen bei Verwendung von Polycom CX100-Geräten in Anrufen kein Mikrofon erkannt wurde.
 -   Es wurde ein Problem behoben, aufgrund dessen bei Auswahl eines Links wie „\\\\servername“ oder „file://“ in einer Sofortnachricht eine Fehlermeldung statt des entsprechenden Speicherorts angezeigt wurde.
 -   Es wurde ein Problem behoben, aufgrund dessen Benutzer in virtuellen Desktop-Infrastrukturen mit standortbasiertem Routing keine PSTN-Anrufe tätigen oder annehmen konnte, weil der Server davon ausging, dass der Standort des Benutzers kein gültiger Standort für PSTN-Anrufe ist.
--   Es wurde die Betreffzeile der E-Mail geändert, die gesendet wird, wenn der Benutzer seinen Status auf „Beschäftigt“ oder „Hält Präsentation“ gesetzt hat und eine Nachricht verpasst. Der Text wurde von „Verpasste Unterhaltung mit \<Name\>“ in „\<Name\> sent you a message in Skype for Business.“ geändert.
+-   Ändern Sie die Betreffzeile der e-Mail, die für eine verpasste Nachricht gesendet wurde, wenn der Status des Benutzers auf nicht stören oder präsentieren festgelegt ist, von "verpasste Unterhaltung mit \<name\> " an " \<Name\> Ihnen eine Nachricht in Skype for Business gesendet".
 -   Sie können den Zeitstempel für die erste Anmeldung auf dem Gerät als Teil der [Zensusdaten](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) erfassen, um Trends bei der Anmeldungszuverlässigkeit zu identifizieren.
 
 ### <a name="visio-feature-updates"></a>Visio: Feature-Updates
