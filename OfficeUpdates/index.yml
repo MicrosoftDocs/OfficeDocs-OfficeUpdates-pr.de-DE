@@ -1,9 +1,9 @@
 ### YamlMime:Landing
 title: Office-Updates
-summary: Hier finden Sie Informationen zu Features, Updates für Office-Produkte, einschließlich Microsoft 365-apps, Office für Mac, Office-Server Produkten und ständigen Versionen von Office.
+summary: Informieren Sie sich über Features, Updates für Office-Produkte, einschließlich Microsoft 365 Apps, Office für Mac, Office Server-Produkte und unbefristete Versionen von Office.
 metadata:
   title: Office-Updates
-  description: Hier finden Sie Informationen zu Features, Updates für Office-Produkte, einschließlich Microsoft 365-apps, Office für Mac, Office-Server Produkten und ständigen Versionen von Office.
+  description: Informieren Sie sich über Features, Updates für Office-Produkte, einschließlich Microsoft 365 Apps, Office für Mac, Office Server-Produkte und unbefristete Versionen von Office.
   ms.service: o365-proplus-itpro
   manager: andrewmo
   ms.audience: ITPro
@@ -12,18 +12,18 @@ metadata:
   author: TimDavenport
   ms.author: andrewmo
   ms.date: 06/18/2020
-  ms.openlocfilehash: c8b117874eca2923172290475e6ce7cad5894b1c
-  ms.sourcegitcommit: 75dd224cc25daf9e0dae2056ea7d53e7e7e790e3
-  ms.translationtype: MTPE
+  ms.openlocfilehash: 01f52a9d26307a582896969a567055f9107df572
+  ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+  ms.translationtype: HT
   ms.contentlocale: de-DE
-  ms.lasthandoff: 06/23/2020
-  ms.locfileid: "44854577"
+  ms.lasthandoff: 10/07/2020
+  ms.locfileid: "48369963"
 landingContent:
 - title: Microsoft 365 Apps
   linkLists:
   - linkListType: overview
     links:
-    - text: Anmerkungen zu dieser Version
+    - text: Versionshinweise
       url: release-notes-microsoft365-apps.md
     - text: Updateverlauf (nach Datum)
       url: update-history-microsoft365-apps-by-date.md
@@ -35,13 +35,13 @@ landingContent:
   linkLists:
   - linkListType: overview
     links:
-    - text: Anmerkungen zu dieser Version (Microsoft 365, 2019)
+    - text: Versionshinweise (Microsoft 365, 2019)
       url: release-notes-office-for-mac.md
     - text: Updateverlauf (Microsoft 365, 2019)
       url: update-history-office-for-mac.md
-    - text: Anmerkungen zu dieser Version (2016)
+    - text: Versionshinweise (2016)
       url: release-notes-office-2016-mac.md
-    - text: Mau-Versionen
+    - text: MAU-Versionen
       url: release-history-microsoft-autoupdate.md
 - title: Office-Serverprodukte
   linkLists:
@@ -51,7 +51,7 @@ landingContent:
       url: https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates
     - text: Project Server-Update
       url: project-server-updates.md
-    - text: SharePoint Server Updates
+    - text: SharePoint Server-Updates
       url: sharepoint-updates.md
     - text: Skype for Business Server-Updates
       url: https://docs.microsoft.com/SkypeForBusiness/sfb-server-updates
@@ -71,11 +71,11 @@ landingContent:
   linkLists:
   - linkListType: whats-new
     links:
-    - text: Was ist neu in Microsoft 365?
+    - text: Neuerungen in Microsoft 365
       url: https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426
-    - text: Microsoft 365-Roadmap
+    - text: Microsoft 365-Roadmap
       url: https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=O365
-    - text: Bleiben Sie im Vordergrund von Microsoft 365 Änderungen
+    - text: Überblick über Änderungen in Microsoft 365 behalten
       url: https://support.office.com/article/719f4904-cbdd-4889-a0cf-fbd7837dfecd
     - text: Office-Blog
       url: https://www.microsoft.com/microsoft-365/blog/office/
@@ -85,9 +85,9 @@ landingContent:
     links:
     - text: Windows 10-Versionsinformationen
       url: https://www.microsoft.com/itpro/windows-10/release-information
-    - text: Microsoft-Lifecycle-Richtlinie
+    - text: Microsoft Lifecyle-Richtlinie
       url: https://support.microsoft.com/lifecycle
-    - text: Leitfaden für Microsoft-Sicherheitsupdates
+    - text: Leitfaden zu Microsoft Sicherheitsupdate
       url: https://portal.msrc.microsoft.com/
-    - text: Microsoft-Tech-Community
+    - text: Microsoft Tech Community
       url: https://techcommunity.microsoft.com/
