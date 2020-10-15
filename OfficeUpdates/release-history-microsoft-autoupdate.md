@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: 0be44aaa71134e942d74c12bf38a32cbe1801169
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174634"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453187"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,27 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="october-2020-release"></a>Release vom Oktober 2020
+
+**Veröffentlichungsdatum:** 13. Oktober 2020
+
+*Microsoft AutoUpdate 4.28*
+
+**Bugfixes und Verbesserungen:**
+-   MAU-Benutzeroberfläche: Die Zusammenfassungsansicht zeigt jetzt bei Fehlern, dass die Aufmerksamkeit des Benutzers erforderlich ist.
+-   Sowohl die MAU-Benutzeroberfläche als auch der Update-Assistent enden jetzt automatisch nach 72 Stunden ohne Aktion.
+-   MAU-Benutzeroberfläche: Enthält jetzt ein Windows-Menü.
+
+**MAU-Updatelink:**
+
+[Microsoft AutoUpdate 4.28-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256-Hashwert:**
+
+80171D842C59BA3B26A085DD3AB6E63E32102088078848C95AEBECF4C91B0438
+
+<br/><br/>
 
 ## <a name="september-2020-release"></a>Release von September 2020
 
@@ -166,7 +187,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Bei MacOS-Computern mit SSD treten aufgrund von Updates schnellere Aktualisierungen und vernachlässigbar geringe App-Stillstandszeiten auf.
 
 
-Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
+Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0984)
 
 **MAU Update Link:**
 
