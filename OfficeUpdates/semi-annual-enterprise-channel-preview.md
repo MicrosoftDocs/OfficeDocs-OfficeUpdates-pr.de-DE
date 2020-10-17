@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 1d67f64f2d0821addfdffbe4ac5b51895bf1e48f
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 18637bac9ff51237a2afe97136febbd20cb46512
+ms.sourcegitcommit: f906906efeaa6b3d35d324a70303ed4c79771552
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453393"
+ms.lasthandoff: 10/14/2020
+ms.locfileid: "48466113"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Versionshinweise für Versionen des halbjährlichen Unternehmenskanals (Vorschau) im Jahr 2020
 
@@ -67,6 +67,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 - Sicherheitsproblembehebung für ein Problems, bei dem IRM-Schutz beim Öffnen einer PowerPoint-Datei in der geschützten Anzeige deaktiviert wurde.
+
+- Wir haben ein Problem im Dialogfeld „Aktionseinstellungen“ behoben, das einen Absturz in der PowerPoint-App verursacht hat.
+
+### <a name="visio"></a>Visio
+
+- Wir haben ein Problem behoben, durch das die Echtzeitvorschau bei der Textausrichtung abstürzte.
 
 
 ### <a name="word"></a>Word

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: c01fbe403dacb0b474c37b7439eba5b616f8a08f
-ms.sourcegitcommit: 591f5da255de896ef3156108349c6d2eaf34ed54
+ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
+ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48174644"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48469994"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -29,6 +29,12 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+## <a name="october-14-2020"></a>14. Oktober 2020
+Version 16.0.13231.20368 (setup.exe-Version 16.0.13231.20350)
+- Alle Produkte verwenden jetzt standardmäßig den monatlichen Kanal, wenn kein Kanal angegeben wurde.
+- Behebt ein Problem, bei dem bestimmte Office 2007-Produkte die Installation bei Verwendung von RemoveMSI unerwartet blockieren können.
+- Verbesserte Sicherheit beim Ausführen von ODT aus einem Verzeichnis, das andere DLL-Dateien enthält.
+- Verbesserungen bei Zuverlässigkeit und Resilienz
 
 ## <a name="june-9-2020"></a>9. Juni 2020
 

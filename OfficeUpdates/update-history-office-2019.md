@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: c5e9ca77b340c5717b1d37e387e52b92ceb0056c
-ms.sourcegitcommit: 01f34ec0267eb63ffb29045cca4d0a4520256ad0
+ms.openlocfilehash: d808192979c1d29053e5782e7ce64d0f144a9de5
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48398380"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453093"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -46,12 +46,12 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|13. Oktober 2020|Version 1808 (Build 10367.20048)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8. September 2020|Version 1808 (Build 10366.20016)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |11. August 2020|Version 1808 (Build 10364.20059)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |14. Juli 2020   |Version 1808 (Build 10363.20015)  |[CVE-2020-1342](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1342) <br/>[CVE-2020-1349](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1349) <br/>[CVE-2020-1445](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1445) <br/>[CVE-2020-1446](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1446) <br/>[CVE-2020-1447](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1447) <br/>[CVE-2020-1448](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1448) <br/>[CVE-2020-1449](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1449) <br/>|
 |9. Juni 2020   |Version 1808 (Build 10361.20002)  |[CVE-2020-1225](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1225) <br/> [CVE-2020-1226](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1226) <br/>[CVE-2020-1229](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1229) <br/>[CVE-2020-1321](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1321) <br/>[CVE-2020-1322](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-1322) <br/>|
 |12. Mai 2020   |Version 1808 (Build 10359.20023)  |[CVE-2020-0901](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0901) <br/> |
-|14. April 2020   |Version 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0991) <br/> |
 
 
 [//]: # (NICHT ENTFERNEN VL TABELLE ENDE)
@@ -65,6 +65,7 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|14. April 2020   |Version 1808 (Build 10358.20061)  |[CVE-2020-0760](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0760) <br/> [CVE-2020-0906](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0906) <br/> [CVE-2020-0961](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0961) <br/> [CVE-2020-0980](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0980) <br/>[CVE-2020-0991](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0991) <br/> |
 |10. März 2020   |Version 1808 (Build 10357.20081)  |[CVE-2020-0850](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0850) <br/> [CVE-2020-0852](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0852) <br/> [CVE-2020-0892](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0892) <br/>  |
 |11. Februar 2020   |Version 1808 (Build 10356.20006)  |[CVE-2020-0696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0696) <br/> [CVE-2020-0759](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0759) <br/>  |
 
@@ -84,12 +85,12 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|13. Oktober 2020|Version 2009 (Build 13231.20390)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8. Oktober 2020|Version 2009 (Build 13231.20368)| |
 |28. September 2020|Version 2009 (Build 13231.20262)| |
 |22. September 2020|Version 2008 (Build 13127.20508)| |
 |9. September 2020|Version 2008 (Build 13127.20408)|Siehe unter der Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31. August 2020|Version 2008 (Build 13127.20296)| |
-|25. August 2020|Version 2007 (Build 13029.20460)| |
 
 
 [//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
@@ -103,6 +104,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|25. August 2020|Version 2007 (Build 13029.20460)| |
 |11. August 2020|Version 2007 (Build 13029.20344)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |30. Juli 2020|Version 2007 (Build 13029.20308)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |
 |28. Juli 2020|Version 2006 (Build 13001.20498)  |Korrekturen verschiedener Fehler und Leistungsprobleme.  <br/>  |

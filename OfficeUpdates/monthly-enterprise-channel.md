@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: a9301d0f53144a666571e563472f88b3bc5da924
-ms.sourcegitcommit: b7cd1fc37ece6cf0399d89549f7916a4dc40d829
+ms.openlocfilehash: 022bfa584cf864f9e1c38a57d7d1c54d4f5dc34e
+ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "47942802"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48453313"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
@@ -26,6 +26,210 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 [//]: # (NICHT ENTFERNEN)
 
 
+
+## <a name="version-2008-october-13"></a>Version 2008: 13. Oktober
+*Version 2008 (Build 13127.20638)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Haben Sie eine Frage? Fragen Sie Excel:** jetzt können Sie mit Excel-Ideen Fragen zu Ihren Daten stellen – Sie müssen keine Zeit mit dem Schreiben von Formeln verbringen (nur in Englisch verfügbar). [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4)
+
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+
+- **Eine PDF-Verbindung herstellen:** Herstellen einer Verbindung zu, Importieren und Aktualisieren von Daten aus einer PDF-Datei. [Weitere Informationen](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
+
+- **Speichern von Shapes als Bildern:** mit nur wenigen Mausklicks können Sie eine Form, ein Symbol oder ein anderes Objekt als Bilddatei speichern, um Sie an anderer Stelle wiederzuverwenden. [Weitere Informationen](https://support.office.com/article/3c4f9ca4-945a-4c33-af91-d10e4e3ea715)
+
+### <a name="outlook"></a>Outlook
+
+- **Erstellen von Umfragen in Outlook mit Quick Poll**: Einfaches Erstellen einer Umfrage, Sammeln von Stimmen und Anzeigen der Ergebnisse in einer E-Mail [Weitere Informationen](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+
+- **Neue Profilkarte für Outlook:** Neue Profilkarte für Outlook, die eine bessere Organisationsansicht enthält und dem Kartenstil von Outlook Web entspricht. [Weitere Informationen](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+
+### <a name="word"></a>Word
+
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Das Problem wurde gelöst – Sie können nun unseren ODBC-Treiber außerhalb der Office-Click-to-Run-Apps verwenden.
+
+
+- Durch diese Änderung wird ein Problem behoben, das beim Starten des Zoom-Felds (UMSCHALT+F2) zum Bearbeiten von Text zum Absturz führen könnte.
+
+
+- Dieses Problem wurde nun behoben, und es sollte jetzt kein Absturz mehr auftreten.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, durch das eine Warnung zu einer beschädigten Arbeitsmappe verursacht werden konnte, wenn Sie Formeln mit wennnv () enthielt.
+
+
+- Es wurde ein Problem behoben, durch das Excel abstürzen kann, wenn die Schnellanalyse nach dem Fixieren der obersten Zeile des Blatts verwendet wird.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer einen PivotTable-Filter nicht ändern konnten, weil er auf einen Wert eingestellt war, der in einer Analysis Services-Datenbank nicht mehr vorhanden war.
+
+
+- Es wurde ein Problem behoben, bei dem Excel unter bestimmten Umständen abstürzte, wenn "Format übertragen" verwendet wurde.
+
+
+- Ein Fehler in PivotDateFilter-APIs, in denen die Filterbedingungen "Vorher" und "Nachher" vertauscht waren, wurde behoben.
+
+
+### <a name="outlook"></a>Outlook
+
+- Behebt ein Problem, durch das Benutzern beim Beantworten von oder Verfassen neuer E-Mails den folgenden Fehler angezeigt wurde: „Einige der Dateien auf dieser Webseite befinden sich nicht am erwarteten Speicherort. Möchten Sie sie dennoch herunterladen? Wenn Sie sicher sind, dass die Webseite aus einer vertrauenswürdigen Quelle stammt, klicken Sie auf 'Ja'.“
+
+
+- Es wurde ein Problem behoben, das bewirkt hat, dass das Rechtsklick-Kontextmenü nicht in den Suchsteuerelementen angezeigt wurde.
+
+
+- Behebt ein Problem, das dazu führte, dass Benutzer bei der Verwendung der Kompaktansicht Anomalien sahen.
+
+
+- Behebt ein Problem, das zu gelegentlichen Abstürzen beim Bearbeiten von Empfängern führte.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass die Seite des Planungsassistenten von einigen Benutzern nicht angezeigt wurde.
+
+
+- Behebt ein Leistungsproblem beim Anlagenupload.
+
+
+- Es wurde ein Problem behoben, das zu einem Absturz führte, wenn Benutzende beim Löschen von 4 oder mehr E-Mails von einem POP-Konto mit der Option "Nur Kopfzeilen herunterladen" einen Absturz erlebten.
+
+
+- Behebt ein Problem, durch das Benutzern beim Öffnen einer Cloudanlage auf der Safelinks-Seite anstelle des Dokuments, das sie öffnen wollten, ein Fehler angezeigt wurde.
+
+
+- Behebt ein Problem, das zu gelegentlichen Abstürzen bei der Interaktion mit Cloud-Anhängen führte.
+
+
+- Behebt ein Problem, das bewirkt, dass Benutzer freigegebene Kalender nicht schließen konnten, indem Sie in der Ecke auf das "X" klicken.
+
+
+- Behebt ein Problem, das dazu führte, dass Benutzer nach dem Hinzufügen eines gemeinsam genutzten Postfachs keine Verbindung zu öffentlichen Ordnern herstellen konnten.
+
+
+- Es wurde ein Problem behoben, das bewirkt hat, dass Besprechungen aus dem Kalender eines Managers nicht entfernt werden konnten, wenn sie von einem Delegierten unter bestimmten Umständen abgelehnt wurden.
+
+
+- Es wurde ein Problem behoben, durch das einige Benutzende des Features "Verbesserungen bei gemeinsam genutzten Kalendern" nicht in der Lage waren, einen neu hinzugefügten freigegebenen Kalender anzuzeigen.
+
+
+- Behebt ein Problem, das dazu führte, dass die Einstellung "Verbesserungen bei gemeinsam genutzten Kalendern aktivieren" manchmal nicht auf bestehende gemeinsam genutzte Kalender angewendet werden konnte.
+
+
+- Behebt ein Problem, das dazu führte, dass Benutzer, die versuchten, eine Besprechungsanfrage von einem zu ihrem Profil hinzugefügten sekundären Konto aus zu erstellen, kein leeres Von: Feld anstelle ihrer E-Mail-Adresse sahen.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Wir haben ein Problem behoben, das den Absturz in der PowerPoint-App verursacht hat.
+
+
+- Sicherheitsproblembehebung für ein Problems, bei dem IRM-Schutz beim Öffnen einer PowerPoint-Datei in der geschützten Anzeige deaktiviert wurde.
+
+
+- Diese Änderung behebt ein Problem mit der Funktion "Export in animiertes GIF", wobei durch das Klicken auf die Schaltfläche "Exportieren" nicht exportiert wurde.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das Projektabschlussdatum für Projekte, die mit der Microsoft Office SharePoint Online-Aufgabenliste verbunden sind, nicht aktualisiert wird.
+
+
+- Ein Problem wurde behoben, bei dem die Restkosten nicht immer richtig berechnet wurden, wenn für eine Ressource mehrere Kostensatztabellen definiert waren.
+
+### <a name="skype"></a>Skype
+
+- Der Hautton des Tanzemoticons wurde auf neutrale Farbe geändert.
+
+
+### <a name="visio"></a>Visio
+
+- Die Live-Vorschau stürzt ab, wenn die Textausrichtung von Kunden gemeldet wird. Häufigster Absturz im Juli, Kopie.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem das Makro „AutoOpen“ vor „Autoexec“ ausgeführt wird.
+
+
+- Es wurde ein Problem mit dem Dialogfeld "Formatvorlagenkatalog" behoben.
+
+
+- Es wurde ein Problem behoben, das beim Starten von Word zu einem Absturz führen konnte.
+
+
+- Ein Problem wurde behoben, bei dem die Basisformatvorlagen nicht mit der Standardformatvorlage aktualisiert wurden.
+
+
+- Es wurde ein Problem behoben, das beim Öffnen eines Dokuments zu einem Absturz führen konnte.
+
+
+- Es wurde ein Problem behoben, bei dem der Benutzer beim Ändern der Größe einer Form möglicherweise Inhalte verliert.
+
+
+- Es wurde ein Problem behoben, bei dem es zu einem Absturz kam, wenn Benutzer bestimmte sehr große E-Mails öffneten.
+
+
+- Behebt ein Problem, das zum Absturz beim Beantworten oder Verfassen neuer E-Mails führte.
+
+
+- Diese Änderung behebt ein Problem, bei dem Office-Anwendungen nach einer vorherigen gemeinsamen Dokumenterstellung in einem Silent-Save-Fehlerstatus hängenbleiben konnten.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Diese Änderung behebt die Ursache für einen Absturz, der beim Starten von Office-Apps auftrat, weil die Datei "d2d1.dll" nicht geladen werden konnte.
+
+
+- Behebt eine hohe CPU-Auslastung beim Leerlauf mit GIF/animated model3D
+
+
+- Wenn ein Benutzer ein Dokument/ eine Datei auf Tintenstrahldrucker aus Office druckt und die Druckertinte niedrig ist, wird die Meldung "Wenig Toner" oder "Kein Toner" angezeigt, auch wenn Tintenstrahldrucker keine Toner haben. Nachricht wird geändert, um "Wenig Toner/ Tinte" & "Kein Toner/ keine Tinte" anzuzeigen.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2007-october-13"></a>Version 2007: 13. Oktober
+*Version 2007 (Build 13029.20708)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Fehler in PivotDateFilter-APIs, in denen die Filterbedingungen "Vorher" und "Nachher" vertauscht waren, wurde behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2007-september-08"></a>Version 2007: 08. September
 *Version 2007 (Build 13029.20534)*
@@ -636,6 +840,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.12827.20538|version-2005-july-14|)
