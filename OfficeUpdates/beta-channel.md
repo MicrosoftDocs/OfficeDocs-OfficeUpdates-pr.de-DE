@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 0de6ff1bec677f614284253708171f321b973f17
-ms.sourcegitcommit: 38049d061041fd0c40ccd138d7eeea6767e5d262
+ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
+ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48409069"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48495912"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
-Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche werden interessante neue Features, wichtige Fehlerbehebungen und alle wichtigen Probleme, über die Sie informiert werden sollen, hervorgehoben. Beachten Sie, dass das Rollout von Funktionen (und manchmal auch Fixes) für den Betakanal häufig über einen längeren Zeitraum erfolgt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn Sie also unten nichts beschrieben sehen, machen Sie sich keine Sorgen, Sie werden es eventuell irgendwann erhalten.  
+This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
@@ -30,6 +30,56 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2011-october-16"></a>Version 2011: 16. Oktober
+*Version 2011 (Build 13408.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="outlook"></a>Outlook
+
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+### <a name="word"></a>Word
+
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem Benutzer Termine im Kalender von Microsoft 365-Gruppen in der Standardauthentifizierung nicht löschen konnten.
+
+
+- Es wurde ein Problem behoben, bei dem das Starten von Outlook beim Laden des Spitznamen-Caches fehlgeschlagen ist.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem das Symbol „Inhaltsplatzhalter“ neben „Bilder“ keine QuickInfo hatte.
+
+
+- Es wurde ein Problem behoben, bei dem die geschützte Ansicht der Bildschirmpräsentation, die durch eine pptsx-Datei dargestellt wird, die Bildschirmaufnahme von IRM-geschützten Dokumenten ermöglicht.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2011-october-09"></a>Version 2011: 09. Oktober
 *Version 2011 (Build 13406.20000)*
@@ -1659,6 +1709,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
@@ -1668,5 +1719,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13130.20000|version-2009-august-07|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
