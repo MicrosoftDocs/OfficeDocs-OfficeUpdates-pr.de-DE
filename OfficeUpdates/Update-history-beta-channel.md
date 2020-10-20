@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: b7f3df423a27f1760f12fef1b23c9f1b9b62dced
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453363"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597738"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Updateverlauf für den Office Insider-Kanal
 
 Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben, oder wenn Sie nach einer Liste von aktuellen Insider-Builds suchen, sind Sie am richtigen Ort. Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum Insider-Programm zu erhalten.
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
 
 > [!NOTE]
@@ -37,6 +37,9 @@ Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windo
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**19. Oktober 2020**<br/>
+Version 2011 (Build 13415.20002)<br/>
 
 **12. Oktober 2020**<br/>
 Version 2011 (Build 13408.20000)<br/>

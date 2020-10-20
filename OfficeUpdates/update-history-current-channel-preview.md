@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: f4c124be4655216618e2aab6e352af2a0e5693d4
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 164f08c6b192be36396419c8e5c4b5412b0e8e7a
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422544"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597768"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -28,7 +28,7 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.mic
 
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 > - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
 
 > [!NOTE]
@@ -37,6 +37,9 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.mic
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**19. Oktober 2020**<br/>
+Version 2010 (Build 13328.20210)<br/>
 
 **11. Oktober 2020**<br/>
 Version 2010 (Build 13328.20154)<br/>
