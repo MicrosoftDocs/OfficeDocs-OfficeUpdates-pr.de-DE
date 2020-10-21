@@ -9,24 +9,64 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 46c2e42002bf1df8c4b83b437d64c823e6c12e7a
-ms.sourcegitcommit: 9b9a423f50245a12dfb1917b1a9cdb2e7eca1614
+ms.openlocfilehash: 137c1141a987a60f00674ce7e4eb0ac104d5df15
+ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/12/2020
-ms.locfileid: "48422554"
+ms.lasthandoff: 10/19/2020
+ms.locfileid: "48597758"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
 Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop für den aktuellen Kanal (Vorschau). Jede Woche heben wir interessante neuer Features, wichtige Fixes und wesentliche Probleme hervor, über die wir Sie gerne informieren möchten. Bitte beachten Sie, dass wir Features (und häufig auch Fixes) häufig über einen Zeitraum in den aktuellen Kanal (Vorschau) einführen. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden.  
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2010-october-19"></a>Version 2010: 19. Oktober
+*Version 2010 (Build 13328.20210)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Sparen Sie Zeit beim Verfassen von Nachrichten:** Outlook macht Ihnen Formulierungsvorschläge, sodass Sie Nachrichten schnell verfassen können. Wenn Sie den Vorschlag akzeptieren möchten, verwenden Sie einfach die TAB-Taste.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/text-predictions-in-word-outlook)
+
+- **Aufheben der Sprachbarriere durch einen integrierten Übersetzer:** Ab jetzt sind keine Add-Ins für die Übersetzung mehr erforderlich! Klicken Sie in einer Nachricht mit der rechten Maustaste, um bestimmte Wörter, Ausdrücke oder die gesamte Nachricht zu übersetzen. [Weitere Informationen](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+- **Updates zur Verbesserung der Benutzerfreundlichkeit für Aufgaben:** visuelle Auffrischung von Aufgabenelementen
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Üben Sie Ihre Präsentation mit der PowerPoint-Vorschau:** Lassen Sie sich bei den Dingen coachen, die die Aufmerksamkeit Ihrer Benutzergruppe erhöhen – wie Tempo, zu oft verwendete Wörter, Körpersprache und mehr. [Weitere Informationen](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+### <a name="word"></a>Word
+
+- **Der Microsoft-Editor-Bereich erhält in der Desktopversion von Word ein Update:** Die aktuelle Benutzeroberfläche im Editorbereich in Word für Desktopclients wurde aktualisiert.
+
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der aktualisierte Editor-Bereich erleichtert die Navigation zwischen den Vorschlägen.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="powerpoint"></a>PowerPoint
+
+- Hierbei handelt es sich um einen Fix für ein Problem, bei dem beim Schließen des Dokuments die Aufforderung „Speichern“ in einer Schleife angezeigt wird, wenn es ein Add-In gibt, das auf das Ereignis PresentationBeforeClose hört und die Eigenschaft Presentation.Saved als Teil des Ereignishandlers prüft.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2010-october-11"></a>Version 2010: 11. Oktober
 *Version 2010 (Build 13328.20154)*
