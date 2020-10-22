@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 5f7e6ca7fc98e3b3e8620807c523893802ba69de
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 4d29effb3a70a844c0165f848cdc8aacbf922d50
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453273"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657293"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -26,8 +26,8 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
 
 
 > [!NOTE]
@@ -36,7 +36,23 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-## <a name="october-13-2020"></a>13. Oktober 2020
+## <a name="october-21-2020"></a>21. Oktober 2020
+
+[//]: # (INHALTE NICHT ENTFERNEN START 21. Oktober 2020)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das neueste Release ist Version 2009 (Build 13231.20418).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2009 (Build 13231.20390) <br/> |13. Oktober 2020 <br/> |38<br/> |
+|Version 2009 (Build 13231.20368) <br/> |8. Oktober 2020 <br/> |173<br/> |
+
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 21. Oktober 2020)
+
+## <a name="october-13-2020"></a>13. Oktober 2020
 
 [//]: # (INHALTE NICHT ENTFERNEN START 13. Oktober 2020)
 

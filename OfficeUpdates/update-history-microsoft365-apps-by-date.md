@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 1ba64e6f8c8c6c4f28784aa7bc32472ee7b7088b
-ms.sourcegitcommit: cffaa3a1571bd422c22e182b1722d2428cb6a6af
+ms.openlocfilehash: bee2186e91336f29f36edde863cbedae082835a8
+ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473046"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48657313"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
 Diese Versions- und Buildnummern gelten für Microsoft 365 Apps for Enterprise, für Microsoft 365-Apps for Business sowie für die Abonnementversionen der Desktop-Apps für Project und Visio.
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+> - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
 
 > [!NOTE]
 > - Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle.
@@ -34,7 +34,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Aktueller Kanal<br/>|2009<br/>|13231.20390<br/>|13. Oktober 2020<br/>|Version 2010 veröffentlicht<br/>|
+|Aktueller Kanal<br/>|2009<br/>|13231.20418<br/>|21. Oktober 2020<br/>|Version 2010 veröffentlicht<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2008<br/>|13127.20638<br/>|13. Oktober 2020<br/>|8. Dezember 2020<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2007<br/>|13029.20708<br/>|13. Oktober 2020<br/>|10. November 2020<br/>|
 |Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2008<br/>|13127.20638<br/>|13. Oktober 2020<br/>|9. März 2021<br/>|
@@ -51,7 +51,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|
+|2020|21. Oktober|[Version 2009 (Build 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|13. Oktober|[Version 2009 (Build 13231.20390)](current-channel.md#version-2009-october-13)|[Version 2008 (Build 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Version 2007 (Build 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Version 2008 (Build 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Version 2002 (Build 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Version 1908 (Build 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|08. Oktober|[Version 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
 |2020|28. September|[Version 2009 (Build 13231.20262)](current-channel.md#version-2009-september-28)| | | |
