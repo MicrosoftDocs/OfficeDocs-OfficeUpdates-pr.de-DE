@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 03110a28e621110ab9d2c0061018576fae1d7f03
-ms.sourcegitcommit: ea220b40f5d2f1ab4a20597c90ed317e5c309b1d
+ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
+ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48495912"
+ms.lasthandoff: 10/23/2020
+ms.locfileid: "48750574"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -31,9 +31,52 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
+## <a name="version-2011-october-23"></a>Version 2011: 23. Oktober
+*Version 2011 (Build 13415.20002)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="powerpoint"></a>PowerPoint
+
+- **Üben Sie Ihre Präsentation mit dem Referentencoach:** Erhalten Sie Feedback für Dinge, welche die Aufmerksamkeit Ihrer Benutzergruppe verstärken, beispielsweise Tempo, Tonhöhe, Füllwörter, sensible Phrasen und mehr. [Weitere Informationen](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Es wurde ein Problem behoben, bei dem einige Benutzer die Fehlermeldung "Systemressource überschritten" angezeigt erhielten, wenn sie eine Abfrage aus dem synchronisierten OneDrive-Ordner exportieren wollten.
+
+- Es wurde ein Problem behoben, bei dem das automatische Umschalten zwischen Formularfenstern zu einem anderen Formular führte.
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem beim Einfügen einer aus dem Besprechungsort kopierten URL an eine andere Stelle (z. B. in einen Browser) der URL ein Strickpunkt am Ende hinzugefügt wurde.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem beim Duplizieren der Bildschirmpräsentation auf einen sekundären Monitor die Folienpräsentation manchmal hinter dem anderen Fenster versteckt wurde.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Project beim Öffnen von Dateien manchmal abstürzte, wenn Ressourcenprofile auf eine bestimmte Weise angegeben wurden.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit dem Nachverfolgen von Änderungen behoben, bei dem das Öffnen von Word-Dokumenten manchmal einen Fehlerdialogfeld angezeigte.
+
+- Es wurde ein Problem mit dem Drucken behoben, wenn Vertraulichkeitsbezeichnungen mit Wasserzeichen angewendet wurden.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
 ## <a name="version-2011-october-16"></a>Version 2011: 16. Oktober
 *Version 2011 (Build 13408.20000)*
-
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -656,7 +699,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- ** Erstellen Sie ansprechende Visio-Diagramme in Excel:** Erstellen Sie ein Flussdiagramm oder ein Organigramm durch Einfügen von Daten in ein Arbeitsblatt. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+- **Erstellen Sie ansprechende Visio-Diagramme in Excel:** Erstellen Sie ein Flussdiagramm oder ein Organigramm durch Einfügen von Daten in ein Arbeitsblatt. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -905,7 +948,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Sortieren/filtern während der Zusammenarbeit in Excel:** Sie können in Ihrer Excel-Datei jetzt sortieren und filtern, während Sie mit anderen zusammenarbeiten. Dieses neue Feature stellt sicher, dass Sortierungen und Filter anderer Benutzer, während Sie das Dokument gemeinsam erstellen, für Sie keine Auswirkungen haben.
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind. Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -955,13 +998,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 
-## <a name="version2006may29"></a>Version 2006: 29. Mai
-*Version 2006 (Build 12920.20000)*
+## <a name="version-2006-may-29"></a>Version 2006: 29. Mai
+*Version 2006 (Build 12920.20000)*
 
-### <a name="featureupdates"></a>Featureupdates
+### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Zusätzliche Schaltflächen zu Outlook-Toastbenachrichtigungen hinzugefügt wurden:** In Outlook-Toastbenachrichtigungen werden nun Schaltflächen für schnelle Aktionen angezeigt, wenn Outlook unter Windows 10 ausgeführt wird.
+- **Zusätzliche Schaltflächen zu Outlook-Toastbenachrichtigungen hinzugefügt:** In Outlook-Toastbenachrichtigungen werden nun Schaltflächen für schnelle Aktionen angezeigt, wenn Outlook unter Windows 10 ausgeführt wird.
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -973,7 +1016,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
-### <a name="resolvedissues"></a>Gelöste Probleme
+### <a name="resolved-issues"></a>Gelöste Probleme
 
 ### <a name="excel"></a>Excel
 
@@ -991,9 +1034,9 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - Es wurde ein Problem behoben, bei dem beim Kopieren und Einfügen von Text in einen Kommentarbereich dieser nicht angezeigt wurde.
 - Es wurde ein Problem behoben, bei dem Kommentar-Hinweisblasen bei einer Vergrößerung von 100 % verschwommen erschienen.
 - Es wurde ein Problem behoben, bei dem die Aktivierung der Richtlinie Word 2007 und später Binärdokumente und -vorlagen dazu führen konnte, dass einige Fälle gemeinsamer Dokumentenerstellung fehlschlugen.
-- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (größer als 32K) nicht geöffnet werden konnten und keine entsprechende Fehlermeldung angezeigt wurde.
+- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (größer als 32 KB) nicht geöffnet werden konnten und eine entsprechende Fehlermeldung nicht angezeigt wurde.
 
-[//]: # (DO NOT REMOVE BUGDETAILS CONTENT END)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 
 ## <a name="version-2006-may-22"></a>Version 2006: 22. Mai
@@ -1067,7 +1110,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Kein Clicker benötigt: das erledigen Ihre Ohrhörer**: Verwenden Sie Ihre Surface Earbuds, um Ihre PowerPoint-Präsentationen zu steuern. Wichtig: Sie müssen Ihre Surface Earbuds in der Surface Audio-App für Windows 10 koppeln, um Gesten für die Steuerung von Präsentationen verwenden zu können. Anweisungen für die ersten Schritte mit der Surface Audio-App unter Windows 10 finden Sie hier. [Weitere Informationen](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **Kein Clicker benötigt: das erledigen Ihre Ohrhörer** : Verwenden Sie Ihre Surface Earbuds, um Ihre PowerPoint-Präsentationen zu steuern. Wichtig: Sie müssen Ihre Surface Earbuds in der Surface Audio-App für Windows 10 koppeln, um Gesten für die Steuerung von Präsentationen verwenden zu können. Anweisungen für die ersten Schritte mit der Surface Audio-App unter Windows 10 finden Sie hier. [Weitere Informationen](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="word"></a>Word
 
@@ -1258,7 +1301,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="access"></a>Access
 
-- ** Das Dialogfeld „Tabelle anzeigen“ umgehen, direkt zu einem Aufgabenbereich wechseln und das Hinzufügen von Tabellen zu Beziehungen und Abfragen rationalisieren:** Fügen Sie Tabellen und Abfragen hinzu, indem Sie auf vier Registerkarten klicken, Namen mehrfach auswählen, nach Text suchen und aus einem Aufgabenbereich ziehen, der während der Arbeit geöffnet bleibt.
+- **Das Dialogfeld „Tabelle anzeigen“ umgehen, direkt zu einem Aufgabenbereich wechseln und das Hinzufügen von Tabellen zu Beziehungen und Abfragen rationalisieren:** Fügen Sie Tabellen und Abfragen hinzu, indem Sie auf vier Registerkarten klicken, Namen mehrfach auswählen, nach Text suchen und aus einem Aufgabenbereich ziehen, der während der Arbeit geöffnet bleibt.
 
 ### <a name="excel"></a>Excel
 
@@ -1451,13 +1494,13 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 
 ### <a name="excel"></a>Excel
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 ### <a name="word"></a>Word
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1533,7 +1576,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Verbesserte Freihand-Shape-Diagrammdarstellung:** Zeichnen Sie bessere Diagramme und lassen Sie diese in ein Office-Objekt umwandeln, das Sie bearbeiten können. [Weitere Informationen unter ](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
+- **Verbesserte Freihand-Shape-Diagrammdarstellung:** Zeichnen Sie bessere Diagramme und lassen Sie diese in ein Office-Objekt umwandeln, das Sie bearbeiten können. [Weitere Informationen unter](https://support.office.com/article/f304ef73-9514-450b-9bb9-28c6057020f2)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1709,6 +1752,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
@@ -1718,5 +1762,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13205.20000|version-2009-august-14|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
