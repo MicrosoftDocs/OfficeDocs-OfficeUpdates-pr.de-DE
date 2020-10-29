@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: ec1d640039b853b0492a6a4de2de30d8651e0470
-ms.sourcegitcommit: d073ad1fa5007a3c01248e4cddc2d5a6e98e9811
+ms.openlocfilehash: 1058b8b2012d910f02e490fae0be580d036f974a
+ms.sourcegitcommit: aff017c0f687d7501c877de09291079fecfc9362
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "48597738"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773617"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Updateverlauf für den Office Insider-Kanal
 
@@ -22,7 +22,7 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.Weitere Informationen  [finden Sie in diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).In unserer Dokumentation bezeichnen wir es in der Regel nur als Microsoft 365 Apps.
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
 
 > [!NOTE]
 >
@@ -31,12 +31,15 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versionen und Builds des Office Insider-Kanals
 
-Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates mit neuen Features und Verbesserungen. Die nachstehende Liste zeigt einen Verlauf der aktuellen Versionen und Builds des Insider-Kanals mit **dem zuletzt veröffentlichten Build an erster Stelle**.  Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
+Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates mit neuen Features und Verbesserungen. Die nachstehende Liste zeigt einen Verlauf der aktuellen Versionen und Builds des Insider-Kanals mit **dem zuletzt veröffentlichten Build an erster Stelle** .  Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
 
 Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**26. Oktober 2020**<br/>
+Version 2011 (Build 13422.20000)<br/>
 
 **19. Oktober 2020**<br/>
 Version 2011 (Build 13415.20002)<br/>

@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: b4564f0ee33fe1f1625e2410855330f07fb391bd
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: ba996da9bf21f307388eec47801e18ee10567c58
+ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657303"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48782280"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -24,7 +24,7 @@ Wenn Sie prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie
 
   1.    Öffnen Sie eine beliebige Office-Anwendung wie Word oder Excel.
   2.    Wählen Sie **Datei > Konto** aus.
-  3.    Prüfen Sie unter **Produktinformationen** die Versionsnummer unter dem **Infoabschnitt**.
+  3.    Prüfen Sie unter **Produktinformationen** die Versionsnummer unter dem **Infoabschnitt** .
 
 Wenn die Versionsnummer der aktuellen Version entspricht, sind Sie auf dem neuesten Stand. Andernfalls können Sie eine manuelle Aktualisierung vornehmen, um die neueste Office-Version zu erhalten. Zum Aktualisieren von Office [führen Sie diese Schritte aus](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 
@@ -85,12 +85,12 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|27. Oktober 2020|Version 2010 (Build 13328.20292)| |
 |21. Oktober 2020|Version 2009 (Build 13231.20418)| |
 |13. Oktober 2020|Version 2009 (Build 13231.20390)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates)  |
 |8. Oktober 2020|Version 2009 (Build 13231.20368)| |
 |28. September 2020|Version 2009 (Build 13231.20262)| |
 |22. September 2020|Version 2008 (Build 13127.20508)| |
-|9. September 2020|Version 2008 (Build 13127.20408)|Siehe unter der Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 
 
 [//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
@@ -104,6 +104,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|
+|9. September 2020|Version 2008 (Build 13127.20408)|Siehe unter der Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
 |31. August 2020|Version 2008 (Build 13127.20296)| |
 |25. August 2020|Version 2007 (Build 13029.20460)| |
 |11. August 2020|Version 2007 (Build 13029.20344)|Lesen Sie die Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) |
