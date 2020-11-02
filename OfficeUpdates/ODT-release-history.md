@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: 4f65d41bfa18321a951fb18abcf919056bec7c5d
-ms.sourcegitcommit: 57e715a8a3c0565b902cb3e6ca45d18a26f8ec45
+ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
+ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48469994"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48806793"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -23,16 +23,19 @@ Das Office-Bereitstellungstool (ODT) ist ein Befehlszeilentool, mit dem Sie Offi
 
 Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können definieren, welche Produkte und Sprachen installiert werden, wie diese Produkte aktualisiert werden sollen und ob den Benutzern der Installationsvorgang angezeigt werden soll. Informationen zur Verwendung des ODT finden Sie unter [Übersicht über das Office-Bereitstellungstool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Unterstützte Betriebssystem**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Unterstützte Betriebssystem** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
+ **Installationsanweisungen** : Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="october-29-2020"></a>29. Oktober 2020
+Version 16.0.13328.20292 (setup.exe Version 16.0.13328.20290)
+- Behebt ein Problem, bei dem bestimmte Office 2007-Produkte die Installation bei Verwendung von RemoveMSI unerwartet blockieren können.
 
 ## <a name="october-14-2020"></a>14. Oktober 2020
 Version 16.0.13231.20368 (setup.exe-Version 16.0.13231.20350)
 - Alle Produkte verwenden jetzt standardmäßig den monatlichen Kanal, wenn kein Kanal angegeben wurde.
-- Behebt ein Problem, bei dem bestimmte Office 2007-Produkte die Installation bei Verwendung von RemoveMSI unerwartet blockieren können.
 - Verbesserte Sicherheit beim Ausführen von ODT aus einem Verzeichnis, das andere DLL-Dateien enthält.
 - Verbesserungen bei Zuverlässigkeit und Resilienz
 

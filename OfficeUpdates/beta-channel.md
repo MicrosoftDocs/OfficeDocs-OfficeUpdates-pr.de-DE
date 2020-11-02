@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: e610cad6deafeb73ca08eaec454e85916f1c3d89
-ms.sourcegitcommit: 33f70d8bdd50099f33bef7143d909c5ab2dfe27e
+ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
+ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "48750574"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "48815601"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,93 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2011-october-30"></a>Version 2011: 30. Oktober
+*Version 2011 (Build 13426.20004)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Verbesserte Dialogfelder für bedingte Formatierung:** Die Größe von Dialogfeldern für bedingte Formatierung kann jetzt geändert und die Regel mit einem einzigen Klick dupliziert werden. [Weitere Informationen](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Es wurde ein Problem behoben, das bei Verwendung von DAO aus nicht-Office-Anwendungen dazu führte, dass die Anwendung unerwartet geschlossen wurde.
+
+
+### <a name="excel"></a>Excel
+
+- Ein Problem mit Power Pivot bei der Verwendung einer Verbindung zu einer Oracle-Datenbank wurde behoben.
+
+
+- Ein Problem wurde behoben, durch das Excel unerwartet beendet wurde, wenn der Prozess der MTR-Berechnung und der Aktualisierung von Gruppenrichtlinienobjekten (z. B. über Remoteaktualisierung von Gruppenrichtlinien) ausgelöst wurde.
+
+
+- Diese Änderung behebt einen Fehler, der beim Versuch, eine atomsvc-Datei zu laden, einen Fehler in Excel verursacht.
+
+
+- Es wurde ein Problem behoben, bei dem Word zu hängen scheint, wenn eine Excel-Arbeitsmappe in ein Word-Dokument eingefügt wird.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, bei dem ein Postfachbesitzer die Freigabeberechtigung für den eigenen Kalender nicht verwalten konnte, da die Option abgeblendet war.
+
+
+- Es wurde ein Problem behoben, bei dem beim Speichern von E-Mail-Vorlagen als OFT chinesische Zeichen in Fragezeichen geändert wurden.
+
+
+- Ein Problem wurde behoben, bei dem Outlook keine Nachricht mit eingeschränkter Berechtigung erstellen konnte.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook beim Hinzufügen oder Speichern von Anlagen sporadisch nicht mehr funktionierte.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem Gitternetzlinien beim Schließen des Entwurfsfensters von den Folien verschoben wurden.
+
+
+- Es wurde ein Problem behoben, bei dem sich die Bildlaufleiste in der Folie von selbst einstellt, nachdem die Bildschirmaufnahme bei geöffnetem Auswahlfenster gestoppt wurde.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wurde, die vom Benutzer nicht tatsächlich geändert worden waren.
+
+
+- Es wurde ein Problem behoben, bei dem die Suche nach einer Ressource anhand des Namens anstelle der GUID erfolgte, was zu Problemen führen konnte, wenn mehrere Ressourcen denselben Namen aufweisen.
+
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, bei dem das Klicken auf einen Kommentarhinweis nicht dazu führte, dass die Kommentarkarte in der Ansicht angezeigt wurde.
+
+
+- Ein Layout-Problem wurde behoben, bei dem sich die Linie zwischen den Spalten verschieben konnte.
+
+
+- Es wurde ein Problem behoben, bei dem Word zu hängen scheint, wenn eine Excel-Arbeitsmappe in ein Word-Dokument eingefügt wird.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2011-october-23"></a>Version 2011: 23. Oktober
 *Version 2011 (Build 13415.20002)*
@@ -1752,6 +1839,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
@@ -1761,5 +1849,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13212.20000|version-2009-august-21|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
