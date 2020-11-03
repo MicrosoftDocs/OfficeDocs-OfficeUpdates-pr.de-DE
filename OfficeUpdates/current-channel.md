@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 34072956ee4dafc1ebe04f8d9761e1ee831dc88e
-ms.sourcegitcommit: 1fa0c0b581efdfd4225f535186cb12fbccc403a1
+ms.openlocfilehash: 82e056874fbe4e95247e6b5ccb09accdfcc98816
+ms.sourcegitcommit: 8b12ed0c94df66ae0220e8c6e2e4c957d4c64e75
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48657323"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830326"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -33,6 +33,104 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2010-october-27"></a>Version 2010: 27. Oktober
+*Version 2010 (Build 13328.20292)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="access"></a>Access
+
+- **Bleiben Sie am Puls der Zeit! Der Datentyp "Datum/Uhrzeit Erweitert" hat eine bessere Genauigkeit:** Einführung eines neuen und verbesserten Datentyps. Zur Verbesserung der Syntaxkompatibilität mit SQL und zur Erhöhung der Genauigkeit und des Detaillierungsgrads von Datensätzen, die Datum und Uhrzeit enthalten, implementieren wir den Datentyp "DateTime2" in Access. Dieser zusätzliche Datentyp für Datum und Uhrzeit umfasst einen größeren Datumsbereich (0001-01-01 bis 9999-12-31) mit einer höher spezifizierten Zeitgenauigkeit (Nanosekunden statt Sekunden), die Sie bereitstellen und Berechnungen durchführen können. Zum Aktivieren wählen Sie Neues Feld > Datum und Uhrzeit Erweitert. [Weitere Informationen](https://support.office.com/article/708c32da-a052-4cc2-9850-9851042e0024)
+
+### <a name="excel"></a>Excel
+
+- **Datentypen mit Microsoft Power Query für Excel erstellen:** Erstellen Sie umfangreiche Datentypen mit Microsoft Power Query für Excel aus jeder beliebigen Datenquelle. [Weitere Informationen](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
+
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+
+- **Schnelle Bearbeitungen mit dem Action Pen:** Mit dem Action Pen können Sie von Hand direkt in Zellen schreiben und mit Freihandeingaben Daten notieren, die automatisch in Excel-Daten konvertiert werden.
+
+### <a name="outlook"></a>Outlook
+
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+
+- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. [Weitere Informationen](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/grammar-and-style-suggestions-available-in-outlook).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+
+### <a name="teams"></a>Teams
+
+- **Vorlagen in Microsoft Teams:** Mit Vorlagen in Microsoft Teams können Benutzer bei der Erstellung eines neuen Teams aus einer Vielzahl von anpassbaren Vorlagen auswählen und auf diese Weise schneller loslegen. IT-Experten können außerdem neue benutzerdefinierte Vorlagen für ihre Organisation erstellen, die es ihnen ermöglichen, Teamstrukturen zu standardisieren, wichtige Apps einzublenden und bewährte Methoden in passendem Maßstab umzusetzen.
+
+- **Angeheftete Beiträge:** Dieses Feature ermöglicht es Benutzern, beliebige Nachrichten in einem Kanal in dessen Informationsbereich für alle Mitglieder des Kanals "anzuheften". Alle Mitglieder, die Zugriff auf den Kanal haben, können angeheftete Nachrichten anzeigen. Jedes Mitglied eines Kanals kann eine beliebige Nachricht anheften (sofern nicht über die Moderationseinstellungen für den Kanal deaktiviert).
+
+- **An App-Katalog senden:** Unten links in dieser Ansicht wird der Link "An App-Katalog senden" angezeigt. Zusätzlich zu App Studio und Visual Studio ist dies ein weiterer Ort, an den Sie Apps zur Genehmigung übermitteln können.
+
+- **Verwenden Sie Freehand by Invision für das Whiteboard in der geöffneten Besprechungsumgebung:** Sie können die Freehand by Invision-App jetzt für Whiteboards in jeder Besprechung verwenden, die in der geöffneten Besprechungsumgebung stattfindet. Beginnen Sie mit dem Brainstorming, indem Sie die Freehand-App aus dem Bereich "Inhalte freigeben" auswählen, sie installieren und die Whiteboard-Sitzung mit Ihren Kollegen starten!
+
+### <a name="word"></a>Word
+
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Es wurde ein Problem behoben, das bei Verwendung von DAO aus nicht-Office-Anwendungen dazu führte, dass die Anwendung unerwartet geschlossen wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das die Kopfzeilen chinesischer Nachrichten bei der Beantwortung oder Weiterleitung nicht lesbar waren.
+
+
+- Es wurde ein Problem behoben, durch das chinesische Zeichen beim Speichern als OFT-Datei in Fragezeichen geändert wurden.
+
+
+- Es wurde ein Problem behoben, bei dem Outlook eine zweite leere Signatur für Personen mit aktivierter Cloud-Einstellung erstellt hat.
+
+
+- Wir haben ein Problem behoben, durch das die Cloudeinstellungen nicht standardmäßig für Benutzer aktiviert waren.
+
+
+- Es wurde ein Problem behoben, durch das Änderungen an einer Benutzersignatur nicht gespeichert wurden.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Hierbei handelt es sich um einen Fix für ein Problem, bei dem beim Schließen des Dokuments die Aufforderung „Speichern“ in einer Schleife angezeigt wird, wenn es ein Add-In gibt, das auf das Ereignis PresentationBeforeClose hört und die Eigenschaft Presentation.Saved als Teil des Ereignishandlers prüft.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wurde, die vom Benutzer nicht tatsächlich geändert worden waren.
+
+
+- Es wurde ein Problem behoben, bei dem Project beim Öffnen von Dateien manchmal abstürzte, wenn Ressourcenprofile auf eine bestimmte Weise angegeben waren.
+
+
+- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wurde, die vom Benutzer nicht tatsächlich geändert worden waren.
+
+
+- Es wurde ein Problem behoben, bei dem NewVal im Ereignis ProjectBeforeTaskChange nicht den richtigen Wert hatte, wenn eine Verzögerung innerhalb einer Ansicht vom Typ "Aufgabenformular" geändert wurde.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wenn ein Benutzer ein Dokument/ eine Datei auf Tintenstrahldrucker aus Office druckt und die Druckertinte niedrig ist, wird die Meldung "Wenig Toner" oder "Kein Toner" angezeigt, auch wenn Tintenstrahldrucker keine Toner haben. Nachricht wird geändert, um "Wenig Toner/ Tinte" & "Kein Toner/ keine Tinte" anzuzeigen.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -426,7 +524,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Eine PDF-Verbindung herstellen:** Herstellen einer Verbindung zu, Importieren und Aktualisieren von Daten aus einer PDF-Datei. [Weitere Informationen](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- **Filtern und Sortieren, ohne andere zu stören: ** Sie können jetzt Ihre Excel-Datei sortieren und filtern, während Sie mit anderen mit der Blattansicht zusammenarbeiten. Diese neue Funktion verhindert, dass Sie von den Sortierungen und Filtern anderer Benutzer beeinflusst werden, während Sie das Dokument mitverfassen. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
+- **Filtern und Sortieren, ohne andere zu stören:** Sie können jetzt Ihre Excel-Datei sortieren und filtern, während Sie mit anderen mit der Blattansicht zusammenarbeiten. Diese neue Funktion verhindert, dass Sie von den Sortierungen und Filtern anderer Benutzer beeinflusst werden, während Sie das Dokument mitverfassen. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)
 
 - **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden.
 
@@ -434,7 +532,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="outlook"></a>Outlook
 
-- **Erstellen von Umfragen in Outlook mit Quick Poll**: Einfaches Erstellen einer Umfrage, Sammeln von Stimmen und Anzeigen der Ergebnisse in einer E-Mail [Weitere Informationen](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
+- **Erstellen von Umfragen in Outlook mit Quick Poll** : Einfaches Erstellen einer Umfrage, Sammeln von Stimmen und Anzeigen der Ergebnisse in einer E-Mail [Weitere Informationen](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
 - **Bewahren Sie die Klangtreue Ihrer Bilder, wenn Sie diese als Teil einer E-Mail versenden:** Eine neue Outlook-Einstellung ist verfügbar, um die Bildkomprimierung zu begrenzen, wenn Sie Bilder als Teil des E-Mail-Inhalts versenden.
 
@@ -452,13 +550,13 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Kanal-Infofenster:** Wenn Sie auf das Symbol „Kanalinfo“ in der Kopfzeile des Kanals klicken, öffnet sich ein Fensterbereich, in dem Sie eine Zusammenfassung der Kanalinformationen sehen, einschließlich der Kanalbeschreibung, eine Liste der letzten Mitwirkenden und Mitglieder sowie die neue Startseite für Systemnachrichten.
 
-- **Vorschau für Ihre Chat-Benachrichtigungen ausschalten: ** Benutzende können Einstellungen ändern und Vorschauen für ihre Chat-Benachrichtigungs-Toasts verwalten.
+- **Vorschau für Ihre Chat-Benachrichtigungen ausschalten:** Benutzende können Einstellungen ändern und Vorschauen für ihre Chat-Benachrichtigungs-Toasts verwalten.
 
 - **Vorgeschlagene Antworten:** Wir haben die Möglichkeit für Team-Benutzende hinzugefügt, eine vorgeschlagene Antwort auf ihre Unterhaltungen zu erhalten. Diese Vorschläge werden unten in einer Chat-Nachricht angezeigt, wenn sie aktiviert sind. Dadurch wird die Beantwortung von Nachrichten schnell und einfach!
 
 ### <a name="word"></a>Word
 
-- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen: ** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen.
+- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen:** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen.
 
 - **Beibehalten von Text in Vektoren:** Sie können jetzt den Text in Karten, Diagrammen und anderen SVG-Vektoren beibehalten, wenn Sie diese Objekte in Excel, Word und PowerPoint konvertieren.
 
@@ -812,7 +910,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Synchronisieren von Änderungen während der Präsentation:** Änderungen können jetzt synchronisiert werden, wenn sie vorgenommen werden, selbst wenn sich die Präsentation im Bildschirmpräsentationsmodus befindet. [Weitere Informationen](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Kein Clicker benötigt: das erledigen Ihre Ohrhörer**: Verwenden Sie Ihre Surface Earbuds, um Ihre PowerPoint-Präsentationen zu steuern. Funktionsweise: Sobald Sie gekoppelt sind, müssen Sie das Feature in PowerPoint aktivieren. Starten Sie eine Präsentation, indem Sie F5 drücken oder > Bildschirmpräsentation vom Anfang auswählen.  Klicken Sie in der Bildschirmpräsentation mit der rechten Maustaste auf die Folie, und wählen Sie unter Surface-Ohrhörer-Einstellungen verwenden von Gesten zur Steuerelement Präsentation aus.  Diese Einstellung wird für alle zukünftigen Präsentationen gemerkt.  Sie können nun auf dem linken Ohrhörer nach vorne und nach hinten wischen, um im Bildschirmpräsentationsmodus in ihren Präsentationen zu navigieren.  Doppeltippen Sie, um eingebettete Videos wiederzugeben oder anzuhalten.  Wichtig: Sie müssen Ihre Surface Earbuds in der Surface Audio-App für Windows 10 koppeln, um Gesten für die Steuerung von Präsentationen verwenden zu können. Anweisungen für die ersten Schritte mit der Surface Audio-App unter Windows 10 finden Sie hier. [Weitere Informationen](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
+- **Kein Clicker benötigt: das erledigen Ihre Ohrhörer** : Verwenden Sie Ihre Surface Earbuds, um Ihre PowerPoint-Präsentationen zu steuern. Funktionsweise: Sobald Sie gekoppelt sind, müssen Sie das Feature in PowerPoint aktivieren. Starten Sie eine Präsentation, indem Sie F5 drücken oder > Bildschirmpräsentation vom Anfang auswählen.  Klicken Sie in der Bildschirmpräsentation mit der rechten Maustaste auf die Folie, und wählen Sie unter Surface-Ohrhörer-Einstellungen verwenden von Gesten zur Steuerelement Präsentation aus.  Diese Einstellung wird für alle zukünftigen Präsentationen gemerkt.  Sie können nun auf dem linken Ohrhörer nach vorne und nach hinten wischen, um im Bildschirmpräsentationsmodus in ihren Präsentationen zu navigieren.  Doppeltippen Sie, um eingebettete Videos wiederzugeben oder anzuhalten.  Wichtig: Sie müssen Ihre Surface Earbuds in der Surface Audio-App für Windows 10 koppeln, um Gesten für die Steuerung von Präsentationen verwenden zu können. Anweisungen für die ersten Schritte mit der Surface Audio-App unter Windows 10 finden Sie hier. [Weitere Informationen](https://support.office.com/article/6319a6f3-ad69-44e6-a8ff-e79676423e4a)
 
 ### <a name="teams"></a>Teams
 
@@ -1109,7 +1207,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="office-suite"></a>Office-Suite
 
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern.
+- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern.
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1413,6 +1511,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20368|version-2009-october-08|)
@@ -1422,5 +1521,4 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20308|version-2007-july-30|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
