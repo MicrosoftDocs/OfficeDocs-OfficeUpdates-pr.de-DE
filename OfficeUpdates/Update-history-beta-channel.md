@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: b4867e5455923e7fde99fb3f81fe4f8810cf1b9f
-ms.sourcegitcommit: d467499b7c0725f8f998ce34bfe7f1286e37e683
+ms.openlocfilehash: 3220d75a6c2c248a9daed4982e99d037c5ae7322
+ms.sourcegitcommit: 0bc99107bfb04f1180b2cfb763cdc0f981f1b19a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48794386"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "48840444"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Updateverlauf für den Office Insider-Kanal
 
@@ -31,12 +31,15 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 ## <a name="office-beta-channel-versions-and-builds"></a>Versionen und Builds des Office Insider-Kanals
 
-Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates mit neuen Features und Verbesserungen. Die nachstehende Liste zeigt einen Verlauf der aktuellen Versionen und Builds des Insider-Kanals mit **dem zuletzt veröffentlichten Build an erster Stelle** .  Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
+Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates mit neuen Features und Verbesserungen. Die nachstehende Liste zeigt einen Verlauf der aktuellen Versionen und Builds des Insider-Kanals mit **dem zuletzt veröffentlichten Build an erster Stelle**.  Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
 
 Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](https://docs.microsoft.com/OfficeUpdates/beta-channel).
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**2. November 2020**<br/>
+Version 2012 (Build 13430.20000)<br/>
 
 **28. Oktober 2020**<br/>
 Version 2011 (Build 13426.20004)<br/>
