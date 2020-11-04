@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 82e056874fbe4e95247e6b5ccb09accdfcc98816
-ms.sourcegitcommit: 8b12ed0c94df66ae0220e8c6e2e4c957d4c64e75
+ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
+ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830326"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "48878919"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
@@ -131,6 +131,8 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="office-suite"></a>Office-Suite
 
 - Wenn ein Benutzer ein Dokument/ eine Datei auf Tintenstrahldrucker aus Office druckt und die Druckertinte niedrig ist, wird die Meldung "Wenig Toner" oder "Kein Toner" angezeigt, auch wenn Tintenstrahldrucker keine Toner haben. Nachricht wird geändert, um "Wenig Toner/ Tinte" & "Kein Toner/ keine Tinte" anzuzeigen.
+
+- Behandelt ein Problem für kommerzielle Kunden, die System Center Configuration Manager oder andere Verwaltungstools für das Office-Update mithilfe von Microsoft 365 Endpunkt-Datenverlustvorbeugung verwenden.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
