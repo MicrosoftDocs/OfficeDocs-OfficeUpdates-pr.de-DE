@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 1078760ca45011d1d690140f597f5a4f0752bd75
-ms.sourcegitcommit: 16da127be61d3ac4db852de244516a36e3f5e129
+ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
+ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48782310"
+ms.lasthandoff: 11/05/2020
+ms.locfileid: "48927138"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+
+## <a name="november-5-2020"></a>5. November 2020
+
+
+### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
+
+<i>Das erwartete Release ist Version 2009 (Build 13231.20492).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |130<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
+
+<i>Das erwartete Release ist Version 2008 (Build 13127.20760).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |60<br/> |
+|Version 2008 (Build 13127.20408) <br/> |8. September 2020 <br/> |65<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
+
+<i>Das erwartete Release ist Version 2002 (Build 12527.21316).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2002 (Build 12527.21236) <br/> |13. Oktober 2020 <br/> |63<br/> |
+|Version 2002 (Build 12527.21104) <br/> |8. September 2020 <br/> |77<br/> |
+
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
 
 ## <a name="october-27-2020"></a>27. Oktober 2020
 
