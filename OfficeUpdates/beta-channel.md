@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 350eaf8320ae031ce8bc43ca188cc1e48b339092
-ms.sourcegitcommit: e79abb06d8096f75a23bb759ac4bb5491e071719
+ms.openlocfilehash: 3704121a210dc5e31cc63f98fe0ea763ee50e097
+ms.sourcegitcommit: 23b4900574769cc6848db009b4204c460621d909
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815601"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "48939302"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,45 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2012-november-06"></a>Version 2012: 6. November
+*Version 2012 (Build 13430.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+### <a name="outlook"></a>Outlook
+
+- **Die gleiche Signatur auf allen Geräten:** Ihre Signatur wird in der Cloud gespeichert. Erstellen Sie die Signatur einmal, und verwenden Sie diese überall, wo Sie Outlook verwenden.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, bei dem einige Menübandelemente nicht in Chinesisch (vereinfacht) lokalisiert wurden.
+
+
+- Ein Problem wurde behoben, bei dem Excel beim Aktualisieren unerwartet beendet wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, bei dem das Hinzufügen einer Anlage zu einer aus einer Zip-Datei geöffneten Nachricht fehlschlug.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2011-october-30"></a>Version 2011: 30. Oktober
 *Version 2011 (Build 13426.20004)*
@@ -1839,6 +1878,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
@@ -1848,5 +1888,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13304.20000|version-2010-september-11|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13301.20004|version-2010-september-04|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13219.20004|version-2009-august-28|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
