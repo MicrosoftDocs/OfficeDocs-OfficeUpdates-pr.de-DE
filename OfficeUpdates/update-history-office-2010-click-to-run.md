@@ -9,17 +9,17 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2010-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 93ac645aaef5ab770d4ca07f0e4049c93354ead4
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: b01719e43ad29de589bd9cf90c583cb11d7fb0bb
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453403"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989934"
 ---
 # <a name="update-history-for-office-2010-click-to-run-products"></a>Updateverlauf für Office 2010-Klick-und-Los-Produkte
 
 > [!IMPORTANT]
-> Der Support für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010-Umgebung begonnen haben, wird empfohlen, damit jetzt zu beginnen. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zur Einstellung des Supports](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
+> Die Unterstützung für Office 2010 endete am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010-Umgebung begonnen haben, wird empfohlen, damit jetzt zu beginnen. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zur Einstellung des Supports](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap). 
 
 
 Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Klick-und-Los automatisch auf dem neuesten Stand.
@@ -33,7 +33,7 @@ Die folgenden Office 2010-Produkte bleiben mithilfe einer Technologie namens Kli
 Wenn Sie eines dieser Produkte verwenden und prüfen möchten, ob Sie auf dem aktuellen Stand sind, überprüfen Sie Ihre Office-Versionsnummer und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuelle Version von Office 2010 ist **14.0.7261.5000**, die am 13. Oktober 2020 veröffentlicht wurde.
+> Die aktuelle Version von Office 2010 ist **14.0.7261.5000** , die am 13. Oktober 2020 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
