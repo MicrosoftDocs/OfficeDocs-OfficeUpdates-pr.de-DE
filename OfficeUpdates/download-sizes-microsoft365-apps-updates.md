@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: b5159bfcd85131f58cbbc5450d3a811e29b60961
-ms.sourcegitcommit: f76985cad6ada2284d09d1d574cb64622a12c8df
+ms.openlocfilehash: 03142d126521058ac2762a3f0004b7944f4f2bc4
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "48927138"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990134"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -36,14 +36,23 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+## <a name="november-10-2020"></a>10. November 2020
 
-## <a name="november-5-2020"></a>5. November 2020
+[//]: # (INHALT NICHT ENTFERNEN ENDE10. November 2020)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das neueste Release ist Version 2010 (Build 13328.20356).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |57<br/> |
+|Version 2009 (Build 13231.20418) <br/> |21. Oktober 2020 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2009 (Build 13231.20492).</i>
+Die aktuellste Version ist Version 2009 (Build 13231.20514).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -53,7 +62,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
 
-<i>Das erwartete Release ist Version 2008 (Build 13127.20760).</i>
+Die aktuellste Version ist Version 2008 (Build 13127.20760).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -63,15 +72,18 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2002 (Build 12527.21316).</i>
+Die aktuellste Version ist Version 2002 (Build 12527.21330).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2002 (Build 12527.21236) <br/> |13. Oktober 2020 <br/> |63<br/> |
-|Version 2002 (Build 12527.21104) <br/> |8. September 2020 <br/> |77<br/> |
+|Version 2002 (Build 12527.21104) <br/> |8. September 2020 <br/> |76<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALT NICHT ENTFERNEN ENDE10. November 2020)
+
+
+
 
 ## <a name="october-27-2020"></a>27. Oktober 2020
 

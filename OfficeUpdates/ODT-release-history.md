@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: f578849552bb4fda0198bad3651170923d0ceb35
-ms.sourcegitcommit: b19297da26ce6f740f3e2c94ea8a6c5d4e2aaa75
+ms.openlocfilehash: b14d9998a0dab3ea0d4a4f6cae10702688fa4427
+ms.sourcegitcommit: d898fa4f06c90444f9d729a1b0df2c82bde7d719
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48806793"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48992680"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -28,6 +28,11 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
  **Installationsanweisungen** : Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="november-10-2020"></a>10. November 2020
+Version 16.0.13328.20356 (setupODT.exe-Version 16.0.13328.20336)
+- Verbesserungen bei Zuverlässigkeit und Resilienz
+- Um Verwirrung zu vermeiden und Setupfehler einfacher diagnostizieren zu können, wird das ODT jetzt standardmäßig als "setupODT.exe" bezeichnet.
 
 ## <a name="october-29-2020"></a>29. Oktober 2020
 Version 16.0.13328.20292 (setup.exe Version 16.0.13328.20290)

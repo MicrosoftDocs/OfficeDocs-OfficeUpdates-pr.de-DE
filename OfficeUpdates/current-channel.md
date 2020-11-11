@@ -9,29 +9,51 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: d47124846cd605174e6ca23e26cd0e61bb5cf779
-ms.sourcegitcommit: d03cdba884e24c4122db59bd06176ae5273d16e4
+ms.openlocfilehash: ddf6a8dc89f09b831bf162ecab4e853970843431
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "48878919"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48989902"
 ---
 # <a name="release-notes-for-current-channel-releases-in-2020"></a>Anmerkungen zur aktuellen Kanalversion in 2020
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in den aktuellen Kanal-Updates in 2020 für Microsoft 365-Apps für Enterprise, Microsoft 365-Apps für Unternehmen sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365 Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. [In diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441) erfahren Sie mehr dazu.
 
  > [!NOTE]
 >
->- Wir stellen häufig Features (und manchmal sogar Fixes) zu Aktuell über einen bestimmten Zeitraum zusammen.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
+>- Wir stellen häufig Features (und manchmal sogar Fixes) zu Aktuell über einen bestimmten Zeitraum zusammen. Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
 >- Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features des aktuellen Kanals, da sie einen häufigen Versionswechsel aufweisen.
 
 
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2010-november-10"></a>Version 2010: 10. November
+*Version 2010 (Build 13328.20356)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das Benutzer ihren Delegierten keine Editor-Berechtigung erteilen konnten.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben ein Problem behoben, das zu einem Fehlschlag beim Versuch führte, Dateien zu speichern, die von SyncBacked auf „Nur Server“ übergegangen sind.
 
 
 
@@ -132,7 +154,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 - Wenn ein Benutzer ein Dokument/ eine Datei auf Tintenstrahldrucker aus Office druckt und die Druckertinte niedrig ist, wird die Meldung "Wenig Toner" oder "Kein Toner" angezeigt, auch wenn Tintenstrahldrucker keine Toner haben. Nachricht wird geändert, um "Wenig Toner/ Tinte" & "Kein Toner/ keine Tinte" anzuzeigen.
 
-- Behandelt ein Problem für kommerzielle Kunden, die System Center Configuration Manager oder andere Verwaltungstools für das Office-Update mithilfe von Microsoft 365 Endpunkt-Datenverlustvorbeugung verwenden.
+- Es wurde ein Problem behoben, bei dem die Verhinderung von Datenverlust des Microsoft 365-Endpunkts Office-Dokumente auf Datenträgern nicht klassifizieren konnte.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1512,7 +1534,8 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > [!NOTE]
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
-[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (ADMIN CENTER-METADATEN NICHT ÄNDERN INHALT BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13328.20356|version-2010-november-10|)
 [//]: # (|Win32|CC|Production| |16.0.13328.20292|version-2010-october-27|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20418|version-2009-october-21|)
 [//]: # (|Win32|CC|Production| |16.0.13231.20390|version-2009-october-13|)
@@ -1522,5 +1545,4 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (|Win32|CC|Production| |16.0.13127.20408|version-2008-september-09|)
 [//]: # (|Win32|CC|Production| |16.0.13127.20296|version-2008-august-31|)
 [//]: # (|Win32|CC|Production| |16.0.13029.20460|version-2007-august-25|)
-[//]: # (|Win32|CC|Production| |16.0.13029.20344|version-2007-august-11|)
-[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
+[//]: # (ADMIN CENTER-METADATEN NICHT ÄNDERN INHALT ENDE)

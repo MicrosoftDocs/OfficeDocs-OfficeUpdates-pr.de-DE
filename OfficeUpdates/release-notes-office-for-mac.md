@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: ba500a25ed32a9a3c7a57401fbfdc7ba7b3f208d
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
+ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944163"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48990104"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -45,6 +45,34 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="november-10-2020"></a>10. November 2020
+*Version 16.43 (Build 20110804)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="powerpoint-mac"></a>PowerPoint für Mac
+
+- **Die Suche ist schneller und einfacher:** Sie können Ihre Datei mithilfe des Suchfelds schnell durchsuchen
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17067](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-17067)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="october-13-2020"></a>13. Oktober 2020
 *Version 16.42 (Build 20101102)*
