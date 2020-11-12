@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: c04d875533233abd4996724e524f6ddc7cddb2cc
-ms.sourcegitcommit: 6da2dfccc63a75bf36d2660b770a62e61e8463be
+ms.openlocfilehash: 246f164b26d01b25894879cfb0625cf76829a2e0
+ms.sourcegitcommit: 82473b6efabedf74014a9a41c6c43ec53b0def88
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "48944139"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48950004"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -27,6 +27,158 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2011-november-09"></a>Version 2011: 9. November
+*Version 2011 (Build 13426.20184)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Erstellen von Power Platform-Datenflüssen aus Abfragen:** Jetzt können Sie Ihre Abfragen in Power Query-Vorlagen exportieren, die zum Erstellen von neuen Power Platform-Datenflüssen verwendet werden können.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Es wurde ein Problem behoben, bei dem einige Benutzer die Fehlermeldung "Systemressource überschritten" angezeigt erhielten, wenn sie eine Abfrage aus dem synchronisierten OneDrive-Ordner exportieren wollten.
+
+
+- Es wurde ein Problem behoben, bei dem das automatische Umschalten zwischen Formularfenstern zu einem anderen Formular führte.
+
+
+- Es wurde ein Problem behoben, das bei Verwendung von DAO aus nicht-Office-Anwendungen dazu führte, dass die Anwendung unerwartet geschlossen wurde.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem „Dateiname“ nach einem „SaveAs“-Vorgang mit aktiviertem COM-Add-In nicht geändert wurde.
+
+
+- Ein Problem mit Power Pivot bei Verwendung einer Verbindung zu einer Oracle-Datenbank wurde behoben.
+
+
+- Es wurde ein Problem behoben, bei dem das automatische Speichern mit einer falschen/irreführenden Fehlermeldung fehlschlug, wenn im Excel-Datenmodell eine schlechte Kennzahldefinition vorhanden war.
+
+
+- Ein Problem wurde behoben, durch das Excel unerwartet beendet wurde, wenn der Prozess der MTR-Berechnung und der Aktualisierung von Gruppenrichtlinienobjekten (z. B. über Remoteaktualisierung von Gruppenrichtlinien) ausgelöst wurde.
+
+
+- Es wurde ein Problem behoben, bei dem ein Benutzer eine atomsvc-Datei (UTF8 + BOM) nicht direkt aus SharePoint öffnen konnte.
+
+
+- Es wurde ein Problem behoben, bei dem das Vergrößern und Verkleinern des Präsentationsbereichs zu einer Lücke zwischen der gezoomten Auswahlzone und dem Mauszeiger führte.
+
+
+- Es wurde ein Problem behoben, bei dem Word zu hängen scheint, wenn eine Excel-Arbeitsmappe in ein Word-Dokument eingefügt wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook beim Hinzufügen oder Speichern von Anlagen sporadisch nicht mehr funktionierte.
+
+
+- Es wurde ein Problem behoben, bei dem der Schnelldruck für Bildanlagen zu einem Fehler geführt hat: "Windows kann dieses Bild nicht finden. Überprüfen Sie den Speicherort, und versuchen Sie es dann erneut."
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook im Offline-Status startete, bis die Benutzer manuell wählten, online zu arbeiten.
+
+
+- Es wurde ein Problem behoben, bei dem beim Einfügen einer aus dem Besprechungsort kopierten URL an eine andere Stelle (z. B. in einen Browser) der URL ein Strickpunkt am Ende hinzugefügt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer Termine im Kalender von Microsoft 365-Gruppen in der Standardauthentifizierung nicht löschen konnten.
+
+
+- Es wurde ein Problem behoben, bei dem das Starten von Outlook beim Laden des Spitznamen-Caches fehlschlug.
+
+
+- Ein Problem wurde behoben, bei dem ein Postfachbesitzer die Freigabeberechtigung für den eigenen Kalender nicht verwalten konnte, da die Option abgeblendet war.
+
+
+- Ein Problem wurde behoben, bei dem in Outlook keine Nachricht mit eingeschränkten Berechtigungen erstellt werden konnte.
+
+
+- Es wurde ein Problem behoben, bei dem beim Speichern von E-Mail-Vorlagen als .OFT chinesische Zeichen in Fragezeichen geändert wurden.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem das Vergrößern und Verkleinern des Präsentationsbereichs zu einer Lücke zwischen der gezoomten Auswahlzone und dem Mauszeiger führte.
+
+
+- Es wurde ein Problem behoben, bei dem das Symbol „Inhaltsplatzhalter“ neben „Bilder“ keine QuickInfo aufwies.
+
+
+- Es wurde ein Problem behoben, bei dem die geschützte Ansicht einer Bildschirmpräsentation, die durch eine pptsx-Datei dargestellt wurde, die Bildschirmaufnahme von IRM-geschützten Dokumenten ermöglichte.
+
+
+- Es wurde ein Problem behoben, bei dem Gitternetzlinien beim Schließen des Entwurfsfensters von den Folien verschoben wurden.
+
+
+- Es wurde ein Problem behoben, bei dem beim Duplizieren einer Bildschirmpräsentation auf einen sekundären Monitor diese manchmal von einem anderen Fenster verdeckt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem sich die Bildlaufleiste in einer Folie von selbst einstellte, nachdem die Bildschirmaufnahme bei geöffnetem Auswahlfenster gestoppt wurde.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem „NewVal“ im Ereignis „ProjectBeforeTaskChange“ nicht den richtigen Wert hatte, wenn eine Verzögerung innerhalb einer Ansicht vom Typ "Aufgabenformular" geändert wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Project beim Öffnen von Dateien manchmal abstürzte, wenn Ressourcenprofile auf eine bestimmte Weise angegeben waren.
+
+
+- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wurde, die vom Benutzer nicht tatsächlich geändert worden waren.
+
+
+- Es wurde ein Problem behoben, bei dem die Suche nach einer Ressource durch Ressourcenverhandlungen anhand des Namens anstelle der GUID erfolgte, was zu Problemen führen konnte, wenn mehrere Ressourcen denselben Namen aufwiesen.
+
+
+- Es wurde ein Problem behoben, bei dem wenn es in einer Projektsite eine Aufgabenliste gab und diese gruppiert wurde, sie nicht schnell bearbeitet werden konnte.
+
+
+- Es wurde ein Problem behoben, bei dem, wenn Sie eine Unternehmensressource über CSOM aktualisieren, die maximale Anzahl von Ressourcen möglicherweise verloren geht.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem das Vergrößern und Verkleinern des Präsentationsbereichs zu einer Lücke zwischen der gezoomten Auswahlzone und dem Mauszeiger führte.
+
+
+- Ein Problem wurde behoben, bei dem das Klicken auf einen Kommentarhinweis nicht dazu führte, dass die Kommentarkarte in der Ansicht angezeigt wurde.
+
+
+- Ein Layout-Problem wurde behoben, bei dem sich die Linie zwischen den Spalten verschieben konnte.
+
+
+- Es wurde ein Problem mit dem Nachverfolgen von Änderungen behoben, bei dem beim Öffnen von Word-Dokumenten manchmal eine Fehlermeldung angezeigt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Word zu hängen scheint, wenn eine Excel-Arbeitsmappe in ein Word-Dokument eingefügt wurde.
+
+
+- Es wurde ein Problem mit dem Drucken behoben, das beim Anwenden von Vertraulichkeitsbezeichnungen mit Wasserzeichen auftrat.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft Application Error Reporting“ in Office 2007 verwendet wurde.
+
+
+- Es wurde ein Problem behoben, bei dem bei der interaktiven SSO-API-Anmeldung ein Fehlercode zurückgegeben wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2010-november-06"></a>Version 2010: 6. November
 *Version 2010 (Build 13328.20356)*
