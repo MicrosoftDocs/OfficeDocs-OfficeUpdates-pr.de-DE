@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: d6c578011aae3e4358801df483e6596bf00a30e3
-ms.sourcegitcommit: ef46a4fc154c7bca37e37a7456c36f92ffc15ebb
+ms.openlocfilehash: 67a97d3d11dfea8db10f3d0cfbf45800dfd0b773
+ms.sourcegitcommit: 8365e449159add26608ff6b0188d05ab14ff0fef
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48453187"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "48994964"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,27 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+
+## <a name="november-2020-release"></a>Release vom November 2020
+
+**Veröffentlichungsdatum:** 10. November 2020
+
+*Microsoft Auto Update 4.29*
+
+**Bugfixes und Verbesserungen:**
+-   Aktualisierte Kanalnamen für Microsoft 365.
+-   Es wurde ein Problem behoben, das verhindert hat, dass bestimmte OneDrive-Installationen Updates erhalten.
+
+**MAU Update Link:**
+
+[Download Microsoft Auto Update 4.29-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+<br/>
+**SHA-256 Hash:**
+
+7EDE97D524CE7E7869A4033D25270057E670588886F7A0E02628CC7FCB4F7851
+
+<br/><br/>
 
 ## <a name="october-2020-release"></a>Release vom Oktober 2020
 
@@ -268,7 +289,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - Kanal pro App: Mac-Administratoren können nun unterschiedliche Kanäle oder Validierungsringe pro App abonnieren. 
 
 
-**MAU-Updatelink**:
+**MAU-Updatelink** :
 
 [Download Microsoft Auto Update 4.18-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
@@ -288,7 +309,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - Die minimalen Betriebssystemanforderungen für Office 2019-Updates haben sich mit der Veröffentlichung von Catalina auf macOS 10.13 geändert und wir benachrichtigen die Benutzer, ein Upgrade durchzuführen, um die neuesten Office-Updates erhalten zu können.
 
 
-**MAU-Updatelink**:
+**MAU-Updatelink** :
 
 [Download Microsoft Auto Update 4.17-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
@@ -307,7 +328,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - Wenn Sie Microsoft AutoUpdate 4.16 starten, ist die neue, verbesserte Endbenutzeroberfläche ab sofort für alle Kunden verfügbar.
 
 
-**MAU-Updatelink**:
+**MAU-Updatelink** :
 
 [Download Microsoft Auto Update 4.16-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
@@ -316,7 +337,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
 ## <a name="september-2019-release"></a>Veröffentlichung vom September 2019
 
-**Veröffentlichungsdatum**: 10. September 2019
+**Veröffentlichungsdatum** : 10. September 2019
 
 *Microsoft Auto Update 4.15*
 
@@ -327,11 +348,11 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - Ein Problem wurde behoben, bei dem der Fokus beim Ausführen des Befehls "msupdate" aus der Vordergrund-App gestohlen wurde.
 
 
-**MAU-Updatelink**:
+**MAU-Updatelink** :
 
 [Microsoft Auto Update 4.15-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
 <br/>
-**SHA-256-Hash**:
+**SHA-256-Hash** :
 
 E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 ## <a name="august-2019-release"></a>Release vom August 2019
