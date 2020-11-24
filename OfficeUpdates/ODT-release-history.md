@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: acc7e37ae203c824c0759eab641491d377073a7f
-ms.sourcegitcommit: 0cba381a1439abdc7044a81772609c91998d65f0
+ms.openlocfilehash: a1553a3f08a254c9c177fec88073073c34a3427c
+ms.sourcegitcommit: 413694d561d367e93ad51c9be41495ad09a24af3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999540"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "49385481"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -23,11 +23,19 @@ Das Office-Bereitstellungstool (ODT) ist ein Befehlszeilentool, mit dem Sie Offi
 
 Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können definieren, welche Produkte und Sprachen installiert werden, wie diese Produkte aktualisiert werden sollen und ob den Benutzern der Installationsvorgang angezeigt werden soll. Informationen zur Verwendung des ODT finden Sie unter [Übersicht über das Office-Bereitstellungstool](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool).
 
- **Unterstützte Betriebssystem** : Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
+ **Unterstützte Betriebssystem**: Windows 10, Windows 8.1, Windows Server 2019, Windows Server 2016 
  
- **Installationsanweisungen** : Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei des Office-Bereitstellungstools (setupodt.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
+ **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="november-23-2020"></a>23. November 2020
+Version 16.0.13328.20420 (setup.exe version 16.0.13328.20420)
+- Es wurde ein Problem behoben, bei dem Korrekturhilfen nicht per /download-Modus heruntergeladen wurden.
+- Es wurde ein Problem behoben, bei dem der /download-Modus fehlschlug, wenn er in einem unerhöhten Benutzerkontext ausgeführt wurde.
+- Es wurde ein Problem behoben, bei dem die Angabe eines Versionsattributs in der XML-Konfiguration zu einem unvollständigen Download im /download-Modus führte.
+- Es wurde ein Problem behoben, bei dem das Office-Bereitstellungstool beim Extrahieren nicht "setup.exe" genannt wurde.
+- Es wurde ein Problem behoben, das bei der Priorisierung der Installationsquelle auftrat, wenn ein Channel-Attribut in der XML-Konfiguration bereitgestellt wird.
 
 ## <a name="november-10-2020"></a>10. November 2020
 Version 16.0.13328.20356 (setupODT.exe-Version 16.0.13328.20336)
