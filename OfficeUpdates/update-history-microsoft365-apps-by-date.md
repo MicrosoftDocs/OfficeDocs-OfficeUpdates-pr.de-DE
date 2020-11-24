@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: bf1870a04fbbc542d12aa64c611bf47351bba865
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: 7ff4270fbd49b887717858f0f9cb120f14903f4f
+ms.sourcegitcommit: 20605334d158c0b79db02d1bd4fbc418578b575c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48989944"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "49387444"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -22,7 +22,7 @@ Diese Versions- und Buildnummern gelten für Microsoft 365 Apps for Enterprise, 
 
 > [!IMPORTANT]
 > - We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
+> - Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420). In our documentation, we'll usually just refer to it as Microsoft 365 Apps.
 
 > [!NOTE]
 > - Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle.
@@ -34,7 +34,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Aktueller Kanal<br/>|2010<br/>|13328.20356<br/>|10. November 2020<br/>|Version 2011 wird veröffentlicht<br/>|
+|Aktueller Kanal<br/>|2011<br/>|13426.20274<br/>|23. November 2020<br/>|Version 2012 wird veröffentlicht<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2009<br/>|13231.20514<br/>|10. November 2020<br/>|12. Januar 2021<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2008<br/>|13127.20760<br/>|10. November 2020<br/>|8. Dezember 2020<br/>|
 |Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2008<br/>|13127.20760<br/>|10. November 2020<br/>|9. März 2021<br/>|
@@ -45,12 +45,14 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Microsoft 365 Apps auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Microsoft 365 Apps, die in den folgenden Updatekanälen veröffentlicht wurden: aktueller Kanal, monatlicher Enterprise-Kanal, halbjährlicher Enterprise-Kanal (Vorschau) und halbjährlicher Enterprise-Kanal. Jeder Eintrag in der Tabelle enthält Links zu den Anmerkungen zu dieser Version. Diese Versionshinweise enthalten Informationen zu Funktionen, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.  
+The following table provides a list of the version and build numbers for each update to Microsoft 365 Apps released in the following update channels: Current, Monthly Enterprise, Semi-Annual Enterprise (Preview), and Semi-Annual Enterprise. Each entry in the table links directly to the release notes for that release. These release notes provide information about features, security updates, and non-security updates that are included in the update to Microsoft 365 Apps.  
 
 [//]: # (HISTORYTABLESTART)
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2020|23. November|[Version 2011 (Build 13426.20274)](current-channel.md#version-2011-november-23)| | | |
+|2020|17. November|[Version 2010 (Build 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10. November|[Version 2010 (Build 13328.20356)](current-channel.md#version-2010-november-10)|[Version 2009 (Build 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Version 2008 (Build 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[Version 2008 (Build 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Version 2002 (Build 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Version 1908 (Build 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
 |2020|27. Oktober|[Version 2010 (Build 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21. Oktober|[Version 2009 (Build 13231.20418)](current-channel.md#version-2009-october-21)| | | |
