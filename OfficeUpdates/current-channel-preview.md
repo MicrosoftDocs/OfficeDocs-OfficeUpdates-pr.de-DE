@@ -9,24 +9,221 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 23b62c7eb5c91e4fecb0c14567b2554f4f89b371
-ms.sourcegitcommit: 3a7eddcac9238b1394f1c1623ddb3273254b9ceb
+ms.openlocfilehash: 39d685dc793bf9afae8126923272c428470125bd
+ms.sourcegitcommit: 40dff4c716db4382af4841031ba0050869e78e42
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "49408341"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49613537"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
-This article contains release notes for Current Channel (Preview) builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we’ll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Current Channel (Preview) over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually.  
+Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, Outlook, Access, Project und Teams für Windows-Desktop für den aktuellen Kanal (Vorschau). Jede Woche heben wir interessante neuer Features, wichtige Fixes und wesentliche Probleme hervor, über die wir Sie gerne informieren möchten. Bitte beachten Sie, dass wir Features (und häufig auch Fixes) häufig über einen Zeitraum in den aktuellen Kanal (Vorschau) einführen. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
+> - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2012-december-07"></a>Version 2012: 7. Dezember
+*Version 2012 (Build 13530.20064)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+
+### <a name="teams"></a>Teams
+
+- **Windows native Benachrichtigung wird jetzt in Teams unterstützt:** Benutzer können nun die von ihnen bevorzugte Art der Benachrichtigungszustellung auswählen, entweder über in Teams integrierte Banner oder über die nativen Windows-Banner.
+
+
+- **Teams-Besprechungen 2x2-Katalogansicht in Citrix und VMware VDI:** Die Teams-Funktion in VDI 2x2-Katalogansicht ermöglicht das Anzeigen von bis zu vier Teilnehmervideos in der 2x2-Katalogansicht auf VDI-Clients von Citrix und VMware, wenn der Microsoft Teams-Client im VDI-optimierten Modus ausgeführt wird.
+
+
+- **Besprechungsreaktionen:**  Besprechungsreaktionen stellen eine neue Möglichkeit zur Interaktion in Besprechungen dar. Teilnehmer können Reaktionen senden, die als Stream auf freigegebene Inhalte angezeigt werden, und auf der Person, welche die Reaktion gesendet hat, wenn sie in der Besprechungsphase angezeigt wird. 
+
+
+- **Zusammen-Modus und umfangreicher Katalog für Webbesprechungen** Mit dem großen Katalog können Sie Videos von bis zu 49 anderen Benutzern gleichzeitig sehen. Diese Option ist verfügbar, wenn mindestens zehn Personen Ihre Kameras aktiviert haben. Im Zusammen-Modus fühlen Sie sich, wie wenn Sie mit allen Teilnehmern des Meetings im selben gemeinsamen Raum wären. Der Zusammen-Modus ist verfügbar, wenn sich mindestens fünf Personen in der Besprechung befinden. 
+
+
+- **Anruf-Zusammenführung** Mit dem Zusammenführen von Anrufen können Benutzer einen neuen zu startenden Anruf oder einen neuen eingehenden Anruf in ihren 1:1- oder Gruppen-Anruf zusammenführen. Das gilt für Teams VoIP- und PSTN-Anrufe. 
+
+
+### <a name="visio"></a>Visio
+
+- **Neue Azure-Schablonen und -Formen:** Wir haben viele weitere Schablonen hinzugefügt, die Ihnen beim Erstellen von aktuellen Azure-Diagrammen helfen. [Weitere Informationen](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, bei dem einige Menübandelemente nicht in Chinesisch (vereinfacht) lokalisiert wurden.
+
+
+- Ein Problem wurde behoben, bei dem Excel beim Aktualisieren unerwartet beendet wurde.
+
+
+- Ein Problem wurde behoben, bei dem der Befehl "Objekt einfügen" beim Einfügen einer Datei aus dem lokalen OneDrive-Synchronisationsordner nicht das richtige Symbol anzeigte.
+
+
+- Es wurde ein Problem behoben, bei dem die Bearbeitung in Sprachen, die die Verwendung von IME erfordern, bei der Bearbeitung im Überschreiben-Modus schlecht funktionierte.
+
+
+- Es wurde ein Problem behoben, bei dem einigen Benutzern während der gemeinsamen Erstellung fälschlicherweise eine Statusleiste angezeigt wurde, die sie über eine neue Version einer Datei informierte.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Excel beim Kopieren und Einfügen von Daten in der Formelansicht unerwartet geschlossen wurde.
+
+
+- Es wurde ein fehlerhafter Hyperlink zu einem Hilfeartikel in einer Warnung behoben, die angezeigt wird, wenn das automatische Speichern deaktiviert wird.
+
+
+- Es wurde ein Problem behoben, das bei der Eingabe von Daten, während Excel in bestimmten Sprachen ausgeführt wurde, dazu führen konnte, dass Excel nicht mehr funktionierte.
+
+
+- Durch diese Änderung wird ein Problem behoben, bei dem Schriftarten in Formeln nicht ordnungsgemäß angezeigt wurden.
+
+
+- Hierdurch wird ein Problem behoben, bei dem Power Pivot eine durch Tabstopps getrennte Textdatei nicht ordnungsgemäß importieren konnte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, durch das das Feld "An:" in Aufgabenstatusberichten leer war.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass das Ereignis "MailItem.BeforeAttachmentAdd" abgebrochen wurde.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer einige Probleme beim Senden von Outlook-E-Mails von anderen Anwendungen als Outlook haben konnten.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen die Formatierung von SmartLinks beim Speichern in Entwürfen verloren ging.
+
+
+- Ein Problem wurde behoben, bei dem das Hinzufügen einer Anlage zu einer aus einer Zip-Datei geöffneten Nachricht fehlschlug.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem mit dem Kopieren/Einfügen einer Formel aus Word in PowerPoint wurde behoben.
+
+
+- Diese Änderung behebt ein Problem im Zusammenhang mit Timeouts, die während der Freihandanalyse aufgetreten sind.
+
+
+- Diese Änderung behebt einen Grammatikfehler in der Benutzeroberfläche für die Erstellung animierter GIFs.
+
+
+- Diese Änderung behebt ein Problem mit Pfadfüllungen beim Anwenden von "Formen zusammenführen"-Vorgängen mit bestimmten Geometrien.
+
+
+- Durch diese Änderung wird ein Problem behoben, bei dem Schriftarten in Formeln nicht ordnungsgemäß angezeigt wurden.
+
+
+- Durch diese Änderung wird ein Problem beim Behandeln von Fehlern behoben, das während des Ladens von Videos auftreten konnte.
+
+
+- Ein VBA-Problem wurde behoben, bei dem "Slide.Shapes.AddMediaObject2" bei veralteten Videoformaten abstürzte (MPG-1, MPEG-2).
+
+
+- Es wurde ein Problem behoben, bei dem der Anwesenheitsindikator eines unbekannten Mitautors nicht vollständig aktualisiert wurde, wenn weitere Informationen über den Mitverfasser verfügbar waren.
+
+
+- Es wurde ein Problem mit einem NULL-Zeiger behoben, der dereferenziert wurde, wenn die Größe der Folienansicht bei aktiviertem Lineal geändert wurde.
+
+
+- Ein Problem wurde behoben, bei dem einige beschädigte PowerPoint-Dateien auch nach einem Dokumentreparaturvorgang nicht ordnungsgemäß geöffnet wurden.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Benutzer beim Öffnen von Projekten, die angeblich mit aktualisierten Informationen gespeichert wurden, feststellten, dass keine Aktualisierungen vorhanden waren.
+
+
+- Ein Problem wurde behoben, bei dem keine Abhängigkeiten von Projektleistungen gelöscht werden konnten, wenn die SharePoint-Website, der die Projektleistung zugeordnet war, nicht mehr vorhanden war.
+
+
+- Es wurde ein Problem behoben, bei dem das Öffnen eines Projekts mit vielen Ressourcen sehr lange dauerte.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzern u. U. mehrere nicht zugewiesene Zuordnungen angezeigt wurden, die einer Aufgabe zugeordnet waren.
+
+
+- Es wurde ein Problem behoben, bei dem bei großen Projekten die Eingabe von Aufgabennamen sehr langsam sein konnte.
+
+
+- Es wurde ein Problem behoben, bei dem bestimmte Projekte geöffnet werden konnten, wenn ein Problem mit der Projektdatei in einem bestimmten Teil der Last vorlag.
+
+
+### <a name="word"></a>Word
+
+- Das Einfügen als nur-Text wird häufig gegenüber Rich-Text-Formatierung bevorzugt. Mit diesem Kontextmenü-Fix kann der Benutzer Inhalte als nur-Text einfügen. Andernfalls müsste er ihn zunächst in einen nur-Text-Editor wie Notepad kopieren und dann aus dem Editor in die gewünschte Ziel-Anwendung kopieren.
+
+
+- Ein Problem mit dem Kopieren/Einfügen einer Formel aus Word in PowerPoint wurde behoben.
+
+
+- Durch diese Änderung wird ein Problem mit dem Cursor beim Bearbeiten eines Dokuments behoben.
+
+
+- Es wurde ein Problem mit verschwommenen Bildern beim Zoomen behoben.
+
+
+- Ein Problem wurde behoben, bei dem lange Links abgeschnitten wurden.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Office-Suite: Es wurde ein Problem behoben, bei dem aufgrund fehlender Registrierungseinträge die Installation einer neueren Version von Office über bestimmte ältere Versionen zu einer eingeschränkten Funktionalität führen konnte (beispielsweise war die Verwendung der Power-Abfrage nicht möglich).
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2011-december-01"></a>Version 2011: 1. Dezember
+*Version 2011 (Build 13426.20306)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Alle Besprechungen online:** Vereinfacht die Planung von Online-Besprechungen durch eine neue Einstellung, bei der alle Ihre Besprechungen standardmäßig online sind.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen die ursprünglichen Teilnehmer einiger Besprechungen eine Absage erhielten, wenn ein anderer Teilnehmer die Besprechung weiterleitete.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen einige Benutzer keine Signaturen im Signaturen-Dropdownfeld sehen konnten, obwohl mindestens eine Signatur konfiguriert war.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem bestimmte Projekte geöffnet werden konnten, wenn ein Problem mit der Projektdatei in einem bestimmten Teil der Last vorlag.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2011-november-24"></a>Version 2011: 24. November
 *Version 2011 (Build 13426.20294)*
@@ -36,7 +233,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="office-suite"></a>Office-Suite
 
-- Ein Problem mit dem Kopieren/Einfügen einer Formel aus Word in PowerPoint wurde behoben
+- Ein Problem mit dem Kopieren/Einfügen einer Formel aus Word in PowerPoint wurde behoben.
 
 
 
@@ -50,10 +247,10 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Videobibliothek:** Erweitern Sie Ihre Dokumente mit einer Sammlung von kuratierten, lizenzfreien Videoaufnahmen, verfügbar In-App.
+- **Videobibliothek:** Erweitern Sie Ihre Dokumente mit einer Sammlung von kuratierten, lizenzfreien, in der App verfügbaren Videoaufnahmen.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -62,13 +259,13 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, durch das das MailItem. BeforeAttachmentAdd-Ereignis unterbrochen wurde.
+- Es wurde ein Problem behoben, durch welches das MailItem.BeforeAttachmentAdd-Ereignis unterbrochen wurde.
 
 
-- Wir haben eine RegKey hinzugefügt, mit der Kunden die Filetime-Inklusion für Anlagen in IDataObject-Vorgängen deaktivieren können (z. b. Drag & Drop, Zwischenablage). HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = Filetimes sind ausgeschlossen. 1 = (Standard) Filetimes sind enthalten.
+- Wir haben einen Registrierungsschlüssel hinzugefügt, mit dem Kunden die Dateizeiteinbeziehung für Anhänge in IDataObject-Operationen (z. B. Drag/Drop, Zwischenablage) deaktivieren können. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = Dateizeiten sind ausgeschlossen. 1 = (Standard) Dateizeiten sind enthalten.
 
 
-- Es wurde ein Problem behoben, das dazu führte, dass Inline-Bilder verschwinden, wenn auf eine Nachricht mit einer Schutzbezeichnung von Azure Information Protection geantwortet wird.
+- Es wurde ein Problem behoben, das dazu führte, dass Inline-Bilder verschwanden, wenn auf eine Nachricht mit einer Schutzbezeichnung von Azure Information Protection geantwortet wurde.
 
 
 
@@ -89,7 +286,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - **Die gleiche Signatur auf allen Geräten:** Ihre Signatur wird in der Cloud gespeichert. Erstellen Sie die Signatur einmal, und verwenden Sie diese überall, wo Sie Outlook verwenden.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -98,12 +295,12 @@ This article contains release notes for Current Channel (Preview) builds of Word
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- Ein Problem wurde behoben, durch das das Feld „An:“ in Aufgabenstatusberichten leer war.
+- Es wurde ein Problem behoben, das dazu führte, dass das Feld „An“ beim Senden eines Statusberichts zu einer Aufgabe leer war.
 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Ein VBA-Problem wurde behoben, bei dem "Slide.Shapes.AddMediaObject2" mit veralteten Videoformaten abstürzt (MPG-1, MPEG-2).
+- Ein VBA-Problem wurde behoben, bei dem "Slide.Shapes.AddMediaObject2" bei veralteten Videoformaten abstürzte (MPG-1, MPEG-2).
 
 
 
@@ -120,7 +317,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - **Erstellen von Power Platform-Datenflüssen aus Abfragen:** Jetzt können Sie Ihre Abfragen in Power Query-Vorlagen exportieren, die zum Erstellen von neuen Power Platform-Datenflüssen verwendet werden können.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -252,7 +449,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft Application Error Reporting“ in Office 2007 verwendet wurde.
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
 
 
 - Es wurde ein Problem behoben, bei dem bei der interaktiven SSO-API-Anmeldung ein Fehlercode zurückgegeben wurde.
@@ -288,7 +485,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -367,7 +564,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="project"></a>Project
 
-- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wurde, die vom Benutzer nicht tatsächlich geändert worden waren.
+- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wird, die vom Benutzer nicht tatsächlich geändert wurden.
 
 
 - Es wurde ein Problem behoben, bei dem das Ereignis NewVal im ProjectBeforeTaskChange nicht den richtigen Wert hat, wenn eine Verzögerung innerhalb einer Ansicht vom Typ "Aufgabenformular" geändert wird.
@@ -401,7 +598,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 - **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der aktualisierte Editor-Bereich erleichtert die Navigation zwischen den Vorschlägen.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -637,7 +834,7 @@ This article contains release notes for Current Channel (Preview) builds of Word
 
 ### <a name="project"></a>Project
 
-- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Maske durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
+- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Formularansicht durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1176,7 +1373,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1712,7 +1909,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="excel"></a>Excel
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren.
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Berechnen, zusammenfassen und analysieren Sie Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen.
 
 ### <a name="outlook"></a>Outlook
 

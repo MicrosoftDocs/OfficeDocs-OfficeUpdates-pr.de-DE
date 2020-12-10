@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 5fd63ab3b6b4f0cbba13a4873baec870d1249932
-ms.sourcegitcommit: abe501ea3224670ce1b07859f4ef2f3eb8f7628c
+ms.openlocfilehash: 3fa31ed1c5dac96ba16d4af2a1ed59c1eab533bd
+ms.sourcegitcommit: 86478ce864c9594772fcd1e377e2ab04aef9bf56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49372269"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49575019"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
-This article contains release notes for Beta Channel builds of Word, Excel, PowerPoint, Outlook, Access, and Project for Windows desktop. Every week, we'll highlight interesting new features, important fixes, and any significant issues we want you to know about. Note that we often roll out features (and sometimes even fixes) to Beta Channel over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don't see something described below, don't worry you'll get it eventually.  
+Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche werden interessante neue Features, wichtige Fehlerbehebungen und alle wichtigen Probleme, über die Sie informiert werden sollen, hervorgehoben. Beachten Sie, dass das Rollout von Funktionen (und manchmal auch Fixes) für den Betakanal häufig über einen längeren Zeitraum erfolgt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn Sie also unten nichts beschrieben sehen, machen Sie sich keine Sorgen, Sie werden es eventuell irgendwann erhalten.  
 
 > [!IMPORTANT]
-> We’re making some changes to the update channels for Microsoft 365 Apps, including adding a new update channel (Monthly Enterprise Channel) and changing the names of the existing update channels. To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
@@ -30,6 +30,100 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2012-december-04"></a>Version 2012: 4. Dezember
+*Version 2012 (Build 13530.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Einbauen einer Zeitspanne zwischen unmittelbar aufeinander folgenden Besprechungen**: Geben Sie den Teilnehmern Zeit für eine Atempause und oder den Weg zwischen verschiedenen Besprechungsorten, indem Sie festlegen, dass Besprechungen standardmäßig 5–10 Minuten verspätet beginnen. [Weitere Informationen](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+### <a name="visio"></a>Visio
+
+- **Neue Azure-Schablonen und -Formen:** Wir haben viele weitere Schablonen hinzugefügt, die Ihnen beim Erstellen von aktuellen Azure-Diagrammen helfen. [Weitere Informationen](https://support.office.com/article/efbb25e7-c80e-42e1-b1ad-7ef630ff01b7)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem die Bearbeitung in Sprachen, welche die Verwendung von IME erfordern, bei der Bearbeitung im Überschreiben-Modus schlecht funktionierte.
+
+
+- Es wurde ein fehlerhafter Hyperlink zu einem Hilfeartikel in einer Warnung behoben, die angezeigt wird, wenn das automatische Speichern deaktiviert wird.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Excel beim Kopieren und Einfügen von Daten in der Formelansicht unerwartet geschlossen wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen die Formatierung von SmartLinks beim Speichern in Entwürfen verloren ging.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem das Öffnen eines Projekts mit vielen Ressourcen sehr lange dauerte.
+
+
+- Es wurde ein Problem behoben, bei dem bestimmte Projekte geöffnet werden konnten, wenn ein Problem mit der Projektdatei in einem bestimmten Teil der Last vorlag.
+
+
+### <a name="word"></a>Word
+
+- Das Einfügen als nur-Text wird häufig gegenüber Rich-Text-Formatierung bevorzugt. Mit diesem Kontextmenü-Fix kann der Benutzer Inhalte als nur-Text einfügen. Andernfalls müsste der Benutzer den Text zunächst in einen nur-Text-Editor wie z. B. Notepad kopieren und dann aus dem Editor in die gewünschte Ziel-App kopieren.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2012-november-27"></a>Version 2012: 27. November
+*Version 2012 (Build 13519.20000)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Hierdurch wird ein Problem behoben, bei dem Power Pivot eine durch Tabstopps getrennte Textdatei nicht ordnungsgemäß importieren konnte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer einige Probleme beim Senden von Outlook-E-Mails aus anderen Anwendungen als Outlook hatten.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Diese Änderung behebt ein Problem im Zusammenhang mit Timeouts, die während der Freihandanalyse aufgetreten sind.
+
+
+- Diese Änderung behebt einen Grammatikfehler in der Benutzeroberfläche für die Erstellung animierter GIFs.
+
+
+- Ein Problem wurde behoben, bei dem einige beschädigte PowerPoint-Dateien auch nach einem Dokumentreparaturvorgang nicht ordnungsgemäß geöffnet wurden.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Benutzern u. U. mehrere nicht zugewiesene Zuordnungen angezeigt wurden, die einer Aufgabe zugeordnet waren.
+
+
+- Es wurde ein Problem behoben, bei dem bei großen Projekten die Eingabe von Aufgabennamen sehr langsam sein konnte.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2012-november-20"></a>Version 2012: 20. November
 *Version 2012 (Build 13512.20000)*
@@ -44,10 +138,10 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Videobibliothek:** Erweitern Sie Ihre Dokumente mit einer Sammlung von kuratierten, lizenzfreien Videoaufnahmen, verfügbar In-App.
+- **Videobibliothek:** Erweitern Sie Ihre Dokumente mit einer Sammlung von kuratierten, lizenzfreien, in der App verfügbaren Videoaufnahmen.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -56,12 +150,12 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="powerpoint"></a>PowerPoint
 
-- Es wurde ein Problem behoben, bei dem die Anwesenheitsanzeige für einen unbekannten Koautor nicht vollständig aktualisiert wird, sobald wieder Informationen über den Koautor verfügbar sind.
+- Es wurde ein Problem behoben, bei dem die Anwesenheitsanzeige für einen unbekannten Co-Autor nicht vollständig aktualisiert wird, wenn weitere Informationen über den Co-Autor verfügbar werden.
 
 
 ### <a name="word"></a>Word
 
-- Es wurde ein Problem behoben, bei dem Word beim Speichern von Dokumenten mit verborgenem Text im PDF-Format hängen bleibt.
+- Es wurde ein Problem behoben, bei dem Word beim Speichern von Dokumenten mit verborgenem Text ins PDF-Format hängen bleibt.
 
 
 
@@ -124,7 +218,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - **Die gleiche Signatur auf allen Geräten:** Ihre Signatur wird in der Cloud gespeichert. Erstellen Sie die Signatur einmal, und verwenden Sie diese überall, wo Sie Outlook verwenden.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -345,7 +439,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -841,7 +935,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
@@ -849,11 +943,11 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1110,7 +1204,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1213,7 +1307,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 - **Verbesserte Stream-Video-Leistung in PowerPoint:** Wir haben die Wiedergabeleistung von Microsoft Stream-Videos verbessert, um die Ladezeit von Videos zu minimieren und eine reibungslose Wiedergabe zu ermöglichen.  Verwenden Sie Ihre Unternehmensvideos aus Microsoft Stream, um bessere Präsentationen zu erstellen.
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -1237,7 +1331,7 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 - Es wurde ein Problem behoben, bei dem beim Kopieren und Einfügen von Text in einen Kommentarbereich dieser nicht angezeigt wurde.
 - Es wurde ein Problem behoben, bei dem Kommentar-Hinweisblasen bei einer Vergrößerung von 100 % verschwommen erschienen.
 - Es wurde ein Problem behoben, bei dem die Aktivierung der Richtlinie Word 2007 und später Binärdokumente und -vorlagen dazu führen konnte, dass einige Fälle gemeinsamer Dokumentenerstellung fehlschlugen.
-- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (größer als 32 KB) nicht geöffnet werden konnten und eine entsprechende Fehlermeldung nicht angezeigt wurde.
+- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (größer als 32K) nicht geöffnet werden konnten und keine entsprechende Fehlermeldung angezeigt wurde.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1955,6 +2049,8 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13519.20000|version-2012-november-27|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13512.20000|version-2012-november-20|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
@@ -1963,6 +2059,4 @@ This article contains release notes for Beta Channel builds of Word, Excel, Powe
 [//]: # (|Win32|DevMain|Insiders| |16.0.13408.20000|version-2011-october-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13406.20000|version-2011-october-09|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13328.20000|version-2010-october-02|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13318.20000|version-2010-september-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13312.20006|version-2010-september-18|)
-[//]: # (ADMIN CENTER-METADATEN NICHT ÄNDERN INHALT ENDE)
+[//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

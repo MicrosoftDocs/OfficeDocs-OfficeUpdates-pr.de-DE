@@ -9,25 +9,126 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: e448b5e1d0ea334401c9bd9c91291376f6579367
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: ea0bcf4a30146c52bb45fef6361d490580b64739
+ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990054"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601610"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview-releases-in-2020"></a>Versionshinweise für Versionen des halbjährlichen Unternehmenskanals (Vorschau) im Jahr 2020
 
-Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in Updates für den halbjährlichen Enterprise-Kanal (Vorschau) im Jahr 2020 für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Kanal-Updates (Vorschau) im Jahr 2020 für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365 Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. [In diesem Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441) erfahren Sie mehr dazu.
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
 
-## <a name="version-2008-november-10"></a>Version 2008: 10. November
-*Version 2008 (Build 13127.20760)*
+## <a name="version-2008-december-08"></a>Version 2008: 08. Dezember
+*Version 2008 (Build 13127.20910)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt.
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Es wurde ein Fehler beim Versuch, den ODBC-DSN-Builder zu verwenden, behoben
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem Pivot-Tabellen nicht bearbeitet und Arbeitsmappen nicht gespeichert werden konnten, wenn sie aus dem Projektplan exportiert wurden.
+
+
+- Es wurde ein Problem behoben, bei dem in einigen Fällen mehrere Nachrichtenbalken angezeigt wurden, wenn eine Datei im schreibgeschützten Modus geöffnet wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Gliederungszwischensummen nicht mehr funktionieren konnten, wenn es viele doppelte Spaltenüberschriftenwerte gab.
+
+
+- Es wurde ein Problem behoben, bei dem Excel nicht mehr funktionierte, wenn während einer Multithread-Neuberechnung eine Aktualisierung des Gruppenrichtlinienobjekts (z. B. über Aktualisieren der Remote-Gruppenrichtlinie) durchgeführt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Excel nicht mehr funktioniert, wenn Benutzer die Zwischensummenfunktion für mehr als 255 Spalten verwenden.
+
+
+- Verbesserte das Text-Kerning in PowerPoint, wenn Inhalte aus Excel kopiert und mit der Option "Einbetten" in PowerPoint eingefügt werden.
+
+
+- Es wurde ein Problem behoben, das den Wechsel von der Tabellenvorschau und dem Abfrage-Editor in PowerPivot verhinderte.
+
+
+- Es wurde ein Problem behoben, bei dem ein Benutzer eine atomsvc-Datei (UTF8 + BOM) nicht direkt aus SharePoint öffnen konnte.
+
+
+- Es wurde ein Problem behoben, bei dem Power Pivot jetzt erfolgreich das Tabulator-Trennzeichen erkennt.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen das Feld "to:" beim Senden eines Statusberichts zu einem Vorgang leer war.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen das Ereignis "MailItem.BeforeAttachmentAdd" abgebrochen wurde.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen einige Benutzer die Anwendung unerwartet schließen mussten, wenn sie Outlook-E-Mails aus anderen Anwendungen als Outlook versandten.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen Benutzer beim Verschieben mehrerer Poststücke zwischen Ordnern im Online-Modus eine verminderte Leistung erfahren haben.
+
+
+- Wir haben einen regkey hinzugefügt, mit dem Kunden die Dateizeiteinbeziehung für Anhänge in IDataObject-Operationen (d. h. Drag Drop, Zwischenablage) deaktivieren können.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes sind ausgeschlossen  1 = (Standard) filetimes sind eingeschlossen
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Inline-Bilder verschwinden, wenn auf eine Nachricht mit einer Schutzbezeichnung von Azure Information Protection geantwortet wird.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen der Benutzername beim Senden einer Azure Protected Voicemail als Telefonnummer angezeigt wurde, so dass Outlook Desktop-Benutzer keine Voicemails von externen Benutzern öffnen konnten.
+
+
+- Es wurde ein Problem behoben, bei dem das Einrichten der OME-Konfiguration das Hinzufügen einer fremden Anlage zum E-Mail-Element zur Folge hatte, wodurch Outlook gezwungen wurde, die Nachricht zu verschlüsseln, obwohl die Option DecryptAttachmentsForEncryptOnly auf der Dienstseite eingerichtet war.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, bei dem ein verknüpftes Excel-Diagramm fälschlicherweise in eine Excel-Tabelle geändert wurde, wenn der Benutzer den Quellpfad in den lokalen OneDrive-Ordner änderte.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen die Funktion "Willkommen zurück! Dort weitermachen, wo Sie im Büro aufgehört haben" in PowerPoint nicht funktionierte.
+
+
+### <a name="visio"></a>Visio
+
+- Ein Problem wurde behoben, bei dem Benutzer in Visio für Office 365 gerade Linien mithilfe von Konnektoren für benutzerdefinierte Visio-Schablonen und eingebaute Vorlagen erstellen können.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem lange Links beim Speichern eines Dokuments im HTML-Format nicht umgebrochen wurden.
+
+
+- Es wurde ein Problem behoben, aufgrund dessen wenn Sie auf einen übergeordneten Kommentar antworten, der unbekannte Erweiterungen in einer Erweiterungsliste hat, die Antwort die gleichen Erweiterungen erhält.
+
+
+- Es wurde ein Problem in Outlook mit auf "Nicht weiterleiten" festgelegten Nachrichten behoben.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Behebt ein Problem, das Benutzer daran hinderte, SPO-Listen zu importieren, wenn ADAL deaktiviert war.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2008-november-10"></a>Version 2008: 10 November
+*Version 2008 (Build 13127.20760)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -42,7 +143,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - Es wurde ein Problem wurde behoben, bei dem die Anwendung unerwartet beendet wurde, was mit XLAM-Add-In-Verweisen und benannten Bereichen zusammenhing.
 
 
-- Es wurde ein Problem behoben, bei dem beim Festlegen der FormulaR1C1-Eigenschaft für einen Bereich mithilfe eines Makros die Zellbezüge falsch waren, wenn das aktive Blatt ein Diagrammblatt war.
+- Es wurde ein Problem behoben: Beim Festlegen der FormulaR1C1-Eigenschaft für einen Bereich mithilfe eines Makros waren die Zellbezüge falsch, wenn ein Diagrammblatt das aktive Blatt war.
 
 
 - Es wurde ein Problem behoben, das zur Fehlermeldung „Excel hat nicht ausreichend Ressourcen zur Verfügung für die Berechnung einer oder mehrerer Formeln“ führen konnte.
@@ -75,7 +176,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Es wurde ein Problem behoben, durch das die Kopfzeilen von Nachrichten in chinesischer Sprache bei der Beantwortung oder Weiterleitung nicht lesbar waren.
 
-- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.  <br />Weitere Detailinformationen finden Sie in [diesem Blogbeitrag](https://developer.microsoft.com/de-DE/office/blogs/outlook-add-ins-and-optional-connected-experiences/).
+- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.  <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -85,15 +186,15 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Es wurde ein Problem behoben, das kommerzielle Kunden betraf, die System Center Configuration Manager oder andere Verwaltungstools für das Office-Update unter Verwendung von Microsoft 365 Endpunkt-DLP (Verhinderung von Datenverlust am Endpunkt) nutzten.
+- Es wurde ein Problem behoben, das kommerzielle Kunden betraf, die System Center Configuration Manager oder andere Verwaltungstools für das Office-Update unter Verwendung von Microsoft 365-Endpunkt-DLP (Verhinderung von Datenverlust am Endpunkt) nutzten.
 
 - Es wurde ein Problem behoben, durch das die Messaging-API für Office-Add-Ins nicht funktionierte.
 
 
 
-[//]: # (NICHT ENTFERNEN BUGDETAILS ENDE INHALT)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2008-october-13"></a>Version 2008: 13. Oktober
+## <a name="version-2008-october-13"></a>Version 2008: 13. Oktober
 *Version 2008 (Build 13127.20638)*
 
 Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
@@ -193,7 +294,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Erstellen von PivotTables aus Datensätzen in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Mehr dazu](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 - **Ihre Lieblingsfunktionen von Excel sind jetzt noch schneller:** Die Funktionen SUMMEWENNS, MITTELWERTWENNS, ZÄHLENWENNS, MAXWENNS und MINWENNS sind jetzt viel schneller als je zuvor. Gelangen Sie schneller zum Endergebnis. Probieren Sie es jetzt aus.
 
@@ -213,9 +314,9 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **An Besprechungen teilnehmen, ohne den Posteingang zu verlassen:** Sie brauchen nicht zu Ihrem Kalender zu wechseln, um an Onlinebesprechungen teilzunehmen. Wenn der Kalender im Aufgabenbereich angeheftet ist, können Sie mit nur einem Klick an einer Besprechung teilnehmen.
 
-- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/de-DE/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
-- **Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen** : Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen. [Weitere Informationen](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
+- **Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen. [Weitere Informationen](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -250,7 +351,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="office-suite"></a>Office-Suite
 
-- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern.
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern.
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -619,12 +720,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Ein Problem wurde behoben, bei dem Benutzer bei der gemeinsamen Erstellung von großen PowerPoint-Dateien übermäßige Netzwerk- und CPU-Auslastung erfahren können.
 
-- Ein neuer AppV51-Drop wurde zurückportiert, um eine Regression im vorherigen AppV51 zu beheben.
+- Ein neuer Sturz von AppV51 wurde zurückportiert, um eine Regression im vorherigen AppV51 zu beheben.
 
 - Es wurde ein Absturzproblem mit dem Office-Host in Windows behoben, wenn ein Add-in aktiviert wird, während die Registrierung TabProcGrowth den Wert REG_SZ Typ hat.
 
 
-[//]: # (NICHT ENTFERNEN BUGDETAILS ENDE INHALT)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2002-june-09"></a>Version 2002: 9. Juni
 *Version 2002 (Build 12527.20720)*
@@ -781,8 +882,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Eingeben einer Formel, die mehrere Werte zurückgibt** Schnell eine Formel eingeben, die mehrere Werte zurückgibt, und diese werden automatisch in die benachbarten Zellen übertragen. [Weitere Informationen](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **Sechs leistungsfähige Funktionen:** Wir haben sechs neue Funktionen hinzugefügt, um Ihre Tabellenkalkulationen aufzuladen: FILTERN, SORTIEREN, SORTIERENNACH, EINDEUTIG, SEQUENZ und ZUFALLSMATRIX.  [Weitere Informationen](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Ein Blick nach links, ein Blick nach rechts... XVERWEIS ist da!:** Zeile für Zeile finden Sie mit XVERWEIS alles, was Sie in einer Tabelle oder einem Bereich benötigen.  
-  [Weitere Informationen](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Ein Blick nach links, ein Blick nach rechts... XVERWEIS ist da!:** Zeile für Zeile finden Sie mit XVERWEIS alles, was Sie in einer Tabelle oder einem Bereich benötigen.  [Weitere Informationen](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -888,7 +988,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Suchen bei Rechtschreibschwierigkeiten oder mit Tippfehlern:** Outlook wird auch dann finden, was Sie suchen, wenn Sie sich verschreiben.
 
-- **Phishing-E-Mails sind jetzt leicht zu erkennen:** Spam- und Phishing-E-Mails heben sich optisch ab, sodass Sie sie leichter identifizieren und aus Ihrem Posteingang entfernen können.
+- **Phishing-E-Mails sind jetzt leicht zu erkennen:** Spam- und Phishing-E-Mails haben ein anderes Aussehen und Verhalten, sodass Sie sie leichter identifizieren und aus Ihrem Posteingang entfernen können.
 
 - **Erweiterter Schutz gegen Angriffe:** Mit Office 365 Advanced Threat Protection sind Sie vor Angriffen durch Links in E-Mail-Betreffzeilen, angefügten Nachrichten, signierten Nachrichten, Netzwerkpfaden usw. geschützt.
 
@@ -940,7 +1040,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Warum neu erstellen, wenn Sie etwas wiederverwenden können?** Sparen Sie Zeit, indem Sie Folien, die Sie erstellt haben oder die andere für Sie freigegeben haben, erneut verwenden. [Weitere Informationen](https://support.office.com/article/4772661f-ced0-446b-bb28-878dfa8c23f1)
 
-- **Ändern Sie handschriftliche Freihandeingaben in Formen, Text oder Mathematik in PowerPoint für Office 365:** Wechseln Sie mit wenigen Strichen von der Freihandeingabe zu Office-Formen, Text oder einem mathematischen Ausdruck. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
+- **Ändern der handschriftlichen Freihandeingabe in Formen, Text oder Mathematik in PowerPoint für Office 365:** Wechseln Sie mit wenigen Strichen von der Freihandeingabe zu Office-Formen, Text oder einem mathematischen Ausdruck. [Weitere Informationen](https://support.office.com/article/0740dec3-6291-4c1f-8baa-011d18449919)
 
 - **Erstellen Sie eine hervorragende Folie:** Konvertieren Sie Ihre Freihandeingaben in Standardformen und -text, und lassen Sie sich dann von PowerPoint-Designer intelligente Folienentwurfsideen anzeigen. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
@@ -964,7 +1064,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Makrofähige Dokumente gemeinsam bearbeiten:** Speichern Sie Ihre Dokumentdateien auf OneDrive for Business, und bearbeiten Sie sie mit anderen in Echtzeit.
 
-- **Verbesserungen bei der gemeinsamen Dokumenterstellung** : verbesserte Leistung von Word bei der gemeinsamen Dokumenterstellung mit nachverfolgbaren Änderungen.
+- **Verbesserungen bei der gemeinsamen Dokumenterstellung**: verbesserte Leistung von Word bei der gemeinsamen Dokumenterstellung mit nachverfolgbaren Änderungen.
 
 - **Weitere Symbole für Ihre Stimmung:** Wir haben über 300 neue Icons hinzugefügt. Sie finden diese unter "Einfügen" > "Symbole". [Weitere Informationen](https://support.office.com/article/3b179567-785e-42ac-8544-ec4ee5ebf1c8)
 
@@ -1021,7 +1121,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Beim Zugriff auf einen verborgenen benannten Bereich kann ein Fehler auftreten.
 
-- Beim Speichern von Änderungen bei der Verwendung einiger nicht englischer Zeichengruppen tritt möglicherweise ein Fehler auf.
+- Nutzer können beim Speichern von Änderungen auf einen Fehler stoßen, wenn sie manche nicht englische Zeichensätze verwenden.
 
 - Wir haben ein Problem gelöst, durch das das Auswählen einer Zelle nach dem Scrollen dazu führen konnte, dass die falsche Zelle ausgewählt wurde.
 
@@ -1263,6 +1363,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
