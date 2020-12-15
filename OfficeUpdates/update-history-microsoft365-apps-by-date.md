@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 86e2ac3bb42e3b179214e1c030ef941878054883
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: b6fb5a7ee354c847d907b87933b44b76f168c727
+ms.sourcegitcommit: 033070b22b91c5d361c030abc516986ee305390a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601560"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "49662700"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -29,6 +29,8 @@ Diese Versions- und Buildnummern gelten für Microsoft 365 Apps for Enterprise, 
 > - Weitere Informationen zu Updatekanälen finden Sie unter [Übersicht über die Updatekanäle für Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version und die neueste Buildnummer aufgeführt.
+
+### <a name="supported-versions"></a>**Unterstützte Versionen**
 
 [//]: # (EOSTABLESTART)
 
@@ -45,7 +47,9 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Microsoft 365 Apps auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Microsoft 365 Apps](download-sizes-office365-proplus-updates.md).
 
-Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Microsoft 365 Apps, die in den folgenden Updatekanälen veröffentlicht wurden: aktueller Kanal, monatlicher Enterprise-Kanal, halbjährlicher Enterprise-Kanal (Vorschau) und halbjährlicher Enterprise-Kanal. Jeder Eintrag in der Tabelle enthält Links zu den Anmerkungen zu dieser Version. Diese Versionshinweise enthalten Informationen zu Funktionen, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.  
+Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Microsoft 365 Apps, die in den folgenden Updatekanälen veröffentlicht wurden: aktueller Kanal, monatlicher Enterprise-Kanal, halbjährlicher Enterprise-Kanal (Vorschau) und halbjährlicher Enterprise-Kanal. Jeder Eintrag in der Tabelle enthält Links zu den Anmerkungen zu dieser Version. Diese Versionshinweise enthalten Informationen zu Funktionen, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.
+
+### <a name="version-history"></a>**Versionsverlauf**
 
 [//]: # (HISTORYTABLESTART)
 

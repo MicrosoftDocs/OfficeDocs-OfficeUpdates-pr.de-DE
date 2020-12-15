@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: bf9c104215f5bd1824bc6536e113a4e5c2c670e6
-ms.sourcegitcommit: 551c3050697b157bbfb4f1d6bf8800ee9542ead3
+ms.openlocfilehash: 29a5e61611e853638aa63e1e5ee4cce47e0ba06c
+ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49588288"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49673993"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -24,7 +24,7 @@ Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum In
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Current Channel (Vorschau)
 
 Wenn Sie für Current Channel (Vorschau) registriert sind, die früher als Insider Slow bezeichnet wurde, erhalten Sie ungefähr einmal im Monat ein neues Office-Funktionsupdate sowie nachfolgende Builds mit wichtigen Korrekturen oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds von Current Channel (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
-Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/de-DE/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -37,6 +37,9 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.mic
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**14. Dezember 2020**<br/>
+Version 2012 (Build 13530.20144)<br/>
 
 **7. Dezember 2020**<br/>
 Version 2012 (Build 13530.20064)<br/>
