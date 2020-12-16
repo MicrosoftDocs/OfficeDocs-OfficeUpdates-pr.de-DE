@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: 9700bf78b5c49d5e5419a26cde1f2fd9d24d1bf3
-ms.sourcegitcommit: 8e74984d0c36475374c34e76ed29c5d1ad81d971
+ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
+ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48990104"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49684087"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -47,6 +47,48 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="december-15-2020"></a>15. Dezember 2020
+*Version 16.44 (Build 20121301)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Sehen Sie sich Ihre Formeln an:** Sehen Sie sich Zellen aus mehreren Blättern und Büchern in einem einzelnen Bereich oder Fenster an. [Weitere Informationen](https://support.office.com/article/d72fc6f3-4c9d-4c13-bd15-bb074ba7c784)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Präsentieren Sie Ihre Bildschirmpräsentation in einer Fensterumgebung:** In der Leseansicht können Sie mehrere Aufgaben ausführen und mehrere Bildschirmpräsentationen in einem Fenster anzeigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/reading-view-available-in-powerpoint-for-mac)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2020-17123](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-17123)
+-   [CVE-2020-17126](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-17126)
+-   [CVE-2020-17128](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-17128)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2020-17119](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-17119)
+
+### <a name="powerpoint"></a>PowerPoint
+
+-   [CVE-2020-17124](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-17124)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="november-10-2020"></a>10. November 2020
 *Version 16.43 (Build 20110804)*
@@ -298,7 +340,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
-- **Eine schnellere Möglichkeit zum Hinzufügen von Zellen** : **Aktivieren Sie den Modus Zum Hinzufügen klicken** , geben Sie  = ein und wählen Sie dann einige Zellen aus, um schnell eine Formel zu erstellen, mit der die Zellwerte addiert werden. Sie finden die Option unter **Menü** > **Einstellungen** > **Bearbeiten**.  [Weitere Informationen](https://support.office.com/de-DE/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/).
+- **Eine schnellere Möglichkeit zum Hinzufügen von Zellen**: **Aktivieren Sie den Modus Zum Hinzufügen klicken**, geben Sie  = ein und wählen Sie dann einige Zellen aus, um schnell eine Formel zu erstellen, mit der die Zellwerte addiert werden. Sie finden die Option unter **Menü** > **Einstellungen** > **Bearbeiten**.  [Weitere Informationen](https://support.office.com/de-DE/article/what-s-new-in-microsoft-365-95c8d81d-08ba-42c1-914f-bca4603e1426#Platform=Mac) <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/21/click-to-add-mode-feedback-in-action/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -306,14 +348,14 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Link zu Folie:** Bitten Sie einen Kollegen um einen Beitrag zu Ihrer Foliengruppe zu leisten, und leiten Sie ihn direkt zu der Folie, bei der Sie Hilfe benötigen. [Weitere Informationen](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/).
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Eingabe ohne Tippen:** Haben Sie ein Mikrofon? Klicken Sie auf "Diktieren", und beobachten Sie, wie Word tippt, während Sie sprechen. [Weitere Informationen](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/).
 
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/).
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -329,7 +371,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 -   [CVE-2020-0901](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0901)
 
-[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN INHALTSENDE)
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="april-14-2020"></a>14. April 2020
 *Version 16.36 (Build 20041300)*
@@ -337,13 +379,13 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Automatisch neue Datentypen verwenden** : Wenn Sie einen Datenwert eingeben, der einem möglichen Aktienelement oder geografischen Speicherort ähnelt, bietet Excel an, diesen in den geeigneten verbundenen Datentyp zu konvertieren – Aktien oder Geografie.
-- **Drucken von Arbeitsblättern mit unterschiedlichen Ausrichtungen** : Wenn Sie eine gesamte Arbeitsmappe gleichzeitig drucken, kann Excel für Mac jedes Blatt im Quer-oder Hochformat – entsprechend den Optionen für das Seiten-Layout – drucken.
-- **Statistiken für Ihre Arbeitsmappe abrufen** : Statistiken zu Arbeitsmappen bieten einen Überblick über den Inhalt einer Arbeitsmappe, um Ihnen das Erkunden des Inhalts zu erleichtern.
+- **Automatisch neue Datentypen verwenden**: Wenn Sie einen Datenwert eingeben, der einem möglichen Aktienelement oder geografischen Speicherort ähnelt, bietet Excel an, diesen in den geeigneten verbundenen Datentyp zu konvertieren – Aktien oder Geografie.
+- **Drucken von Arbeitsblättern mit unterschiedlichen Ausrichtungen**: Wenn Sie eine gesamte Arbeitsmappe gleichzeitig drucken, kann Excel für Mac jedes Blatt im Quer-oder Hochformat – entsprechend den Optionen für das Seiten-Layout – drucken.
+- **Statistiken für Ihre Arbeitsmappe abrufen**: Statistiken zu Arbeitsmappen bieten einen Überblick über den Inhalt einer Arbeitsmappe, um Ihnen das Erkunden des Inhalts zu erleichtern.
 
 ### <a name="outlook"></a>Outlook
 
-- **Kalender in Outlook Mac offline durchsuchen** : Sie können jetzt in Ihrem Outlook-Kalender auf Ihrem Mac nach Ereignissen und Terminen suchen, wenn Sie offline sind.
+- **Kalender in Outlook Mac offline durchsuchen**: Sie können jetzt in Ihrem Outlook-Kalender auf Ihrem Mac nach Ereignissen und Terminen suchen, wenn Sie offline sind.
 
 ### <a name="security-updates"></a>Sicherheitsupdates
 
@@ -356,21 +398,21 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 *Version 16.35 (Build 20030802)*
 
 [//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
-### <a name="feature-updates"></a>Funktionsupdates
+### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Möglichkeit, das aktuelle Folienfenster in der Referentenansicht zu reduzieren:** Indem Sie die Trennlinie auf die linke Seite des Bildschirms ziehen, können Sie die aktuelle Folienansicht reduzieren, sodass für die Dauer Ihrer Präsentation in der Ansicht nur "Nächste Folie" angezeigt wird.
-- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 
 ### <a name="word"></a>Word
 
-- **Vertraulichkeitsbezeichnungen** : Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions)
 
 
 ### <a name="security-updates"></a>Sicherheitsupdates
@@ -504,7 +546,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 - Probleme mit der Serverleistung wurden behoben.
 ### <a name="excel--feature-updates"></a>Excel: Featureupdates
 
-- **Excel-Add-In zur Visio-Datenschnellansicht** : Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel.
+- **Excel-Add-In zur Visio-Datenschnellansicht**: Visualisieren Sie Ihre Daten schnell und einfach in ansprechenden Visio-Diagrammen in Excel.
 
 
 
@@ -573,9 +615,9 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 - Probleme mit der Serverleistung wurden behoben.
 ### <a name="excel--feature-updates"></a>Excel: Featureupdates
 
-- **Vollfarbige Blattregisterkarten** : Wenn Sie eine Registerkartenfarbe für Ihr Arbeitsblatt auswählen, füllt es nun die gesamte Registerkarte aus, so dass es leichter zu sehen ist.
+- **Vollfarbige Blattregisterkarten**: Wenn Sie eine Registerkartenfarbe für Ihr Arbeitsblatt auswählen, füllt es nun die gesamte Registerkarte aus, so dass es leichter zu sehen ist.
 
-- **Daten aus lokalen Dateien auf dem Mac aktualisieren** : Aktualisieren Sie Ihre Power Query-Abfragen auf dem Mac aus Text-, CSV-, XLSX-, XML- und JSON-Dateien. 
+- **Daten aus lokalen Dateien auf dem Mac aktualisieren**: Aktualisieren Sie Ihre Power Query-Abfragen auf dem Mac aus Text-, CSV-, XLSX-, XML- und JSON-Dateien. 
 
  ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 
@@ -670,7 +712,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 
 - **Mit \@Erwähnungen andere auf sich aufmerksam machen:** Lassen Sie es andere mithilfe von @Erwähnungen in Kommentaren wissen, wenn Sie deren Input benötigen.
-- **Verbesserungen der gemeinsamen Dokumenterstellung** : verbesserte Leistung von Word bei der gemeinsamen Dokumenterstellung.
+- **Verbesserungen der gemeinsamen Dokumenterstellung**: verbesserte Leistung von Word bei der gemeinsamen Dokumenterstellung.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
 
@@ -741,7 +783,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 |Excel  <br/>|**Neue Office-App-Symbole:** App-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Oberfläche von Office widerzuspiegeln.<br/> <br/>**Für Makrobenutzer:** Zeichnen Sie ein Makro mit relativen Bezügen auf. Wenn Sie es wiedergeben, funktioniert es in Beziehung mit der aktiven Zelle, nicht den Zellen für die Aufnahme. [Weitere Informationen](https://support.office.com/article/f0cac51a-7449-4d6d-bb10-24561edbc785)<br/><br/>**Ihre bevorzugten Befehle in Reichweite:** Sie erhalten schnellen und einfachen Zugriff auf häufig verwendete Aktionen wie Suchen und auswählen, In Auswahl zoomen, Alle anordnen und mehr. Diese sind im Menüband verfügbar. [Weitere Informationen](https://support.office.com/article/22db33e7-3e10-4406-9cad-ad9f2ce4f642)<br/><br/>**Schneller loslegen:** Erhalten Sie Empfehlungen basierend auf Ihrer Aktivität und den Aktivitäten anderer Benutzer in Ihrer Nähe.<br/><br/>**Verleihen Sie Ihrem Arbeitsblatt mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex durch die Arbeitsmappe stampft. [Weitere Informationen](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)|[CVE-2019-0828](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0828): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.24.19041401_Updater.pkg) <br/>|
 |PowerPoint  <br/>|**Neue Office-App-Symbole:** App-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Oberfläche von Office widerzuspiegeln.<br/><br/>**Schneller loslegen:** Erhalten Sie Empfehlungen basierend auf Ihrer Aktivität und den Aktivitäten anderer Benutzer in Ihrer Nähe.<br/><br/>**Einfaches Speichern eingebetteter Medien:** Speichern Sie Audio und Videos mit STRG + Mausklick. [Weitere Informationen](https://support.office.com/article/F773D119-0FB3-4884-A18A-29573AC97B25)<br/><br/>**Verleihen Sie Ihren Folien mehr Lebendigkeit:** Fügen Sie animierte 3D-Grafiken ein, um zu sehen, wie Herzen schlagen, Planeten sich in einer Umlaufbahn bewegen und wie ein T-Rex über den Bildschirm stampft. [Weitere Informationen](https://support.office.com/article/6f08009a-3da5-400d-a706-8e23f304cd72)| |[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.24.19041401_Updater.pkg) <br/>|
 |Outlook  <br/>|**Neue Office-App-Symbole:** App-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Oberfläche von Office widerzuspiegeln. <br/><br/>**Sichere Links:** Unterstützung sicherer Links von Advanced Threat Protection (ATP).  ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.24.19041401_Updater.pkg) <br/>|
-|Microsoft Auto Update 4.10<br/>|**Verbesserungen des Features "Auf Klon installieren"** : Für SSD-Geräte werden Updates auf Klones von derzeit verwendeten Apps implementiert, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden. <br/><br/>**Installationsoptimierungen** : Der Update-Prozess verwendet parallelisiertes Klonen, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
+|Microsoft Auto Update 4.10<br/>|**Verbesserungen des Features "Auf Klon installieren"**: Für SSD-Geräte werden Updates auf Klones von derzeit verwendeten Apps implementiert, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden. <br/><br/>**Installationsoptimierungen**: Der Update-Prozess verwendet parallelisiertes Klonen, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>|
 |Office-Suite  <br/><br/>| |[CVE-2019-0822](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0822): Microsoft Graphics Component – Sicherheitsrisiko bei der Remotecodeausführung<br/><br/>|<br/>|
 
 
@@ -848,12 +890,12 @@ Dieses Release umfasst die folgenden Updates:
 |Microsoft Auto Update 4.7 <br/>| Der AutoUpdate-Daemon wird jetzt im Rahmen des Installationsprozesses gestartet. Dadurch werden verwirrende Sicherheitsdialogfelder beseitigt, die bisher für Benutzer angezeigt wurden. <br/><br/> Die Sicherheitsfeatures von Microsoft AutoUpdate wurden so verbessert, dass nun SHA256-Zertifikate unterstützt werden. <br/>|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
-> Ab Version 16.21 wird Microsoft Teams für * *_neue_* _ Installationen standardmäßig bereitgestellt. Weitere Informationen finden Sie unter [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> Ab Version 16.21 wird Microsoft Teams standardmäßig für **_neue_* _ Installationen installiert. Weitere Informationen finden Sie unter [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
 
 
 ## <a name="december-2018-release"></a>Release von Dezember 2018
 
- _ *Veröffentlichungsdatum:* * 11. Dezember 2018 
+ _ *Veröffentlichungsdatum:** 11. Dezember 2018 
   
  *Version 16.20.0 (Build 18120801)* 
   
@@ -1253,7 +1295,7 @@ Dieses Release umfasst die folgenden Updates.
   
 |**Anwendung**|**Nicht sicherheitsrelevante Updates**|
 |:-----|:-----|
-|Microsoft AutoUpdate 3.9.1  <br/> | – Behebung eines kritisches Problems, das automatische Updatebenachrichtigungen verhindert, wenn „Automatisch prüfen“ ausgewählt ist.  <br/><br/>  – Behebung eines Problems, aufgrund dessen AutoUpdate unter OS X 10.10 abstürzt.  <br/><br/> – Behebung eines Problems, aufgrund dessen Apps nicht gestartet werden, wenn ein Update aussteht.   <br/><br/> **Wichtig:** Wenn Sie auf Microsoft AutoUpdate 3.9.0 aktualisiert und Ihre AutoUpdate-Einstellungen auf „Automatisch prüfen“ festgelegt haben, müssen mit einer der folgenden Methoden manuell auf Microsoft AutoUpdate 3.9.1 aktualisieren:  <br/><br/>  – Wechseln Sie zu **Hilfe** > **Nach Updates suchen** , und wählen Sie dann **Nach Updates suchen**.  <br/><br/>  – Wechseln Sie zu **Hilfe** > **Nach Updates suchen** , und wählen Sie dann **Automatisch herunterladen und installieren**.  |
+|Microsoft AutoUpdate 3.9.1  <br/> | – Behebung eines kritisches Problems, das automatische Updatebenachrichtigungen verhindert, wenn „Automatisch prüfen“ ausgewählt ist.  <br/><br/>  – Behebung eines Problems, aufgrund dessen AutoUpdate unter OS X 10.10 abstürzt.  <br/><br/> – Behebung eines Problems, aufgrund dessen Apps nicht gestartet werden, wenn ein Update aussteht.   <br/><br/> **Wichtig:** Wenn Sie auf Microsoft AutoUpdate 3.9.0 aktualisiert und Ihre AutoUpdate-Einstellungen auf „Automatisch prüfen“ festgelegt haben, müssen mit einer der folgenden Methoden manuell auf Microsoft AutoUpdate 3.9.1 aktualisieren:  <br/><br/>  – Wechseln Sie zu **Hilfe** > **Nach Updates suchen**, und wählen Sie dann **Nach Updates suchen**.  <br/><br/>  – Wechseln Sie zu **Hilfe** > **Nach Updates suchen**, und wählen Sie dann **Automatisch herunterladen und installieren**.  |
    
 ## <a name="april-2017-release"></a>Release von April 2017
 
