@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: 125f37f1fb4b21d2d63784e51703c1297d928f49
-ms.sourcegitcommit: c7f7982f4d2d0d8db4fc4fbf961b79a03bc8b36e
+ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
+ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601410"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725070"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -28,6 +28,12 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
  **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="december-21-2020"></a>21. Dezember 2020
+Version 16.0.13426.20370 (setup.exe Version 16.0.13426.20352)
+- Es wurde ein Problem behoben, bei dem die lokalen Quellinstallationen von ProofingTools aus dem PerpetualVL2019-Kanal fehlschlugen
+- Es wurde ein Problem behoben, damit sichergestellt wird, dass der Klick-und-Los-Client eine Selbstaktualisierung versucht, wenn einer vorhandenen Installation zusätzliche Produkte in nicht vollständigen Office-Sprachen hinzugefügt werden
+
 
 ## <a name="december-8-2020"></a>8. Dezember 2020
 Version 16.0.13426.20308 (setup.exe-Version 16.0.13426.20308)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 0be2192fb0bc08c399c4c7d698de759bfec3433e
-ms.sourcegitcommit: d57f0f22474e99f5e4497f164c6dd1bb404cd7c3
+ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
+ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49673973"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49725774"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,46 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2012-december-21"></a>Version 2012: 21. Dezember
+*Version 2012 (Build 13530.20218)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+### <a name="outlook"></a>Outlook
+
+- **Einbauen einer Zeitspanne zwischen unmittelbar aufeinander folgenden Besprechungen**: Geben Sie den Teilnehmern Zeit für eine Atempause und oder den Weg zwischen verschiedenen Besprechungsorten, indem Sie festlegen, dass Besprechungen standardmäßig 5–10 Minuten verspätet beginnen. [Weitere Informationen](https://support.office.com/article/be84396a-0903-4e25-b31c-1c99ce0dacf2)
+
+- **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+### <a name="word"></a>Word
+
+- **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem der Befehl "Schriftgrad", der in QAT hinzugefügt wurde, beim Aktualisieren automatisch zum nächsten definierten Schriftgrad vervollständigt wird.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2012-december-14"></a>Version 2012: 14. Dezember
 *Version 2012 (Build 13530.20144)*
@@ -593,7 +633,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="project"></a>Project
 
-- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wird, die vom Benutzer nicht tatsächlich geändert wurden.
+- Es wurde ein Problem behoben, bei dem beim Speichern eines Projekts aus PWA in eine lokale MPP-Datei das ProjectBeforeTaskChangeEvent für Daten ausgelöst wurde, die vom Benutzer nicht tatsächlich geändert worden waren.
 
 
 - Es wurde ein Problem behoben, bei dem das Ereignis NewVal im ProjectBeforeTaskChange nicht den richtigen Wert hat, wenn eine Verzögerung innerhalb einer Ansicht vom Typ "Aufgabenformular" geändert wird.
@@ -863,7 +903,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="project"></a>Project
 
-- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Formularansicht durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
+- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Maske durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
