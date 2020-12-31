@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 33fad2b4d91d05abedee0de26c8a0bc101e9c4bd
-ms.sourcegitcommit: d4973d351666da9b360f4f83cd588e327ccbab1a
+ms.openlocfilehash: ba9448af2e899aa4bc60d9d825117be3d895dbcd
+ms.sourcegitcommit: 148e77b6199c7f6f584542a60e35b434fa830b80
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725774"
+ms.lasthandoff: 12/28/2020
+ms.locfileid: "49735503"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,20 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2012-december-28"></a>Version 2012: 28. Dezember
+*Version 2012 (Build 13530.20264)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das bei einigen Kunden dazu führte, dass sich das System beim Laden ihrer Kalender aufhängte.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2012-december-21"></a>Version 2012: 21. Dezember
 *Version 2012 (Build 13530.20218)*
