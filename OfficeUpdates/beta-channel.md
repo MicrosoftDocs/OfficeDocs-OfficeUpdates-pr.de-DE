@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 6b42dcee02fa315647a1176bda1d581833ca5211
-ms.sourcegitcommit: 9a0952ac6d6c19231b3f4148a69d3260300ae78a
+ms.openlocfilehash: 042e83845d033f3f2f854e7d3f2198f698032c7a
+ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "49733208"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49748223"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,65 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2101-january-01"></a>Version 2101: 1. Januar
+*Version 2101 (Build 13624.20002)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Erforderliche Kennzeichnung:** Benutzer mit einer von ihren Administratoren festgelegten Richtlinie „Erforderliche Kennzeichnung“ müssen ihre Dokumente und E-Mails kennzeichnen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Erforderliche Kennzeichnung:** Benutzer mit einer von ihren Administratoren festgelegten Richtlinie „Erforderliche Kennzeichnung“ müssen ihre Dokumente und E-Mails kennzeichnen.
+
+### <a name="word"></a>Word
+
+- **Erforderliche Kennzeichnung:** Benutzer mit einer von ihren Administratoren festgelegten Richtlinie „Erforderliche Kennzeichnung“ müssen ihre Dokumente und E-Mails kennzeichnen.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="onenote"></a>OneNote
+
+- Diese Änderung adressiert ein Rendering-Problem, das OneNote betrifft.
+
+
+### <a name="outlook"></a>Outlook
+
+- Durch diese Änderung kann Outlook eine Exchange-Servereinstellung nutzen, welche die Anzeige des Exchange Online-Archivpostfachs für Endbenutzer unterdrückt.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Diese Änderung adressiert ein Problem beim Formen zusammenführen, wenn mit Text gearbeitet wird.
+
+
+### <a name="word"></a>Word
+
+- Korrektur, um moderne Kommentare robuster zu machen.
+
+
+- Ein Problem beim Bearbeiten von Kommentaren mit @erwähnen wurde behoben.
+
+
+- Kommentarentwürfe verschwinden beim Anlegen einer neuen Word-Instanz.
+
+
+- Behebung eines Problems mit verschachtelten Bildlaufleisten im Kommentarbereich.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2101-december-25"></a>Version 2101: 25. Dezember
 *Version 2101 (Build 13617.20002)*
@@ -2207,6 +2266,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
@@ -2216,5 +2276,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13510.20004|version-2012-november-13|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13430.20000|version-2012-november-06|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13426.20004|version-2011-october-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13415.20002|version-2011-october-23|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
