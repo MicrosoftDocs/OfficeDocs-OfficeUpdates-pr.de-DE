@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Microsoft 365 Apps für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: 6050fdcd08ffcfcde37b0f79886079dc38ddc790
-ms.sourcegitcommit: f0d1cbcbb5b9e5077dc21b7de9b2146b9e4c530c
+ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
+ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49748233"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49760639"
 ---
 # <a name="release-information-for-updates-to-microsoft-365-apps"></a>Versionsinformationen zu Updates für Microsoft 365 Apps
 
@@ -45,10 +45,10 @@ Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden 
 ## <a name="release-notes-for-microsoft-365-apps-releases"></a>Anmerkungen zur Version für Microsoft 365 Apps-Versionen
 
 Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr finden Sie in den folgenden Artikeln:
- - Aktueller Kanal: [2021-2020](current-channel.md), [2019](monthly-channel-2019.md), [2018](monthly-channel-2018.md)
- - Monatlicher Enterprise-Kanal:  [2021-2020](monthly-enterprise-channel.md)
- - Halbjährlicher Enterprise-Kanal (Vorschau): [2021-2020](semi-annual-enterprise-channel-preview.md), [2019](semi-annual-channel-targeted-2019.md), [2018](semi-annual-channel-targeted-2018.md)
- - Halbjährlicher Enterprise-Kanal: [2021-2020](semi-annual-enterprise-channel.md), [2019](semi-annual-channel-2019.md), [2018](semi-annual-channel-2018.md)
+ - Aktueller Kanal: [Anmerkungen zur Version](current-channel.md), [Archivierte Anmerkungen zur Version](monthly-channel-archived.md)
+ - Monatlicher Enterprise-Kanal:  [Anmerkungen zur Version](monthly-enterprise-channel.md)
+ - Halbjährlicher Enterprise-Kanal (Vorschau): [Anmerkungen zur Version](semi-annual-enterprise-channel-preview.md), [Archivierte Anmerkungen zur Version](semi-annual-enterprise-channel-preview-archived.md)
+ - Halbjährlicher Enterprise-Kanal: [Anmerkungen zur Version](semi-annual-enterprise-channel.md), [Archivierte Anmerkungen zur Version](semi-annual-enterprise-channel-archived.md)
 
  ## <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
  Eine vollständige Liste der Releases des Office-Bereitstellungstools finden Sie in den folgenden Artikeln:
