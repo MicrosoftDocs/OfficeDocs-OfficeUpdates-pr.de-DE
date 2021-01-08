@@ -10,67 +10,67 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine Liste der aktuellen Releases für Microsoft 365 Apps für jeden Updatekanal sowie Links zu Anmerkungen zur Version und zum Updateverlauf zur Verfügung.
-ms.openlocfilehash: dfba017d577f874222fd6d9cde05088820a7bf90
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 40c9a96422c9e608e6b847fbe4e2d220f4f407ab
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760639"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780673"
 ---
-# <a name="release-information-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="7c8b9-103">Versionsinformationen zu Updates für Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="7c8b9-103">Release information for updates to Microsoft 365 Apps</span></span>
+# <a name="release-information-for-updates-to-microsoft-365-apps"></a><span data-ttu-id="2f625-103">Versionsinformationen zu Updates für Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="2f625-103">Release information for updates to Microsoft 365 Apps</span></span>
 
 
 > [!IMPORTANT]
-> <span data-ttu-id="7c8b9-104">Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.</span><span class="sxs-lookup"><span data-stu-id="7c8b9-104">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="7c8b9-105">Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="7c8b9-105">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="7c8b9-106">In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="7c8b9-106">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
+> <span data-ttu-id="2f625-104">Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.</span><span class="sxs-lookup"><span data-stu-id="2f625-104">Office 365 ProPlus is being renamed to Microsoft 365 Apps for enterprise, starting with Version 2004.</span></span> <span data-ttu-id="2f625-105">Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span><span class="sxs-lookup"><span data-stu-id="2f625-105">To learn more, [read this article](https://go.microsoft.com/fwlink/p/?linkid=2123420).</span></span> <span data-ttu-id="2f625-106">In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="2f625-106">In our documentation, we'll usually just refer to it as Microsoft 365 Apps.</span></span>
 
 
-## <a name="security-updates-for-microsoft-365-apps-releases"></a><span data-ttu-id="7c8b9-107">Sicherheitsupdates für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="7c8b9-107">Security updates for Microsoft 365 Apps releases</span></span>
+## <a name="security-updates-for-microsoft-365-apps-releases"></a><span data-ttu-id="2f625-107">Sicherheitsupdates für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="2f625-107">Security updates for Microsoft 365 Apps releases</span></span>
 
-<span data-ttu-id="7c8b9-108">Eine vollständige Liste der Sicherheitsupdates finden Sie im folgenden Artikel:</span><span class="sxs-lookup"><span data-stu-id="7c8b9-108">For a complete list of security updates, see the following article:</span></span>
- - [<span data-ttu-id="7c8b9-109">Sicherheitsupdates für Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="7c8b9-109">Security updates for Microsoft 365 Apps</span></span>](microsoft365-apps-security-updates.md)
-
-
-## <a name="update-history-for-microsoft-365-apps-releases"></a><span data-ttu-id="7c8b9-110">Updateverlauf für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="7c8b9-110">Update history for Microsoft 365 Apps releases</span></span>
-
-<span data-ttu-id="7c8b9-111">Die vollständige Liste der Releases und unterstützten Versionen für die einzelnen Kanäle finden Sie im folgenden Artikel:</span><span class="sxs-lookup"><span data-stu-id="7c8b9-111">For a complete list of releases and the supported versions for each channel, see the following article:</span></span>
-
-- [<span data-ttu-id="7c8b9-112">Updateverlauf für Microsoft 365 Apps – nach Datum aufgelistet</span><span class="sxs-lookup"><span data-stu-id="7c8b9-112">Update history for Microsoft 365 Apps listed by date</span></span>](update-history-microsoft365-apps-by-date.md)
+<span data-ttu-id="2f625-108">Eine vollständige Liste der Sicherheitsupdates finden Sie im folgenden Artikel:</span><span class="sxs-lookup"><span data-stu-id="2f625-108">For a complete list of security updates, see the following article:</span></span>
+ - [<span data-ttu-id="2f625-109">Sicherheitsupdates für Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="2f625-109">Security updates for Microsoft 365 Apps</span></span>](microsoft365-apps-security-updates.md)
 
 
- ## <a name="update-sizes-for-microsoft-365-apps-releases"></a><span data-ttu-id="7c8b9-113">Updategrößen für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="7c8b9-113">Update sizes for Microsoft 365 Apps releases</span></span>
+## <a name="update-history-for-microsoft-365-apps-releases"></a><span data-ttu-id="2f625-110">Updateverlauf für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="2f625-110">Update history for Microsoft 365 Apps releases</span></span>
 
-<span data-ttu-id="7c8b9-114">Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden Sie im folgenden Artikel:</span><span class="sxs-lookup"><span data-stu-id="7c8b9-114">For a complete list of update releases sizes, see the following article:</span></span>
- - [<span data-ttu-id="7c8b9-115">Downloadgrößen für Updates von Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="7c8b9-115">Download sizes for updates to Microsoft 365 Apps</span></span>](download-sizes-microsoft365-apps-updates.md)
+<span data-ttu-id="2f625-111">Die vollständige Liste der Releases und unterstützten Versionen für die einzelnen Kanäle finden Sie im folgenden Artikel:</span><span class="sxs-lookup"><span data-stu-id="2f625-111">For a complete list of releases and the supported versions for each channel, see the following article:</span></span>
 
-## <a name="release-notes-for-microsoft-365-apps-releases"></a><span data-ttu-id="7c8b9-116">Anmerkungen zur Version für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="7c8b9-116">Release notes for Microsoft 365 Apps releases</span></span>
-
-<span data-ttu-id="7c8b9-117">Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr finden Sie in den folgenden Artikeln:</span><span class="sxs-lookup"><span data-stu-id="7c8b9-117">For a complete list of release notes by update channel and year, see the following articles:</span></span>
- - <span data-ttu-id="7c8b9-118">Aktueller Kanal: [Anmerkungen zur Version](current-channel.md), [Archivierte Anmerkungen zur Version](monthly-channel-archived.md)</span><span class="sxs-lookup"><span data-stu-id="7c8b9-118">Current Channel: [Release Notes](current-channel.md), [Archived Release Notes](monthly-channel-archived.md)</span></span>
- - <span data-ttu-id="7c8b9-119">Monatlicher Enterprise-Kanal:  [Anmerkungen zur Version](monthly-enterprise-channel.md)</span><span class="sxs-lookup"><span data-stu-id="7c8b9-119">Monthly Enterprise Channel:  [Release Notes](monthly-enterprise-channel.md)</span></span>
- - <span data-ttu-id="7c8b9-120">Halbjährlicher Enterprise-Kanal (Vorschau): [Anmerkungen zur Version](semi-annual-enterprise-channel-preview.md), [Archivierte Anmerkungen zur Version](semi-annual-enterprise-channel-preview-archived.md)</span><span class="sxs-lookup"><span data-stu-id="7c8b9-120">Semi-Annual Enterprise (Preview): [Release Notes](semi-annual-enterprise-channel-preview.md), [Archived Release Notes](semi-annual-enterprise-channel-preview-archived.md)</span></span>
- - <span data-ttu-id="7c8b9-121">Halbjährlicher Enterprise-Kanal: [Anmerkungen zur Version](semi-annual-enterprise-channel.md), [Archivierte Anmerkungen zur Version](semi-annual-enterprise-channel-archived.md)</span><span class="sxs-lookup"><span data-stu-id="7c8b9-121">Semi-Annual Enterprise: [Release Notes](semi-annual-enterprise-channel.md), [Archived Release Notes](semi-annual-enterprise-channel-archived.md)</span></span>
-
- ## <a name="release-history-for-office-deployment-tool"></a><span data-ttu-id="7c8b9-122">Versionsverlauf für das Office-Bereitstellungstool</span><span class="sxs-lookup"><span data-stu-id="7c8b9-122">Release history for Office Deployment Tool</span></span>
- <span data-ttu-id="7c8b9-123">Eine vollständige Liste der Releases des Office-Bereitstellungstools finden Sie in den folgenden Artikeln:</span><span class="sxs-lookup"><span data-stu-id="7c8b9-123">For a complete list of Office Deployment Tool releases, see the following article:</span></span>
- - [<span data-ttu-id="7c8b9-124">Versionsverlauf des Office-Bereitstellungstools</span><span class="sxs-lookup"><span data-stu-id="7c8b9-124">Release history for Office Deployment Tool</span></span>](ODT-release-history.md)
-
-## <a name="office-for-mac-release-information"></a><span data-ttu-id="7c8b9-125">Releaseinformationen für Office für Mac</span><span class="sxs-lookup"><span data-stu-id="7c8b9-125">Office for Mac release information</span></span>
-
-<span data-ttu-id="7c8b9-126">Informationen zu Updates für Office für Mac, das in jedem Microsoft 365-Abonnementplan enthalten ist, der Microsoft 365 Apps umfasst ist, finden Sie in den folgenden Artikeln:</span><span class="sxs-lookup"><span data-stu-id="7c8b9-126">For information about updates to Office for Mac, which is included with any Microsoft 365 subscription plan that includes Microsoft 365 Apps, see the following articles:</span></span>
- - [<span data-ttu-id="7c8b9-127">Updateverlauf für Office für Mac</span><span class="sxs-lookup"><span data-stu-id="7c8b9-127">Update history for Office for Mac</span></span>](update-history-office-for-mac.md)
- - [<span data-ttu-id="7c8b9-128">Anmerkungen zur Version für Office für Mac</span><span class="sxs-lookup"><span data-stu-id="7c8b9-128">Release notes for Office for Mac</span></span>](release-notes-office-for-mac.md)
- - [<span data-ttu-id="7c8b9-129">MAU-Versionsverlauf</span><span class="sxs-lookup"><span data-stu-id="7c8b9-129">MAU release history</span></span>](release-history-microsoft-autoupdate.md)
+- [<span data-ttu-id="2f625-112">Updateverlauf für Microsoft 365 Apps – nach Datum aufgelistet</span><span class="sxs-lookup"><span data-stu-id="2f625-112">Update history for Microsoft 365 Apps listed by date</span></span>](update-history-microsoft365-apps-by-date.md)
 
 
-## <a name="related-topics"></a><span data-ttu-id="7c8b9-130">Verwandte Themen</span><span class="sxs-lookup"><span data-stu-id="7c8b9-130">Related topics</span></span>
+ ## <a name="update-sizes-for-microsoft-365-apps-releases"></a><span data-ttu-id="2f625-113">Updategrößen für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="2f625-113">Update sizes for Microsoft 365 Apps releases</span></span>
 
-- <span data-ttu-id="7c8b9-131">[Übersicht über die Updatekanäle von Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="7c8b9-131">[Overview of update channels for Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-of-update-channels-for-office-365-proplus)</span></span>
-- [<span data-ttu-id="7c8b9-132">Office-Bereitstellung</span><span class="sxs-lookup"><span data-stu-id="7c8b9-132">Office deployment</span></span>](https://docs.microsoft.com/deployoffice/)
-- [<span data-ttu-id="7c8b9-133">Neuerungen in Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="7c8b9-133">What's new in Microsoft 365 Apps?</span></span>](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
-- [<span data-ttu-id="7c8b9-134">Microsoft 365 Apps-Roadmap</span><span class="sxs-lookup"><span data-stu-id="7c8b9-134">Microsoft 365 Apps Roadmap</span></span>](https://products.office.com/business/office-365-roadmap)
-- [<span data-ttu-id="7c8b9-135">Übersicht über das Microsoft 365 Apps-Nachrichtencenter</span><span class="sxs-lookup"><span data-stu-id="7c8b9-135">Overview of the Microsoft 365 Apps Message Center</span></span>](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
-- [<span data-ttu-id="7c8b9-136">Windows 10-Versionsinformationen</span><span class="sxs-lookup"><span data-stu-id="7c8b9-136">Windows 10 release information</span></span>](https://www.microsoft.com/itpro/windows-10/release-information)
-- [<span data-ttu-id="7c8b9-137">Leitfaden für Microsoft-Sicherheitsupdates</span><span class="sxs-lookup"><span data-stu-id="7c8b9-137">Microsoft Security Update Guide</span></span>](https://portal.msrc.microsoft.com/)
+<span data-ttu-id="2f625-114">Eine vollständige Liste der Updategrößen für die einzelnen Versionen finden Sie im folgenden Artikel:</span><span class="sxs-lookup"><span data-stu-id="2f625-114">For a complete list of update releases sizes, see the following article:</span></span>
+ - [<span data-ttu-id="2f625-115">Downloadgrößen für Updates von Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="2f625-115">Download sizes for updates to Microsoft 365 Apps</span></span>](download-sizes-microsoft365-apps-updates.md)
+
+## <a name="release-notes-for-microsoft-365-apps-releases"></a><span data-ttu-id="2f625-116">Anmerkungen zur Version für Microsoft 365 Apps-Versionen</span><span class="sxs-lookup"><span data-stu-id="2f625-116">Release notes for Microsoft 365 Apps releases</span></span>
+
+<span data-ttu-id="2f625-117">Eine vollständige Liste der Anmerkungen zur Version nach Updatekanal und Jahr finden Sie in den folgenden Artikeln:</span><span class="sxs-lookup"><span data-stu-id="2f625-117">For a complete list of release notes by update channel and year, see the following articles:</span></span>
+ - <span data-ttu-id="2f625-118">Aktueller Kanal: [Anmerkungen zur Version](current-channel.md), [Archivierte Anmerkungen zur Version](monthly-channel-archived.md)</span><span class="sxs-lookup"><span data-stu-id="2f625-118">Current Channel: [Release Notes](current-channel.md), [Archived Release Notes](monthly-channel-archived.md)</span></span>
+ - <span data-ttu-id="2f625-119">Monatlicher Enterprise-Kanal:  [Anmerkungen zur Version](monthly-enterprise-channel.md)</span><span class="sxs-lookup"><span data-stu-id="2f625-119">Monthly Enterprise Channel:  [Release Notes](monthly-enterprise-channel.md)</span></span>
+ - <span data-ttu-id="2f625-120">Halbjährlicher Enterprise-Kanal (Vorschau): [Anmerkungen zur Version](semi-annual-enterprise-channel-preview.md), [Archivierte Anmerkungen zur Version](semi-annual-enterprise-channel-preview-archived.md)</span><span class="sxs-lookup"><span data-stu-id="2f625-120">Semi-Annual Enterprise (Preview): [Release Notes](semi-annual-enterprise-channel-preview.md), [Archived Release Notes](semi-annual-enterprise-channel-preview-archived.md)</span></span>
+ - <span data-ttu-id="2f625-121">Halbjährlicher Enterprise-Kanal: [Anmerkungen zur Version](semi-annual-enterprise-channel.md), [Archivierte Anmerkungen zur Version](semi-annual-enterprise-channel-archived.md)</span><span class="sxs-lookup"><span data-stu-id="2f625-121">Semi-Annual Enterprise: [Release Notes](semi-annual-enterprise-channel.md), [Archived Release Notes](semi-annual-enterprise-channel-archived.md)</span></span>
+
+ ## <a name="release-history-for-office-deployment-tool"></a><span data-ttu-id="2f625-122">Versionsverlauf für das Office-Bereitstellungstool</span><span class="sxs-lookup"><span data-stu-id="2f625-122">Release history for Office Deployment Tool</span></span>
+ <span data-ttu-id="2f625-123">Eine vollständige Liste der Releases des Office-Bereitstellungstools finden Sie in den folgenden Artikeln:</span><span class="sxs-lookup"><span data-stu-id="2f625-123">For a complete list of Office Deployment Tool releases, see the following article:</span></span>
+ - [<span data-ttu-id="2f625-124">Versionsverlauf des Office-Bereitstellungstools</span><span class="sxs-lookup"><span data-stu-id="2f625-124">Release history for Office Deployment Tool</span></span>](ODT-release-history.md)
+
+## <a name="office-for-mac-release-information"></a><span data-ttu-id="2f625-125">Releaseinformationen für Office für Mac</span><span class="sxs-lookup"><span data-stu-id="2f625-125">Office for Mac release information</span></span>
+
+<span data-ttu-id="2f625-126">Informationen zu Updates für Office für Mac, das in jedem Microsoft 365-Abonnementplan enthalten ist, der Microsoft 365 Apps umfasst ist, finden Sie in den folgenden Artikeln:</span><span class="sxs-lookup"><span data-stu-id="2f625-126">For information about updates to Office for Mac, which is included with any Microsoft 365 subscription plan that includes Microsoft 365 Apps, see the following articles:</span></span>
+ - [<span data-ttu-id="2f625-127">Updateverlauf für Office für Mac</span><span class="sxs-lookup"><span data-stu-id="2f625-127">Update history for Office for Mac</span></span>](update-history-office-for-mac.md)
+ - [<span data-ttu-id="2f625-128">Anmerkungen zur Version für Office für Mac</span><span class="sxs-lookup"><span data-stu-id="2f625-128">Release notes for Office for Mac</span></span>](release-notes-office-for-mac.md)
+ - [<span data-ttu-id="2f625-129">MAU-Versionsverlauf</span><span class="sxs-lookup"><span data-stu-id="2f625-129">MAU release history</span></span>](release-history-microsoft-autoupdate.md)
+
+
+## <a name="related-topics"></a><span data-ttu-id="2f625-130">Verwandte Themen</span><span class="sxs-lookup"><span data-stu-id="2f625-130">Related topics</span></span>
+
+- <span data-ttu-id="2f625-131">[Übersicht über die Updatekanäle von Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus).</span><span class="sxs-lookup"><span data-stu-id="2f625-131">[Overview of update channels for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/overview-of-update-channels-for-office-365-proplus)</span></span>
+- [<span data-ttu-id="2f625-132">Office-Bereitstellung</span><span class="sxs-lookup"><span data-stu-id="2f625-132">Office deployment</span></span>](https://docs.microsoft.com/deployoffice/)
+- [<span data-ttu-id="2f625-133">Neuerungen in Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="2f625-133">What's new in Microsoft 365 Apps?</span></span>](https://support.office.com/article/95c8d81d-08ba-42c1-914f-bca4603e1426)
+- [<span data-ttu-id="2f625-134">Microsoft 365 Apps-Roadmap</span><span class="sxs-lookup"><span data-stu-id="2f625-134">Microsoft 365 Apps Roadmap</span></span>](https://products.office.com/business/office-365-roadmap)
+- [<span data-ttu-id="2f625-135">Übersicht über das Microsoft 365 Apps-Nachrichtencenter</span><span class="sxs-lookup"><span data-stu-id="2f625-135">Overview of the Microsoft 365 Apps Message Center</span></span>](https://support.office.com/article/38fb3333-bfcc-4340-a37b-deda509c2093)
+- [<span data-ttu-id="2f625-136">Windows 10-Versionsinformationen</span><span class="sxs-lookup"><span data-stu-id="2f625-136">Windows 10 release information</span></span>](https://aka.ms/windows/releaseinfo)
+- [<span data-ttu-id="2f625-137">Leitfaden für Microsoft-Sicherheitsupdates</span><span class="sxs-lookup"><span data-stu-id="2f625-137">Microsoft Security Update Guide</span></span>](https://portal.msrc.microsoft.com/)
 
 > [!NOTE]
-> <span data-ttu-id="7c8b9-138">Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.</span><span class="sxs-lookup"><span data-stu-id="7c8b9-138">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
+> <span data-ttu-id="2f625-138">Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.</span><span class="sxs-lookup"><span data-stu-id="2f625-138">If you need help with an issue with using Office, we recommend that you post your question on [Microsoft's Answers forum](https://answers.microsoft.com/) or [Tech Community](https://techcommunity.microsoft.com/), or you can contact [support](https://support.microsoft.com/contactus).</span></span>
