@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 7e328c89e2aae647ced22808720a1bcfdf906f79
-ms.sourcegitcommit: aae2d2bcce3ea8a26226062f0ad695d80587db11
+ms.openlocfilehash: 5c14b7c5e42d76034712a07789bce366b69d1543
+ms.sourcegitcommit: 1404eb977e0bc5d5de5a89c713eae9f32fdc877f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49750626"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49780681"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,151 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2101-january-07"></a>Version 2101: 7. Januar
+*Version 2101 (Build 13628.20030)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Verbesserte Dialogfelder für bedingte Formatierung:** Die Größe von Dialogfeldern für bedingte Formatierung kann jetzt geändert und die Regel mit einem einzigen Klick dupliziert werden. [Weitere Informationen](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, bei dem Excel fälschlicherweise eine Meldungsleiste anzeigt, dass eine neue Version der Datei verfügbar ist, und den Benutzer auffordert, seine Änderungen in einer Kopie der Arbeitsmappe zu speichern oder die Änderungen zu verwerfen.
+
+
+- Es wurde ein Problem mit dem Wechsel von Trennzeichen nach einem Aufruf von Selection.Parent.Copy behoben.
+
+
+- Leistungsverbesserungen wurden erzielt, wenn Formatvorlagen auf Pivot-Tabellen angewendet werden.
+
+
+- Es wurde ein Problem behoben, bei dem Excel möglicherweise Makros ohne Anfrage deaktiviert lässt, wenn eine Excel-Add-In-Datei geöffnet wird, die Excel 4.0 Makros beinhaltet.
+
+
+- Aktualisierung, damit die Einstellungen für Dezimal- und Tausendertrennzeichen übernommen werden, wenn ein Diagramm aus Excel kopiert und in Word eingefügt wird
+
+
+- Ein Problem wurde behoben, durch das Excel beim Öffnen von UNC-Dateien mit ungültigen Dateiattributen (Erstellungszeit, Änderungszeit usw.) unerwartet geschlossen wurde.
+
+
+- Es wurde ein Problem behoben, das bei Verwendung der STOCKHISTORY-Funktion die Warnung „keine Ressourcen mehr“ verursachen könnte.
+
+
+- Es wurde eine FuzzyClustering dll zur Liste der PQ dlls hinzugefügt.
+
+
+- Diese Änderung behebt ein Problem im Zusammenhang mit dem Ändern der Umrissfarben von SVG-Bildern.
+
+
+- Ein Problem wurde behoben, bei dem die Vorschau des eingebetteten Excel-Bereich in PowerPoint eine falsche Größe anzeigt.
+
+
+### <a name="onenote"></a>OneNote
+
+- Diese Änderung adressiert ein Rendering-Problem, das OneNote betrifft.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer beim Starten eines Seriendrucks von Word aus nicht angeben konnten, wie lange sie den Zugriff zulassen wollten, was dazu führte, dass sie übermäßig viele Eingabeaufforderungen erhielten.
+
+
+- Durch diese Änderung kann Outlook eine Exchange-Servereinstellung nutzen, welche die Anzeige des Exchange Online-Archivpostfachs für Endbenutzer unterdrückt.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook für Benutzer von auf Einlösung basierenden Add-Ins unerwartet geschlossen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer nicht mehr als eine Kategorie für die Suche auswählen konnten.
+
+
+- Es wurde ein Problem behoben, bei dem die Startzeit einiger Kalenderelemente unerwartet verändert wurden, wenn ein Ereignis aus einem anderen Termin kopiert wird.
+
+
+- Behebung eines Problems, das dazu führte, dass Klartext-S/MIME-Nachrichten beim Senden verstümmelt wurden.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Diese Änderung adressiert ein Problem beim Formen zusammenführen, wenn mit Text gearbeitet wird.
+
+
+- Diese Änderung behebt ein Problem im Zusammenhang mit dem Ändern der Umrissfarben von SVG-Bildern.
+
+
+- Diese Änderung behebt ein Problem mit der wiederholten Wiedergabe von Hintergrundvideos in einer Bildschirmpräsentation.
+
+
+- Es wurde ein Problem behoben, bei dem der Befehl "Schriftgrad", der in QAT hinzugefügt wurde, beim Aktualisieren automatisch zum nächsten definierten Schriftgrad vervollständigt wird.
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem die maximalen Einheiten einer Ressource nicht immer die letzte Aktualisierung der maximalen Einheiten widerspiegelten.
+
+
+### <a name="visio"></a>Visio
+
+- Das Problem trat aufgrund einer aktuellen Regression auf. Dieses Problem wurde gelöst. Im Dialogfeld „als Webseite speichern“ werden die Felder nun nach den Benutzereingaben ordnungsgemäß ausgefüllt, und die Benutzer können Ihre Dateien nahtlos als Webseiten speichern.
+
+
+- Das Problem wurde behoben. Sie können jetzt Visio-Dateien als Objekte in anderen Office-Anwendungen wie PowerPoint und Word einbetten und aus diesen Anwendungen nahtlos darauf zugreifen.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem Computer mit benutzerdefinierten Hash-Einstellungen Probleme bekamen, wenn sie in eine Gemeinschaftssitzung mit einer anderen Hash-Einstellung als sha512 eintraten.
+
+
+- Diese Änderung behebt ein Problem im Zusammenhang mit dem Ändern der Umrissfarben von SVG-Bildern.
+
+
+- Ein Problem beim Bearbeiten von Kommentaren mit @erwähnen wurde behoben.
+
+
+- Ein Problem wurde behoben, um moderne Kommentare robuster zu machen.
+
+
+- Es wurde ein Problem mit dem Löschen von modernen Kommentaren in einem Inhaltssteuerelement behoben, das als nicht bearbeitbar gekennzeichnet ist.
+
+
+- Es wurde ein Problem mit der Animation behoben, wenn am Ende der Kommentarkarte eine Eingabe gemacht wurde.
+
+
+- Behebung des Problems, bei dem das Antwortfeld auf einer Kommentarkarte nicht auf dem Bildschirm angezeigt wurde.
+
+
+- Behebung des Problems mit einer Kommentarkarte, die oben auf der Seite angezeigt wird.
+
+
+- Behebung eines Problems in Kommentaren, bei denen Text über den Bildschirm hinausgehen kann.
+
+
+- Behebung eines Problems mit verschachtelten Bildlaufleisten im Kommentarbereich.
+
+
+- Kommentarentwürfe verschwinden beim Anlegen einer neuen Word-Instanz.
+
+
+- Es wurde ein Problem behoben, bei dem Word beim Speichern von Dokumenten mit verborgenem Text ins PDF-Format hängen bleibt.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2012-january-04"></a>Version 2012: 4. Januar
 *Version 2012 (Build 13530.20316)*
@@ -1479,7 +1624,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2847,7 +2992,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - Ein Problem wurde behoben, das dazu führte, dass beim Öffnen mehrerer Dokumente in Word/Excel/PowerPoint aus derselben SharePoint-Bibliothek lediglich das erste geöffnete Dokument auf Richtlinienkonformität gescannt wurde.
 
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSWENDE)
+[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
 
 ## <a name="version-2002-march-05"></a>Version 2002: 05. März
 *Version 2002 (Build 12527.20278)*
