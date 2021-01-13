@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 8c3c42b5eb9ee1583736bc0e9df002b407ae71a5
-ms.sourcegitcommit: f42b5b75d8599f1876094ae2ceb5411519b69a31
+ms.openlocfilehash: a2463c58b44cb868e93ade384ea95f92a24bb22c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49778876"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837486"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -36,34 +36,42 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+## <a name="january-12-2021"></a>12. Januar 2021
 
-## <a name="january-7-2021"></a>7. Januar 2021
+[//]: # (INHALTE NICHT ENTFERNEN START 12. Januar 2021)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Das aktuellste Release ist Version 2012 (Build 13530.20376).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2012 (Build 13530.20316) <br/> |4. Januar 2021 <br/> |56<br/> |
+|Version 2011 (Build 13426.20404) <br/> |21. Dezember 2020 <br/> |151<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2011 (Build 13426.20504).</i>
+Das aktuellste Release ist Version 2011 (Build 13426.20526).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2010 (Build 13328.20478) <br/> |8. Dezember 2020 <br/> |146<br/> |
 
 
-
 ### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
 
-<i>Das erwartete Release ist Version 2008 (Build 13127.21032).</i>
+Das aktuellste Release ist Version 2008 (Build 13127.21064).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2008 (Build 13127.20910) <br/> |8. Dezember 2020 <br/> |56<br/> |
-|Version 2008 (Build 13127.20760) <br/> |10. November 2020 <br/> |71<br/> |
+|Version 2008 (Build 13127.20910) <br/> |8. Dezember 2020 <br/> |48<br/> |
+|Version 2008 (Build 13127.20760) <br/> |10. November 2020 <br/> |72<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2102 (Build 13127.21032).</i>
+Das aktuellste Release ist Version 2008 (Build 13127.21064).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -71,7 +79,11 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 2002 (Build 12527.21330) <br/> |10. November 2020 <br/> |373<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+
+[//]: # (INHALTE NICHT ENTFERNEN ENDE 12. Januar 2021)
+
+
+
 
 ## <a name="january-5-2021"></a>5. Januar 2021
 
@@ -213,7 +225,7 @@ Die aktuellste Version ist Version 2010 (Build 13328.20408).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2010 (Build 13328.20356) <br/> |10. November 2020 <br/> |51<br/> |
-|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
+|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
 
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE 17. November 2020)

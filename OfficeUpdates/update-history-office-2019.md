@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: eb4a72d623336e4d8f9032a652626981b49917c0
-ms.sourcegitcommit: 83279185266cdc7c628bc5092360d2914e240034
+ms.openlocfilehash: edd403ffd46e30ff36f158c898946763de32fbb1
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49756744"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837646"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -47,12 +47,12 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|12. Januar 2021|Version 1808 (Build 10370.20052)|
 |8. Dezember 2020|Version 1808 (Build 10369.20032)|
 |10. November 2020|Version 1808 (Build 10368.20035)|
 |13. Oktober 2020|Version 1808 (Build 10367.20048)|
 |8. September 2020|Version 1808 (Build 10366.20016)|
 |11. August 2020|Version 1808 (Build 10364.20059)|
-|14. Juli 2020   |Version 1808 (Build 10363.20015)  |
 
 
 [//]: # (NICHT ENTFERNEN VL TABELLE ENDE)
@@ -66,6 +66,7 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|14. Juli 2020   |Version 1808 (Build 10363.20015)  |
 |9. Juni 2020   |Version 1808 (Build 10361.20002)  |
 |12. Mai 2020   |Version 1808 (Build 10359.20023)  |
 |14. April 2020   |Version 1808 (Build 10358.20061)  |
@@ -88,12 +89,12 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|12. Januar 2021|Version 2012 (Build 13530.20376)|
 |5. Januar 2021|Version 2012 (Build 13530.20316)|
 |21. Dezember 2020|Version 2011 (Build 13426.20404)|
 |8. Dezember 2020|Version 2011 (Build 13426.20332)|
 |2. Dezember 2020|Version 2011 (Build 13426.20308)|
 |30. November 2020|Version 2011 (Build 13426.20294)|
-|23. November 2020|Version 2011 (Build 13426.20274)|
 
 
 [//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
@@ -107,6 +108,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|23. November 2020|Version 2011 (Build 13426.20274)|
 |17. November 2020|Version 2010 (Build 13328.20408)|
 |10. November 2020|Version 2010 (Build 13328.20356)|
 |27. Oktober 2020|Version 2010 (Build 13328.20292)|
