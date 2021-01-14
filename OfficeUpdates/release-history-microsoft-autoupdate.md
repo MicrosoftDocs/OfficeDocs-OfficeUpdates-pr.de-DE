@@ -228,7 +228,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Bei MacOS-Computern mit SSD treten aufgrund von Updates schnellere Aktualisierungen und vernachlässigbar geringe App-Stillstandszeiten auf.
 
 
-Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0984)
+Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 Hash:**
 
