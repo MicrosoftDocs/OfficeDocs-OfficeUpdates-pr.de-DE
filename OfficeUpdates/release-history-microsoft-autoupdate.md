@@ -8,27 +8,44 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
-description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: f6b5462189fa7cf9310c3d69b8ab34474ed96c07
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+description: Bietet IT-Profis einen Versionsverlauf für Microsoft Auto Update (MAU)
+ms.openlocfilehash: 5250255af7fe776e7f8ed07a7d5987076fc08079
+ms.sourcegitcommit: 053560beb18fc8b527e2be661b165e0034e3b1bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684077"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49849490"
 ---
-# <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
+# <a name="release-history-for-microsoft-auto-update-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
-Es wird empfohlen, dass Sie immer auf die aktuelle Version von Microsoft AutoUpdate (MAU) aktualisieren.
+Wir empfehlen, immer auf die neueste Version von Microsoft Auto Update (MAU) zu aktualisieren.
 
-Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft AutoUpdate. Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle. Alle Updatepakete sind 64-Bit-Versionen.
+Die folgende Tabelle enthält Informationen über den Verlauf von Microsoft Auto Update. Die Tabelle ist nach Versionsdatum geordnet, wobei das neueste Datum zuerst aufgeführt ist. Alle Update-Pakete sind 64-Bit-Versionen.
 
 
 > [!NOTE]
 > 
-> - Downloadlinks sind nur für das aktuelle Release von Microsoft AutoUpdate verfügbar.
-> - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
+> - Downloadlinks sind nur für die aktuelle Version von Microsoft AutoUpdate verfügbar.
+> - Microsoft Auto Update stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Möglicherweise erhalten Sie daher eine Benachrichtigung zur Aktualisierung von Microsoft Auto Update, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+
+## <a name="january-2021-release"></a>Release vom Januar 2021
+
+**Veröffentlichungsdatum:** 13. Januar 2020
+
+*Microsoft Auto Update 4.31*
+
+**Bugfixes und Verbesserungen:**
+- Bei Geräten, die nicht auf automatische Updates eingestellt sind, informiert Microsoft Auto Update jetzt über neue Updates per Benachrichtigung, anstatt die MAU UI zu öffnen.
+
+[Microsoft Auto Update 4.31-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.31.21011103_Updater.pkg)<br/>
+<br/>
+**SHA-256-Hash:**
+
+209B444D2831B879BB73C92041A1C7318C1D5BA58B4689F6C4FC842B0930B532
+
+<br/><br/>
 
 ## <a name="december-2020-release"></a>Release vom Dezember 2020
 
@@ -41,7 +58,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 **MAU-Updatelink:**
 
-[Microsoft AutoUpdate 4.30-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Microsoft AutoUpdate 4.30-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -58,11 +75,11 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 **Bugfixes und Verbesserungen:**
 -   Aktualisierte Kanalnamen für Microsoft 365.
--   Es wurde ein Problem behoben, das verhindert hat, dass bestimmte OneDrive-Installationen Updates erhalten.
+-   Ein Problem wurde behoben, durch das bestimmte OneDrive-Installationen keine Updates erhalten konnten.
 
 **MAU Update Link:**
 
-[Download Microsoft Auto Update 4.29-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Download Microsoft Auto Update 4.29-Paket](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.29.20110804_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -83,7 +100,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 **MAU-Updatelink:**
 
-[Microsoft AutoUpdate 4.28-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Microsoft AutoUpdate 4.28-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
 <br/>
 **SHA-256-Hashwert:**
 
@@ -102,7 +119,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 **MAU-Updatelink:**
 
-[Microsoft Auto-Update 4.27-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Microsoft Auto-Update 4.27-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.27.20091302_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -126,7 +143,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 **MAU-Updatelink:**
 
-[Download Microsoft Auto Update 4.26 Package](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
+[Download Microsoft Auto Update 4.26 Package](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.26.20081000_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -142,15 +159,11 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 **Bugfixes und Verbesserungen:**
 - Erkennen Sie die App-Beendigung und entfernen Sie automatisch den angezeigten Dialog im Zusammenhang mit "App öffnen".
-- Das in der April-Version eingeführte Feature wurde wiederhergestellt, in dem Benutzern mit automatischer Aktualisierung die Microsoft AutoUpdate-Benutzeroberfläche nur einmal pro Woche angezeigt wird.
+- Das in der April-Version eingeführte Feature, bei dem Benutzer mit deaktivierten automatischen Updates die Microsoft Auto Update UI nur einmal pro Woche sehen konnten, wurde rückgängig gemacht.
 - Ein Problem wurde behoben, bei dem der Update-Assistent nach dem Herunterladen der Updates vor der Installation abgebrochen wurde.
 - Ein Problem wurde behoben, bei dem der Update-Assistent nach einer längeren Zeit nicht beendet wurde, als Benutzerbenachrichtigungen ausstanden.
 - Ein Problem wurde behoben, bei dem die MAU-Benutzeroberfläche nach der Installation erneut geöffnet (oder nicht erneut geöffnet) wurde. Die Benutzeroberfläche sollte nach der Installation geöffnet werden, wenn das Update über die MAU-Benutzeroberfläche selbst initiiert wird oder wenn ein Update explizit vom Benutzer initiiert wird (über Finder, Terminal usw.).
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.25-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
@@ -167,10 +180,6 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 - Kunden-Messaging-Kampagne: Office für Mac 2016 wird ab Oktober 2020 nicht mehr unterstützt. 
 - Security Fix für MAU's Hilfsprogramm XPC Connection.
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.24-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
@@ -185,12 +194,8 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 **Bugfixes und Verbesserungen:**
 - Bei Geräten, die MacOS 10.13 oder höher und Office 2016-Versionen verwenden, werden den Benutzern Benachrichtigung angezeigt, dass der Support für Office 2016 endet. 
-- Wenn in den Apps für Word, Excel und PowerPoint kein Fenster geöffnet ist und sich das Gerät im automatischen Aktualisierungsmodus von Microsoft AutoUpdate befindet, müssen diese Apps von den Benutzern nicht geschlossen werden, damit Updates zur Anwendung kommen. 3. Microsoft AutoUpdate aktualisiert jetzt automatisch sein Update-Dashboard mit den neuesten Versionen im CDN, ohne dass der Benutzer dieses aktualisieren oder eine neue AutoUpdate-Sitzung starten muss.
+- Wenn für die Apps Word, Excel und PowerPoint kein Fenster geöffnet ist und auf dem Gerät der automatische Aktualisierungsmodus von Microsoft Auto Update aktiviert ist, müssen diese Apps nicht geschlossen werden, um Updates anzuwenden. 3. Das Update-Dashboard von Microsoft Auto Update wird jetzt automatisch mit den neuesten Versionen im CDN aktualisiert, ohne dass Benutzer es aktualisieren oder eine Auto Update-Sitzung starten müssen. 
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.23-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 7DAB76D11427BACF30D3DBD87374CE755C618262E68FC3CA85B3FB8F3F3750AD
@@ -204,12 +209,8 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 *Microsoft Auto Update 4.22*
 
 **Bugfixes und Verbesserungen:**
-- Die Microsoft AutoUpdate-UI wird nicht auf Geräten angezeigt, die Office-Apps über Microsoft AutoUpdate im Modus „Automatisch“ aktualisieren, und für Geräte, die Updates im nicht-automatischen Modus durchführen, wenn keine neuen Updates verfügbar sind.
+- Die Microsoft Auto Update UI wird nicht auf Geräten angezeigt, wenn Office-Apps über Microsoft Auto Update automatisch oder manuell aktualisiert werden, wenn keine neuen Updates verfügbar sind.
 
-**MAU Update Link:**
-
-[Download Microsoft Auto Update 4.22 Package](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 2D672B377C6A1115FDC509E45E6AFF663D8F15412D4EB77E033085700DC1B72B
@@ -222,17 +223,13 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
  **Featureupdates:**
 
-- Sicherheitsproblembehebung: Microsoft AutoUpdate verhindert alle unsicheren Verbindungen von älteren Versionen.
-- Benutzern, die automatische Updates DEAKTIVIERT haben, wird die Microsoft AutoUpdate-Benutzeroberfläche nur einmal pro Woche angezeigt.
+- Sicherheits-Fix: Microsoft Auto Update verhindert nun unsichere Verbindungen von älteren Versionen.
+- Wenn die Funktion "Automatische Updates" deaktiviert ist, wird die Microsoft Auto Update UI nur einmal pro Woche angezeigt.
 - Bei MacOS-Computern mit SSD treten aufgrund von Updates schnellere Aktualisierungen und vernachlässigbar geringe App-Stillstandszeiten auf.
 
 
 Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0984)
 
-**MAU Update Link:**
-
-[Download Microsoft Auto Update 4.22 Package](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 2E202B0B65AC093BDBFDA47F2A62758E44E0FBC09383B121EAA76206CF2B3EAB
@@ -246,13 +243,8 @@ Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/
 
  **Featureupdates:**
 
-- Statuswiederherstellung aktiviert für Word, Excel und PowerPoint, wenn diese Anwendungen ohne geöffnete Fenster oder mit dem Docstage-Status im Modus "Automatische Updates" von Microsoft AutoUpdate ausgeführt werden. Jetzt werden Updates für Endbenutzer im Modus "Automatische Updates" noch unauffälliger ausgeführt, da Benutzer ihre Apps, die sich für ein Update über die Zustandswiederherstellung qualifizieren, nicht beenden müssen.
+- Statuswiederherstellung ist im automatischen Update-Modus von Microsoft Auto Update aktiviert für Word, Excel und PowerPoint, die ohne geöffnete Fenster oder im Docstage-Zustand ausgeführt werden. Jetzt werden Updates für Endbenutzer im Modus "Automatische Updates" noch unauffälliger ausgeführt, da Benutzer ihre Apps, die sich für ein Update über die Zustandswiederherstellung qualifizieren, nicht beenden müssen.
 
-
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.21-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 9AF2FAF4854BF06F33322A8530275F8D32965C91D446C45A0CD8BC4C5DF04F44
@@ -266,14 +258,9 @@ Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/
 
  **Featureupdates:**
 
-- Die Benutzeroberfläche von Microsoft AutoUpdate wird erst gestartet, wenn mindestens eine App auf dem Gerät bei MAU registriert wurde.
-- Fehlerbehebungen und Verbesserungen
+- Microsoft Auto Update UI wird nur gestartet, wenn mindestens eine App auf dem Gerät bei MAU registriert ist
+- Bugfixes und Verbesserungen
 
-
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.20-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 80DD0637AA60007310FB7B68C01926F6CA0F2771DBB42166C191626607D89B56<br/><br/>
@@ -288,11 +275,6 @@ Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/
 
 - Bugfixes und Verbesserungen
 
-
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.19-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
@@ -307,12 +289,7 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 - Kanal pro App: Mac-Administratoren können nun unterschiedliche Kanäle oder Validierungsringe pro App abonnieren. 
 
-
-**MAU-Updatelink**:
-
-[Download Microsoft Auto Update 4.18-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
-**SHA-256-Hash**:
+**SHA-256-Hashwert:**
 
 11D051503067DB9819C84C8D1EBE29435A781D29C6B1FE3173DB03DC88F1B4C3<br/><br/>
 
@@ -324,14 +301,9 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **Featureupdates:**
 
-- Die neuen Funktionen in den einzelnen Hauptupdates sind jetzt im Microsoft AutoUpdate-Dashboard zu sehen.
+- Die Neuerungen in jedem größeren Update können jetzt auf dem Microsoft Auto Update Dashboard aufgerufen werden.
 - Die minimalen Betriebssystemanforderungen für Office 2019-Updates haben sich mit der Veröffentlichung von Catalina auf macOS 10.13 geändert und wir benachrichtigen die Benutzer, ein Upgrade durchzuführen, um die neuesten Office-Updates erhalten zu können.
 
-
-**MAU-Updatelink:**
-
-[Download Microsoft Auto Update 4.17-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hash:**
 
 0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
@@ -344,13 +316,8 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
  **Featureupdates:**
 
-- Wenn Sie Microsoft AutoUpdate 4.16 starten, ist die neue, verbesserte Endbenutzeroberfläche ab sofort für alle Kunden verfügbar.
+- Ab Microsoft Auto Update 4.16 ist die neue, verbesserte Benutzerumgebung für alle Kunden verfügbar.
 
-
-**MAU-Updatelink**:
-
-[Download Microsoft Auto Update 4.16-Paket](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256 Hash:**
 
 5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
@@ -366,11 +333,6 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 - MAU AU Daemon heißt jetzt Microsoft Update-Assistent.
 - Ein Problem wurde behoben, bei dem der Fokus beim Ausführen des Befehls "msupdate" aus der Vordergrund-App gestohlen wurde.
 
-
-**MAU-Updatelink**:
-
-[Microsoft Auto Update 4.15-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hash**:
 
 E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
@@ -385,11 +347,6 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 - Verschiedene Probleme zum Verbessern von Voiceover-Übersetzungen, Update-Leistung und Benutzeroberfläche wurden behoben.
 - Telemetrie und Fehlerkorrekturen für die Problembehandlung wurden hinzugefügt.
 
-
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.14-Paket herunterladen](https://go.microsoft.com/fwlink/?linkid=830196)<br/>
-<br/>
 **SHA-256-Hash:**
 
 76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
@@ -405,10 +362,6 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 - Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - Korrekturen verschiedene Fehler und Leistungsprobleme.
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.13-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.13.19071800_Updater.pkg)<br/>
-<br/>
 **SHA-256-Hash:**
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
@@ -421,12 +374,8 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
  **Featureupdates:**
 
-- Problem mit der Apple OS-Beta Version behoben, in der Fehler bei vollständigen MAU-Updates auftreten. 
+- Ein Problem mit Apple OS Beta wurde behoben, das zu Fehlern bei MAU-Updates für Voll-Updater führte. 
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.12-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19062700_Updater.pkg)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
@@ -442,10 +391,6 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 - Unterstützung für Zubehör-Apps: Mau unterstützt jetzt Zubehör-Apps wie Microsoft OneDrive.
 - Installieren von Klonerweiterungen: Das Aktualisieren von Clones ist nun robuster und ausfallsicher.
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.12-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.12.19060901_Updater.pkg)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
@@ -464,10 +409,6 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 - Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
 - Korrekturen verschiedene Fehler und Leistungsprobleme.
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.11-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.11.19051201_Updater.pkg)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
@@ -484,10 +425,6 @@ EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 - Verbesserungen des Features "Auf Klon installieren": Für SSD-Geräte werden Updates auf Klones von derzeit verwendeten Apps implementiert, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
 - Installationsoptimierungen: Der Updateprozess verwendet parallelisiertes Klonen, wodurch die Ausfallzeiten der App aufgrund von Updates reduziert werden.
 
-**MAU-Updatelink:**
-
-[Microsoft Auto Update 4.10-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.10.19041401_Updater.pkg)<br/>
-<br/>
 **SHA-256-Hashwert:**
 
 FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
