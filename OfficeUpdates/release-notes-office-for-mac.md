@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: ab5f18ee1b2deb738e5d3e6e55a78a5adf624585
-ms.sourcegitcommit: 1587fea5b37f632608fe67e28030d380aba6b781
+ms.openlocfilehash: 5e63a6441de32b956a7e25e6bc0026d6fd485f2a
+ms.sourcegitcommit: 38acc55545cbeccd16603b7f731dc41a26e4a5ea
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49684087"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "49863202"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -49,6 +49,51 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="january-13-2021"></a>13. Januar 2021
+*Version 16.45 (Build 21011103)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="outlook"></a>Outlook
+
+- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen:** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+### <a name="word"></a>Word
+
+- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-1714](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1714)
+-   [CVE-2021-1713](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1713)
+
+### <a name="word"></a>Word
+
+-   [CVE-2021-1716](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1716)
+-   [CVE-2021-1715](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1715)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="december-15-2020"></a>15. Dezember 2020
 *Version 16.44 (Build 20121301)*
@@ -205,7 +250,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
+- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
 
 ### <a name="outlook"></a>Outlook
 
@@ -292,7 +337,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Daten aus einem Foto:** Fügen Sie Tabellendaten aus Bildern, aus der Registerkarte "Einfügen" oder direkt aus Ihrem iPhone hinzu. [Weitere Informationen](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
+- **Abrufen von Daten aus einem Foto:** Fügen Sie Tabellendaten aus Bildern, aus der Registerkarte "Einfügen" oder direkt aus Ihrem iPhone hinzu. [Weitere Informationen](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -348,14 +393,14 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Link zu Folie:** Bitten Sie einen Kollegen um einen Beitrag zu Ihrer Foliengruppe zu leisten, und leiten Sie ihn direkt zu der Folie, bei der Sie Hilfe benötigen. [Weitere Informationen](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Eingabe ohne Tippen:** Haben Sie ein Mikrofon? Klicken Sie auf "Diktieren", und beobachten Sie, wie Word tippt, während Sie sprechen. [Weitere Informationen](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/).
 
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)

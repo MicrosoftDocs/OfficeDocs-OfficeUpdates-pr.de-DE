@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: df3e2d20f3355f25da37aaeb078687a1c4763993
-ms.sourcegitcommit: 8d67b1150d1818c1faa7f0ef4d7ab58a7dd653d2
+ms.openlocfilehash: b9a5966e49653a4998a0cb3f3858decbe6f820c6
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49725070"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837366"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -28,6 +28,10 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
  **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="january-12-2021"></a>12. Januar 2021
+Version 16.0.13530.20376 (setup.exe Version 16.0.13530.20334)
+- Ein Problem wurde behoben, bei dem eine beschädigte oder nicht standardmäßige Produktregistrierung zum Fehlschlagen von RemoveMSI-Vorgängen führen konnte.
 
 ## <a name="december-21-2020"></a>21. Dezember 2020
 Version 16.0.13426.20370 (setup.exe Version 16.0.13426.20352)

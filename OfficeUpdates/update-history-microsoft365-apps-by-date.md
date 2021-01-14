@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 9bc0ae1c12110b0813e9cba587a5c9d2d0968bcc
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 042d0dd2267b94d06d3b55c4cfd5f50f2229448e
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760689"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837556"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -36,12 +36,13 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Aktueller Kanal<br/>|2012<br/>|13530.20316<br/>|5. Januar 2021<br/>|Version 2101 wird veröffentlicht<br/>|
-|Monatlicher Enterprise-Kanal<br/>|2010<br/>|13328.20478<br/>|8. Dezember 2020<br/>|9. Februar 2021<br/>|
-|Monatlicher Enterprise-Kanal<br/>|2009<br/>|13231.20620<br/>|8. Dezember 2020<br/>|12. Januar 2021<br/>|
-|Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2008<br/>|13127.20910<br/>|8. Dezember 2020<br/>|9. März 2021<br/>|
-|Halbjährlicher Enterprise-Kanal<br/>|2002<br/>|12527.21416<br/>|8. Dezember 2020<br/>|14. September 2021<br/>|
-|Halbjährlicher Enterprise-Kanal<br/>|1908<br/>|11929.20984<br/>|8. Dezember 2020<br/>|9. März 2021<br/>|
+|Aktueller Kanal<br/>|2012<br/>|13530.20376<br/>|12. Januar 2021<br/>|Version 2101 wird veröffentlicht<br/>|
+|Monatlicher Enterprise-Kanal<br/>|2011<br/>|13426.20526<br/>|12. Januar 2021<br/>|9. März 2021<br/>|
+|Monatlicher Enterprise-Kanal<br/>|2010<br/>|13328.20550<br/>|12. Januar 2021<br/>|9. Februar 2021<br/>|
+|Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2008<br/>|13127.21064<br/>|12. Januar 2021<br/>|9. März 2021<br/>|
+|Halbjährlicher Enterprise-Kanal<br/>|2008<br/>|13127.21064<br/>|12. Januar 2021<br/>|8. März 2022<br/>|
+|Halbjährlicher Enterprise-Kanal<br/>|2002<br/>|12527.21504<br/>|12. Januar 2021<br/>|14. September 2021<br/>|
+|Halbjährlicher Enterprise-Kanal<br/>|1908<br/>|11929.20994<br/>|12. Januar 2021<br/>|9. März 2021<br/>|
 
 [//]: # (EOSTABLEEND)
 
@@ -55,6 +56,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|12. Januar|[Version 2012 (Build 13530.20376)](current-channel.md#version-2012-january-12)|[Version 2011 (Build 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[Version 2010 (Build 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[Version 2008 (Build 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[Version 2008 (Build 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[Version 2002 (Build 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[Version 1908 (Build 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
 |2021|05. Januar|[Version 2012 (Build 13530.20316)](current-channel.md#version-2012-january-05)| | | |
 |2020|21. Dezember|[Version 2011 (Build 13426.20404)](current-channel.md#version-2011-december-21)| | | |
 |2020|08. Dezember|[Version 2011 (Build 13426.20332)](current-channel.md#version-2011-december-08)|[Version 2010 (Build 13328.20478)](monthly-enterprise-channel.md#version-2010-december-08)<br/>[Version 2009 (Build 13231.20620)](monthly-enterprise-channel.md#version-2009-december-08)|[Version 2008 (Build 13127.20910)](semi-annual-enterprise-channel-preview.md#version-2008-december-08)|[Version 2002 (Build 12527.21416)](semi-annual-enterprise-channel.md#version-2002-december-08)<br/>[Version 1908 (Build 11929.20984)](semi-annual-enterprise-channel.md#version-1908-december-08)|

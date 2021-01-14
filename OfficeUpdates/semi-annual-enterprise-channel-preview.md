@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: b10c08a3f2375ef3d11653d998f92b3df70a769d
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: 71bc9b10ba52a077ba5cb20e2ab916ef7190814c
+ms.sourcegitcommit: e7891ceed915afd2ae74689a366cebf9b3f60614
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760649"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "49837626"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals (Vorschau)
 
@@ -23,6 +23,78 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!IMPORTANT]
 > Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
+*Version 2008 (Build 13127.21064)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, bei dem in schreibgeschützten Arbeitsmappen beim Öffnen PivotTable-Daten nicht mehr aktualisiert wurden.
+
+
+- Diese Änderung bietet eine Korrektur für folgendes Problem: Der Excel-Befehl „Objekt einfügen“ zeigt beim Einfügen einer Datei aus dem lokalen Synchronisationsordner von OneDrive nicht das richtige Symbol an.
+
+
+- Es wurde ein Problem behoben, bei dem einigen Kunden während der gemeinsamen Erstellung fälschlicherweise über eine neue Version der Datei informiert wurden.
+
+
+- Ein Bearbeitungsproblem wurde behoben, bei dem bei Verwendung des IME im Überschreibmodus fehlerhaft zusätzliche Zeichen vorgeschoben wurden.
+
+
+- Ein Problem bei der Verwendung von Echtzeitdaten in Verbindung mit Multithread-Neuberechnungsfunktionen wurde behoben.
+
+
+- Ein Problem wurde behoben, bei dem Excel nicht gestartet werden konnte bzw. unerwartet geschlossen wurde, wenn bestimmte Einstellungen für den Schutz vor Windows-Sicherheit-Exploits (SimExec, CallerCheck) verwendet wurden.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, aufgrund dessen die Formatierung von SmartLinks beim Speichern in Entwürfen verloren ging.
+
+
+- Es wurde ein Problem behoben, durch das ein Benutzer eine Möglichkeit zum Anpassen des Rechtfertigungstexts bietet, wenn eine Richtlinie überschrieben wird.
+
+
+- Es wurde ein Problem behoben, durch das chinesische Zeichen beim Speichern als OFT-Datei in Fragezeichen geändert wurden.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein VBA-Problem wurde behoben, bei dem "Slide.Shapes.AddMediaObject2" bei veralteten Videoformaten unerwartet geschlossen wurde (MPG-1, MPEG-2).
+
+
+- Ein Problem wurde behoben, bei dem einige beschädigte PowerPoint-Dateien auch nach einem Dokumentreparaturvorgang nicht ordnungsgemäß geöffnet wurden.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Project beim Öffnen von Dateien manchmal abstürzte, wenn Ressourcenprofile auf eine bestimmte Weise angegeben wurden.
+
+
+### <a name="skype"></a>Skype
+
+- Ein Problem wurde behoben, bei dem das TLS-DSK-Zertifikat eines Benutzers nicht zum erwarteten Zeitpunkt, sondern nur dann verlängert wurde, wenn es nur noch weniger als 12 Stunden gültig war.
+
+
+- Ein Problem wurde behoben, bei dem die Benutzeroberfläche von Skype for Business nach der Anmeldung leer angezeigt wird, wenn Office noch nicht lizenziert ist.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Diese Änderung behebt ein Problem im Zusammenhang mit dem Öffnen von Dateien, die Legacydiagramme enthalten.
+
+
+- Diese Änderung behebt ein Problem mit SVG-Fallbackproxy, das zu Zugriffsverletzungen führt.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2008-december-08"></a>Version 2008: 08. Dezember
 *Version 2008 (Build 13127.20910)*
@@ -181,7 +253,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- Es wurde ein Problem behoben, bei dem das Forms-Inhalts-Add-In nach dem Einfügen erst dann gerendert wurde, wenn Benutzer auf eine andere Folie klickten, um sie anzuzeigen.
+- Es wurde ein Problem behoben, bei dem das Forms Content Add-In nach dem Einfügen erst dann gerendert wird, wenn Benutzer auf eine andere Folie klicken, um sie anzuzeigen.
 
 
 ### <a name="office-suite"></a>Office-Suite
@@ -1364,6 +1436,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
