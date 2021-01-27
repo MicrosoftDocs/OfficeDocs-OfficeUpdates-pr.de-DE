@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: f1209ee3059dd63e5f5bfd9c5be9230b9a3504ce
-ms.sourcegitcommit: 322c2ae414beb38571117d522ddc5a3abb9ecc11
+ms.openlocfilehash: 51483c9e4f31e4ded3f277a8a5a7a16caebd0ce0
+ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "49934403"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50013226"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -89,12 +89,12 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|26. Januar 2021|Version 2101 (Build 13628.20274)|
 |21. Januar 2021|Version 2012 (Build 13530.20440)|
 |12. Januar 2021|Version 2012 (Build 13530.20376)|
 |5. Januar 2021|Version 2012 (Build 13530.20316)|
 |21. Dezember 2020|Version 2011 (Build 13426.20404)|
 |8. Dezember 2020|Version 2011 (Build 13426.20332)|
-|2. Dezember 2020|Version 2011 (Build 13426.20308)|
 
 
 [//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
@@ -108,6 +108,7 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|2. Dezember 2020|Version 2011 (Build 13426.20308)|
 |30. November 2020|Version 2011 (Build 13426.20294)|
 |23. November 2020|Version 2011 (Build 13426.20274)|
 |17. November 2020|Version 2010 (Build 13328.20408)|
