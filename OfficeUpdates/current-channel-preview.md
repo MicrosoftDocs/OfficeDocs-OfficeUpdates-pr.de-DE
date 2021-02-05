@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 647619401b48a0770bc40c26d3ccafd11d511c91
-ms.sourcegitcommit: 596f79408a3c2db9e81ce0ef236680ead06035b6
+ms.openlocfilehash: 20c8d43321c9eb99ba667e7d9ec418de7eedf607
+ms.sourcegitcommit: 64ec3051f942003a63c28a4713f5511d85f2fa20
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 02/04/2021
-ms.locfileid: "50101363"
+ms.locfileid: "50105217"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -78,16 +78,11 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 - **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
+
 ### <a name="word"></a>Word
 
 - **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
-
-<br/>
-
-[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
@@ -97,6 +92,8 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
 
 ## <a name="version-2101-january-18"></a>Version 2101: 18. Januar
 *Version 2101 (Build 13628.20158)*
@@ -122,6 +119,19 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2101-january-13"></a>Version 2101: 13. Januar
+*Version 2101 (Build 13628.20118)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+- **Weitere Designs:** Für Desktop- und Webclients sind jetzt neue Designs verfügbar.
+
+- **PPT-Freigabe:** Referentenansicht in Teams. Sobald Sie eine PowerPoint-Datei in der Teilen-Leiste von Teams auswählen, wird automatisch die Referentenansicht geöffnet. Die aktuelle Folie, die Foliennotizen und ein Miniaturansichtenstreifen aller Folien im Deck für eine einfache Ad-hoc-Foliennavigation wird angezeigt. Diese Ansicht befindet sich vollständig im Hintergrund, ist privat und nur für den Referenten bestimmt, der die Präsentation leitet. Ihr Publikum kann nur die aktuelle Folie (hervorgehoben im großen roten Kasten) oder die Folie sehen, zu der es navigieren möchte (sofern die Zuschauernavigation nicht von Ihnen gesperrt wurde). 
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+<br/>
 
 ## <a name="version-2101-january-09"></a>Version 2101: 9. Januar
 *Version 2101 (Build 13628.20118)*

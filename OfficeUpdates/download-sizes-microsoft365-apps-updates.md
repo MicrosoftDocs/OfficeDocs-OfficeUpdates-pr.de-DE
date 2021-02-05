@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 7b4cda2310ee10bb297384b6d3f25e30a028ee7d
-ms.sourcegitcommit: 0e5154d937aaa5fd45f8fa79b8f0b2a614b7e5a0
+ms.openlocfilehash: 85b022b5823661f2d2fed4a3cea2522e57e70075
+ms.sourcegitcommit: c3115d0acd9074ebe9be4b468f5e54361af6c582
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50013246"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "50108017"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+
+## <a name="february-4-2021"></a>4. Februar 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
+
+<i>Das erwartete Release ist Version 2012 (Build 13530.20510).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2011 (Build 13426.20526) <br/> |12. Januar 2021 <br/> |143<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
+
+<i>Das erwartete Release ist Version 2008 (Build 13127.21184).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.21064) <br/> |12. Januar 2021 <br/> |60<br/> |
+|Version 2008 (Build 13127.20910) <br/> |8. Dezember 2020 <br/> |62<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
+
+<i>Das erwartete Release ist Version 2008 (Build 13127.21184).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.21064) <br/> |12. Januar 2021 <br/> |60<br/> |
+|Version 2002 (Build 12527.21416) <br/> |8. Dezember 2020 <br/> |363<br/> |
+
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
 
 ## <a name="january-26-2021"></a>26. Januar 2021
 
