@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: b8c02c43cc0c510bb6d64cb66c563e600961c3f7
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: bc3878099fa34b75437ce800250d711cb0f5bd0c
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032300"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173834"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals (Vorschau)
 
@@ -23,6 +23,67 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!IMPORTANT]
 > Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
 
+
+## <a name="version-2008-february-09"></a>Version 2008: 09. Februar
+*Version 2008 (Build 13127.21216)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, durch das Excel beim Öffnen von UNC-Dateien mit ungültigen Dateiattributen (Erstellungszeit, Änderungszeit usw.) unerwartet geschlossen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem die Einstellungen für Dezimal- und Tausendertrennzeichen nicht übernommen wurden, wenn ein Diagramm aus Excel kopiert und in Word oder PowerPoint eingefügt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem die Leistung beim Ausführen eines Makros mit PivotTable-Bereichsformatierung bei jeder Ausführung des Makros schlechter wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Regeln für die bedingte Formatierung beim Kopieren oder Verschieben von Blättern in eine andere Arbeitsmappe verloren gingen.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer keine Vertraulichkeitsbezeichnungen auf Excel-Dateien anwenden konnten, wenn der Startbildschirm beim Starten der App deaktiviert war.
+
+
+- Es wurde ein Problem beim Öffnen von Cloud-Dateien aus dem Folder „OneDrive-Synchronisation“ behoben.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook beim Hinzufügen oder Speichern von Anlagen sporadisch nicht mehr funktionierte.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem der Befehl "Schriftgrad", der in QAT hinzugefügt wurde, beim Aktualisieren automatisch zum nächsten definierten Schriftgrad vervollständigt wird.
+
+
+- Es wurde ein Problem behoben, bei dem das Kopieren und Einfügen einer Folie mit der Option "Quellformatierung beibehalten" manchmal unerwartet einen neuen Folienmaster kopiert hat
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit dem Nachverfolgen von Änderungen behoben, bei dem das Öffnen von Word-Dokumenten manchmal einen Fehlerdialogfeld angezeigte.
+
+
+- Es wurde ein Problem beim Öffnen von Cloud-Dateien aus dem Folder „OneDrive-Synchronisation“ behoben.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, das das erfolgreiche Öffnen einer Datei in Office verhinderte.
+
+
+- Es wurde ein Problem behoben, bei dem Dokumente mit skizzierten Umrissen, die über „Format übertragen“ auf Connectors angewendet wurden, beschädigt werden konnten.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
@@ -1436,6 +1497,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20910|version-2008-december-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
