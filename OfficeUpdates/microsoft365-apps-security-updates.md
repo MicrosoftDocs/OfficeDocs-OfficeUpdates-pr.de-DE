@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Microsoft Office-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: 70d82af998c180290c0f826c46d0dd8f21b74243
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 51cdd72d39d45d67069dde69bf3a0d5cf4bd90e6
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173714"
+ms.locfileid: "50177937"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Versionshinweise für Microsoft Office-Sicherheitsupdates
 
@@ -33,6 +33,7 @@ Diese Informationen gelten für Microsoft 365 Apps for Enterprise, Microsoft 365
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
 
 ## <a name="february-09-2021"></a>09. Februar 2021
+Aktueller Kanal: Version 2101 (Build 13628.20380)  
 Monatlicher Enterprise-Kanal: Version 2012 (Build 13530.20528)  
 Monatlicher Enterprise-Kanal: Version 2011 (Build 13426.20658)  
 Halbjährlicher Enterprise-Kanal (Vorschau): Version 2008 (Build 13127.21216)  
@@ -40,6 +41,8 @@ Halbjährlicher Enterprise-Kanal: Version 2008 (Build 13127.21216)
 Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21594)  
 Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.21008)  
 Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.21594)  
+Office 2019 Retail: Version 2101 (Build 13628.20380)  
+Office 2016 Retail: Version 2101 (Build 13628.20380)  
 Office 2019-Volumenlizenz: Version 1808 (Build 10371.20060)  
 
 [//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)

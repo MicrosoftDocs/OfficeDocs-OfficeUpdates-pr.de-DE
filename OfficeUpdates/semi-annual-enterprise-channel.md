@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 260219b731e1edcb3b02ecc5a45e330b2ac4b0ca
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: 6b50195e2e84292b0b4b1e259254592f2c4a591b
+ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032316"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50173654"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals
 
@@ -29,6 +29,89 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2008-february-09"></a>Version 2008: 9. Februar
+*Version 2008 (Build 13127.21216)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, durch das Excel beim Öffnen von UNC-Dateien mit ungültigen Dateiattributen (Erstellungszeit, Änderungszeit usw.) unerwartet geschlossen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem die Einstellungen für Dezimal- und Tausendertrennzeichen nicht übernommen wurden, wenn ein Diagramm aus Excel kopiert und in Word oder PowerPoint eingefügt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem die Leistung beim Ausführen eines Makros mit PivotTable-Bereichsformatierung bei jeder Ausführung des Makros schlechter wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Regeln für die bedingte Formatierung beim Kopieren oder Verschieben von Blättern in eine andere Arbeitsmappe verloren gingen.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer keine Vertraulichkeitsbezeichnungen auf Excel-Dateien anwenden konnten, wenn der Startbildschirm beim Starten der App deaktiviert war.
+
+
+- Es wurde ein Problem beim Öffnen von Cloud-Dateien aus dem Folder „OneDrive-Synchronisation“ behoben.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook beim Hinzufügen oder Speichern von Anlagen sporadisch nicht mehr funktionierte.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem der Befehl "Schriftgrad", der in QAT hinzugefügt wurde, beim Aktualisieren automatisch zum nächsten definierten Schriftgrad vervollständigt wird.
+
+
+- Es wurde ein Problem behoben, bei dem das Kopieren und Einfügen einer Folie mit der Option „Quellformatierung beibehalten“ manchmal unerwartet einen neuen Folienmaster kopiert hat
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit dem Nachverfolgen von Änderungen behoben, bei dem das Öffnen von Word-Dokumenten manchmal einen Fehlerdialogfeld angezeigte.
+
+
+- Es wurde ein Problem beim Öffnen von Cloud-Dateien aus dem Folder „OneDrive-Synchronisation“ behoben.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, das das erfolgreiche Öffnen einer Datei in Office verhinderte.
+
+
+- Es wurde ein Problem behoben, bei dem Dokumente mit skizzierten Umrissen, die über „Format übertragen“ auf Connectors angewendet wurden, beschädigt werden konnten.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2002-february-09"></a>Version 2002: 9. Februar
+*Version 2002 (Build 12527.21594)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, bei dem Dokumente mit skizzierten Umrissen, die über „Format übertragen“ auf Connectors angewendet wurden, beschädigt werden konnten.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-1908-february-09"></a>Version 1908: 9. Februar
+*Version 1908 (Build 11929.21008)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 ## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
@@ -2566,6 +2649,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21416|version-2002-december-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)

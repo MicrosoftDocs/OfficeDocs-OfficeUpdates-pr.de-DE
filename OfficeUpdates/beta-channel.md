@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: d394bf781d303a8881b3fe79b0b5a077bab5d202
-ms.sourcegitcommit: 6a32d4120b43fbedbf08362255277cebd2be11a5
+ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
+ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "50118385"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50242043"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,57 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2103-february-12"></a>Version 2103: 12. Februar
+*Version 2103 (Build 13806.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Microsoft Search-unterstütztes Verfassen (An\CC\BCC), Vorschläge:** Das Hinzufügen von Personen zur An\CC-Zeile wird jetzt von Microsoft Search unterstützt.
+
+- **Die Diktatfunktion ist in weiteren Sprachen verfügbar:** Die Diktatfunktion unterstützt jetzt 7 neue Sprachen: Hindi, Russisch, Polnisch, Portugiesisch (Portugal), Koreanisch, Thailändisch, Chinesisch (Taiwan)
+
+### <a name="word"></a>Word
+
+- **Die Diktatfunktion ist in weiteren Sprachen verfügbar:** Die Diktatfunktion unterstützt jetzt 7 neue Sprachen: Hindi, Russisch, Polnisch, Portugiesisch (Portugal), Koreanisch, Thailändisch, Chinesisch (Taiwan)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, das dazu geführt hatte, das Excel beim Versuch, die Registerkarte „Dateitypen“ anzuzeigen, manchmal unerwartet geschlossen wurde, weil es nicht in der Lage war, ein Bild abzurufen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Behebt ein Problem mit Animationsschleifen und Audiolesezeichen.
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, das dazu geführt hatte, dass eine zu 100 % abgeschlossene Aufgabe auf den Status „99 % abgeschlossen“ zurückgesetzt wurde.
+
+- Es wurde ein Problem behoben, das zum unerwarteten Schließen von Project geführt hatte, wenn Benutzer JAWS ausgeführt haben oder in den Vorgangsinformationsdialog gewechselt sind.
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit dem Automatischen Speichern behoben.
+
+
+- Es wurde ein Problem mit dem Auflösen von Konflikten bei der gemeinsamen Dokumenterstellung gelöst.
+
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2102-february-05"></a>Version 2102: 5. Februar
 *Version 2102 (Build 13801.20004)*
@@ -256,7 +307,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - **Erforderliche Kennzeichnung:** Benutzer mit einer von ihren Administratoren festgelegten Richtlinie „Erforderliche Kennzeichnung“ müssen ihre Dokumente und E-Mails kennzeichnen.
 
 
-[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 <br/>
 
@@ -410,7 +461,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="word"></a>Word
 
-- **Bessere Zusammenarbeit mit modernen Kommentaren:** Für eine bessere Zusammenarbeit fügen Sie Kommentare zu Objekten hinzu, @erwähnen Sie Kollegen, und lösen Sie Kommentarthreads auf. [Weitere Informationen](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/modern-commenting-in-word)
+- **Bessere Zusammenarbeit mit modernen Kommentaren:** Für eine bessere Zusammenarbeit fügen Sie Kommentare zu Objekten hinzu, @erwähnen Sie Kollegen, und lösen Sie Kommentarthreads auf. [Weitere Informationen](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/modern-commenting-in-word)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1353,7 +1404,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1361,11 +1412,11 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -1622,7 +1673,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -2279,7 +2330,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 - Behebt ein kosmetisches Problem, bei dem die Schaltfläche "OK" im Dialogfeld „Datei \ Optionen“ abgeblendet angezeigt, die Funktionalität aber nicht beeinträchtigt wurde.
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSWENDE)
+[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
 
 [//]: # (FEATUREDETAILS CONTENT START NICHT ENTFERNEN)
 
@@ -2471,6 +2522,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
@@ -2480,5 +2532,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13530.20000|version-2012-december-04|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

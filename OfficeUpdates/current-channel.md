@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 5fab650e5b8ebb66b1507e889a744a95c3322809
-ms.sourcegitcommit: 34bca539ddfe0e06b772aaa294f4e992630b2a41
+ms.openlocfilehash: f7ac64dfccab0196b01bceb1854dc4a450223c2a
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50032301"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "50177951"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -32,6 +32,29 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2101-february-09"></a>Version 2101: 9. Februar
+*Version 2101 (Build 13628.20380)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das dazu führte, dass das System hängen blieb, wenn Benutzer die Einstellungen unter "Cloudeinstellungen" aktualisierten.
+
+
+- Ein Problem wurde behoben, das die Anzeige der richtigen Standardsignatur im OWA beeinträchtigt hat.
+
+
+- Ein Problem wurde behoben, das dazu geführt har, dass das Verschlüsselungssymbol bei E-Mails, die mit der Option „Nur mit Verschlüsselung“ gesendet wurden, nicht angezeigt wurde.
 
 
 
@@ -341,7 +364,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -504,7 +527,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -648,7 +671,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **Erstellen von Variablen zur Verwendung in Formeln:** Verbessern Sie Leistung, Lesbarkeit und Zusammensetzbarkeit mit der LET-Funktion. Mit dieser Funktion können Sie benannte Variablen in neuen oder bereits vorhandenen Formeln erstellen. [Weitere Informationen](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+- **Erstellen von Variablen zur Verwendung in Formeln:** Verbessern Sie Leistung, Lesbarkeit und Zusammensetzbarkeit mit der LET-Funktion. Mit dieser Funktion können Sie benannte Variablen in neuen oder bereits vorhandenen Formeln erstellen. [Weitere Informationen](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -784,7 +807,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -810,7 +833,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="word"></a>Word
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="office-suite"></a>Office-Suite
 
@@ -957,7 +980,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden.
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1940,6 +1963,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20440|version-2012-january-21|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
@@ -1949,5 +1973,4 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20274|version-2011-november-23|)
-[//]: # (|Win32|CC|Production| |16.0.13328.20408|version-2010-november-17|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

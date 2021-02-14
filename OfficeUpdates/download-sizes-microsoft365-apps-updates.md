@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 5e741a9bc7da8fc5476e27b88c71b2bd3e81393b
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: 853e398dab1e6eb040afbf5ccd6dbacd9fe6a9ea
+ms.sourcegitcommit: b015407aa6693d879f11025b40a7b45424753f99
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173744"
+ms.locfileid: "50177927"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -39,6 +39,16 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 ## <a name="february-9-2021"></a>9. Februar 2021
 
 [//]: # (INHALTE NICHT ENTFERNEN START 9. Februar 2021)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Die aktuellste Version ist Version 2101 (Build 13628.20380).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2101 (Build 13628.20274) <br/> |26. Januar 2021 <br/> |62<br/> |
+|Version 2012 (Build 13530.20440) <br/> |21. Januar 2021 <br/> |203<br/> |
+
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
 
@@ -296,7 +306,7 @@ Die aktuellste Version ist Version 2010 (Build 13328.20408).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2010 (Build 13328.20356) <br/> |10. November 2020 <br/> |51<br/> |
-|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
+|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
 
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE 17. November 2020)
