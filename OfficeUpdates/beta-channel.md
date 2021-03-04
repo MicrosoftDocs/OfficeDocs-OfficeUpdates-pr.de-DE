@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: c251fccdf8c3f370d7ed6594e0478a73bfe37411
-ms.sourcegitcommit: c8a895031a6a22d6c6dc6d5e4c73918edcfac7b7
+ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "50242043"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418040"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,84 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2103-february-26"></a>Version 2103: 26. Februar
+*Version 2103 (Build 13819.20006)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, das Benutzer am Exportieren von Excel-Arbeitsmappen nach PDF hinderte.
+
+
+- Ein Problem wurde behoben, bei dem einige Formatierungen verloren gehen konnten, wenn während der gemeinsamen Dokumentenerstellung ein Blatt kopiert wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Anlagen beim Entfernen des DRM-Schutzes dupliziert wurden.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem möglicherweise falsche Vorgangsaufteilungen erstellt wurden, wenn ein Projekt aus der Project Web App in einer lokalen Datei gespeichert wurde. Dies würde beispielsweise bei Verwendung eines Vorgangskalenders mit nicht standardmäßigen Arbeitszeiten auftreten.
+
+
+- Folgendes Problem wurde behoben: Wenn die Indikatorspalte nicht an der ersten Spaltenstelle stand, wurden Sie beim Ausschneiden eines Sammelvorgangs nicht gewarnt, dass auch die Unteraufgaben entfernt werden.
+
+
+- Folgendes Problem wurde behoben: Wenn ein Benutzer auf seiner Arbeitszeittabelle die Funktion „Sich selbst zu einem Vorgang hinzufügen“ auswählte, wurden möglicherweise nicht die richtigen Ressourcenverfügbarkeitseinheiten für die erstellte Aufgabe verwendet.
+
+
+### <a name="word"></a>Word
+
+- Ein Problem mit der Ausrichtung von mehreren Kommentaren wurde behoben.
+
+
+- Ein Problem mit den Tastenkombinationen im Aufgabenbereich „Vorlesen“ wurde behoben.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- OneDrive-Orte werden nun entsprechend der Gruppenrichtlinieneinstellung herausgefiltert.
+
+
+- Ein Problem wurde behoben, das beim Laden von EMF-Images dazu führte, dass das System nicht mehr reagierte.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2103-february-19"></a>Version 2103: 19. Februar
+*Version 2103 (Build 13811.20002)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Anlagen beim Entfernen des DRM-Schutzes dupliziert wurden.
+
+
+### <a name="project"></a>Project
+
+- Folgendes Problem wurde behoben: Wenn die Indikatorspalte nicht an der ersten Spaltenstelle stand, wurden Sie beim Ausschneiden eines Sammelvorgangs nicht gewarnt, dass auch die Unteraufgaben entfernt werden.
+
+
+- Folgendes Problem wurde behoben: Wenn ein Benutzer auf seiner Arbeitszeittabelle die Funktion „Sich selbst zu einem Vorgang hinzufügen“ auswählte, wurden möglicherweise nicht die richtigen Ressourcenverfügbarkeitseinheiten für die erstellte Aufgabe verwendet.
+
+
+### <a name="word"></a>Word
+
+- Ein Problem mit den Tastenkombinationen im Aufgabenbereich „Vorlesen“ wurde behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2103-february-12"></a>Version 2103: 12. Februar
 *Version 2103 (Build 13806.20000)*
@@ -2330,7 +2408,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 - Behebt ein kosmetisches Problem, bei dem die Schaltfläche "OK" im Dialogfeld „Datei \ Optionen“ abgeblendet angezeigt, die Funktionalität aber nicht beeinträchtigt wurde.
 
-[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSWENDE)
 
 [//]: # (FEATUREDETAILS CONTENT START NICHT ENTFERNEN)
 
@@ -2522,6 +2600,8 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13801.20004|version-2102-february-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
@@ -2530,6 +2610,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13610.20002|version-2101-december-18|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13604.20000|version-2101-december-11|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: abb6b5cc2d425bf2f99a947eda622d6798e4ec56
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
+ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263953"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50421402"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,88 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2102-march-03"></a>Version 2102: 03. März
+*Version 2102 (Build 13801.20274)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit auf Symbole und SVG-Grafiken angewendeten Designinformationen behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2102-march-01"></a>Version 2102: 01. März
+*Version 2102 (Build 13801.20266)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Freigabe an Teams:** Teilen Sie Nachrichten aus Outlook mit einer Person oder einen Kanal in Teams.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern nach dem Erstellen einer neuen Gruppe doppelte Kalendergruppen angezeigt wurden.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Verbesserungen des geteilten Kalenders die Farbe eines Kalenders nicht auf gelb oder braun setzen konnten.
+
+
+- Ein Problem wurde behoben, das bei einigen Benutzern dazu führte, dass die App beim Schließen von Nachrichtenfenstern heruntergefahren wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzersignaturen mit Unicode-Inhalten beschädigt wurden.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Inlineübersetzung kein Feedback abgeben konnten.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2102-february-21"></a>Version 2102: 21. Februar
+*Version 2102 (Build 13801.20182)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Verfassen Sie Nachrichten mit Ihrer Stimme:** Verwenden Sie die neue Diktatsymbolleiste, neue Sprachbefehle, automatische Zeichensetzung und mehr, um Nachrichten zu verfassen.
+
+### <a name="word"></a>Word
+
+- **Verfassen Sie Dokumente mit Ihrer Stimme:** Verwenden Sie die neue Diktatsymbolleiste, neue Sprachbefehle und automatische Zeichensetzung, um Dokumente zu verfassen.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, das dazu führte, dass Bilder bei Verwendung der Option „Verknüpftes Bild einfügen“ kleiner als erwartet waren.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2102-february-16"></a>Version 2102: 16. Februar
 *Version 2102 (Build 13801.20160)*
@@ -67,6 +149,22 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+
+## <a name="version-2102-february-11"></a>Version 2102: 11. Februar
+*Version 2102 (Build 13801.20158)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+
+- **2x2-Video in Microsoft Edge- und Chrome-Browsern auf Windows und Mac:** Benutzer können in Teams-Besprechungen in Microsoft Edge- und Chrome-Browsern unter Windows und Mac die Videos von bis zu 4 Teilnehmern anzeigen. [Weitere Informationen](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
 
 ## <a name="version-2102-february-08"></a>Version 2102: 08. Februar
 *Version 2102 (Build 13801.20084)*
@@ -270,6 +368,8 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - **Weitere Designs:** Für Desktop- und Webclients sind jetzt neue Designs verfügbar.
 
 - **PPT-Freigabe:** Referentenansicht in Teams. Sobald Sie eine PowerPoint-Datei in der Teilen-Leiste von Teams auswählen, wird automatisch die Referentenansicht geöffnet. Die aktuelle Folie, die Foliennotizen und ein Miniaturansichtenstreifen aller Folien im Deck für eine einfache Ad-hoc-Foliennavigation wird angezeigt. Diese Ansicht befindet sich vollständig im Hintergrund, ist privat und nur für den Referenten bestimmt, der die Präsentation leitet. Ihr Publikum kann nur die aktuelle Folie (hervorgehoben im großen roten Kasten) oder die Folie sehen, zu der es navigieren möchte (sofern die Zuschauernavigation nicht von Ihnen gesperrt wurde). 
+
+- **Computerton bei Desktop- oder Fensterfreigabe auf Mac einbeziehen:** Wenn Sie einen Desktop oder ein Fenster aus Teams auf dem Mac freigeben, können Sie jetzt auch den Ton Ihres Computers freigeben, damit die Personen, die an der Besprechung teilnehmen, den Ton aus Ihrem Computer hören können.
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 <br/>

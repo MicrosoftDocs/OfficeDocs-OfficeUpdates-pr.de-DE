@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: c6b6b6b7f87257cd3e512f4b5dfd8164a2a65dec
-ms.sourcegitcommit: 4b7514025e31d2baef2082cd9cb8434646edfe82
+ms.openlocfilehash: ea8524fb21d263985793d12806c8a2e1401edf10
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50271788"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418050"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -32,6 +32,104 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2102-march-01"></a>Version 2102: 01. März
+*Version 2102 (Build 13801.20266)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Verbesserte Dialogfelder für bedingte Formatierung:** Die Größe von Dialogfeldern für bedingte Formatierung kann jetzt geändert und die Regel mit einem einzigen Klick dupliziert werden. [Weitere Informationen](https://support.office.com/article/fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f)
+
+- **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnungen anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
+
+### <a name="outlook"></a>Outlook
+
+- **Aktualisierte Kontaktlistenansicht:** Die Kontaktliste enthält jetzt E-Mail-Adressen und weist aktualisierte Foto- und Textgrößen auf.
+
+- **Aufheben der Sprachbarriere durch einen integrierten Übersetzer:** Ab jetzt sind keine Add-Ins für die Übersetzung mehr erforderlich! Klicken Sie in einer Nachricht mit der rechten Maustaste, um bestimmte Wörter, Ausdrücke oder die gesamte Nachricht zu übersetzen. [Weitere Informationen](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnungen anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
+
+### <a name="teams"></a>Teams
+
+- **Referentenansicht beim Freigeben einer PowerPoint-Datei:** Wenn Sie eine PowerPoint-Datei in einer Besprechung freigeben, kann der Referent jetzt eine Miniaturansicht aller Folien im Deck anzeigen, um eine einfache Ad-hoc-Foliennavigation zu ermöglichen.
+
+- **Aktualisierungen von Designs und Symbolen:** Die Farben des Standarddesigns und des dunklen Designs sowie die Symbol wurden aktualisiert.
+
+- **Unterstützung für Referenten von Liveereignissen auf dem iPad:** Sie können jetzt von Ihrem unterstützten iPad-Gerät aus Präsentationen in Liveereignissen durchführen.
+
+- **Umfragen für Teilnehmer einer Besprechung mit Microsoft Forms:** Umfragen für Teams-Besprechungen sind eine leicht zugängliche und nahtlose Erfahrung, die Ihnen helfen wird, attraktivere und produktivere Besprechungen durchzuführen. Mit Umfragen, die auf Microsoft Forms basieren, können Referenten von Besprechungen Abstimmungen vor, während oder nach Besprechungen vorbereiten, starten und auswerten – alles zentral unter einer Registerkarte in der Teams-Besprechung. Als Referent einer Besprechung können Sie die Forms-App als Registerkarte zur Teams-Besprechung hinzufügen und dann Ihre Umfragen von einem Ort aus erstellen, starten und auswerten. Erstellen Sie noch vor Beginn der Besprechung Umfragen, die während der Besprechung gestartet werden können. Nach der Besprechung können Sie die Antworten dann wahlweise auf der Registerkarte, in einer exportierten Excel-Arbeitsmappe oder im Web in der Forms-App auswerten. Referenten haben eine Vielzahl von Steuerungsmöglichkeiten, wie z. B. das Aktivieren anonymer Antworten, das Schließen von Umfragen und das Exportieren von Ergebnissen nach Excel. Teilnehmer können von jedem Endgerät (Mobil, Web, Desktop) aus Umfragen anzeigen und beantworten, wenn sie auf dem Bildschirm oder im Chat der Besprechung angezeigt werden, sowie nicht-anonyme Umfrageergebnisse in Echtzeit sehen.
+
+- **Besprechungsreaktionen:** Besprechungsreaktionen stellen eine neue Möglichkeit zur Interaktion in Besprechungen dar. Die Teilnehmer können Reaktionen senden, die als Stream auf den freigegebenen Inhalt und auf die Person, die die Reaktion gesendet hat, erscheinen, wenn sie in der Besprechungsphase angezeigt werden.
+
+- **Verlaufsmenü für Desktopclient:** Mit dem Verlaufsmenü im von Teams-Desktopclient können Sie leicht zu den zuletzt besuchten Orten zurückkehren. Fahren Sie einfach mit dem Mauszeiger über die Optionen für die Vorwärts- oder Rückwärtsnavigation im Desktopclient, und wählen Sie den Ort aus. Es steht auch eine Tastenkombination zum Öffnen des Menüs zur Verfügung.
+
+- **Cortana in Microsoft Teams-Räume für die Vereinigten Staaten:** Mit der Cortana-Sprachunterstützung in Microsoft Teams-Räume können Sie berührungslos eine Nummer aus Ihrem Konferenzraum anrufen, einer Besprechung beitreten oder diese beenden oder eine Nummer zu einer Besprechung hinzufügen.
+
+- **Maskieren von Telefonnummern:** Es wurde eine neue Administratoreinstellung veröffentlicht, um Telefonnummern für Einwahlteilnehmer zu maskieren, wenn diese einer Besprechung beitreten. Administratoren können wählen, ob Telefonnummern von allen Teilnehmern der Besprechung (außer dem Organisator) oder nur von externen Personen maskiert werden sollen bzw. ob die Maskierung deaktiviert werden soll. Wenn Administratoren diese Einstellung deaktivieren, werden die Telefonnummern in der Besprechung vollständig angezeigt.  (private Freigabe bis Ende Oktober)
+
+- **Kalenderfreigabe:** Die Möglichkeit, einen Kanal zu einer Kalenderregisterkarte hinzuzufügen, wurde hinzugefügt.
+
+- **Der Zusammen-Modus wird um weitere Szenen erweitert:** In Teams können Organisatoren oder Referenten von Besprechungen jetzt die Szene im Zusammen-Modus ändern, sodass Teilnehmer in verschiedenen Umgebungen zusammen angezeigt werden können.
+
+### <a name="word"></a>Word
+
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der aktualisierte Editor-Bereich erleichtert die Navigation zwischen den Vorschlägen. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+
+- **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnungen anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Ein Problem wurde behoben, bei dem Benutzern einen Dialogfeld mit dem Fehler „Ungültiger Cursorstatus“ angezeigt wurde.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, das Benutzer am Exportieren von Excel-Arbeitsmappen nach PDF hinderte.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Bilder bei Verwendung der Option „Verknüpftes Bild einfügen“ kleiner als erwartet waren.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Verbesserungen des geteilten Kalenders die Farbe eines Kalenders nicht auf gelb oder braun setzen konnten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern nach dem Erstellen einer neuen Gruppe doppelte Kalendergruppen angezeigt wurden.
+
+
+- Ein Problem wurde behoben, das bei einigen Benutzern dazu führte, dass die App beim Schließen von Nachrichtenfenstern heruntergefahren wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzersignaturen mit Unicode-Inhalten beschädigt wurden.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Inlineübersetzung kein Feedback abgeben konnten.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit dem Auflösen von Konflikten bei der gemeinsamen Dokumenterstellung gelöst.
 
 
 
@@ -389,7 +487,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -552,7 +650,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -696,7 +794,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **Erstellen von Variablen zur Verwendung in Formeln:** Verbessern Sie Leistung, Lesbarkeit und Zusammensetzbarkeit mit der LET-Funktion. Mit dieser Funktion können Sie benannte Variablen in neuen oder bereits vorhandenen Formeln erstellen. [Weitere Informationen](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+- **Erstellen von Variablen zur Verwendung in Formeln:** Verbessern Sie Leistung, Lesbarkeit und Zusammensetzbarkeit mit der LET-Funktion. Mit dieser Funktion können Sie benannte Variablen in neuen oder bereits vorhandenen Formeln erstellen. [Weitere Informationen](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -832,7 +930,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -858,7 +956,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="word"></a>Word
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="office-suite"></a>Office-Suite
 
@@ -1005,7 +1103,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden.
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1988,6 +2086,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
@@ -1997,5 +2096,4 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20308|version-2011-december-02|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20294|version-2011-november-30|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

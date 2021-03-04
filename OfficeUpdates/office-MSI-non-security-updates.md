@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten nicht-sicherheitsrelevanten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: d678db0661a86e65dc8fc17b659d7339c9ad2b65
-ms.sourcegitcommit: 94cecf570c23c9f540a659820706fca049ed97ab
+ms.openlocfilehash: 8627a47ca19b170f0d69e16d4a23cc787cb8a6bd
+ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080946"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50418060"
 ---
 # <a name="latest-non-security-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste nicht-sicherheitsrelevante Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
@@ -25,6 +25,15 @@ Diese Seite listet die nicht-sicherheitsrelevanten Updates für Office auf, die 
 > - Die Informationen in diesem Artikel gelten nicht für Microsoft 365-Apps.
 > - Weitere Informationen zum Installieren von Office-Updates finden Sie unter [Installieren von Office-Updates](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5).
 <br/><br/>
+
+## <a name="march-2-2021"></a>2. März 2021
+**Office 2016**<br/>
+Update für Microsoft Access 2016 ([KB4493188](https://support.microsoft.com/help/4493188)) </br> Update für Microsoft Office 2016 ([KB4493153](https://support.microsoft.com/help/4493153)) </br> Update für Microsoft Outlook 2016 ([KB4493226](https://support.microsoft.com/help/4493226)) </br> Update für Microsoft Project 2016 ([KB4493191](https://support.microsoft.com/help/4493191)) </br> 
+
+
+**Office 2013**<br/>
+Update für Microsoft Outlook 2013 ([KB4493174](https://support.microsoft.com/help/4493174)) </br> 
+
 
 ## <a name="february-2-2021"></a>2. Februar 2021
 **Office 2016**<br/>

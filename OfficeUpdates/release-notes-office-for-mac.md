@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: 38acca443d355786ddefe61329756931eb93f803
-ms.sourcegitcommit: 91cdc26b717315b6603bf75ded1347b29a84fcb6
+ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
+ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50263933"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50425743"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -76,15 +76,11 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.
 
-- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
-
 - **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails.:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/de-DE/microsoft-365/compliance/sensitivity-labels)
 
 - **Überwachungsprotokollierung für Vertraulichkeitsbezeichnungen:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, werden diese Informationen jetzt den Administratoren in den Microsoft 365-Auditprotokollen zur Verfügung gestellt.
 
 ### <a name="word"></a>Word
-
-- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden.
 
 - **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails.:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/de-DE/microsoft-365/compliance/sensitivity-labels)
 
@@ -102,13 +98,9 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="excel"></a>Excel
 
--   [CVE-2021-1714](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1714)
--   [CVE-2021-1713](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1713)
+-   [CVE-2021-24067](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-24067)
+-   [CVE-2021-24069](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-24069)
 
-### <a name="word"></a>Word
-
--   [CVE-2021-1716](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1716)
--   [CVE-2021-1715](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-1715)
 
 [//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -128,11 +120,11 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen:** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen:** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
