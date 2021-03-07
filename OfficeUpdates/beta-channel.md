@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 9906e3180c91eaa19f0c42f4703e867bb4b45d35
-ms.sourcegitcommit: 26835b8265e7046ff7a6b139a4c7a0b0250f3554
+ms.openlocfilehash: 7cc50ebb59a95a5b7a2e13f83264c3b6684f0a9a
+ms.sourcegitcommit: 16ea8464803ad28e97b14554df657d99b91a27de
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50418040"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50505667"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,80 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2103-march-05"></a>Version 2103: 5. März
+*Version 2103 (Build 13901.20036)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Fehler korrigiert, bei dem sich die Schriftart unerwartet veränderte, wenn ein Multiplikations- oder Divisionszeichen mit einer japanischen Schriftart verwendet wurde. Wir verwenden jetzt weiterhin dieselbe Schriftart, wenn sie das Zeichen unterstützt.
+
+
+- Es wurde ein Fehler behoben, bei dem einige PivotTable-Formatierungen die Arbeitsmappe beschädigten, wenn diese im XLS- oder XLT-Format gespeichert wurde.
+
+
+- Es wurde ein Fehler behoben, bei dem beim Öffnen einer Arbeitsmappe einige Notizen unerwartet angezeigt wurden.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das dazu führte, dass Nicht-ASCII-Zeichen beim Export in CSV falsch exportiert wurden.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Benutzer beim Erstellen von E-Mails eine Kontaktgruppe mit „Namen überprüfen“ nicht suchen konnten.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem im PowerPoint-Diashowmodus Pfeile in Liniendiagrammen nicht wie erwartet angezeigt wurden.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem das Öffnen einer mit einer Microsoft Information Protection (MIP)-Bezeichnung geschützten Datei unbegrenzt hängen bleiben kann, wenn der Benutzer nicht mit einer Identität angemeldet ist, die Zugriff auf die MIP-geschützte Bezeichnung hat. Der Benutzer ist gezwungen, das Öffnen abbrechen, um die Anmeldeaufforderung anzuzeigen, und das Öffnen ist erst nach diesem Zeitpunkt erfolgreich. Das Problem wurde behoben, indem die Anmeldeaufforderung während dem Öffnen/Herunterladen angezeigt werden kann.
+
+
+- Es wurde ein Problem bei der Verwendung von Diktat in der neuen Word-Kommentierung behoben. Die Diktat-Schaltfläche in der Kommentar-Karte schaltet nun korrekt ein und aus.
+
+
+- Es wurde ein Problem behoben, bei dem kein Leerzeichen zwischen Wörtern eingefügt wurde, wenn Benutzer in ihr Dokument diktierten.
+
+
+- Es wurde ein Problem behoben, bei dem das Veröffentlichen von mehrzeiligen, in RTL getippten Kommentaren dazu führte, dass die zweite und weitere Zeilen links statt rechts ausgerichtet wurden.
+
+
+- Es wurde ein Problem behoben, bei dem die Rechtschreibprüfung zwischen zwei verschiedenen Kontextmenüs für die Rechtschreibkorrektur wechselte.
+
+
+- Es wurde ein Problem behoben, bei dem Spalten möglicherweise überlappenden Text enthalten.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2103-february-26"></a>Version 2103: 26. Februar
 *Version 2103 (Build 13819.20006)*
@@ -2600,6 +2674,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13806.20000|version-2103-february-12|)
@@ -2609,5 +2684,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13624.20002|version-2101-january-01|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13617.20002|version-2101-december-25|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
