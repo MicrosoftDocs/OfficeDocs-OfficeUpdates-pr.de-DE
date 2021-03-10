@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: 6d567e7e506be8d795077af4d084ca213bf985a7
-ms.sourcegitcommit: 568fdf9ae96367ef3a4f601128df80944dd265a7
+ms.openlocfilehash: c37a6eeae3dc6472a800151ae7d78c3e6dabbca2
+ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50173689"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50595519"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -28,6 +28,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 ## <a name="project-server-2013-update-history"></a>Project Server 2013-Updateverlauf
 |**Veröffentlichungsdatum**|**KB-Nummer**||
 |:-----|:-----|:-----|
+|März 2021 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |Februar 2021 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
 |Januar 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
 |Dezember 2020 <br/>|[KB 4486763](https://support.microsoft.com/help/4486763) <br/>|
@@ -181,6 +182,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 
 |**Veröffentlichungsdatum**|**KB-Nummer**||
 |:-----|:-----|:-----|
+|März 2021 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
 |Februar 2021 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
 |Januar 2021 <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
 |Dezember 2020 <br/>|[KB 4493144](https://support.microsoft.com/help/4493144) <br/>|
