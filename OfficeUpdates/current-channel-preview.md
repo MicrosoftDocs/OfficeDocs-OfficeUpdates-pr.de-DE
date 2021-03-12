@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 734f5c159afc2621e6a4e906b2a7155c9a4801b7
-ms.sourcegitcommit: ab151c4f3172c007249a556fa02854b0765d24b9
+ms.openlocfilehash: 64fa879f8279057f7e768c6743568516cb8046dc
+ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50421402"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "50741638"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,238 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2103-march-11"></a>Version 2103: 11. März
+*Version 2103 (Build 13901.20148)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+### <a name="outlook"></a>Outlook
+
+- **Neue Buchungserfahrung für Konferenzräume und Arbeitsbereiche:** Die Buchungserfahrung für Konferenzräume wurde aktualisiert und zudem neue Funktionen hinzugefügt, mit denen Sie auch einzelne Arbeitsbereiche planen können.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+### <a name="visio"></a>Visio
+
+- **Office-Symbole mit neuem Look:** Die Produktsymbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Office-Benutzeroberfläche widerzuspiegeln. [Weitere Informationen](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
+
+### <a name="word"></a>Word
+
+- **Dunkler Modus für Word-Dokumente:** Der dunkle Modus kann dabei helfen, die Augen zu entlasten und die Lichtempfindlichkeit zu berücksichtigen, während Sie an Ihren Dokumenten arbeiten.
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+- Ein Problem wurde behoben, das, wenn eine externe Anwendung eine Benutzeroberfläche zur Barrierefreiheit anfordert, uns daran hindert, herunterzufahren, bis sie ihre Referenz freigibt.
+
+
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+- Es wurde ein Problem behoben, das dazu geführt hatte, das Excel beim Versuch, die Registerkarte „Dateitypen“ anzuzeigen, manchmal unerwartet geschlossen wurde, weil es nicht in der Lage war, ein Bild abzurufen.
+
+
+- Es wurde ein Fehler korrigiert, bei dem sich die Schriftart unerwartet veränderte, wenn ein Multiplikations- oder Divisionszeichen mit einer japanischen Schriftart verwendet wurde. Wir verwenden jetzt weiterhin dieselbe Schriftart, wenn sie das Zeichen unterstützt.
+
+
+- Es wurde ein Problem behoben, das Benutzer am Exportieren von Excel-Arbeitsmappen nach PDF hinderte.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Bilder bei Verwendung der Option „Verknüpftes Bild einfügen“ kleiner als erwartet waren.
+
+
+- Ein Problem wurde behoben, bei dem einige Formatierungen verloren gehen konnten, wenn während der gemeinsamen Dokumentenerstellung ein Blatt kopiert wurde.
+
+
+- Ein Problem wurde behoben, bei dem beim Öffnen einer Arbeitsmappe einige Notizen unerwartet angezeigt wurden.
+
+
+- Ein Problem wurde behoben, bei dem einige PivotTable-Formatierungen die Arbeitsmappe beschädigten, wenn diese im XLS- oder XLT-Format gespeichert wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern nach dem Erstellen einer neuen Gruppe doppelte Kalendergruppen angezeigt wurden.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Verbesserungen des geteilten Kalenders die Farbe eines Kalenders nicht auf gelb oder braun setzen konnten.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass neu hinzugefügte Kalender den Benutzern erst nach einem Neustart von Outlook im Navigationsbereich angezeigt wurden.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Nicht-ASCII-Zeichen beim Export in CSV falsch exportiert wurden.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass einige Personen nicht auf Signaturen zugreifen konnten, die mit zweiten E-Mail-Konten verbunden waren.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass bei der Funktion "Cloud-Einstellungen" die benutzerdefinierten Einstellungen durch die Standardeinstellung überschrieben wurden, nachdem die Benutzer Outlook auf einem neuen Gerät konfiguriert hatten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzersignaturen mit Unicode-Inhalten beschädigt wurden.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Inlineübersetzung kein Feedback abgeben konnten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Anlagen beim Entfernen des DRM-Schutzes dupliziert wurden.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Benutzer beim Erstellen von E-Mails eine Kontaktgruppe mit „Namen überprüfen“ nicht suchen konnten.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+- Es wurde ein Problem behoben, bei dem im PowerPoint-Diashowmodus Pfeile in Liniendiagrammen nicht wie erwartet angezeigt wurden.
+
+
+- Behebt ein Problem mit Animationsschleifen und Audiolesezeichen.
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem Visio während des Schließens manchmal nicht mehr funktionierte.
+
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+- Es wurde ein Problem behoben, das dazu geführt hatte, dass eine zu 100 % abgeschlossene Aufgabe auf den Status „99 % abgeschlossen“ zurückgesetzt wurde.
+
+
+- Es wurde ein Problem behoben, das zum unerwarteten Schließen von Project geführt hatte, wenn Benutzer JAWS ausgeführt haben oder in den Vorgangsinformationsdialog gewechselt sind.
+
+
+- Folgendes Problem wurde behoben: Wenn die Indikatorspalte nicht an der ersten Spaltenstelle stand, wurden Sie beim Ausschneiden eines Sammelvorgangs nicht gewarnt, dass auch die Unteraufgaben entfernt werden.
+
+
+- Folgendes Problem wurde behoben: Wenn ein Benutzer auf seiner Arbeitszeittabelle die Funktion „Sich selbst zu einem Vorgang hinzufügen“ auswählte, wurden möglicherweise nicht die richtigen Ressourcenverfügbarkeitseinheiten für die erstellte Aufgabe verwendet.
+
+
+- Es wurde ein Problem behoben, bei dem möglicherweise falsche Vorgangsaufteilungen erstellt wurden, wenn ein Projekt aus der Project Web App in einer lokalen Datei gespeichert wurde. Dies würde beispielsweise bei Verwendung eines Vorgangskalenders mit nicht standardmäßigen Arbeitszeiten auftreten.
+
+
+### <a name="publisher"></a>Publisher
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+### <a name="visio"></a>Visio
+
+- Ein Problem wurde behoben, bei dem Visio während des Schließens manchmal nicht mehr funktionierte.
+
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem das Öffnen einer mit einer Microsoft Information Protection (MIP)-Bezeichnung geschützten Datei unbegrenzt hängen bleiben kann, wenn der Benutzer nicht mit einer Identität angemeldet ist, die Zugriff auf die MIP-geschützte Bezeichnung hat. Der Benutzer ist gezwungen, das Öffnen abbrechen, um die Anmeldeaufforderung anzuzeigen, und das Öffnen ist erst nach diesem Zeitpunkt erfolgreich. Das Problem wurde behoben, indem die Anmeldeaufforderung während dem Öffnen/Herunterladen angezeigt werden kann.
+
+
+- Ein Problem wurde behoben, das beim Entfernen eines externen Laufwerks zu einem unerwarteten Schließen der App führen konnte.
+
+
+- Es wurde ein Problem bei der Verwendung von Diktat in der neuen Word-Kommentierung behoben. Die Diktat-Schaltfläche in der Kommentar-Karte schaltet nun korrekt ein und aus.
+
+
+- Bei der gemeinsamen Dokumentenerstellung wird der aktive Entwurf nicht gelöscht, wenn sich die Kommentarreihenfolge ändert.
+
+
+- Es wurde ein Problem behoben, bei dem kein Leerzeichen zwischen Wörtern eingefügt wurde, wenn Benutzer in ihr Dokument diktierten.
+
+
+- Behebt ein Problem in der Rendering-Pipeline im Zusammenhang mit Scrollebenen, die Scroll- oder Zoomanimationen enthalten.
+
+
+- Behebt ein Problem mit Farben, die auf Symbole und SVG-Grafiken mit 3D-Effekten angewendet wurden.
+
+
+- Es wurde ein Problem mit dem Automatischen Speichern behoben.
+
+
+- Es wurde ein Problem mit der Fußnote behoben.
+
+
+- Es wurde ein Problem behoben, bei dem das Veröffentlichen von mehrzeiligen, in RTL getippten Kommentaren dazu führte, dass die zweite und weitere Zeilen links statt rechts ausgerichtet wurden.
+
+
+- Ein Problem mit der Ausrichtung von mehreren Kommentaren wurde behoben.
+
+
+- Ein Problem mit den Tastenkombinationen im Aufgabenbereich „Vorlesen“ wurde behoben.
+
+
+- Wir haben ein Problem mit der Sprachausgabe behoben, bei dem ein Absatz u. U. übersprungen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem die Rechtschreibprüfung zwischen zwei verschiedenen Kontextmenüs für die Rechtschreibkorrektur wechselte.
+
+
+- Wir haben ein Problem mit Rich-Text-Inhaltssteuerelementen behoben.
+
+
+- Wir haben ein Problem behoben, bei dem die Eingabe am Ende eines ausgeblendeten Absatzes dazu führen konnte, dass die Anwendung nicht mehr reagierte.
+
+
+- Es wurde ein Problem behoben, bei dem Spalten möglicherweise überlappenden Text enthalten.
+
+
+- Ein Problem mit dem Lesezeichen wurde behoben.
+
+
+- Es wurde ein Problem mit dem Auflösen von Konflikten bei der gemeinsamen Dokumenterstellung gelöst.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- OneDrive-Orte werden nun entsprechend der Gruppenrichtlinieneinstellung herausgefiltert.
+
+
+- Ein Problem, das bei Verwendung der Sprachausgabe in Text mit mathematischen Formeln auftrat, wurde behoben.
+
+
+- Behebt ein Problem mit der Zuverlässigkeit im Zusammenhang mit der Unterstützung von Office-Apps, die in Sitzung 0 ausgeführt werden.
+
+
+- Behebt ein Problem mit der Zuverlässigkeit im Zusammenhang mit der Unterstützung von Office-Apps, die in Sitzung 0 ausgeführt werden.
+
+
+- Ein Problem wurde behoben, das beim Laden von EMF-Images dazu führte, dass das System nicht mehr reagierte.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2102-march-03"></a>Version 2102: 03. März
 *Version 2102 (Build 13801.20274)*
@@ -382,7 +614,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -881,10 +1113,10 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, durch welches das MailItem.BeforeAttachmentAdd-Ereignis unterbrochen wurde.
+- Es wurde ein Problem behoben, durch das das MailItem.BeforeAttachmentAdd-Ereignis unterbrochen wurde.
 
 
-- Wir haben einen Registrierungsschlüssel hinzugefügt, mit dem Kunden die Dateizeiteinbeziehung für Anhänge in IDataObject-Operationen (z. B. Drag/Drop, Zwischenablage) deaktivieren können. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = Dateizeiten sind ausgeschlossen. 1 = (Standard) Dateizeiten sind enthalten.
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem Kunden die Einbeziehung der Dateizeit für Anhänge in IDataObject-Operationen (d. h. Drag & Drop, Zwischenablage) deaktivieren können. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments. REG_DWORD IncludeFileTimesInDataObject. 0 = Dateizeiten sind ausgeschlossen. 1 = (Standard) Dateizeiten sind enthalten.
 
 
 - Es wurde ein Problem behoben, das dazu führte, dass Inline-Bilder verschwanden, wenn auf eine Nachricht mit einer Schutzbezeichnung von Azure Information Protection geantwortet wurde.
@@ -1107,7 +1339,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -1456,7 +1688,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="project"></a>Project
 
-- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Maske durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
+- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Formularansicht durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1995,7 +2227,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -3363,7 +3595,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - Ein Problem wurde behoben, das dazu führte, dass beim Öffnen mehrerer Dokumente in Word/Excel/PowerPoint aus derselben SharePoint-Bibliothek lediglich das erste geöffnete Dokument auf Richtlinienkonformität gescannt wurde.
 
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSWENDE)
+[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
 
 ## <a name="version-2002-march-05"></a>Version 2002: 05. März
 *Version 2002 (Build 12527.20278)*

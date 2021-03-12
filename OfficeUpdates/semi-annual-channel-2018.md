@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: 62c342fc8e2d8829398377dd0611e101f4a01fac
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: 87396dc4b6c0b6ba955d76eb8ce9e486073b1016
+ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370123"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50735180"
 ---
 # <a name="release-notes-for-semi-annual-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im halbjährlichen Kanal im Jahr 2018
 
@@ -446,7 +446,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 ### <a name="publisher-non-security-updates"></a>Publisher: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen es beim Filtern von Datenquellenfeldern mit NULL-Werten (leer) zu Fehlern kommt, wenn der Seriendruck-Assistent ausgeführt wird.
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems im Zusammenhang mit der Unterstützung von TLS 1.2.
 -   Behebung eines Problems beim Hinzufügen von Benutzern, bei dem durch das Auswählen von „Skype-Anruf“ in einem Meeting ein Fehler verursacht wird.
 -   Behebung eines Problems beim Hinzufügen von Benutzern, bei dem durch das Auswählen von „Skype-Anruf“ in einem Meeting ein Fehler verursacht wird.
@@ -529,7 +529,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2018-0919](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0919): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
 -   [Empfehlung 170020](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV170020): Microsoft Office – Intensiver Schutz – Update
 
-### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen Word beim Öffnen einer Datei aus SharePoint Online abstürzt.
 -   Behebung eines Problems, aufgrund dessen kleingeschriebene römische Seitenzahlen inkorrekt in Großschreibung geändert werden.
 -   Behebung eines Problems, durch das eine Meldung zu nicht ausreichend Speicher angezeigt wurde.
@@ -822,7 +822,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Neue Kontokonfiguration:** Richten Sie neue Konten mit einem neuen Assistenten ein, der weniger manuelle Schritte erfordert.
 -   **Dialogfeld „Anfügen“ für Verknüpfungen:** Beim Anfügen einer Verknüpfung mithilfe der Option „Datei anfügen“ im Menüband können Sie wählen, ob sie als Verknüpfung oder als Anlage hinzugefügt werden soll. Wenn dieses Dialogfeld nicht jedes Mal angezeigt werden soll, wechseln Sie zu „Datei“ \> „Optionen“ \> „Allgemein“, und geben Sie unter „Anlagenoptionen“ an, wie Verknüpfungen angefügt werden sollen.
 -   **Unterstützung für lokale Anlagen:** Dateien von einem lokalen SharePoint Server werden unter „Nachrichten“ \> „Datei anfügen“ als zuletzt verwendete Dateien angezeigt, lokale OneDrive for Business- und SharePoint-Teamwebsites werden unter „Datei anfügen“ \> „Webspeicherorte durchsuchen“ angezeigt, und lokale Dateien können in lokale OneDrive for Business-Websites hochgeladen werden.
--   **Branchen für Gruppen:**  Eine vom Mandantenadministrator definierte Branchenebene, z. B. „Vertraulich“, kann beim Erstellen oder Bearbeiten einer Gruppe zugewiesen werden, und diese Branche wird im Gruppenkopf angezeigt.
+-   **Branchen für Gruppen:**  Eine vom Mandantenadministrator definierte Branchenebene, z. B. „Vertraulich“, kann beim Erstellen oder Bearbeiten einer Gruppe zugewiesen werden, und diese Branche wird im Gruppenkopf angezeigt.
 -   **Gastzugriff auf Office 365-Gruppen:** Sie können mit Personen außerhalb der Organisation zusammenarbeiten, indem Sie ihnen Zugriff auf Gruppenunterhaltungen, Dateien, Kalendereinladungen und das Gruppennotizbuch gewähren. [Weitere Informationen](https://support.office.com/article/bfc7a840-868f-4fd6-a390-f347bf51aff6)
 -   **Aktionen erfordernde Nachrichten:** Entwickler können Nachrichten erstellen, die es Benutzern ermöglichen, einfache oder schnelle Aktionen direkt in Outlook auszuführen, ohne zu einer externen Website oder einer separaten App zu wechseln. [Weitere Informationen](https://dev.office.com/blogs/create-more-engaging-conversations-with-new-actionable-messages-updates-announced-at-microsoft-build)
 
@@ -894,7 +894,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   [CVE-2017-8696](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2017-8696): Microsoft Graphics Component – Remotecodeausführung
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
--   Hinzufügung eines Dialogfelds, in dem erläutert wird, warum ein Benutzer einer Besprechung nicht beitreten kann, wenn bestimmte Ports blockiert sind oder IP-Adressen nicht auf der Whitelist stehen.
+-   Hinzufügung eines Dialogfelds, in dem erläutert wird, warum ein Benutzer einer Besprechung nicht beitreten kann, wenn bestimmte Ports blockiert oder IP-Adressen nicht erlaubt sind.
 -   Behebung eines Problems, aufgrund dessen ungelesene Nachrichten in beständigen Chatrooms als gelesen markiert werden, wenn Sie auf Registerkarten für Sofortnachrichtenunterhaltungen klicken.
 -   Behebung eines Problems, aufgrund dessen bei Popups für eingehende Sofortnachrichten eine Verzögerung von mehreren Sekunden auftritt.
 -   Behebung eines Problems, aufgrund dessen ein AD-Kontakt als Telefonnummer anstatt als Kontaktname angezeigt wird, wenn die Synchronisierung mit Exchange deaktiviert ist.
@@ -919,7 +919,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Es wurde ein Problem behoben, bei dem kein leeres Unterhaltungsfenster angezeigt wird, bis Sie erfolgreich einer Besprechung beigetreten sind.
 -   Es wurde ein Problem behoben, bei dem das Feld mit den Abteilungsinformationen auf einer Visitenkarte in den Suchergebnissen leer ist, wenn das Titelfeld leer ist.
 -   Es wurden Fehler bei der Anmeldung von Benutzern, die von einer lokalen Version auf die Online-Version migriert wurden, aufgrund von Firewallregeln behoben.
--   Es wurde ein neuer DWORD-Registrierungsschlüssel hinzugefügt, um ein Problem zu beheben, aufgrund dessen beim Anmelden eines Benutzers beim Client in einem externen Netzwerk, in dem LyncAutoD ausgeführt wird, der Client den OAuthUsed-Registrierungsschlüssel auf „false“ zurücksetzt. Um das Problem zu beheben, legen Sie den Wert für EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket unter HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> auf 1 fest.
+-   Es wurde ein neuer DWORD-Registrierungsschlüssel hinzugefügt, um ein Problem zu beheben, aufgrund dessen beim Anmelden eines Benutzers beim Client in einem externen Netzwerk, in dem LyncAutoD ausgeführt wird, der Client den OAuthUsed-Registrierungsschlüssel auf „false“ zurücksetzt. Um das Problem zu beheben, legen Sie den Wert für EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket under HKEY\_CURRENT\_USER\\Software\\Microsoft\\Office\\16.0\\Lync\\\<SipID\> auf 1 fest.
 
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates
 -   **Erstellen von Diagrammen aus Excel-Daten:** Ein Standardflussdiagramm oder ein funktionsübergreifendes Flussdiagramm kann nun mit den neuen Datenvisualisierungsvorlagen automatisch aus Excel-Daten erstellt werden. [Weitere Informationen](https://support.office.com/article/17211b46-d144-4ca2-9ea7-b0f48f0ae0a6)
