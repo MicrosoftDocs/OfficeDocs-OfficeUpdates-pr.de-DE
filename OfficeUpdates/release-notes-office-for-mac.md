@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: e671d6d2520edde125287179c49c1556914b3ab8
-ms.sourcegitcommit: 75e6b1f2f564b32969be80e0594e8055a2c4f34c
+ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
+ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50425743"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837523"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -53,6 +53,45 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="march-16-2021"></a>16. März 2021
+*Version 16.47 (Build 21031401)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+- **Erhalten Sie Organisationsdaten von Power BI mithilfe von Excel-Datentypen:** Sie können Daten von Ihrer Organisation mithilfe von Excel-Datentypen einfügen. Konvertieren Sie eine Zelle in Ihrer Arbeitsmappe und erhalten Sie zusätzliche Informationen, und aktualisieren Sie die Daten wann immer Sie es benötigen!
+
+### <a name="powerpoint-mac"></a>PowerPoint für Mac
+
+- **Zeichnen Sie Ihre Präsentationen mit dem neuen und verbesserten „Bildschirmpräsentation aufzeichnen“:** „Bildschirmpräsentation aufzeichnen“ unterstützt die Videoaufzeichnung von Referenten, Freihand-Aufzeichnung und Laserpointer-Aufzeichnung.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/record-slide-show-updates-powerpoint-mac)
+
+### <a name="word"></a>Word
+
+- **Diktieren Sie Ihre Dokumente mit Sprachbefehlen:** Die neue Diktiersymbolleiste, Sprachbefehle, und automatische Interpunktion machen das Erstellen von Inhalten mit Ihrer Stimme schnell und einfach. [Weitere Informationen](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-27054](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-27054)
+-   [CVE-2021-27057](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-27057)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="february-16-2021"></a>16. Februar 2021
 *Version 16.46 (Build 21021202)*
@@ -120,11 +159,11 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen:** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 ### <a name="word"></a>Word
 
-- **Vertraulichkeitsbezeichnungen automatisch anbringen oder empfehlen:** Office kann eine Vertraulichkeitsbezeichnung auf der Grundlage des ermittelten vertraulichen Inhalts empfehlen oder automatisch anbringen. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- **Automatisches Anwenden oder Empfehlen von Vertraulichkeitsbezeichnungen:** Office kann eine Vertraulichkeitsbezeichnung basierend auf den erkannten vertraulichen Inhalten empfehlen oder automatisch anwenden. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
