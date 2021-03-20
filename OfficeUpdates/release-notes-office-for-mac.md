@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: 556b790add09ff23d2a3c885ddd6c0a49e534a02
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d62ae78e877444b44b16b7107a1417ad2c68b286
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837523"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902194"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -68,7 +68,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Erhalten Sie Organisationsdaten von Power BI mithilfe von Excel-Datentypen:** Sie können Daten von Ihrer Organisation mithilfe von Excel-Datentypen einfügen. Konvertieren Sie eine Zelle in Ihrer Arbeitsmappe und erhalten Sie zusätzliche Informationen, und aktualisieren Sie die Daten wann immer Sie es benötigen!
 
-### <a name="powerpoint-mac"></a>PowerPoint für Mac
+### <a name="powerpoint"></a>PowerPoint
 
 - **Zeichnen Sie Ihre Präsentationen mit dem neuen und verbesserten „Bildschirmpräsentation aufzeichnen“:** „Bildschirmpräsentation aufzeichnen“ unterstützt die Videoaufzeichnung von Referenten, Freihand-Aufzeichnung und Laserpointer-Aufzeichnung.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/record-slide-show-updates-powerpoint-mac)
 
@@ -341,7 +341,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
+- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
 
 ### <a name="outlook"></a>Outlook
 
@@ -428,7 +428,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Daten aus einem Foto:** Fügen Sie Tabellendaten aus Bildern, aus der Registerkarte "Einfügen" oder direkt aus Ihrem iPhone hinzu. [Weitere Informationen](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
+- **Abrufen von Daten aus einem Foto:** Fügen Sie Tabellendaten aus Bildern, aus der Registerkarte "Einfügen" oder direkt aus Ihrem iPhone hinzu. [Weitere Informationen](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -484,14 +484,14 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Link zu Folie:** Bitten Sie einen Kollegen um einen Beitrag zu Ihrer Foliengruppe zu leisten, und leiten Sie ihn direkt zu der Folie, bei der Sie Hilfe benötigen. [Weitere Informationen](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Eingabe ohne Tippen:** Haben Sie ein Mikrofon? Klicken Sie auf "Diktieren", und beobachten Sie, wie Word tippt, während Sie sprechen. [Weitere Informationen](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/).
 
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
