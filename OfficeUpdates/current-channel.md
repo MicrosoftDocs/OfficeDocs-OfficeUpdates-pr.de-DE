@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: f6d99e8a1f14403d96f481db795362c56448c8bc
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735160"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902170"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -32,6 +32,42 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2102-march-18"></a>Version 2102: 18. März
+*Version 2102 (Build 13801.20360)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Diese Änderung behebt ein Problem, bei dem in einigen Fällen das Ausführen einer SQL Server-Pass-Through-Abfrage zu einer Fehlermeldung führen kann, die darauf hinweist, dass ein "ungültiger Cursorstatus" vorliegt.
+
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, das dazu führte, dass bei der Funktion "Cloud-Einstellungen" die benutzerdefinierten Einstellungen durch die Standardeinstellung überschrieben wurden, nachdem die Benutzer Outlook auf einem neuen Gerät konfiguriert hatten.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern mehr Signaturen als erwartet angezeigt wurden.
+
+
+### <a name="word"></a>Word
+
+- Wir haben ein Problem behoben, bei dem die Eingabe am Ende eines ausgeblendeten Absatzes dazu führen konnte, dass die Anwendung nicht mehr reagierte.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+
+- Es wurde ein Problem behoben, durch das Benutzer beim Öffnen einer zuvor geöffneten Datei mit nicht gespeicherten Änderungen keine Datei speichern konnten, die Datei jedoch gelöscht wurde. Nach der Problembehebung erhalten Benutzer eine freundliche Nachricht, in der sie darüber informiert werden, dass die Datei gelöscht wurde. Dieser Benutzer kann wählen, ob Änderungen verworfen oder die Datei gespeichert werden sollen.
+
+
+- Wir haben ein Zuverlässigkeitsproblem im Zusammenhang mit der Unterstützung von Office-Apps behoben, die in Sitzung 0 ausgeführt werden.
 
 
 
@@ -707,7 +743,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, durch das die Kopfzeilen chinesischer Nachrichten bei der Beantwortung oder Weiterleitung nicht lesbar waren.
+- Es wurde ein Problem behoben, durch das die Kopfzeilen von Nachrichten in chinesischer Sprache bei der Beantwortung oder Weiterleitung nicht lesbar waren.
 
 
 - Es wurde ein Problem behoben, durch das chinesische Zeichen beim Speichern als OFT-Datei in Fragezeichen geändert wurden.
@@ -2128,6 +2164,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
@@ -2137,5 +2174,4 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (|Win32|CC|Production| |16.0.13530.20376|version-2012-january-12|)
 [//]: # (|Win32|CC|Production| |16.0.13530.20316|version-2012-january-05|)
 [//]: # (|Win32|CC|Production| |16.0.13426.20404|version-2011-december-21|)
-[//]: # (|Win32|CC|Production| |16.0.13426.20332|version-2011-december-08|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

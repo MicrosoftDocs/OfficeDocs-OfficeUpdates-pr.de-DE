@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 2fccb4fde69a5755ca114baf6536ed0e8722f426
-ms.sourcegitcommit: 8491216d5901156e5e158f6eac33141882c53e8f
+ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
+ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50756261"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902140"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,36 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2104-march-19"></a>Version 2104: 19. März
+*Version 2104 (Build 13913.20000)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Diese Änderung behebt ein Problem, bei dem in einigen Fällen das Ausführen einer SQL Server-Pass-Through-Abfrage zu einer Fehlermeldung führen kann, die darauf hinweist, dass ein "ungültiger Cursorstatus" vorliegt.
+
+
+### <a name="excel"></a>Excel
+
+- Manuelles Zurücksetzen von Windows Update-Komponenten
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem bei einem Datumsformat von W4/4 möglicherweise der falsche Tag und das falsche Jahr angezeigt wird.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Behebt ein Problem mit der Unterstützung von GDI+ LineJoinMiterClipped in Office.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2104-march-12"></a>Version 2104: 12. März
 *Version 2104 (Build 13906.20000)*
@@ -491,7 +521,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - **Erforderliche Kennzeichnung:** Benutzer mit einer von ihren Administratoren festgelegten Richtlinie „Erforderliche Kennzeichnung“ müssen ihre Dokumente und E-Mails kennzeichnen.
 
 
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 <br/>
 
@@ -2188,7 +2218,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - In der Webansicht und im Plastischen Reader wurde durch das Anklicken eines Hinweises nach oben gescrollt, obwohl er bereits angezeigt wurde. Dieser Fehler wurde behoben.
 - Wir haben ein Problem behoben, dass infolge des Speicherns einer Datei, die ein Makro enthält, unter einem neuen Namen sie mit der Erweiterung DOCX und dem Dateinamen WRO0004.docx gespeichert wurde, und zwar unabhängig davon, was der Benutzer eingab, wodurch das Dokument unbrauchbar wurde.
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 
 ## <a name="version-2005-april-24"></a>Version 2005: 24. April
@@ -2706,6 +2736,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
@@ -2715,5 +2746,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13721.20008|version-2102-january-29|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13714.20000|version-2102-january-22|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13707.20008|version-2102-january-15|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13704.20000|version-2102-january-08|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
