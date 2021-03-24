@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: c29090ba68f60cbe6d04637523a66e908a0e2b21
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: e35fc3607b6f2c6fa3888207bb53790882e26a7a
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837503"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169994"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Updateverlauf für den Office Insider-Kanal
 
 Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben, oder wenn Sie nach einer Liste von aktuellen Insider-Builds suchen, sind Sie am richtigen Ort. Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum Insider-Programm zu erhalten.
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](/deployoffice/name-change). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
 
 > [!NOTE]
 >
@@ -33,10 +33,16 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 Wenn Sie auf der Insider-Ebene registriert sind, erhalten Sie häufige Updates mit neuen Features und Verbesserungen. Die nachstehende Liste zeigt einen Verlauf der aktuellen Versionen und Builds des Insider-Kanals mit **dem zuletzt veröffentlichten Build an erster Stelle**.  Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
 
-Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](https://docs.microsoft.com/OfficeUpdates/beta-channel).
+Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windows Desktop](./beta-channel.md).
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**23. März 2021**<br/>
+Version 2104 (Build 13919.20002)<br/>
+
+**23. März 2021**<br/>
+Version 2104 (Build 13919.20000)<br/>
 
 **16. März 2021**<br/>
 Version 2104 (Build 13913.20000)<br/>

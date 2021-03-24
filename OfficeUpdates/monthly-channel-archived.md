@@ -9,24 +9,24 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus zur Verfügung
-ms.openlocfilehash: 04f7cf6f6b4ed2841d68f0ad8aed28e989261d03
-ms.sourcegitcommit: 96185aa6c5a06095c58b57ac36cb2800add8bea0
+ms.openlocfilehash: c1afd7e16c67c2985966e1621bba57413162831f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49760720"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169774"
 ---
 # <a name="archived-release-notes-for-monthly-channel"></a>Anmerkungen zur Releases im monatlichen Kanal
 Diese Anmerkungen zur Releases enthalten Informationen zu neuen Features und nicht sicherheitsrelevante Updates, die in den monatlichen Channel-Updates für Office 365 ProPlus Visio Pro für Office 365, Project Online Desktop Client und Office 365 Business enthalten sind.
 
  > [!NOTE]
 >- Features (und häufig auch Fixes) werden häufig über einen Zeitraum in den monatlichen Updatekanal eingeführt.  Wenn etwas, das nachstehend beschrieben ist, nicht sofort angezeigt wird, wird es in Kürze verfügbar sein. [Weitere Informationen](https://support.office.com/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516)
->- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/teams-install).
+>- Microsoft Teams für vorhandene Installationen von Office 365 ProPlus: Ab Anfang Juli werden Updates für Office 365 ProPlus (und Office 365 Business) Microsoft Teams enthalten.  Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter [Bereitstellen von Microsoft Teams mit Office 365 ProPlus](/deployoffice/teams-install).
 
 ## <a name="version-1911-december-10"></a>Version 1911: 10. Dezember
 *Version 1911 (Build 12228.20364)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -118,7 +118,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1910-november-12"></a>Version 1910: 12. November
 *Version 1910 (Build 12130.20344)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -178,7 +178,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 
 ### <a name="office-suite"></a>Office-Suite
 
-- **Installieren Sie Microsoft Teams auf vorhandene Installationen von Office 365 ProPlus:** ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter „Bereitstellen von Microsoft Teams mit Office 365 ProPlus“. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Installieren Sie Microsoft Teams auf vorhandene Installationen von Office 365 ProPlus:** ab Ende Juni wird Microsoft Teams beim Aktualisieren dieser Installationen in bestehende Installationen von Office 365 ProPlus (und Office 365 Business) einbezogen. Ab welchem Datum Microsoft Teams hinzugefügt wird, hängt davon ab, welchen Updatekanal Sie verwenden. Weitere Informationen hierzu finden Sie unter „Bereitstellen von Microsoft Teams mit Office 365 ProPlus“. [Weitere Informationen](/deployoffice/teams-install)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -221,7 +221,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1909-october-08"></a>Version 1909: 8. Oktober
 *Version 1909 (Build 12026.20320)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -333,7 +333,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1908-september-10"></a>Version 1908: 10. September
 *Version 1908 (Build 11929.20300)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) gelistet
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) gelistet
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -399,7 +399,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1907-august-13"></a>Version 1907: 13. August
 *Version 1907 (Build 11901.20218)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 
@@ -453,7 +453,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1906-july-09"></a>Version 1906: 9. Juli
 *Version 1906 (Build 11727.20244)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 
@@ -519,7 +519,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 
 ## <a name="version-1905-june-11"></a>Version 1905: 11. Juni
 *Version 1905 (Build 11629.20246)*
-<br/>Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+<br/>Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 
@@ -609,7 +609,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1904-may-14"></a>Version 1904: 14. Mai 
 *Version 1904 (Build 11601.20204)*
 
-- Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+- Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-1904-may-8"></a>Version 1904: 8. Mai
 *Version 1904 (Build 11601.20178)*
@@ -645,7 +645,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 
 - **Neue Symbole:** Wir haben anhand Ihres Feedbacks mehr als 300 neue Symbole hinzugefügt. Sie finden diese über die Schaltfläche "Symbole" auf der Registerkarte "Einfügen" im Menüband.
 
-- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 
@@ -674,7 +674,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
 ## <a name="version-1903-april-9"></a>Version 1903: 9. April
 *Version 1903 (Build 11425.20204)* 
 
-- Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsoft365-apps-security-updates) aufgeführt
+- Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 - Behebt ein Problem in Lync (Skype for Business) bei dem bei jedem Online-Meeting mit mehr als 7 Teilnehmern das Meeting-Fenster ausgeblendet werden kann.
@@ -760,7 +760,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/OfficeUpdates/microsof
  
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 
-- **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Installation von Microsoft Teams:**  Microsoft Teams ist standardmäßig in Neuinstallationen von Office 365 ProPlus installiert. [Weitere Informationen](/DeployOffice/teams-install)
 
 ## <a name="version-1901-february-12"></a>Version 1901: 12. Februar
 *Version 1901 (Build 11231.20174)* 
@@ -839,18 +839,18 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 
  ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates 
 
--   [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8598](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8598): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
--   [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
--   [CVE-2018-8636](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8636): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
 
--   [CVE-2018-8587](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8587): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Remotecodeausführung 
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Remotecodeausführung 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates 
 
--   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung 
 
 
 ## <a name="version-1811-november-27"></a>Version 1811: 27. November
@@ -880,29 +880,29 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
 
--   [CVE-2018-8574](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8574): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8577](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8577): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
 
--   [CVE-2018-8522](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8522): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
--   [CVE-2018-8524](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8524): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
--   [CVE-2018-8558](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen 
--   [CVE-2018-8576](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8576): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
--   [CVE-2018-8579](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen 
--   [CVE-2018-8582](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8582): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579): Microsoft Outlook – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
 
 ### <a name="project-security-updates"></a>Project: Sicherheitsupdates 
 
--   [CVE-2018-8575](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8575): Sicherheitsanfälligkeit in Microsoft Project bezüglich Remotecodeausführung 
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575): Sicherheitsanfälligkeit in Microsoft Project bezüglich Remotecodeausführung 
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates  
 
--   [CVE-2018-8573](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8573): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates 
 
--   [CVE-2018-8546](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8546): Sicherheitsanfälligkeit in Microsoft Skype for Business bezüglich Verweigerung des Dienstes 
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546): Sicherheitsanfälligkeit in Microsoft Skype for Business bezüglich Verweigerung des Dienstes 
 
  ### <a name="project-non-security-updates"></a>Project: Nicht sicherheitsrelevante Sicherheitsupdates
 
@@ -961,20 +961,20 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1809 (Build 10827.20150)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8502): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates 
--   [ADV180026](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV180026): Microsoft Office – Intensiver Schutz – Update 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office – Intensiver Schutz – Update 
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates 
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8501): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung
+-   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8504): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
--   [ADV180026](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV180026): Microsoft Office – Intensiver Schutz – Update 
+-   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung 
+-   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026): Microsoft Office – Intensiver Schutz – Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates 
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics Component – Sicherheitsrisiko bei der Remotecodeausführung 
+-   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432): Microsoft Graphics Component – Sicherheitsrisiko bei der Remotecodeausführung 
 
 
 ## <a name="version-1809-september-27"></a>Version 1809: 27. September
@@ -1005,14 +1005,14 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1808 (Build 10730.20102)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8331): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8429): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8430): Word – Sicherheitsrisiko bei PDF-Remotecodeausführung
+-   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430): Word – Sicherheitsrisiko bei PDF-Remotecodeausführung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8332): Win32k – Sicherheitsrisiko bei PDF-Remotecodeausführung
+-   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332): Win32k – Sicherheitsrisiko bei PDF-Remotecodeausführung
 
 
 ## <a name="version-1808-september-5"></a>Version 1808: 5. September
@@ -1049,18 +1049,18 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1807 (Build 10325.20118)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-8375](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8375): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8379](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8379): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
--   [CVE-2018-8382](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8382): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8375](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8375): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8379](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8379): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung 
+-   [CVE-2018-8382](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8382): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen 
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [ADV180021](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV180021): Microsoft Office – Intensiver Schutz – Update 
+-   [ADV180021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180021): Microsoft Office – Intensiver Schutz – Update 
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8378](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8378): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen 
+-   [CVE-2018-8378](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8378): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen 
 
 ## <a name="version-1807-july-25"></a>Version 1807: 25. Juli
 *Version 1807 (Build 10325.20082)*
@@ -1091,13 +1091,13 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1806 (Build 10228.20104)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-8312](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-8312](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8312):Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2018-8310](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko der Manipulation in Microsoft Office
+-   [CVE-2018-8310](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8310): Sicherheitsrisiko der Manipulation in Microsoft Office
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8281](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8281): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2018-8281](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8281): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 ## <a name="version-1806-june-25"></a>Version 1806: 25. Juni
 *Version 1806 (Build 10228.20080)*
@@ -1143,11 +1143,11 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1805 (Build 9330.2118)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-8246](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8246): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
--   [CVE-2018-8248](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8248): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-8246](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8246): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-8248](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8248): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2018-8244](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8244): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
+-   [CVE-2018-8244](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8244): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 
@@ -1213,17 +1213,17 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1804 (Build 9226.2126)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-8147](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8147): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
--   [CVE-2018-8148](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8148): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-8162](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8162): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-8163](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8163): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-8147](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8147): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-8148](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8148): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-8162](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8162): Microsoft Excel – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-8163](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8163): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2018-8150](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8150): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Umgehung von Sicherheitsfunktionen
+-   [CVE-2018-8150](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8150): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Umgehung von Sicherheitsfunktionen
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-8157](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8157): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
--   [CVE-2018-8158](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8158): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2018-8157](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8157): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2018-8158](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8158): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 
 
 ## <a name="version-1804-april-25"></a>Version 1804: 25. April
@@ -1233,7 +1233,7 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 -   **Abhören Ihrer E-Mails:** Outlook kann Ihre E-Mails laut vorlesen und den Text während des Lesens hervorheben. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **So verpassen Sie keine Erinnerung mehr:** Legen Sie Erinnerungen so fest, dass sie über Fenstern angezeigt werden, in denen Sie arbeiten. Andernfalls blinkt Outlook in der Taskleiste, damit Sie darauf aufmerksam werden. [Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Markieren Sie gelöschte Elemente als gelesen:** Sie können jetzt jede Nachricht, die Sie löschen, als gelesen markieren. Klicken Sie hierfür auf „Datei \> Optionen \> E-Mail \> Andere“.
--   **Verschlüsselungsoption:** Benutzer der Office 365-Nachrichtenverschlüsselung können Nachrichten verschlüssel und an eine beliebige Person innerhalb oder außerhalb ihrer Organisation senden. Die Verschlüsselungsoption wird beim Erstellen einer Nachrichten unter „Optionen \> Berechtigungen“ angezeigt. [Weitere Informationen](https://aka.ms/omeoverview)
+-   **Verschlüsselungsoption:** Benutzer der Office 365-Nachrichtenverschlüsselung können Nachrichten verschlüssel und an eine beliebige Person innerhalb oder außerhalb ihrer Organisation senden. Die Verschlüsselungsoption wird beim Erstellen einer Nachrichten unter „Optionen \> Berechtigungen“ angezeigt. [Weitere Informationen](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Freihandkonvertierung:** Konvertieren Sie Notizen und Zeichnungen in lesbaren Text und gestochen scharfe Formen, um eine ansprechende Präsentation zu erstellen. [Weitere Informationen](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -1251,7 +1251,7 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1803 (Build 9126.2152)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-1029](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-1029): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-1029](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1029): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem das gemeinsame Arbeiten mehrerer Benutzer an einer Präsentation in einer falschen Duplikation der Folienmaster resultierte.
@@ -1264,9 +1264,9 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 -   Behebung eines Problems, durch das eine Meldung zu nicht ausreichend Speicher angezeigt wurde.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-0950](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0950): Sicherheitsanfälligkeit in Microsoft Office bezüglich Veröffentlichung von Informationen
--   [CVE-2018-1026](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-1030](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-1030): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2018-0950](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0950): Sicherheitsanfälligkeit in Microsoft Office bezüglich Veröffentlichung von Informationen
+-   [CVE-2018-1026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1026): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-1030](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-1030): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
 -   **Flash-, Silverlight- und Shockwave-Steuerelemente können in Office aus Sicherheitsgründen nicht aktiviert werden:** Aus Sicherheitsgründen wird in neuen Builds von Microsoft Office für Office 365 unter Windows die Aktivierung von Flash-, Silverlight- und Shockwave-Steuerelemente blockiert. Weitere Informationen finden Sie [hier](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Blocking-Flash-Shockwave-Silverlight-controls-from-activating-in/ba-p/191729) und [hier](https://support.office.com/article/flash-silverlight-and-shockwave-controls-blocked-in-office-2016-55738f12-a01d-420e-a533-7cef1ff6aeb1).
 
 ## <a name="version-1803-march-27"></a>Version 1803: 27. März
@@ -1306,13 +1306,13 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1802 (Build 9029.2253)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   [CVE-2018-0903](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0903): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
+-   [CVE-2018-0903](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0903): Sicherheitsanfälligkeit in Microsoft Access bezüglich Remotecodeausführung
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-0907](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0907): Umgehung von Sicherheitsfunktionen in Microsoft Office Excel
+-   [CVE-2018-0907](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0907): Umgehung von Sicherheitsfunktionen in Microsoft Office Excel
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   [CVE-2018-0919](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0919): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-0919](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0919): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
 
 
 ## <a name="version-1802-february-26"></a>Version 1802: 26. Februar
@@ -1341,15 +1341,15 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1801 (Build 9001.2171)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-0841](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0841): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+-   [CVE-2018-0841](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0841): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2018-0850](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0850): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
--   [CVE-2018-0852](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2018-0850](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0850): Sicherheitsanfälligkeit in Microsoft Outlook bezüglich Rechteerweiterungen
+-   [CVE-2018-0852](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0852): Microsoft Outlook – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-0851](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0851): Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung
--   [CVE-2018-0853](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0853): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
+-   [CVE-2018-0851](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0851): Sicherheitsanfälligkeit in Microsoft Office bezüglich Arbeitsspeicherbeschädigung
+-   [CVE-2018-0853](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0853): Microsoft Office – Sicherheitsrisiko bei der Offenlegung von Informationen
 
 
 ## <a name="version-1801-february-7"></a>Version 1801: 7. Februar
@@ -1424,29 +1424,29 @@ Nur nicht sicherheitsrelevante Updates, Behandlung von Leistungsproblemen.
 *Version 1711 (Build 8730.2175)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   [CVE-2018-0796](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0796): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
--   [Empfehlung 170021](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV170021): Microsoft Office – Intensiver Schutz – Update
+-   [CVE-2018-0796](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0796): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung
+-   [Empfehlung 170021](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV170021): Microsoft Office – Intensiver Schutz – Update
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   [CVE-2018-0791](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0791): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0791](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0791): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   [CVE-2018-0792](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0792): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
--   [CVE-2018-0793](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0794](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0794): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0798](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0798): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
--   [CVE-2018-0801](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0801): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0802](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0802): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
--   [CVE-2018-0804](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0804): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0805](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0805): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0806](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0806): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0807](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0807): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
--   [CVE-2018-0812](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0812): Microsoft Word – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2018-0792](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0792): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [CVE-2018-0793](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0793): Microsoft Outlook – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0794](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0794): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0798](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0798): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2018-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0801): Microsoft Office – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0802](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0802): Microsoft Office – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
+-   [CVE-2018-0804](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0804): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0805](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0805): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0806](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0806): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0807](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0807): Microsoft Word – Sicherheitsrisiko bei Remotecodeausführung
+-   [CVE-2018-0812](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0812): Microsoft Word – Sicherheitsrisiko durch Arbeitsspeicherbeschädigung
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   [CVE-2018-0795](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-0795): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
--   [Empfehlung 180003](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz – Update
+-   [CVE-2018-0795](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-0795): Sicherheitsanfälligkeit in Microsoft Office bezüglich Remotecodeausführung
+-   [Empfehlung 180003](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180003): Microsoft Office – Intensiver Schutz – Update
 
 
 ## <a name="version-1711-january-2"></a>Version 1711: 2. Januar

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: e12cd2ef1015a6f561d186ace737e96548dc5d18
-ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
+ms.openlocfilehash: 9034604f61ae18eaa07a1467814fdf160b4f46f6
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51030765"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169984"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
 Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, Outlook, Access, Project und Teams für Windows-Desktop für den aktuellen Kanal (Vorschau). Jede Woche heben wir interessante neuer Features, wichtige Fixes und wesentliche Probleme hervor, über die wir Sie gerne informieren möchten. Bitte beachten Sie, dass wir Features (und häufig auch Fixes) häufig über einen Zeitraum in den aktuellen Kanal (Vorschau) einführen. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn also im Folgenden etwas nicht beschrieben wird, machen Sie sich keine Sorgen, es wird bald behandelt werden.  
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 > - Das Veröffentlichungsdatum der Versionshinweise stimmt möglicherweise nicht mit dem tatsächlichen Veröffentlichungsdatum des Builds überein.
@@ -585,20 +585,20 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels).
 
 
 ### <a name="word"></a>Word
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
@@ -660,7 +660,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1385,9 +1385,9 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
+- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportieren eines animierten GIF in einem Bereich:** Folienbereich auswählen, wenn Sie nach animiertem GIF exportieren
 
@@ -1481,7 +1481,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Sparen Sie Zeit beim Verfassen von Nachrichten:** Outlook macht Ihnen Formulierungsvorschläge, sodass Sie Nachrichten schnell verfassen können. Wenn Sie den Vorschlag akzeptieren möchten, verwenden Sie einfach die TAB-Taste.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/text-predictions-in-word-outlook)
+- **Sparen Sie Zeit beim Verfassen von Nachrichten:** Outlook macht Ihnen Formulierungsvorschläge, sodass Sie Nachrichten schnell verfassen können. Wenn Sie den Vorschlag akzeptieren möchten, verwenden Sie einfach die TAB-Taste.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
 
 - **Aufheben der Sprachbarriere durch einen integrierten Übersetzer:** Ab jetzt sind keine Add-Ins für die Übersetzung mehr erforderlich! Klicken Sie in einer Nachricht mit der rechten Maustaste, um bestimmte Wörter, Ausdrücke oder die gesamte Nachricht zu übersetzen. [Weitere Informationen](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -1687,7 +1687,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="outlook"></a>Outlook
 
-- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1751,7 +1751,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="excel"></a>Excel
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1763,13 +1763,13 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 - **Unterhaltung löschen nach Nachrichtenbesitzer:** Dieses Feature ermöglicht es Ihnen, eine Unterhaltung nach dem Nachrichtenbesitzer zu löschen.
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1787,7 +1787,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -2119,7 +2119,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ## <a name="version-2008-august-11"></a>Version 2008: 11. August
 *Version 2008 (Build 13127.20164)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -3349,7 +3349,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2003-april-14"></a>Version 2003: 14. April
 *Version 2003 (Build 12624.20466)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS CONTENT START NICHT ENTFERNEN)
@@ -3524,18 +3524,18 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2003-march-10"></a>Version 2003: 10. März
 *Version 2003 (Build 12624.20176)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 ### <a name="feature-updates"></a>Funktionsupdates
 ### <a name="excel"></a>Excel
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 </br>
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
@@ -3744,7 +3744,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-february-11"></a>Version 2002: 11. Februar
 *Version 2002 (Build 12527.20092)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -3864,4 +3864,3 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
-

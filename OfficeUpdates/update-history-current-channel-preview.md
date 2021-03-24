@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 139b25287695c0147c36e5766f0a2127fffb74eb
-ms.sourcegitcommit: 19494c5169cf2027145ba9ae930bfb5f3bc5375b
+ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51030775"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170234"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -24,12 +24,12 @@ Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum In
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Current Channel (Vorschau)
 
 Wenn Sie für Current Channel (Vorschau) registriert sind, die früher als Insider Slow bezeichnet wurde, erhalten Sie ungefähr einmal im Monat ein neues Office-Funktionsupdate sowie nachfolgende Builds mit wichtigen Korrekturen oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds von Current Channel (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
-Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](https://docs.microsoft.com/OfficeUpdates/current-channel-preview). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/de-DE/releasenotes/windows/slow).
+Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](./current-channel-preview.md). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2123420). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](/deployoffice/name-change). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
 
 > [!NOTE]
 > - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet

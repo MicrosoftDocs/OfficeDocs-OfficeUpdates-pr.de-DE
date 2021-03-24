@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Pros Versionshinweise für Monatliche Kanalversionen für Office 365 ProPlus in 2017 zur Verfügung
-ms.openlocfilehash: a41d4c959b108995e0a4d1d8601cf1635b2c594d
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: c8e653782d812013ce6eb9791977d6f52c908c1f
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735200"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169814"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2017"></a>Versionshinweise für Monatliche Kanalversionen in 2017
 
@@ -323,7 +323,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Blockieren gefährlicher Erweiterungen:** Erweiterungen, die als riskant eingestuft werden und als OLE-Paketobjekte eingebettet sind, werden standardmäßig blockiert. Diese sind zum Beispiel .exe, .vbs und .js. [Mehr erfahren](https://support.office.com/article/packager-activation-in-office-365-desktop-applications-52808039-4a7c-4550-be3a-869dd338d834)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
--   Fügen Sie ein Dialogfeld hinzu, in dem erläutert wird, warum ein Benutzer nicht an einer Besprechung teilnehmen kann, wenn bestimmte Ports blockiert sind oder IPs nicht zulässig sind.
+-   Hinzufügung eines Dialogfelds, in dem erläutert wird, warum ein Benutzer einer Besprechung nicht beitreten kann, wenn bestimmte Ports blockiert oder IP-Adressen nicht erlaubt sind.
 -   Behebung eines Problems, aufgrund dessen ungelesene Nachrichten in beständigen Chatrooms als gelesen markiert werden, wenn Sie auf Registerkarten für Sofortnachrichtenunterhaltungen klicken.
 -   Behebung eines Problems, aufgrund dessen bei Popups für eingehende Sofortnachrichten eine Verzögerung von mehreren Sekunden auftritt.
 -   Behebung eines Problems, aufgrund dessen ein AD-Kontakt als Telefonnummer anstatt als Kontaktname angezeigt wird, wenn die Synchronisierung mit Exchange deaktiviert ist.
@@ -601,22 +601,22 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   **Abfragen freigeben**: Exportieren Sie eine beliebige Abfragedefinition in eine ODC-Datei (Office Database Connection), und geben Sie diese dann über Arbeitsmappen hinweg oder für andere Personen frei.
 -   **Daten laden:** Laden Sie Daten direkt aus einer Abfrage in PivotTables oder PivotCharts, ohne die Daten im Datenmodell speichern zu müssen.
 -   **Verbesserung beim Abrufen und Transformieren:** Erstellen Sie im Abfrage-Editor eine neue Spalte, indem Sie Beispielwerte angeben. Während der Eingabe erkennt Excel die erforderlichen Transformationen und zeigt eine Vorschau der neuen Spalte an.
--   **Unterstützung für Windows Information Protection (WIP):**   Excel ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen.  [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**   Excel ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen.  [Weitere Informationen](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem „Verbinden und Zentrieren“ in gruppierten Arbeitsblättern nicht funktioniert.
 
 ### <a name="onenote-feature-updates"></a>OneNote: Featureupdates
--   **Unterstützung für Windows Information Protection (WIP):** OneNote ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):** OneNote ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   **Unterstützung für Windows Information Protection (WIP):** Outlook ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):** Outlook ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 -   **Dialogfeld „Anfügen“ für Verknüpfungen:** Beim Anfügen einer Verknüpfung mithilfe der Option „Datei anfügen“ im Menüband können Sie wählen, ob sie als Verknüpfung oder als Anlage hinzugefügt werden soll. Wenn dieses Dialogfeld nicht jedes Mal angezeigt werden soll, wechseln Sie zu „Datei“ \> „Optionen“ \> „Allgemein“, und geben Sie unter „Anlagenoptionen“ an, wie Verknüpfungen angefügt werden sollen.
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Untertitel für Videos:** Fügen Sie einem Video Untertitel hinzu, damit die Barrierefreiheit erhöht wird. [Weitere Informationen](https://support.office.com/article/a16745e1-b3da-4428-b2a7-ff0c8b758d0b)
 -   **Verbesserung am Designer:** Der Designer schlägt jetzt Entwurfsideen für Diagramme vor, die Ihren Folien hinzugefügt werden.
--   **Unterstützung für Windows Information Protection (WIP):**   PowerPoint ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**   PowerPoint ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen. [Weitere Informationen](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Korrektur des Dialogfelds „Projektwebsite erstellen“ derart, dass nun, da jede Enterprise-Projektvorlage in Project Online über eine eigene URL für Projektwebsites verfügt, der korrekte Ort der Website angezeigt wird.
@@ -631,7 +631,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="skype-for-business-feature-updates"></a>Skype for Business: Feature-Updates
 -   **Link einfügen:** Fügen Sie einen Link in Chatunterhaltungen und Gruppenchats ein, und geben Sie einen benutzerfreundlichen Text für den Link anstelle der vollständigen URL an.
 -   **Benachrichtigung für die Bildschirmfreigabe:** Im Unterhaltungsfenster wird eine Benachrichtigung angezeigt, wenn Sie einen Bildschirm in einer Chatunterhaltung freigegeben haben oder wenn die Bildschirmfreigabe fortgesetzt wird, nachdem Sie eine Besprechung verlassen haben. Die Benachrichtigung erinnert Sie daran, dass Sie Ihren Bildschirm immer noch freigeben, und ermöglicht das einfache Beenden der Freigabe über die Schaltfläche „Freigabe beenden“.
--   **Unterstützung für Windows Information Protection (WIP):** Skype for Business wird nun als „WIP Work Only“-App unterstützt.  Wenn Sie Skype zu Ihrer Liste der zugelassenen Apps hinzufügen, erkennt Windows, dass es keine persönlichen Daten verarbeiten soll.  Windows schützt die Daten im Auftrag von Skype for Business.  [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):** Skype for Business wird nun als „WIP Work Only“-App unterstützt.  Wenn Sie Skype zu Ihrer Liste der zugelassenen Apps hinzufügen, erkennt Windows, dass es keine persönlichen Daten verarbeiten soll.  Windows schützt die Daten im Auftrag von Skype for Business.  [Weitere Informationen](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Ändern Sie die Meldung für versuchte Anrufe an Benutzer, deren Audio gemäß Richtlinie deaktiviert ist, von „Der Anruf kann nicht durchgeführt werden“ in „Der Anruf kann nicht durchgeführt werden, weil ein IT-Administrator Audio beschränkt hat. Versuchen Sie, stattdessen Instant Messaging oder E-Mails zu verwenden, und wenden Sie sich an Ihren IT-Administrator.“
@@ -646,7 +646,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ### <a name="word-feature-updates"></a>Word: Featureupdates
 -   **Verbesserte Unterstützung beim Verfassen im Editorbereich:** Verwenden Sie den Editorbereich für erweiterte Empfehlungen zu Rechtschreibung, Grammatik und Schreibstil. Der Zugriff ist dank verbesserter Unterstützung mithilfe von Hilfstechnologien möglich.
 -   **Alternativtexterstellung:** Ein cloudbasierten Dienst generiert automatisch Alternativtext (ALT-Text) für Bilder in einem Dokument.
--   **Unterstützung für Windows Information Protection (WIP):**   Word ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen.  [Weitere Informationen](https://aka.ms/wiptechnet)
+-   **Unterstützung für Windows Information Protection (WIP):**   Word ist nun eine optimierte App und kann zwischen Unternehmensdaten und persönlichen Daten unterscheiden, sodass es ordnungsgemäß ermitteln kann, welche Daten basierend auf den konfigurierten Richtlinien geschützt werden müssen.  [Weitere Informationen](/windows/security/information-protection/windows-information-protection/protect-enterprise-data-using-wip)
 
 ## <a name="version-1704-june-1"></a>Version 1704: 1. Juni
 *Version 1704 (Build 8067.2157)*
@@ -821,13 +821,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 *Version 1702 (Build 7870.2024)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Sicherheitsupdate für Microsoft Office (3217868)
+-   Microsoft-Sicherheitsbulletin [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Sicherheitsupdate für Microsoft Office (3217868)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS17-013](https://technet.microsoft.com/library/security/ms17-013): Sicherheitsupdate für Microsoft Graphics Component (4013075)
+-   Microsoft-Sicherheitsbulletin [MS17-013](/security-updates/SecurityBulletins/2017/ms17-013): Sicherheitsupdate für Microsoft Graphics Component (4013075)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS17-014](https://technet.microsoft.com/library/security/ms17-014): Sicherheitsupdate für Microsoft Office (3217868)
+-   Microsoft-Sicherheitsbulletin [MS17-014](/security-updates/SecurityBulletins/2017/ms17-014): Sicherheitsupdate für Microsoft Office (3217868)
 
 
 
@@ -1007,7 +1007,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Beheben Sie ein Problem, bei dem OneNote abstürzt, wenn der Benutzer versucht, ein Bild auszudrucken, das größer ist als die Seite.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   **Anheftbarer Aufgabenbereich:** Sie können den Add-In-Aufgabenbereich geöffnet lassen, während Sie die Nachrichten in Ihrem Postfach durchgehen. [Weitere Informationen](https://blogs.msdn.microsoft.com/exchangedev/2017/01/26/pinnable-taskpane-in-outlook-2016/)
+-   **Anheftbarer Aufgabenbereich:** Sie können den Add-In-Aufgabenbereich geöffnet lassen, während Sie die Nachrichten in Ihrem Postfach durchgehen. [Weitere Informationen](/archive/blogs/exchangedev/pinnable-taskpane-in-outlook-2016)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Beheben Sie ein Problem, bei dem bei einem Rechtsklick auf einen Anhang in der Anhangliste einer Unterhaltung alle Kontextmenüelemente sichtbar sind statt nur der jeweils passenden Menüelemente.
@@ -1044,7 +1044,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 -   Es wurde ein Problem behoben, aufgrund dessen bei Auswahl eines Links wie „\\\\servername“ oder „file://“ in einer Sofortnachricht eine Fehlermeldung statt des entsprechenden Speicherorts angezeigt wurde.
 -   Es wurde ein Problem behoben, aufgrund dessen Benutzer in virtuellen Desktop-Infrastrukturen mit standortbasiertem Routing keine PSTN-Anrufe tätigen oder annehmen konnte, weil der Server davon ausging, dass der Standort des Benutzers kein gültiger Standort für PSTN-Anrufe ist.
 -   Ändern Sie die Betreffzeile der E-Mail, die für eine verpasste Nachricht gesendet wird, wenn der Status des Benutzers auf Do Not Disturb or Presenting festgelegt ist, von "Verpasste Unterhaltung mit" in "Sie haben eine Nachricht \<name\> in Skype for Business \<Name\> gesendet".
--   Sie können den Zeitstempel für die erste Anmeldung auf dem Gerät als Teil der [Zensusdaten](https://docs.microsoft.com/skypeforbusiness/legal-and-regulatory/data-collection-practices) erfassen, um Trends bei der Anmeldungszuverlässigkeit zu identifizieren.
+-   Sie können den Zeitstempel für die erste Anmeldung auf dem Gerät als Teil der [Zensusdaten](/skypeforbusiness/legal-and-regulatory/data-collection-practices) erfassen, um Trends bei der Anmeldungszuverlässigkeit zu identifizieren.
 
 ### <a name="visio-feature-updates"></a>Visio: Feature-Updates
 -   **Verbesserte Eingabehilfen:** Die Unterstützung für die Verwendung von Tastatur, Sprachausgabe und anderen Hilfstechnologien wurde verbessert, unter anderem bei der Arbeit mit Formen, der gemeinsamen Bearbeitung mit anderen Benutzern sowie in anderen Bereichen.
@@ -1065,7 +1065,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupd
 ## <a name="version-1611-january-4"></a>Version 1611: 4. Januar
 *Version 1611 (Build 7571.2109)*
 
-Hinweis: Die im Microsoft Security Bulletin [MS17-002](https://technet.microsoft.com/library/security/ms17-002) behandelten Sicherheitsupdates gelten nicht für die Version von Word in dieser Kanalversion.
+Hinweis: Die im Microsoft Security Bulletin [MS17-002](/security-updates/SecurityBulletins/2017/ms17-002) behandelten Sicherheitsupdates gelten nicht für die Version von Word in dieser Kanalversion.
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Beheben Sie ein Problem, wenn Zellwerte mit Text und doppelten Anführungszeichen beim Speichern als CSV- oder CSV UTF-8 nicht ordnungsgemäß exportiert werden.

@@ -10,12 +10,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im monatlichen Kanal für Office 365 ProPlus im Jahr 2018 zur Verfügung.
-ms.openlocfilehash: bcf8417d7dfe8796f3e67e6cf1950320e5c9019a
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+ms.openlocfilehash: d4cca950f63a31f9f57583c62781893bf6e6fbf3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48369893"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169784"
 ---
 # <a name="release-notes-for-monthly-channel-releases-in-2018"></a>Anmerkungen zur Version für Releases im monatlichen Kanal im Jahr 2018
 
@@ -296,7 +296,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 *Version 1806 (Build 10228.20080)*
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
-- **Verbesserte Bearbeitungsleiste für Zellen: ** Sie können nun STRG + A zum Auswählen von Text in einer Zelle oder in der Bearbeitungsleiste verwenden. Außerdem wurde die Unterstützung von Emojis und anderen komplexen Zeichen verbessert. [Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
+- **Verbesserte Bearbeitungsleiste für Zellen:** Sie können nun STRG + A zum Auswählen von Text in einer Zelle oder in der Bearbeitungsleiste verwenden. Außerdem wurde die Unterstützung von Emojis und anderen komplexen Zeichen verbessert. [Weitere Informationen](https://support.office.com/article/1798d9d5-842a-42b8-9c99-9b7213f0040f)
 - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
@@ -317,7 +317,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
  - Es wurde ein Problem behoben, bei dem beim Speichern von Unterprojekten aus Hauptprojekten ein Fehler auftritt.
 
 ### <a name="visio-feature-updates"></a>Visio: Featureupdates
- - **Mehr Schablonen, mehr Symbole, mehr Auswahl: ** Wir haben 26 Schablonen hinzugefügt, darunter Analysen, Kunst, Feierlichkeiten, Gesichter, Orte, Medizin, Natur, Menschen, Sport, Wetter und Jahreszeiten und vieles mehr.
+ - **Mehr Schablonen, mehr Symbole, mehr Auswahl:** Wir haben 26 Schablonen hinzugefügt, darunter Analysen, Kunst, Feierlichkeiten, Gesichter, Orte, Medizin, Natur, Menschen, Sport, Wetter und Jahreszeiten und vieles mehr.
 
 ### <a name="word-feature-updates"></a>Word: Featureupdates
  - **Verbesserte SVG-Unterstützung:** Sie können SVGs einfügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)
@@ -426,7 +426,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Abhören Ihrer E-Mails:** Outlook kann Ihre E-Mails laut vorlesen und den Text während des Lesens hervorheben. [Weitere Informationen](https://support.office.com/article/64e393a4-1229-45c0-acdb-dc93330ebdb3)
 -   **So verpassen Sie keine Erinnerung mehr:** Legen Sie Erinnerungen so fest, dass sie über Fenstern angezeigt werden, in denen Sie arbeiten. Andernfalls blinkt Outlook in der Taskleiste, damit Sie darauf aufmerksam werden. [Weitere Informationen](https://support.office.com/article/7a992377-ca93-4ddd-a711-851ef3597925)
 -   **Markieren Sie gelöschte Elemente als gelesen:** Sie können jetzt jede Nachricht, die Sie löschen, als gelesen markieren. Klicken Sie hierfür auf „Datei \> Optionen \> E-Mail \> Andere“.
--   **Verschlüsselungsoption:** Benutzer der Office 365-Nachrichtenverschlüsselung können Nachrichten verschlüssel und an eine beliebige Person innerhalb oder außerhalb ihrer Organisation senden. Die Verschlüsselungsoption wird beim Erstellen einer Nachrichten unter „Optionen \> Berechtigungen“ angezeigt. [Weitere Informationen](https://aka.ms/omeoverview)
+-   **Verschlüsselungsoption:** Benutzer der Office 365-Nachrichtenverschlüsselung können Nachrichten verschlüssel und an eine beliebige Person innerhalb oder außerhalb ihrer Organisation senden. Die Verschlüsselungsoption wird beim Erstellen einer Nachrichten unter „Optionen \> Berechtigungen“ angezeigt. [Weitere Informationen](/microsoft-365/compliance/ome)
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Freihandkonvertierung:** Konvertieren Sie Notizen und Zeichnungen in lesbaren Text und gestochen scharfe Formen, um eine ansprechende Präsentation zu erstellen. [Weitere Informationen](https://support.office.com/article/8ca00db0-4342-4bde-bbb2-92d6cb5e2e45)
@@ -477,8 +477,8 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Problem behoben, bei dem OneDrive for Business (Groove.exe) die Auslastung eines einzelnen Kerns (zum Beispiel 25 % bei einer CPU mit 4 Kernen) für längere Zeit im Task Manager beanspruchte.
 
 ### <a name="outlook-feature-updates"></a>Outlook: Featureupdates
--   **Blind Carbon Copy(Bcc)-Warnung: **Eine Warnung wird angezeigt, wenn Sie „Allen antworten“ für eine Nachricht auswählen, für die Sie auf Bcc gesetzt wurden.
--   **Intelligentere Zeile „An“: **Beim Klicken auf die Zeile „An:“, um den Empfänger der Nachricht zu wählen, werden wahrscheinliche Empfänger vorgeschlagen. Darüber hinaus werden Bilder der Empfänger angezeigt, um sicherzugehen, dass Sie die Nachricht an die richtige Person senden. 
+-   **Blind Carbon Copy(Bcc)-Warnung:** Eine Warnung wird angezeigt, wenn Sie „Allen antworten“ für eine Nachricht auswählen, für die Sie auf Bcc gesetzt wurden.
+-   **Intelligentere Zeile „An“:** Beim Klicken auf die Zeile „An:“, um den Empfänger der Nachricht zu wählen, werden wahrscheinliche Empfänger vorgeschlagen. Darüber hinaus werden Bilder der Empfänger angezeigt, um sicherzugehen, dass Sie die Nachricht an die richtige Person senden. 
 
 ### <a name="powerpoint-feature-updates"></a>PowerPoint: Featureupdates
 -   **Microsoft Translator:** Übersetzen Sie Wörter, Ausdrücke oder Sätzen in eine andere Sprache mit Microsoft Translator. Dies ist über die Registerkarte „Überprüfen“ im Menüband möglich.
@@ -524,7 +524,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem Outlook (ausgeführt auf einem Terminalserver) einfriert, während ein Skype for Business-Meeting erstellt wird.
 -   Ändern Sie den Standardwert „EnableRestoreOAuthUsedKeyWhenUsingCachedWebTicket“ auf „true“.
 
-### <a name="visio-feature-updates"></a>Visio: Feature-Updates
+### <a name="visio-feature-updates"></a>Visio: Featureupdates
 -   **Integrierte Datenbankmodelldiagramme:** Verwenden Sie die neue Vorlage „Datenbankmodelldiagramm“, um Ihre Datenbank akkurat als Visio-Diagramm zu modellieren. Kein Add-In erforderlich.
 -   **Weitere Schablonen für Geschäftsdiagramme:** Verwenden Sie moderne Shapes, vergleichen Sie Daten mit einem Venn-Diagramm, oder erstellen Sie Zyklus-, Matrix- oder Pyramidendiagramme, um Ihre Geschichte zu erzählen.
 -   **Synchronisierung von Diagrammen und Datenquellen:** Wenn Sie ein Datenschnellansichtsdiagramm in Visio bearbeiten, haben Sie die Möglichkeit, die verknüpften Excel-Quelldaten entsprechend dem neusten Diagramminhalt zu aktualisieren.
@@ -601,7 +601,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   In der Popup-Benutzeroberfläche für eingehende PSTN-Anrufe wurde eine Schaltfläche zur Anrufweiterleitung hinzugefügt.
 -   Sie können Benutzer benachrichtigen, dass Anrufe und Chat an Teams gesendet werden, wenn ChatDefaultClient und CallDefaultClient auf „Teams“ festgelegt sind.
 -   Die Anwesenheit eines Benutzers kann als „Offline“ angezeigt werden, wenn ein Benutzer nicht an einer Besprechung teilnimmt und in Skype for Business deaktiviert ist und die Benutzeroberfläche zum Beitreten zu einer Besprechung auf den nativen eingeschränkten Client festgelegt ist.
--   Wenn Skype for Business auf den Infobereich minimiert wird, werden alle Optionen außer „Öffnen“ und „Beenden“ deaktiviert. 
+-   Wenn Skype for Business auf den Infobereich minimiert wird, werden alle Optionen außer „Öffnen“ und „Beenden“ deaktiviert. 
 -   Neue Anrufe und Unterhaltungen werden beim Koppeln mit Aries Smartphones  unterdrückt, wenn RedirectClient aktiviert ist.
 -   Behebung eines Problems, aufgrund dessen das Suchen nach Nachrichten in PChat nach Datum fehlschlägt, wenn das Datumsformat auf ein anderes als das US-Format (mm/tt/jj) festgelegt ist.
 -   Behebung eines Problems, aufgrund dessen bei auf „false“ festgelegter EnableExternalP2PFileTransfer-Richtlinie Benutzer weiterhin Dateien in Besprechungen anfügen können.

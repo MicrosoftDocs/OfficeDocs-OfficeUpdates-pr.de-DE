@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: de8740891378ab34cb7944fff94aaf204d27e43c
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: f8d234b83d6b08b1f6fd15630055bb150441322b
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902140"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169954"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
 Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, PowerPoint, Outlook, Access und Project für Windows Desktop. Jede Woche werden interessante neue Features, wichtige Fehlerbehebungen und alle wichtigen Probleme, über die Sie informiert werden sollen, hervorgehoben. Beachten Sie, dass das Rollout von Funktionen (und manchmal auch Fixes) für den Betakanal häufig über einen längeren Zeitraum erfolgt. Auf diese Weise können wir sicherstellen, dass alles reibungslos funktioniert, bevor das Feature für ein breiteres Publikum bereitgestellt wird. Wenn Sie also unten nichts beschrieben sehen, machen Sie sich keine Sorgen, Sie werden es eventuell irgendwann erhalten.  
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 > - Versionshinweise werden wöchentlich veröffentlicht und können eine Kompilierung mehrerer Builds sein.
@@ -387,19 +387,19 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -675,7 +675,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="word"></a>Word
 
-- **Bessere Zusammenarbeit mit modernen Kommentaren:** Für eine bessere Zusammenarbeit fügen Sie Kommentare zu Objekten hinzu, @erwähnen Sie Kollegen, und lösen Sie Kommentarthreads auf. [Weitere Informationen](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/modern-commenting-in-word)
+- **Bessere Zusammenarbeit mit modernen Kommentaren:** Für eine bessere Zusammenarbeit fügen Sie Kommentare zu Objekten hinzu, @erwähnen Sie Kollegen, und lösen Sie Kommentarthreads auf. [Weitere Informationen](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/modern-commenting-in-word)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1618,19 +1618,19 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="outlook"></a>Outlook
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -2027,15 +2027,15 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
 
 ### <a name="word"></a>Word
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -2478,13 +2478,13 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 
 ### <a name="excel"></a>Excel
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="powerpoint"></a>PowerPoint
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 ### <a name="word"></a>Word
-- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels?view=o365-worldwide#let-users-assign-permissions&preserve-view=true)
+- **Vertraulichkeitsbezeichnungen**: Sie können jetzt eine von Ihrer Organisation konfigurierte Vertraulichkeitsbezeichnung anwenden, um benutzerdefinierte Berechtigungen anzufordern. [Weitere Informationen](/microsoft-365/compliance/encryption-sensitivity-labels?preserve-view=true&view=o365-worldwide#let-users-assign-permissions)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 

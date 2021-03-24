@@ -1,5 +1,5 @@
 ---
-title: Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2015
+title: Versionshinweise für Semi-Annual Channel (Targeted) releases in 2015
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,25 +9,25 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Experten Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (gezielt) für Office 365 ProPlus in 2015
-ms.openlocfilehash: 45fc19b81f2d207c7abf42e773c98b359701eaca
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: Stellt IT-Pros Versionshinweise für Semi-Annual (Gezielt) für Office 365 ProPlus in 2015 zur Verfügung
+ms.openlocfilehash: 00903bf15b67f66801d0bf822663981fddcb1ad0
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370103"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170024"
 ---
-# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Anmerkungen zur Version für halbjährliche Kanal Veröffentlichungen (Targeted) in 2015
+# <a name="release-notes-for-semi-annual-channel-targeted-releases-in-2015"></a>Versionshinweise für Semi-Annual Channel (Targeted) releases in 2015
 
-Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in den halbjährlichen Kanal Aktualisierungen (gezielt) für Office 365 ProPlus in 2015 enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsorientierten Updates, die in Semi-Annual Channel (Targeted) updates to Office 365 ProPlus in 2015 enthalten sind.
  
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
-> - Der halbjährliche Kanal (Targeted) wurde zum ersten Release für den verzögerten Kanal vor dem 2017. September ernannt.
+> - Semi-Annual Channel (Targeted) wurde vor September 2017 als First Release for Deferred Channel bezeichnet.
 
 
-## <a name="version-1509-december-8"></a>Version 1509:8. Dezember
+## <a name="version-1509-december-8"></a>Version 1509: 8. Dezember
 *Version 1509 (Build 6001.1043)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -37,14 +37,14 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problem, aufgrund dessen bei einer erstellten Textmarke mit mehreren Absätzen nach Empfangen der E-Mail beim Verwenden von „Gehe zu“ nur der erste Absatz der Textmarke ausgewählt wurde.
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Sicherheitsupdate für die Microsoft-Grafikkomponente zur Behebung der Remotecodeausführung (3104503)
+-   Microsoft-Sicherheitsbulletin [MS15-128](/security-updates/SecurityBulletins/2015/ms15-128): Sicherheitsupdate für die Microsoft-Grafikkomponente zur Behebung der Remotecodeausführung (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Freigeben von App-Sitzungen ein Fehler auftrat, insbesondere beim stoßweisen Datenverkehr.
 -   Behebung eines Problems, das zum Absturz von Skype for Business führte, wenn es die erste gestartete App nach der Installation von Office 2016 war.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
+-   Microsoft-Sicherheitsbulletin [MS15-131](/security-updates/SecurityBulletins/2015/ms15-131): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen ein geschützter Trennstrich bei Verwendung bestimmter Schriftarten als Rechteck angezeigt wurde.
@@ -56,14 +56,14 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
-## <a name="version-1509-november-10"></a>Version 1509:10. November
+## <a name="version-1509-november-10"></a>Version 1509: 10. November
 *Version 1509 (Build 6001.1038)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eins Problems, aufgrund dessen die Aufzeichnung eines Makros für eine Abfrageerstellung zu einem Kompilierungsfehler führte.
@@ -76,25 +76,25 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   URL-Aktualisierung für Dotlesscss unter Datei \> Konto \> Über Excel.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Einfügen von Text in Outlook nicht der vollständige Text angezeigt wurde, wenn der eingefügte Text die Fensterhöhe überschritten hat.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="project-security-updates"></a>Project: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="publisher-security-updates"></a>Publisher: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Sicherheitsupdate für Skype for Business und Microsoft Lync zur Behebung der Offenlegung von Informationen (3105872)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-123](/security-updates/SecurityBulletins/2015/ms15-123): Sicherheitsupdate für Skype for Business und Microsoft Lync zur Behebung der Offenlegung von Informationen (3105872)
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit Audio auf Geräten mit zwei Mikrofoneingängen
 -   Behebung eines Problems, aufgrund dessen die Benutzer nach der Wiederaufnahme des Laptopbetriebs aus dem Energiesparmodus nicht einer Besprechung beitreten konnten, bevor der Skype-Client sich nicht wieder angemeldet hat.
 -   Unterstützung für Kontextmeldungen zur Unterstützung des Funktionsbewusstseins durch Benutzer hinzugefügt
@@ -102,10 +102,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems mit Benachrichtigungen, die beim Auftreten von Netzwerkproblemen beim Senden und Empfangen angezeigt werden.
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen die Fußnotennummerierung in Word nicht mit der in dem ausgedruckten Dokument übereinstimmte, wenn ein Dokument mit der Fußnoteneinstellung „Nummerierung auf jeder Seite neu beginnen“ im Hintergrund ausgedruckt wurde.
@@ -114,7 +114,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Formatierungsfehlers, der zur falschen Anzeige von Tabellen führte, wenn diese in HTML-E-Mails in Outlook eingefügt wurden und die Fenstergröße angepasst wurde.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen der Benutzer beim Öffnen von Dateien über SharePoint Online wiederholt zur Anmeldung aufgefordert wurde.
@@ -125,7 +125,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
-## <a name="version-1509-october-21"></a>Version 1509:21. Oktober
+## <a name="version-1509-october-21"></a>Version 1509: 21. Oktober
 *Version 1509 (Build 6001.1034)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -168,7 +168,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
-## <a name="version-1509-october-5"></a>Version 1509:5. Oktober
+## <a name="version-1509-october-5"></a>Version 1509: 5. Oktober
 *Version 1509 (Build 4229.1029)*
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
@@ -193,21 +193,21 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
-## <a name="version-1509-september-22"></a>Version 1509:22. September
+## <a name="version-1509-september-22"></a>Version 1509: 22. September
 *Version 1509 (Build 4229.1024)*
 
 Dies ist die erste Version für diesen Kanal. In dieser Version sind zum ersten Mal die Office 2016-Anwendungen verfügbar.
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
--   Microsoft-Sicherheitsbulletin [MS15-110](https://technet.microsoft.com/library/security/ms15-110): Sicherheitsupdates für Microsoft Office zur Behebung der Remotecodeausführung (3096440)
+-   Microsoft-Sicherheitsbulletin [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
+-   Microsoft-Sicherheitsbulletin [MS15-110](/security-updates/SecurityBulletins/2015/ms15-110): Sicherheitsupdates für Microsoft Office zur Behebung der Remotecodeausführung (3096440)
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
+-   Microsoft-Sicherheitsbulletin [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)

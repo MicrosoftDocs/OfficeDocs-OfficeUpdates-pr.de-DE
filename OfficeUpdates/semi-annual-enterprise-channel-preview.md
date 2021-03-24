@@ -9,25 +9,25 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: d6ea5c4806d3c330611aada74259db7dc19e9c11
-ms.sourcegitcommit: b4c16b3045c41fc0b5f0b2cb964eebdf57e417cc
+ms.openlocfilehash: a99f40b0eb74c4a97ae4aeb77af7d3632d5b563c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50603015"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170214"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals (Vorschau)
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Enterprise-Kanalupdates (Vorschau) für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
 
 
 ## <a name="version-2102-march-09"></a>Version 2102: 09. März
 *Version 2102 (Build 13801.20294)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -39,13 +39,13 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Eine PDF-Verbindung herstellen:** Herstellen einer Verbindung zu, Importieren und Aktualisieren von Daten aus einer PDF-Datei. [Weitere Informationen](https://support.office.com/article/be4330b3-5356-486c-a168-b68e9e616f5a)
 
-- **Erstellen von Variablen zur Verwendung in Formeln:** Verbessern Sie Leistung, Lesbarkeit und Zusammensetzbarkeit mit der LET-Funktion. Mit dieser Funktion können Sie benannte Variablen in neuen oder bereits vorhandenen Formeln erstellen. [Weitere Informationen](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/)
+- **Erstellen von Variablen zur Verwendung in Formeln:** Verbessern Sie Leistung, Lesbarkeit und Zusammensetzbarkeit mit der LET-Funktion. Mit dieser Funktion können Sie benannte Variablen in neuen oder bereits vorhandenen Formeln erstellen. [Weitere Informationen](https://support.office.com/article/34842dd8-b92b-4d3f-b325-b8b8f9908999)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/01/let-names-in-formulas-for-excel/).
 
 - **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 - **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365/Microsoft 365 und dem Power BI Pro-Serviceplan bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Erstellen Sie datengesteuerte Diagramme wie Fluss- oder Organigramme aus Daten in einem Arbeitsblatt. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
 
@@ -57,13 +57,13 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Erstellen von Umfragen in Outlook mit Quick Poll**: Einfaches Erstellen einer Umfrage, Sammeln von Stimmen und Anzeigen der Ergebnisse in einer E-Mail. [Weitere Informationen](https://support.office.com/article/46893563-ab12-4bd0-aff7-26f5a488fea0)
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Neue Raumsuche:** Suchen Sie in unterschiedlichen Kategorien nach Konferenzräumen.
 
 - **Suchen Sie nach etwas in natürlicher Sprache:** Verwenden Sie alltägliche Sätze wie "Tierarzttermin letzte Woche", um die Suchergebnisse zu filtern und einzuschränken.
 
-- **Option zum schnellen Wiederöffnen von Elementen aus der vorherigen Outlook-Sitzung:** Wir haben eine Option zum schnellen Wiederöffnen von Elementen aus einer vorherigen Outlook-Sitzung hinzugefügt.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/automatically-restore-windows-in-outlook)
+- **Option zum schnellen Wiederöffnen von Elementen aus der vorherigen Outlook-Sitzung:** Wir haben eine Option zum schnellen Wiederöffnen von Elementen aus einer vorherigen Outlook-Sitzung hinzugefügt.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/automatically-restore-windows-in-outlook)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -71,7 +71,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="visio"></a>Visio
 
@@ -81,11 +81,11 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Lasso und Radierer in der Freihand-Toolbox:** Wenn Sie die Zeichentools verwenden, sind Lasso und Radierer jetzt in der Freihand-Toolbox verfügbar.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/).
 
-- **Ihre Werkzeuge stets zur Hand:** in Ihrer Zeichnungs-Toolbox finden Sie den intelligenten Stift, der es Ihnen ermöglicht, Text Freihandgesten hinzuzufügen. [Weitere Informationen](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/)
+- **Ihre Werkzeuge stets zur Hand:** in Ihrer Zeichnungs-Toolbox finden Sie den intelligenten Stift, der es Ihnen ermöglicht, Text Freihandgesten hinzuzufügen. [Weitere Informationen](https://support.office.com/article/7edbcf8e-0004-484d-9b62-501a31c23ee9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/10/meet-the-new-action-pen/).
 
 - **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="office-suite"></a>Office-Suite
 
@@ -409,7 +409,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-february-09"></a>Version 2008: 9. Februar
 *Version 2008 (Build 13127.21216)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -470,7 +470,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -542,7 +542,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-december-08"></a>Version 2008: 08. Dezember
 *Version 2008 (Build 13127.20910)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -643,7 +643,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-november-10"></a>Version 2008: 10 November
 *Version 2008 (Build 13127.20760)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -691,7 +691,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Es wurde ein Problem behoben, durch das die Kopfzeilen von Nachrichten in chinesischer Sprache bei der Beantwortung oder Weiterleitung nicht lesbar waren.
 
-- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.  <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/de-DE/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.  <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -712,7 +712,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-october-13"></a>Version 2008: 13. Oktober
 *Version 2008 (Build 13127.20638)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -791,7 +791,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-september-08"></a>Version 2008: 08. September
 *Version 2008 (Build 13127.20408)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -829,7 +829,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **An Besprechungen teilnehmen, ohne den Posteingang zu verlassen:** Sie brauchen nicht zu Ihrem Kalender zu wechseln, um an Onlinebesprechungen teilzunehmen. Wenn der Kalender im Aufgabenbereich angeheftet ist, können Sie mit nur einem Klick an einer Besprechung teilnehmen. [Weitere Informationen](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/de-DE/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen. [Weitere Informationen](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1137,7 +1137,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-august-11"></a>Version 2002: 11. August
 *Version 2002 (Build 12527.20988)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1174,7 +1174,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-july-14"></a>Version 2002: 14. Juli
 *Version 2002 (Build 12527.20880)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1245,7 +1245,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-june-09"></a>Version 2002: 9. Juni
 *Version 2002 (Build 12527.20720)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1295,7 +1295,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-may-12"></a>Version 2002: 12. Mai
 *Version 2002 (Build 12527.20612)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1389,7 +1389,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-april-14"></a>Version 2002: 14. April
 *Version 2002 (Build 12527.20442)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 ### <a name="feature-updates"></a>Featureupdates
@@ -1397,8 +1397,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Eingeben einer Formel, die mehrere Werte zurückgibt** Schnell eine Formel eingeben, die mehrere Werte zurückgibt, und diese werden automatisch in die benachbarten Zellen übertragen. [Weitere Informationen](https://support.microsoft.com/en-us/office/new-array-functions-003df6c7-1dcb-4388-8e2e-0fe77a0887bc?ui=en-us&rs=en-us&ad=us)
 - **Sechs leistungsfähige Funktionen:** Wir haben sechs neue Funktionen hinzugefügt, um Ihre Tabellenkalkulationen aufzuladen: FILTERN, SORTIEREN, SORTIERENNACH, EINDEUTIG, SEQUENZ und ZUFALLSMATRIX.  [Weitere Informationen](https://support.microsoft.com/en-us/office/easier-array-formulas-5c2c9cbb-def8-409a-b380-2fbf91b20aa3?ui=en-us&rs=en-us&ad=us)
-- **Ein Blick nach links, ein Blick nach rechts... XVERWEIS ist da!:** Zeile für Zeile finden Sie mit XVERWEIS alles, was Sie in einer Tabelle oder einem Bereich benötigen.  
-  [Weitere Informationen](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
+- **Ein Blick nach links, ein Blick nach rechts... XVERWEIS ist da!:** Zeile für Zeile finden Sie mit XVERWEIS alles, was Sie in einer Tabelle oder einem Bereich benötigen.  [Weitere Informationen](https://support.office.com/en-us/article/xlookup-function-b7fd680e-6d10-43e6-84f9-88eae8bf5929?ui=en-US&rs=en-US&ad=US)
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -1458,7 +1457,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-march-10"></a>Version 2002: 10. März
 *Version 2002 (Build 12527.20278)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -1770,7 +1769,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-february-11"></a>Version 1908: 11. Februar
 *Version 1908 (Build 11929.20606)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1838,7 +1837,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-january-14"></a>Version 1908: 14. Januar
 *Version 1908 (Build 11929.20562)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)

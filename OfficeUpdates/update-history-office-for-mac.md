@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten Informationen über aktuelle Updates für Office für Mac zur Verfügung, einschließlich Links zum Herunterladen von Paketen und einen Updateverlauf.
-ms.openlocfilehash: dcb932bcb6a15b27b8340c6451f24812418807cf
-ms.sourcegitcommit: 39d26fb1a6f01b0a2da9c33530de5479fbac1084
+ms.openlocfilehash: d9ec4db6eb877e99ee3c7758f4050512b51bb669
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/17/2021
-ms.locfileid: "50837493"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170174"
 ---
 # <a name="update-history-for-office-for-mac"></a>Updateverlauf für Office für Mac
   
 Das in einem Microsoft 365-Abonnement enthaltene Office für Mac wird in regelmäßigen Abständen aktualisiert, um neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates zur Verfügung zu stellen. Die folgenden Informationen richten sich in erster Linie an IT-Experten, die Office für Mac für die Benutzer in ihrer Organisation bereitstellen.
 
 > [!NOTE]
-> - Ab Version 16.21 wird Microsoft Teams standardmäßig für ***neue*** Installationen installiert, wenn Sie das Installationspaket für die Office-Suite verwenden. Weitere Informationen finden Sie unter [Microsoft Teams-Installationen auf einem Mac](https://docs.microsoft.com/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
-> - Aus Gründen der Sicherheit wird die Verwendung von SHA-1 von Microsoft nicht mehr unterstützt. [Weitere Informationen](https://docs.microsoft.com/security-updates/SecurityAdvisories/2017/4010323)
+> - Ab Version 16.21 wird Microsoft Teams standardmäßig für ***neue*** Installationen installiert, wenn Sie das Installationspaket für die Office-Suite verwenden. Weitere Informationen finden Sie unter [Microsoft Teams-Installationen auf einem Mac](/DeployOffice/teams-install#microsoft-teams-installations-on-a-mac).  
+> - Aus Gründen der Sicherheit wird die Verwendung von SHA-1 von Microsoft nicht mehr unterstützt. [Weitere Informationen](/security-updates/SecurityAdvisories/2017/4010323)
 > - Ab Version 16.17 vom September 2018 gelten diese Informationen auch für Office 2019 für Mac, d. h. die Version von Office für Mac, die als Einzelkauf im Einzelhandel oder über einen Volumenlizenzvertrag verfügbar ist.
 > - Informationen zu den Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates in einem bestimmten Release von Office für Mac finden Sie in den [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md).
 > - Für vorzeitigen Zugriff auf neue Releases treten Sie dem [Office Insider](https://support.office.com/article/f4208185-b63a-4b68-9c7a-9a32d2411c16#ID0EAACAAA=Mac)-Programm bei.

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 729d6b9bd7d549522386c8f2b11c4d3b6761d117
-ms.sourcegitcommit: 90a9ee90251f072398574a437e5f45d406d617eb
+ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50735190"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169724"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
 Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sicherheitsrelevanten Updates, die in monatlichen Enterprise-Kanal-Updates im Jahr 2020 für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. [Lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441), um mehr zu erfahren.
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. [Lesen Sie diesen Artikel](/DeployOffice/update-channels-changes), um mehr zu erfahren.
 
 [//]: # (NICHT ENTFERNEN)
 
@@ -30,7 +30,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 ## <a name="version-2101-march-09"></a>Version 2101: 09. März
 *Version 2101 (Build 13628.20528)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -89,12 +89,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2012-march-09"></a>Version 2012: 09. März
 *Version 2012 (Build 13530.20628)*
 
-Sicherheitsupdates werden[hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates werden[hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2012-february-09"></a>Version 2012: 09. Februar
 *Version 2012 (Build 13530.20528)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -106,7 +106,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Überwachungsprotokollierung für Vertraulichkeitsbezeichnungen:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, werden diese Informationen jetzt den Administratoren in den Microsoft 365-Auditprotokollen zur Verfügung gestellt.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -118,7 +118,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Jede Besprechung online:** Aktualisieren Sie Ihre Kalendereinstellungen, um jede Besprechung, die Sie erstellen, standardmäßig zu einer Teams-Besprechung zu machen. So müssen Sie nicht mehr daran denken, auf die Option "Teams-Besprechung" zu klicken.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 - **Jede Besprechung online:** Aktualisieren Sie Ihre Kalendereinstellungen, um jede Besprechung, die Sie erstellen, standardmäßig zu einer Teams-Besprechung zu machen. So müssen Sie nicht mehr daran denken, auf die Option "Teams-Besprechung" zu klicken.
 
@@ -126,11 +126,11 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
 - **Überwachungsprotokollierung für Vertraulichkeitsbezeichnungen:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, werden diese Informationen jetzt den Administratoren in den Microsoft 365-Auditprotokollen zur Verfügung gestellt.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="visio"></a>Visio
 
@@ -142,7 +142,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Überwachungsprotokollierung für Vertraulichkeitsbezeichnungen:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, werden diese Informationen jetzt den Administratoren in den Microsoft 365-Auditprotokollen zur Verfügung gestellt.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -214,12 +214,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2011-february-09"></a>Version 2011: 09. Februar
 *Version 2011 (Build 13426.20658)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2011-january-12"></a>Version 2011: 12. Januar
 *Version 2011 (Build 13426.20526)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -359,12 +359,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2010-january-12"></a>Version 2010: 12. Januar
 *Version 2010 (Build 13328.20550)*
 
-Sicherheitsupdates werden [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates werden [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2010-december-08"></a>Version 2010: 08. Dezember
 *Version 2010 (Build 13328.20478)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -384,7 +384,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Exportieren eines animierten GIF in einem Bereich:** Folienbereich auswählen, wenn Sie nach animiertem GIF exportieren
 
-- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
+- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -483,12 +483,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2009-december-08"></a>Version 2009: 08. Dezember
 *Version 2009 (Build 13231.20620)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2009-november-10"></a>Version 2009: 10. November
 *Version 2009 (Build 13231.20514)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -581,7 +581,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-november-10"></a>Version 2008: 10 November
 *Version 2008 (Build 13127.20760)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -629,7 +629,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - Es wurde ein Problem behoben, durch das Benutzer ihren Delegierten keine Editorberechtigung erteilen konnten.
 
 
-- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/de-DE/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -653,7 +653,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2008-october-13"></a>Version 2008: 13. Oktober
 *Version 2008 (Build 13127.20638)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -842,7 +842,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2007-october-13"></a>Version 2007: 13. Oktober
 *Version 2007 (Build 13029.20708)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -859,7 +859,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2007-september-08"></a>Version 2007: 08. September
 *Version 2007 (Build 13029.20534)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -968,12 +968,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2006-september-08"></a>Version 2006: 08. September
 *Version 2006 (Build 13001.20648)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt.
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt.
 
 ## <a name="version-2006-august-11"></a>Version 2006: 11. August
 *Version 2006 (Build 13001.20520)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -1076,12 +1076,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2005-august-11"></a>Version 2005: 11. August
 *Version 2005 (Build 12827.20656)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2005-july-14"></a>Version 2005:14. Juli
 *Version 2005 (Build 12827.20538)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1179,12 +1179,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2004-july-14"></a>Version 2004: 14. Juli
 *Version 2004 (Build 12730.20602)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2004-june-09"></a>Version 2004: 9. Juni
 *Version 2004 (Build 12730.20430)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1210,7 +1210,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Der Kalender wird rundumerneuert:** Sie können visuelle Aktualisierungen anzeigen, mit denen Ihr Kalender einfacher durchsucht werden kann. [Weitere Informationen](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Neue Bilder, um Ihre Nachrichten zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Nachrichten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Nachrichten zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Nachrichten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/).
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1224,7 +1224,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Auswählen von Freihandeingabe:** Das Lasso-Tool auf der Registerkarte "Zeichnen" hilft Ihnen beim Auswählen von per Freihand gezeichneten Objekten. Wählen Sie einzelne Striche oder ganze Wörter aus. [Weitere Informationen](https://support.office.com/article/6d76c674-7f4b-414d-b67f-b3ffef6ccf53)
 
-- **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Einzelheiten finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/).
+- **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
 - **Neue Bilder, um Ihre Dokumente zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Dokumenten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
@@ -1289,7 +1289,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2003-june-09"></a>Version 2003: 9. Juni
 *Version 2003 (Build 12624.20708)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1304,7 +1304,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2003-may-12"></a>Version 2003: 12. Mai
 *Version 2003 (Build 12624.20588)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)

@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 99828dc0f08c9fb065a92620acee2a1b5e856b9e
-ms.sourcegitcommit: d7b61837c922993e563c83df547d865c6715517b
+ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50741648"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169613"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Kanal-Updates im Jahr für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
 
 > [!NOTE]
 >
@@ -33,7 +33,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ## <a name="version-2008-march-09"></a>Version 2008: 09. März
 *Version 2008 (Build 13127.21348)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -68,12 +68,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-march-09"></a>Version 2002: 09. März
 *Version 2002 (Build 12527.21686)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2008-february-09"></a>Version 2008: 9. Februar
 *Version 2008 (Build 13127.21216)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -134,7 +134,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-february-09"></a>Version 2002: 9. Februar
 *Version 2002 (Build 12527.21594)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -151,12 +151,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-february-09"></a>Version 1908: 9. Februar
 *Version 1908 (Build 11929.21008)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -192,7 +192,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **An Besprechungen teilnehmen, ohne den Posteingang zu verlassen:** Sie brauchen nicht zu Ihrem Kalender zu wechseln, um an Onlinebesprechungen teilzunehmen. Wenn der Kalender an den Aufgabenbereich angeheftet ist, können Benutzerkonten, die auf Exchange Server 2019 oder Exchange Online gehostet werden, jeder Besprechung mit nur einem Klick beitreten. [Weitere Informationen](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/de-DE/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen. [Weitere Informationen](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -839,7 +839,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-january-12"></a>Version 2002: 12. Januar
 *Version 2002 (Build 12527.21504)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -864,7 +864,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-january-12"></a>Version 1908: 12. Januar
 *Version 1908 (Build 11929.20994)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -881,7 +881,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-december-08"></a>Version 2002: 8. Dezember
 *Version 2002 (Build 12527.21416)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -925,12 +925,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-december-08"></a>Version 1908: 8. Dezember
 *Version 1908 (Build 11929.20984)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2002-november-10"></a>Version 2002: 10. November
 *Version 2002 (Build 12527.21330)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -967,12 +967,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-november-10"></a>Version 1908: 10. November
 *Version 1908 (Build 11929.20974)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt.
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt.
 
 ## <a name="version-2002-october-13"></a>Version 2002: 13. Oktober
 *Version 2002 (Build 12527.21236)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1012,7 +1012,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-october-13"></a>Version 1908: 13. Oktober
 *Version 1908 (Build 11929.20966)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1029,7 +1029,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-september-08"></a>Version 2002: 08. September
 *Version 2002 (Build 12527.21104)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1059,12 +1059,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-september-08"></a>Version 1908: 08. September
 *Version 1908 (Build 11929.20946)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt.
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt.
 
 ## <a name="version-2002-august-11"></a>Version 2002: 11. August
 *Version 2002 (Build 12527.20988)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1099,12 +1099,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-august-11"></a>Version 1908: 11. August
 *Version 1908 (Build 11929.20934)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-1902-august-11"></a>Version 1902: 11. August
 *Version 1902 (Build 11328.20644)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1115,7 +1115,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-july-14"></a>Version 2002: 14. Juli
 *Version 2002 (Build 12527.20880)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1631,7 +1631,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-july-14"></a>Version 1908: 14. Juli
 *Version 1908 (Build 11929.20904)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1811,7 +1811,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - Behebt ein Problem, bei dem Nutzer Probleme mit der Synchronisierung freigegebener Kalenderordner mit dem OST hatten, was zu Berechtigungsfehlern führte, wenn sie versuchten, mit diesen Ordnern zu interagieren.
 
-- Behebt ein Problem, das dazu geführt hat, dass Benutzer beim Anzeigen von mehr als 30 Kalendern in einer Citrix-Umgebung einen Absturz erlebt haben. Hier finden Sie die einzelne [KB, in der dies für frühere Versionen dokumentiert wurde](https://support.microsoft.com/de-DE/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Behebt ein Problem, das dazu geführt hat, dass Benutzer beim Anzeigen von mehr als 30 Kalendern in einer Citrix-Umgebung einen Absturz erlebt haben. Hier finden Sie die einzelne [KB, in der dies für frühere Versionen dokumentiert wurde](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Behebt ein Problem mit der Auswahl des SMIME-Algorithmus.
 
@@ -1969,12 +1969,12 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-july-14"></a>Version 1902: 14. Juli
 *Version 1902 (Build 11328.20624)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-1908-june-09"></a>Version 1908: 9. Juni
 *Version 1908 (Build 11929.20838)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2002,7 +2002,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-june-09"></a>Version 1902: 9. Juni
 *Version 1902 (Build 11328.20602)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2021,7 +2021,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-may-12"></a>Version 1908: 12. Mai
 *Version 1908 (Build 11929.20776)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2046,7 +2046,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-may-12"></a>Version 1902: 12. Mai
 *Version 1902 (Build 11328.20586)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2064,7 +2064,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-may-04"></a>Version 1908: 04. Mai
 *Version 1908 (Build 11929.20752)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
@@ -2090,7 +2090,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-april-26"></a>Version 1908: 26. April
 *Version 1908 (Build 11929.20736)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
@@ -2112,7 +2112,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1908-april-14"></a>Version 1908: 14. April
 *Version 1908 (Build 11929.20708)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -2145,14 +2145,14 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-april-14"></a>Version 1902: 14. April
 *Version 1902 (Build 11328.20564)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1908-march-10"></a>Version 1908: 10. März
 *Version 1908 (Build 11929.20648)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2186,14 +2186,14 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-march-10"></a>Version 1902: 10. März
 *Version 1902 (Build 11328.20554)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
 
 ## <a name="version-1908-february-11"></a>Version 1908: 11. Februar
 *Version 1908 (Build 11929.20606)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2261,7 +2261,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-february-11"></a>Version 1902: 11. Februar
 *Version 1902 (Build 11328.20526)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2283,14 +2283,14 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1808-february-11"></a>Version 1808: 11. Februar
 *Version 1808 (Build 10730.20438)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-1908-january-14"></a>Version 1908: 14. Januar
 *Version 1908 (Build 11929.20562)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -2409,11 +2409,11 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Speichern Sie Ihre Änderungen, während sie entstehen**: Laden Sie Ihre Dateien in OneDrive hoch, um sicherzustellen, dass alle Ihre Aktualisierungen automatisch gespeichert werden.
 
-- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/privacy/overview-privacy-controls?toc=/deployoffice/toc.json)
+- **Kontrollmechanismen für den Datenschutz:** Neue aktualisierte und verbesserte Kontrollmechanismen für Diagnosedaten und verbundene Oberflächen. [Weitere Informationen](/DeployOffice/privacy/overview-privacy-controls?toc=%2fdeployoffice%2ftoc.json)
 
 - **Office-Symbole mit neuem Look:** Die Office-Symbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Office-Benutzeroberfläche widerzuspiegeln.
 
-- **Installation von Microsoft Teams**: Microsoft Teams ist in bestehenden Installationen von Office 365 ProPlus standardmäßig installiert. [Weitere Informationen](https://docs.microsoft.com/DeployOffice/teams-install)
+- **Installation von Microsoft Teams**: Microsoft Teams ist in bestehenden Installationen von Office 365 ProPlus standardmäßig installiert. [Weitere Informationen](/DeployOffice/teams-install)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
@@ -2652,7 +2652,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1902-january-14"></a>Version 1902: 14. Januar
 *Version 1902 (Build 11328.20512)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2680,7 +2680,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1808-january-14"></a>Version 1808: 14. Januar
 *Version 1808 (Build 10730.20432)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 

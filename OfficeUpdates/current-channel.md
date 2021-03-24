@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionsinformationen für monatliche Kanalversionen für Microsoft 365-Apps in 2020
-ms.openlocfilehash: 95d8c91b0456919fc32bdfe5482d1be830b86c06
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 901b51893436270a39d6977eaa6c9f5ffcdc643e
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902170"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169944"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in den aktuellen Kanal-Updates für Microsoft 365 Apps for Enterprise, Microsoft 365-Apps für Unternehmen sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 > [!IMPORTANT]
-> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](https://go.microsoft.com/fwlink/p/?linkid=2127441).
+> Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
 
  > [!NOTE]
 >
@@ -76,7 +76,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ## <a name="version-2102-march-09"></a>Version 2102: 09. März
 *Version 2102 (Build 13801.20294)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -155,7 +155,7 @@ Sie können auch mit der rechten Maustaste klicken, um bestimmte Wörter, Ausdr�
 
 ### <a name="word"></a>Word
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der aktualisierte Editor-Bereich erleichtert die Navigation zwischen den Vorschlägen. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der aktualisierte Editor-Bereich erleichtert die Navigation zwischen den Vorschlägen. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
 
 - **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnungen anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
 
@@ -233,7 +233,7 @@ Sie können auch mit der rechten Maustaste klicken, um bestimmte Wörter, Ausdr�
 ## <a name="version-2101-february-09"></a>Version 2101: 9. Februar
 *Version 2101 (Build 13628.20380)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -263,7 +263,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="outlook"></a>Outlook
 
@@ -275,19 +275,19 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="powerpoint"></a>PowerPoint
 
 - **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 ### <a name="word"></a>Word
 
 - **Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
 
-- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- **Regierungskunden: Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente und E-Mails:** Für Kunden in den GCC- und GCC-H-Umgebungen sind jetzt Funktionen zum Anwenden von Vertraulichkeitsbezeichnungen verfügbar. [Weitere Informationen](/microsoft-365/compliance/sensitivity-labels)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -352,7 +352,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2012-january-12"></a>Version 2012: 12. Januar
 *Version 2012 (Build 13530.20376)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -465,7 +465,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2011-december-08"></a>Version 2011: Dezember 08
 *Version 2011 (Build 13426.20332)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -563,9 +563,9 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
 
-- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
+- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Wechseln Sie zu „Datei“ > „Konto“, und wählen Sie in der Dropdownliste „Office-Design“ den Eintrag „Systemeinstellung verwenden“ aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -667,7 +667,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2010-november-10"></a>Version 2010: 10. November
 *Version 2010 (Build 13328.20356)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -700,19 +700,19 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Datentypen mit Microsoft Power Query für Excel erstellen:** Erstellen Sie umfangreiche Datentypen mit Microsoft Power Query für Excel aus jeder beliebigen Datenquelle. [Weitere Informationen](https://support.office.com/article/a465a3b7-3d37-4eb1-a59c-bd3163315308)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://techcommunity.microsoft.com/t5/excel-blog/announcing-power-query-data-types/ba-p/1782903)
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 - **Schnelle Bearbeitungen mit dem Action Pen:** Mit dem Action Pen können Sie von Hand direkt in Zellen schreiben und mit Freihandeingaben Daten notieren, die automatisch in Excel-Daten konvertiert werden.
 
 ### <a name="outlook"></a>Outlook
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
-- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. [Weitere Informationen](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. [Weitere Informationen](https://support.office.com/article/ddbadc42-4637-451d-b3f4-ecf295036fa9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook).
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 ### <a name="teams"></a>Teams
 
@@ -726,7 +726,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -814,7 +814,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2009-october-13"></a>Version 2009: 13. Oktober
 *Version 2009 (Build 13231.20390)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -880,7 +880,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="teams"></a>Teams
 
-- **Dateien in Microsoft Teams freigeben:** [Mehr dazu](https://docs.microsoft.com/MicrosoftTeams/sharing-files-in-teams)
+- **Dateien in Microsoft Teams freigeben:** [Mehr dazu](/MicrosoftTeams/sharing-files-in-teams)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1012,7 +1012,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 ### <a name="outlook"></a>Outlook
 
-- **Verbesserte Links in E-Mails:** Wenn Sie einen Link zu einer Datei einfügen, ersetzt der Dateiname die URL. Sie können die Berechtigungen so ändern, dass alle Empfänger Zugriff haben. [Weitere Informationen](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/)
+- **Verbesserte Links in E-Mails:** Wenn Sie einen Link zu einer Datei einfügen, ersetzt der Dateiname die URL. Sie können die Berechtigungen so ändern, dass alle Empfänger Zugriff haben. [Weitere Informationen](https://support.office.com/article/02040f47-bd56-4806-8311-fc913fed54c0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/20/automatically-shorten-links-onedrive-sharepoint/).
 
 
 
@@ -1145,7 +1145,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2007-august-11"></a>Version 2007: 11. August
 *Version 2007 (Build 13029.20344)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1296,7 +1296,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2006-july-14"></a>Version 2006: 14. Juli
 *Version 2006 (Build 13001.20384)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1490,7 +1490,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2005-june-09"></a>Version 2005: 09. Juni
 *Version 2005 (Build 12827.20336)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
@@ -1555,7 +1555,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Erzählen Sie Ihre Geschichten mit animierten GIFs:** animierte GIFs werden nun im Office-Editor unterstützt – peppen Sie Ihre Dokumente auf
 
-- **Der Kalender wird rundumerneuert:** Sie können visuelle Aktualisierungen anzeigen, mit denen Ihr Kalender einfacher durchsucht werden kann. [Weitere Informationen](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
+- **Der Kalender wird rundumerneuert:** Sie können visuelle Aktualisierungen anzeigen, mit denen Ihr Kalender einfacher durchsucht werden kann. [Weitere Informationen](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/).
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1661,7 +1661,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2004-may-12"></a>Version 2004: 12. Mai
 *Version 2004 (Build 12730.20270)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1791,7 +1791,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2003-april-14"></a>Version 2003: 14. April
 *Version 2003 (Build 12624.20442)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1909,7 +1909,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2002-march-10"></a>Version 2002: 10. März
 *Version 2002 (Build 12527.20278)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -1999,7 +1999,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2001-february-11"></a>Version 2001: 11. Februar
 *Version 2001 (Build 12430.20264)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2110,7 +2110,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-1912-january-14"></a>Version 1912: 14. Januar
 *Version 1912 (Build 12325.20298)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-1912-january-08"></a>Version 1912: 8. Januar
 *Version 1912 (Build 12325.20288)*
@@ -2127,7 +2127,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Optimieren Sie Ihre Präsentation für alle:** Die Barrierefreiheitsprüfung hilft Ihnen beim Anordnen von Objekten auf Ihren Folien, indem sie die Sprachausgabe berücksichtigt.
 
-- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/de-DE/article/a598753e-92de-4f1b-8393-714db4d334b4)
+- **GIFs im Handumdrehen:** eine Folie, ein Frame. Erstellen Sie auf einfache Weise Schleifen-GIFs in PowerPoint. [Weitere Informationen](https://support.office.com/en-us/article/a598753e-92de-4f1b-8393-714db4d334b4)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 

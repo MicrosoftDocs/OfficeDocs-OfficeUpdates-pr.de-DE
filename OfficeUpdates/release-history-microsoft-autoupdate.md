@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: be0b124f22f53cb26742242ac48a62adf75d93f7
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: c9d16f2c221612969ec5a7cfb08c2022d287ea7c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902199"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169714"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -262,7 +262,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 - Bei MacOS-Computern mit SSD treten aufgrund von Updates schnellere Aktualisierungen und vernachlässigbar geringe App-Stillstandszeiten auf.
 
 
-Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2020-0984)
+Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2020-0984)
 
 **SHA-256 Hash:**
 
@@ -393,7 +393,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
  **Featureupdates:**
 
 - Datenschutzänderungen für MAU: Im Rahmen der Complianceanforderungen wird den Endbenutzern ein Hinweis zur Erfassung erforderlichen Daten angezeigt.
-- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](/deployoffice/mac/mau-deadline)
 - Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 **SHA-256-Hash:**
@@ -440,7 +440,7 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
  **Featureupdates:**
 
 - Datenschutzänderungen für MAU: Im Rahmen der Complianceanforderungen wird den Endbenutzern ein Hinweis zur Erfassung erforderlichen Daten angezeigt.
-- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](https://docs.microsoft.com/deployoffice/mac/mau-deadline)
+- Stichtag für MAU-Update: Mac-Administratoren können nun einen Stichtag in MAU festlegen, um Updates für ihre Mac-Benutzer zu erzwingen. [Weitere Informationen](/deployoffice/mac/mau-deadline)
 - Korrekturen verschiedene Fehler und Leistungsprobleme.
 
 **SHA-256-Hashwert:**
@@ -512,4 +512,4 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 ## <a name="related-articles"></a>Verwandte Artikel
 
 - [Updateverlauf für Office für Mac](update-history-office-for-mac.md)
-- [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md) 
+- [Anmerkungen zur Version für Office für Mac](release-notes-office-for-mac.md)

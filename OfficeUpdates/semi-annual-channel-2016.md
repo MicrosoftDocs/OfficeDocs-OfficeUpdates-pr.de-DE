@@ -1,5 +1,5 @@
 ---
-title: Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
+title: Versionshinweise für Semi-Annual 2016
 ms.author: anankani
 author: andymosten
 manager: anankani
@@ -9,79 +9,79 @@ ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Normal
 ms.collection: RelNotes_ProPlus
-description: Bietet IT-Experten Versionshinweise für halbjährliche Kanal Versionen für Office 365 ProPlus in 2016
-ms.openlocfilehash: 749a68d693a3f962d547bc2f8cb257fba5e70370
-ms.sourcegitcommit: db492a4c51ec771ab97c67e4b1d43ee36d8794b8
+description: Stellt IT-Pros Versionshinweise für Semi-Annual Für Office 365 ProPlus in 2016 zur Verfügung
+ms.openlocfilehash: 8b4f956138f5c50f8062978b20c0516e2279fdb1
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/07/2020
-ms.locfileid: "48370143"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169654"
 ---
-# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Anmerkungen zur Version für halbjährliche Kanal Versionen in 2016
+# <a name="release-notes-for-semi-annual-channel-releases-in-2016"></a>Versionshinweise für Semi-Annual 2016
 
-Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die in halbjährlichen Kanal Aktualisierungen für Office 365 ProPlus in 2016 enthalten sind. 
+Diese Versionshinweise enthalten Informationen zu neuen Features, Sicherheitsupdates und nicht Sicherheitsupdates, die in Semi-Annual Kanalupdates für Office 365 ProPlus in 2016 enthalten sind. 
 > [!NOTE]
 > - Nachfolgend sind außerdem Informationen zu neuen Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates für Visio Pro für Office 365 und Project Online-Desktopclient aufgeführt.
 > - Diese Informationen gelten auch für Office 365 Business, die Version von Office, die in einigen Office 365-Plänen wie Business Premium enthalten ist.
 > - Der halbjährliche Kanal hieß vor Januar 2018 verzögerten Kanal.
 
 
-## <a name="version-1605-december-13"></a>Version 1605:13. Dezember
+## <a name="version-1605-december-13"></a>Version 1605: 13. Dezember
 *Version 1605 (Build 6965.2115)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
+-   Microsoft-Sicherheitsbulletin [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem Skype for Business abstürzt, wenn freigegebener Inhalt vergrößert wird und der freigebende Benutzer eine Drittanbieterimplementierung von RDP verwendet.
 -   Es wurde ein Problem behoben, bei dem Skype for Business abstürzt, wenn die JAWS-Sprachausgabe ausgeführt wird und der Benutzer in eine Liste wie z. B. die Kontaktliste navigiert.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
+-   Microsoft-Sicherheitsbulletin [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
 
 
 
-## <a name="version-1602-december-13"></a>Version 1602:13. Dezember
+## <a name="version-1602-december-13"></a>Version 1602: 13. Dezember
 *Version 1602 (Build 6741.2098)*
 
-*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis zum 2017. Februar. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965,2115) –, die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Februar 2017. Nun ist jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965.2115), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
+-   Microsoft-Sicherheitsbulletin [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-148](https://technet.microsoft.com/library/security/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
+-   Microsoft-Sicherheitsbulletin [MS16-148](/security-updates/SecurityBulletins/2016/ms16-148): Sicherheitsupdate für Microsoft Office (3204068)
 
 
 
-## <a name="version-1605-november-8"></a>Version 1605:8. November
+## <a name="version-1605-november-8"></a>Version 1605: 8. November
 *Version 1605 (Build 6965.2105)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
+-   Microsoft-Sicherheitsbulletin [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Benutzer nach der Migration zu Exchange Online keine Verbindung mit Exchange herstellen kann, um Informationen zum Unterhaltungsverlauf, zu Kontakten oder Voicemail zu erhalten.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
+-   Microsoft-Sicherheitsbulletin [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
 
 
 
-## <a name="version-1602-november-8"></a>Version 1602:8. November
+## <a name="version-1602-november-8"></a>Version 1602: 8. November
 *Version 1602 (Build 6741.2088)*
 
-*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis zum 2017. Februar. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965,2105) –, die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Februar 2017. Nun ist jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965.2105), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
+-   Microsoft-Sicherheitsbulletin [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-133](https://technet.microsoft.com/library/security/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
+-   Microsoft-Sicherheitsbulletin [MS16-133](/security-updates/SecurityBulletins/2016/ms16-133): Sicherheitsupdate für Microsoft Office (3199168)
 
 
 
-## <a name="version-1605-october-11"></a>Version 1605:11. Oktober
+## <a name="version-1605-october-11"></a>Version 1605: 11. Oktober
 *Version 1605 (Build 6965.2092)*
 
 ### <a name="access-non-security-updates"></a>Access: Nicht sicherheitsrelevante Updates
@@ -89,16 +89,16 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem das Dropdownfeld für die Feldgröße für Nummer-Datentypen keine Werte anzeigte, sodass der Benutzer beim Erstellen oder Bearbeiten einer Tabelle nicht den Typ des Nummernfelds angeben konnte.
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
--   **Verbesserungen bei der & Transformation abrufen:** Neue oder verbesserte Daten Transformations-und Datenkonnektivitäts-Features für die Power-Abfrage. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
+-   **Erhalten & Transformationsverbesserungen:** Neue oder verbesserte Datentransformations- und Datenkonnektivitätsfeatures für Power Query. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Zusätzliche Datenverbindungen:** Abfragen von Daten aus JSON- und Azure SQL Data Warehouse-Quellen.
 -   **Power Query-Verbesserungen:** Verbesserte und neue Funktionen zur Datentransformation und -konnektivität. [Weitere Informationen](https://blogs.office.com/2016/04/26/more-april-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 -   **Umfangreiche Address Aware-Unterstützung:** 32-Bit-Versionen von Excel können mehr Speicher verwenden, falls verfügbar. [Weitere Informationen](https://support.microsoft.com/kb/3160741)
 -   **Power Query-Erweiterungen:** Erweiterte Konnektivitätsfunktionen und neue Transformationen hinzugefügt. [Weitere Informationen](https://blogs.office.com/2016/03/04/march-2016-updates-for-get-transform-in-excel-2016-and-the-power-query-add-in/)
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems mit der 64-Bit-Version von Excel, aufgrund dessen beim Herstellen einer Verbindung zu Access-Abfragen, die auf verknüpfte ODBC-Tabellen verweisen, die die Eingabe eines Kennworts für die Authentifizierung auf dem Back-End-Server erfordern, statt der Aufforderung zur Kennworteingabe ein Fehler auftrat.
@@ -119,7 +119,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebt ein Problem, bei dem eine Datei auf einem FTP-Server nicht geöffnet werden kann.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Ein Problem mit der Freihandeingabe wurde behoben, bei dem zufällige Striche ausgewählt wurden und die Auswahl nicht mehr aufgehoben werden konnte.
@@ -129,9 +129,9 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Liste mit Anlagen für Unterhaltungen:** Alle Anlagen für eine Unterhaltung in einer Office 365-Gruppe sind in einer Dropdownliste in der rechten oberen Ecke des Lesebereichs verfügbar.
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="outlook-non-security-updates"></a>Outlook: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden von benutzerdefinierten Briefpapier als Standarddesign zusätzliche Zeilenumbrüche zu neuen E-Mail-Nachrichten hinzugefügt und die Schriftart auf Calibri festgelegt wurden.
@@ -172,9 +172,9 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Laden Sie Anlagen für Besprechungen im voraus hoch:** Fügen Sie Anlagen hinzu, wenn Sie die Onlinebesprechung in Outlook einrichten. [Weitere Informationen](https://support.office.com/article/fd3d9f9d-b448-4754-b813-02e49393f251)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Sicherheitsupdate für Microsoft Graphics Component (3148522)
--   Microsoft-Sicherheitsbulletin [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
--   Microsoft-Sicherheitsbulletin [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
+-   Microsoft-Sicherheitsbulletin [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Sicherheitsupdate für Microsoft Graphics Component (3148522)
+-   Microsoft-Sicherheitsbulletin [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
+-   Microsoft-Sicherheitsbulletin [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Stellvertreter in Skype for Business nach dem Hinzufügen in Exchange Server auch dann nicht angezeigt wird, wenn Skype for Business neu gestartet wurde.
@@ -190,8 +190,8 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **AutoCAD-Leistungsverbesserungen:** Schnellerer Import von AutoCAD-Dateien und beim Arbeiten mit Formen auf einer AutoCAD-Zeichnung.
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die eingegebenen Zeichen in Englisch angezeigt wurden, obwohl eine ostasiatische Tastatur, z. B. Koreanisch, ausgewählt war.
@@ -201,11 +201,11 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Kommentarsprechblasen:** In der Kommentarsprechblase werden Schaltflächen angezeigt, mit denen Sie schnell auf Kommentare antworten, Kommentare lösen oder einen Kommentar erneut öffnen können.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
--   Microsoft-Sicherheitsbulletin [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Sicherheitsupdate für Microsoft Office (3194063)
+-   Microsoft-Sicherheitsbulletin [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121): Sicherheitsupdate für Microsoft Office (3194063)
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen die Schriftart zu Segoe UI Emoji geändert wurde, wenn Symbolzeichen aus dem Doppelbyte-Zeichensatz (DBCS) unter Verwendung des japanischen Eingabemethoden-Editors (IME) eingegeben wurden.
@@ -218,15 +218,15 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 ### <a name="office-suite-feature-updates"></a>Office-Suite: Featureupdates
 -   **Einstellung für AD RMS-Benutzerrechterichtlinien:** Stellt sicher, dass die Einstellung für „Besitzer (Autor) permanenten Vollzugriff gewähren“ beim Anwenden auf neue Word-, Excel- und PowerPoint-Dokumente berücksichtigt wird, insbesondere dann, wenn die Einstellung deaktiviert ist. Wenn die Einstellung deaktiviert ist, wird eine Warnung mit dem Hinweis angezeigt, dass das Anwenden der Vorlage ggf. den Zugriff auf das Dokument einschränkt.
- 
+ 
 
     Hinweis: Vorhandene Dokumente, die mit einer Vorlage geschützt sind, für die diese Einstellung konfiguriert ist, werden nicht geändert. Der Besitzer verfügt weiterhin über permanenten Vollzugriff für diese Dokumente.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem beim Aktualisieren von Office ODBC-Registrierungseinträge überschrieben werden und das Microsoft Access Database Engine Redistributable neu installiert oder repariert werden muss.
@@ -239,138 +239,138 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
-## <a name="version-1602-october-11"></a>Version 1602:11. Oktober
+## <a name="version-1602-october-11"></a>Version 1602: 11. Oktober
 *Version 1602 (Build 6741.2081)*
 
-*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis zum 2017. Februar. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965,2092) –, die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Juni 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Februar 2017. Nun ist jedoch eine neue verzögerte Kanalversion verfügbar – Version 1605 (Build 6965.2092), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-120](https://technet.microsoft.com/library/security/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
+-   Microsoft-Sicherheitsbulletin [MS16-120](/security-updates/SecurityBulletins/2016/ms16-120): Sicherheitsupdate für Microsoft Graphics Component (3192884)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-121](https://technet.microsoft.com/library/security/ms16-121): Sicherheitsupdate für Microsoft Office (3194063)
+-   Microsoft-Sicherheitsbulletin [MS16-121](/security-updates/SecurityBulletins/2016/ms16-121): Sicherheitsupdate für Microsoft Office (3194063)
 
 
 
-## <a name="version-1602-september-13"></a>Version 1602:13. September
+## <a name="version-1602-september-13"></a>Version 1602: 13. September
 *Version 1602 (Build 6741.2071)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden von Medienrelayservern, die für die Verwendung eines HTTP-Proxys konfiguriert sind, Anrufaufbaufehler aufgetreten sind.
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 
 
-## <a name="version-1509-september-13"></a>Version 1509:13. September
+## <a name="version-1509-september-13"></a>Version 1509: 13. September
 *Version 1509 (Build 6001.1090)*
 
-*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2071) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Februar 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jedoch jetzt eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741.2071), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-107](https://technet.microsoft.com/library/security/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
+-   Microsoft-Sicherheitsbulletin [MS16-107](/security-updates/SecurityBulletins/2016/ms16-107): Sicherheitsupdate für Microsoft Office (3185852)
 
 
 
-## <a name="version-1602-august-9"></a>Version 1602:9. August
+## <a name="version-1602-august-9"></a>Version 1602: 9. August
 *Version 1602 (Build 6741.2063)*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit einem letzten Sicherheitsupdate, aufgrund dessen beim Öffnen einer HTML-Datei von einem nicht vertrauenswürdigen Speicherort ein leerer Bildschirm ohne Fehlermeldungen in Excel angezeigt wurde. Der Benutzer konnte die Datei nicht in der geschützten Ansicht öffnen.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
+-   Microsoft-Sicherheitsbulletin [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 
 
-## <a name="version-1509-august-9"></a>Version 1509:9. August
+## <a name="version-1509-august-9"></a>Version 1509: 9. August
 *Version 1509 (Build 6001.1087)*
 
-*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2063) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Februar 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jedoch jetzt eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741.2063), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems mit einem letzten Sicherheitsupdate, aufgrund dessen beim Öffnen einer HTML-Datei von einem nicht vertrauenswürdigen Speicherort ein leerer Bildschirm ohne Fehlermeldungen in Excel angezeigt wurde. Der Benutzer konnte die Datei nicht in der geschützten Ansicht öffnen.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-097](https://technet.microsoft.com/library/security/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
+-   Microsoft-Sicherheitsbulletin [MS16-097](/security-updates/SecurityBulletins/2016/ms16-097): Sicherheitsupdate für Microsoft Graphics Component (3177393)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-099](https://technet.microsoft.com/library/security/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
+-   Microsoft-Sicherheitsbulletin [MS16-099](/security-updates/SecurityBulletins/2016/ms16-099): Sicherheitsupdate für Microsoft Office (3177451)
 
 
 
-## <a name="version-1602-july-12"></a>Version 1602:12. Juli
+## <a name="version-1602-july-12"></a>Version 1602: 12. Juli
 *Version 1602 (Build 6741.2056)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
 
 
-## <a name="version-1509-july-12"></a>Version 1509:12. Juli
+## <a name="version-1509-july-12"></a>Version 1509: 12. Juli
 *Version 1509 (Build 6001.1085)*
 
-*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2056) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Februar 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Nun ist jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741.2056), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
 ### <a name="outlook-security-updates"></a>Outlook: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-088](https://technet.microsoft.com/library/security/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
+-   Microsoft-Sicherheitsbulletin [MS16-088](/security-updates/SecurityBulletins/2016/ms16-088): Sicherheitsupdate für Microsoft Office (3170008)
 
 
 
-## <a name="version-1602-june-14"></a>Version 1602:14. Juni
+## <a name="version-1602-june-14"></a>Version 1602: 14. Juni
 *Version 1602 (Build 6741.2048)*
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="excel-feature-updates"></a>Excel: Featureupdates
 -   **Veröffentlichen in Power BI**: Speichern und Veröffentlichen von Arbeitsmappenelementen wie Diagrammen, Bereichen und Tabellen auf powerbi.com und Interagieren mit diesen Daten in einem Dashboardformat. Erfordert ein Power BI-Abonnement. [Weitere Informationen](https://support.office.com/article/7342b49c-6567-4155-a7ac-acdc14d9ad0f)
@@ -383,12 +383,12 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **BI-Vorlagen**: Drei neuen Vorlagen, mit denen Sie von Business Intelligence-Funktionen (BI) von Excel profitieren.[Kalendereinblicke](https://support.office.com/article/7edbeb88-99ca-403f-a394-7e957d3d3f40), [Aktienanalyse](https://support.office.com/article/f65e62ac-7af6-4cc6-98f3-f68b147ed65d), [Mein Cashflow](https://support.office.com/article/215e9e2e-5813-41ad-a9ef-a0c0874841bb).
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
--   Microsoft-Sicherheitsbulletin [MS15-110](https://technet.microsoft.com/library/security/ms15-110): Sicherheitsupdates für Microsoft Office zur Behebung der Remotecodeausführung (3096440)
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
--   Microsoft-Sicherheitsbulletin [MS16-015](https://go.microsoft.com/fwlink/?LinkId=722214): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
--   Microsoft-Sicherheitsbulletin [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
+-   Microsoft-Sicherheitsbulletin [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
+-   Microsoft-Sicherheitsbulletin [MS15-110](/security-updates/SecurityBulletins/2015/ms15-110): Sicherheitsupdates für Microsoft Office zur Behebung der Remotecodeausführung (3096440)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin [MS16-015](/security-updates/SecurityBulletins/2016/ms16-015): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
+-   Microsoft-Sicherheitsbulletin [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem eine Arbeitsmappe in der geschützten Ansicht nicht ordnungsgemäß geöffnet wird, nachdem ein Hyperlink hinzugefügt und die Arbeitsmappe auf einem Computer mit Windows 10 gespeichert wurde.
@@ -418,7 +418,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Einfügen von Onlinevideos:** Einbetten von YouTube-, OfficeMix- oder Vimeo-Videos auf einer Seite. [Weitere Informationen](https://support.office.com/article/0a862f29-665c-43a5-9dd8-68009423cf7c)
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebt ein Problem, bei dem die Inhaltshervorhebung nicht angezeigt wird, wenn die Wiedergabeoption verwendet wird.
@@ -451,7 +451,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebt ein Problem,bei dem Elemente in der Dropdownliste „Von“ im Modus für hohen Kontrast nicht vollständig hervorgehoben werden.
 -   Behebt ein Problem, bei dem nur der erste Anhang ausgewählt wird, wenn Sie UMSCHALT + KLICK zum Auswählen mehrerer Anhänge verwenden.
 -   Behebung eines Problems, aufgrund dessen bei Verwendung von POP3 alle E-Mails auf dem Server aus dem Posteingang gelöscht wurden, nachdem Outlook die E-Mails heruntergeladen hat. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
--   Behebung eines Problems, bei dem e-Mail-Nachrichten, wenn Sie für die Verwendung von POP3 konfiguriert sind, mehrmals heruntergeladen werden und doppelte Elemente verursachen. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
+-   Behebung eines Problems, bei dem E-Mail-Nachrichten mehrmals heruntergeladen werden, wenn sie für die Verwendung von POP3 konfiguriert sind, was zu doppelten Elementen führt. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3145116)
 -   Behebung eines Problems, aufgrund dessen Benutzer nicht auf öffentliche Ordner zugreifen konnten, die auf Exchange Server 2010 gehostet wurden.
 -   Behebung eines Problems, bei dem Bilder in der falschen Größe beim Senden von E-Mails zwischen einem Gerät mit hoher DPI und einem Monitor mit normaler DPI angezeigt werden.
 -   Behebung eines Problems, aufgrund dessen beim Ziehen der Bildlaufleiste in der Nachrichtenliste zum Ende der Liste gewechselt wurde.
@@ -465,11 +465,11 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Morphingübergang:** Erstellen von nahtlosen Übergängen zwischen Folien und Bewegung bei Präsentationen für eine effektivere Vermittlung von Konzepten und Informationen. [Weitere Informationen](https://support.office.com/article/0c30ee3f-8674-4f0e-97be-89cf2892a34d)
 -   **PowerPoint Designer:** Ein neuer Dienst, mit dem Sie auf Grundlage Ihrer Inhalte automatisch eine Vielzahl von Ideen, aus denen Sie auswählen können, generieren können, um Ihre Folien optimal zu gestalten. [Weitere Informationen](https://support.office.com/article/53c77d7b-dc40-45c2-b684-81415eac0617)
 
-    Für diesen Dienst ist eine Internetverbindung erforderlich. Verwenden Sie zum Deaktivieren dieses Features [die neuesten administrativen Vorlagendateien für Gruppenrichtlinien](https://www.microsoft.com/download/details.aspx?id=49030) , und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
+    Für diesen Dienst ist eine Internetverbindung erforderlich. Um dieses Feature zu deaktivieren, [verwenden Sie die neuesten](https://www.microsoft.com/download/details.aspx?id=49030) Administrativen Vorlagendateien für Gruppenrichtlinien, und aktivieren Sie die Einstellung PowerPoint Designer-Optionen. Diese Richtlinieneinstellung finden Sie unter: Benutzerkonfiguration\\Administrative Vorlagen\\Microsoft Office 2016\\Tools |Optionen | Allgemein | Dienstoptionen…\\PowerPoint Designer.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem nach dem Neustart von PowerPoint nach einem Absturz und dem Verwenden des Aufgabenfensters „Dokumentwiederherstellung“ eine Fehlermeldung angezeigt wird, wenn Sie versuchen, die wiederhergestellte Datei zu speichern oder die Originaldatei zu öffnen.
@@ -486,7 +486,7 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, aufgrund dessen die Navigation über die Zifferntasten nicht in der Bildschirmpräsentationsansicht funktionierte.
 
 ### <a name="project-security-updates"></a>Project: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem die Anwendung von „Format übertragen“ einen Bildlauf an eine andere Stelle oder den Absturz des Projekts verursacht.
@@ -498,13 +498,13 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Behebung eines Problems, bei dem Basisplankalender beim Speichern und Schließen des Projekts gelöscht werden und Project abstürzt, wenn das Projekt erneut geöffnet wird.
 
 ### <a name="publisher-security-updates"></a>Publisher: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS15-123](https://technet.microsoft.com/library/security/ms15-123): Sicherheitsupdate für Skype for Business und Microsoft Lync zur Behebung der Offenlegung von Informationen (3105872)
--   Microsoft-Sicherheitsbulletin [MS15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Sicherheitsupdate für die Microsoft-Grafikkomponente zur Behebung der Remotecodeausführung (3104503)
--   Microsoft-Sicherheitsbulletin [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Sicherheitsupdate für Microsoft Graphics Component (3148522)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-123](/security-updates/SecurityBulletins/2015/ms15-123): Sicherheitsupdate für Skype for Business und Microsoft Lync zur Behebung der Offenlegung von Informationen (3105872)
+-   Microsoft-Sicherheitsbulletin [MS15-128](/security-updates/SecurityBulletins/2015/ms15-128): Sicherheitsupdate für die Microsoft-Grafikkomponente zur Behebung der Remotecodeausführung (3104503)
+-   Microsoft-Sicherheitsbulletin [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Sicherheitsupdate für Microsoft Graphics Component (3148522)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden der Konferenzfunktionen, u. a. Whiteboard oder Freigeben von Notizen, eine Fehlermeldung angezeigt wurde. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3165438)
@@ -527,10 +527,10 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   Änderung dessen, was im Viewer angezeigt wird, wenn der freigebende Benutzer den Bildschirm in RDP sperrt. Im Viewer wird nun anstelle der RDP-Pausenabbildung eine Benachrichtigung angezeigt.
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen AutoCAD-Dateien in Visio verschwommen angezeigt wurden.
@@ -540,14 +540,14 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Optionen für die Grammatikprüfung:** Zusätzliche oder aktualisierte Optionen für die Grammatikprüfung für Französisch, Norwegisch und Dänisch, die zur Hervorhebung zusätzlicher Grammatikfehler führen.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
--   Microsoft-Sicherheitsbulletin [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
--   Microsoft-Sicherheitsbulletin [MS16-015](https://go.microsoft.com/fwlink/?LinkId=722214): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
--   Microsoft-Sicherheitsbulletin [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
--   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS15-131](/security-updates/SecurityBulletins/2015/ms15-131): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
+-   Microsoft-Sicherheitsbulletin [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin [MS16-015](/security-updates/SecurityBulletins/2016/ms16-015): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
+-   Microsoft-Sicherheitsbulletin [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
+-   Microsoft-Sicherheitsbulletin [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem behoben, bei dem Word abstürzt oder die SmartArt-Grafik leer angezeigt wird und nicht mehr ausgewählt werden kann, wenn Sie eine Rückgängig-Aktion durchführen, nachdem Sie eine SmartArt-Grafik durch Ziehen verschoben haben.
@@ -582,16 +582,16 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 -   **Sortierfunktion in Datei \> Öffnen:** Sortieren nach Name oder Änderungsdatum in „Datei“ \> „Öffnen“ in allen Apps außer Outlook. Für Word, Excel und PowerPoint ist die Sortierung auch unter „Datei“ \> „Speichern unter“ verfügbar.
 -   **Funktion zum Durchsuchen von Ordnern in Datei \> Speichern unter:** Verwenden Sie die vollständige Ordnernavigation in Datei \> Speichern unter in Word, Excel und PowerPoint für OneDrive-Ordner, OneDrive for Business-Ordner und „Dieser PC“.
 -   **Optionen für „Senden an“:** Senden eines Dokuments als Anlage oder als PDF-Datei aus dem Bereich „Freigeben“ in Word oder PowerPoint.
--   **Einfügen der Bild-API:** Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [document.setSelectedDataAsync-Methode](https://msdn.microsoft.com/library/office/fp142145.aspx) in der allgemeinen office.js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](https://msdn.microsoft.com/library/office/mt598674.aspx), [ContentControl-Objekten](https://msdn.microsoft.com/library/office/mt598675.aspx), [Absatz](https://msdn.microsoft.com/library/office/mt598682.aspx)undBereichen .
+-   **Einfügen der Bild-API:** Einfügen von Bildern in Word, Excel oder PowerPoint mithilfe der [document.setSelectedDataAsync-Methode](/javascript/api/office/office.document) in der allgemeinen office.js-Bibliothek. Die Word JavaScript-API bietet hostspezifische Methoden mit der Bezeichnung „insertInlinePictureFromBase64()“ zum Festlegen von Inlinebildern in [Text](/office/dev/add-ins/reference/overview/word-add-ins-reference-overview), [ContentControl-Objekten](/javascript/api/word/word.contentcontrol), [Absatz](/javascript/api/word/word.paragraph)undBereichen .
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin [MS15-099](https://technet.microsoft.com/library/security/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
--   Microsoft-Sicherheitsbulletin [MS15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin [MS16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
--   Microsoft-Sicherheitsbulletin [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
--   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin [MS15-099](/security-updates/SecurityBulletins/2015/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
+-   Microsoft-Sicherheitsbulletin [MS15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin [MS16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
+-   Microsoft-Sicherheitsbulletin [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem beim Zwischenspeichern behoben, das dazu führte, dass einige Office 2013-Lizenzierungs- und Programminstallationsinformationen gelöscht wurden, bevor ein von Microsoft initiiertes Upgrade der Office 2013-Version eines Office 365-Clients, wie z. B. Office 365 ProPlus, auf die Office-Version 2016 durchgeführt wurde.
@@ -638,75 +638,75 @@ Diese Anmerkungen zur Version enthalten Informationen zu neuen Features, Sicherh
 
 
 
-## <a name="version-1509-june-14"></a>Version 1509:14. Juni
+## <a name="version-1509-june-14"></a>Version 1509: 14. Juni
 *Version 1509 (Build 6001.1082)*
 
-*Dies ist die verzögerte Kanalversion, die seit dem 2016. Februar verfügbar ist. Sie wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Es ist jetzt jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741,2056) – die neue Features, Sicherheitsupdates und nicht sicherheitsrelevante Updates enthält.*
+*Dies ist die verzögerte Kanalversion, die seit Februar 2016 verfügbar ist. Es wird weiterhin unterstützt und erhält Sicherheitsupdates bis Oktober 2016. Nun ist jedoch eine neue verzögerte Kanalversion verfügbar – Version 1602 (Build 6741.2056), die neue Features, Sicherheitsupdates und nicht sicherheitsfreie Updates enthält.*
 
-### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
+### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Updates
 -   Behebung eines Problems, aufgrund dessen beim Verwenden der Konferenzfunktionen, u. a. Whiteboard oder Freigeben von Notizen, eine Fehlermeldung angezeigt wurde. [Weitere Informationen zu diesem Problem](https://support.microsoft.com/kb/3165438)
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-070](https://technet.microsoft.com/library/security/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
+-   Microsoft-Sicherheitsbulletin [MS16-070](/security-updates/SecurityBulletins/2016/ms16-070): Sicherheitsupdate für Microsoft Office (3163610)
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Es wurde ein Problem beim Zwischenspeichern behoben, das dazu führte, dass einige Office 2013-Lizenzierungs- und Programminstallationsinformationen gelöscht wurden, bevor ein von Microsoft initiiertes Upgrade der Office 2013-Version eines Office 365-Clients, wie z. B. Office 365 ProPlus, auf die Office-Version 2016 durchgeführt wurde.
 
 
 
-## <a name="version-1509-may-10"></a>Version 1509:10. Mai
+## <a name="version-1509-may-10"></a>Version 1509: 10. Mai
 *Version 1509 (Build 6001.1078)*
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
+-   Microsoft-Sicherheitsbulletin [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-054](https://technet.microsoft.com/library/security/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
+-   Microsoft-Sicherheitsbulletin [MS16-054](/security-updates/SecurityBulletins/2016/ms16-054): Sicherheitsupdate für Microsoft Office (3155544)
 
 
 
-## <a name="version-1509-april-12"></a>Version 1509:12. April
+## <a name="version-1509-april-12"></a>Version 1509: 12. April
 *Version 1509 (Build 6001.1073)*
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-042](https://technet.microsoft.com/library/security/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
+-   Microsoft-Sicherheitsbulletin [MS16-042](/security-updates/SecurityBulletins/2016/ms16-042): Sicherheitsupdate für Microsoft Office (3148775)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-039](https://technet.microsoft.com/library/security/ms16-039): Sicherheitsupdate für Microsoft Graphics Component (3148522)
+-   Microsoft-Sicherheitsbulletin [MS16-039](/security-updates/SecurityBulletins/2016/ms16-039): Sicherheitsupdate für Microsoft Graphics Component (3148522)
 
 
 
-## <a name="version-1509-march-8"></a>Version 1509:8. März
+## <a name="version-1509-march-8"></a>Version 1509: 8. März
 *Version 1509 (Build 6001.1068)*
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
+-   Microsoft-Sicherheitsbulletin [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin [MS16-029](https://technet.microsoft.com/library/security/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
+-   Microsoft-Sicherheitsbulletin [MS16-029](/security-updates/SecurityBulletins/2016/ms16-029): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3141806)
 
 
 
-## <a name="version-1509-february-9"></a>Version 1509:9. Februar
+## <a name="version-1509-february-9"></a>Version 1509: 9. Februar
 *Version 1509 (Build 6001.1061)*
 
 Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben Funktionen, die mit Office 2016 am 22. September 2015 ausgeliefert wurden.
 
 ### <a name="access-security-updates"></a>Access: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="excel-security-updates"></a>Excel: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-099](https://technet.microsoft.com/library/security/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
--   Microsoft-Sicherheitsbulletin MS [15-110](https://technet.microsoft.com/library/security/ms15-110): Sicherheitsupdates für Microsoft Office zur Behebung der Remotecodeausführung (3096440)
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
--   Microsoft-Sicherheitsbulletin MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
+-   Microsoft-Sicherheitsbulletin MS [15-099](/security-updates/SecurityBulletins/2015/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
+-   Microsoft-Sicherheitsbulletin MS [15-110](/security-updates/SecurityBulletins/2015/ms15-110): Sicherheitsupdates für Microsoft Office zur Behebung der Remotecodeausführung (3096440)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
 
 ### <a name="excel-non-security-updates"></a>Excel: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem der Benutzer beim Umbenennen eines Blatts im Modus für hohen Kontrast den Blattnamen nicht erkennen kann.
@@ -724,7 +724,7 @@ Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben F
 -   URL-Aktualisierung für Dotlesscss unter Datei \> Konto \> Über Excel.
 
 ### <a name="onenote-security-updates"></a>OneNote: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="onenote-non-security-updates"></a>OneNote: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems beim Öffnen eines Notizbuchs in OneNote von OneNote Online aus.
@@ -740,8 +740,8 @@ Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben F
 -   Behebung eines Problems, aufgrund dessen der Cursor sich nicht an der richtigen Stelle beim Schreiben oder Beantworten einer E-Mail befand.
 
 ### <a name="powerpoint-security-updates"></a>PowerPoint: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
 
 ### <a name="powerpoint-non-security-updates"></a>PowerPoint: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem die Bildschirmtopologie des Benutzers, wie z. B. eine duplizierte Anzeige, nach dem Beenden des Präsentationsmodus nicht wiederhergestellt wird.
@@ -753,19 +753,19 @@ Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben F
 -   Behebung eines Problems, bei dem der Benutzer eine Fehlermeldung erhält, wenn er versucht, eine Datei aus SharePoint zu öffnen, wenn sich Internet Explorer im geschützten Modus befindet.
 
 ### <a name="project-security-updates"></a>Project: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="project-non-security-updates"></a>Projekt: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem durch das Bearbeiten eines Unternehmenskalenders in einem anderen Browser als Internet Explorer ein Fehler beim Öffnen von Project verursacht wird.
 -   Behebung eines Problems, bei dem als zugesicherter Endtermin für neue Projekte der 1.1.84 angezeigt wird.
 
 ### <a name="publisher-security-updates"></a>Publisher: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
 
 ### <a name="skype-for-business-security-updates"></a>Skype for Business: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin MS [15-123](https://technet.microsoft.com/library/security/ms15-123): Sicherheitsupdate für Skype for Business und Microsoft Lync zur Behebung der Offenlegung von Informationen (3105872)
--   Microsoft-Sicherheitsbulletin MS [15-128](https://go.microsoft.com/fwlink/?LinkId=690559): Sicherheitsupdate für die Microsoft-Grafikkomponente zur Behebung der Remotecodeausführung (3104503)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [15-123](/security-updates/SecurityBulletins/2015/ms15-123): Sicherheitsupdate für Skype for Business und Microsoft Lync zur Behebung der Offenlegung von Informationen (3105872)
+-   Microsoft-Sicherheitsbulletin MS [15-128](/security-updates/SecurityBulletins/2015/ms15-128): Sicherheitsupdate für die Microsoft-Grafikkomponente zur Behebung der Remotecodeausführung (3104503)
 
 ### <a name="skype-for-business-non-security-updates"></a>Skype for Business: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem ein Benutzer automatisch angemeldet werden sollte, anstatt zur Eingabe von Anmeldeinformationen aufgefordert zu werden.
@@ -783,19 +783,19 @@ Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben F
 -   Änderung dessen, was im Viewer angezeigt wird, wenn der freigebende Benutzer den Bildschirm in RDP sperrt. Im Viewer wird nun anstelle der RDP-Pausenabbildung eine Benachrichtigung angezeigt.
 
 ### <a name="visio-security-updates"></a>Visio: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin MS [15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
 
 ### <a name="visio-non-security-updates"></a>Visio: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, aufgrund dessen ein eingefügtes Word-Objekt, das als Symbol angezeigt werden sollte, nach Schließen und erneutem Öffnen von Visio leer war.
 
 ### <a name="word-security-updates"></a>Word: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin MS [15-131](https://go.microsoft.com/fwlink/?LinkId=699410): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
--   Microsoft-Sicherheitsbulletin MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
--   Microsoft-Sicherheitsbulletin MS [16-015](https://go.microsoft.com/fwlink/?LinkId=722214): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
+-   Microsoft-Sicherheitsbulletin MS [15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [15-131](/security-updates/SecurityBulletins/2015/ms15-131): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3116111)
+-   Microsoft-Sicherheitsbulletin MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin MS [16-015](/security-updates/SecurityBulletins/2016/ms16-015): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3134226)
 
 ### <a name="word-non-security-updates"></a>Word: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems mit der Seriendruckfunktion, bei dem im Dialogfeld „Empfänger auswählen“ die falsche Anzahl von Einträgen angezeigt wird, wenn Excel die Quelle ist.
@@ -822,10 +822,10 @@ Dies ist die erste Version für diesen Kanal. Diese Version enthält dieselben F
 -   Behebung eines Problems mit der gemeinsamen Dokumenterstellung in Echtzeit mit dem konfigurierten Entfernen von persönlichen Informationen, aufgrund dessen die Änderungen bei jedem Speichern des Dokuments als nachverfolgte Änderungen angezeigt wurden.
 
 ### <a name="office-suite-security-updates"></a>Office-Suite: Sicherheitsupdates
--   Microsoft-Sicherheitsbulletin MS [15-081](https://technet.microsoft.com/library/security/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
--   Microsoft-Sicherheitsbulletin MS [15-099](https://technet.microsoft.com/library/security/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
--   Microsoft-Sicherheitsbulletin MS [15-116](https://technet.microsoft.com/library/security/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
--   Microsoft-Sicherheitsbulletin MS [16-004](https://go.microsoft.com/fwlink/?LinkId=717998): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
+-   Microsoft-Sicherheitsbulletin MS [15-081](/security-updates/SecurityBulletins/2015/ms15-081): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3080790)
+-   Microsoft-Sicherheitsbulletin MS [15-099](/security-updates/SecurityBulletins/2015/ms15-099): Sicherheitsrisiko in Microsoft Office Cloud kann Remotecodeausführung ermöglichen (3089664)
+-   Microsoft-Sicherheitsbulletin MS [15-116](/security-updates/SecurityBulletins/2015/ms15-116): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3104540)
+-   Microsoft-Sicherheitsbulletin MS [16-004](/security-updates/SecurityBulletins/2016/ms16-004): Sicherheitsupdate für Microsoft Office zur Behebung der Remotecodeausführung (3124585)
 
 ### <a name="office-suite-non-security-updates"></a>Office-Suite: Nicht sicherheitsrelevante Sicherheitsupdates
 -   Behebung eines Problems, bei dem bei der Abfrage von „Line.ForeColor.RGB“ mit VBA für eine Zeile mit automatischer Füllung immer der Wert weiß zurückgegeben wird, auch wenn die Farbe tatsächlich nicht weiß ist.
