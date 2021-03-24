@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: 32c769a8c7c365dd1562fb89cc1d628968e0dbfb
-ms.sourcegitcommit: 5b34305f450f8a1e8acec302030f2e02aacefd56
+ms.openlocfilehash: 5c6326711323caf1e4eb170bd0d636fff5e2eb40
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902180"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169484"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -35,8 +35,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 
 
  > [!NOTE]
-> - Ab dem 11. August 2020 werden die Sicherheitsupdates (CVE-Artikel) für Office 2016 und 2019 auf der Seite [Sicherheitsupdates](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) anstelle dieser Seite aufgelistet. 
-> - Office 2016 und 2019 sind unterstützt unter der [Festen Lebenszyklus-Richtlinie](https://docs.microsoft.com/lifecycle/policies/fixed). Nur die unten aufgeführten aktuellen volumenlizenzierten und Einzelhandels-Versionen sind unterstützt.
+> - Ab dem 11. August 2020 werden die Sicherheitsupdates (CVE-Artikel) für Office 2016 und 2019 auf der Seite [Sicherheitsupdates](./microsoft365-apps-security-updates.md) anstelle dieser Seite aufgelistet. 
+> - Office 2016 und 2019 sind unterstützt unter der [Festen Lebenszyklus-Richtlinie](/lifecycle/policies/fixed). Nur die unten aufgeführten aktuellen volumenlizenzierten und Einzelhandels-Versionen sind unterstützt.
 
 
 ## <a name="volume-licensed-versions-of-office-2019"></a>Volumenlizenzierte Versionen von Office 2019
@@ -153,9 +153,3 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 
 </details>
-
-
-
-
-
-

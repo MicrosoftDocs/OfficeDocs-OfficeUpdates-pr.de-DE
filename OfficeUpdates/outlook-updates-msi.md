@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Outlook 2016, Outlook 2013 und Outlook 2010
-ms.openlocfilehash: 8d3541747f9a650c1cb45121dcfcaac6dbabc53f
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: a5ff9d2142b1aefb64f40ad4a775ef4cf07919b4
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595539"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51169734"
 ---
 # <a name="latest-updates-for-versions-of-outlook-that-use-windows-installer-msi"></a>Neueste Updates für Outlook-Versionen, die Windows Installer (MSI) verwenden
 
@@ -32,11 +32,11 @@ Die Kompatibilität von Outlook mit Microsoft 365 und Ihrer lokalen Umgebung hä
     
 - Für lokale Exchange-Bereitstellungen halten Sie die Systemanforderungen für Ihre Version von Outlook ein:
     
-  - [Exchange 2016 – Systemanforderungen](https://docs.microsoft.com/Exchange/plan-and-deploy/system-requirements)
+  - [Exchange 2016 – Systemanforderungen](/Exchange/plan-and-deploy/system-requirements)
     
-  - [Exchange 2013 – Systemanforderungen](https://docs.microsoft.com/exchange/exchange-2013-system-requirements-exchange-2013-help)
+  - [Exchange 2013 – Systemanforderungen](/exchange/exchange-2013-system-requirements-exchange-2013-help)
     
-  - [Exchange 2010 – Systemanforderungen](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
+  - [Exchange 2010 – Systemanforderungen](/previous-versions/office/exchange-server-2010/aa996719(v=exchg.141))
 
    
 ## <a name="outlook-2016-updates"></a>Outlook 2016-Updates
@@ -53,10 +53,8 @@ Die Kompatibilität von Outlook mit Microsoft 365 und Ihrer lokalen Umgebung hä
    
 ## <a name="outlook-2010-updates"></a>Outlook 2010-Updates
 > [!IMPORTANT]
-> Der Support für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010-Umgebung begonnen haben, wird empfohlen, damit jetzt zu beginnen. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zur Einstellung des Supports](https://docs.microsoft.com/DeployOffice/office-2010-end-support-roadmap).
+> Der Support für Office 2010 endet am 13. Oktober 2020. Wenn Sie noch nicht mit dem Upgrade Ihrer Office 2010-Umgebung begonnen haben, wird empfohlen, damit jetzt zu beginnen. Weitere Informationen finden Sie unter [Office 2010 – Roadmap zur Einstellung des Supports](/DeployOffice/office-2010-end-support-roadmap).
 
 |**Neustes Service Pack (SP)**|**Mindestens erforderliches Update**|**Neuestes öffentliches Update**|
 |:-----|:-----|:-----|
 |SP2 <br/>[KB2687521](https://go.microsoft.com/fwlink/p/?LinkId=512542) <br><br><br><br/> |Öffentliches Update vom Oktober 2015 <br/> [KB3085604](https://support.microsoft.com/kb/3085604) <br/><br/>  Öffentliches Update vom April 2015 für Office 2010 für MAPI/HTTP <br/> [KB2956191](https://support.microsoft.com/help/2956191/april-14-2015-update-for-office-2010-kb2956191) <br/> |Dezember 2020 PU <br/>[KB 4486742](https://support.microsoft.com/help/4486742) <br><br><br><br/>|
-   
-

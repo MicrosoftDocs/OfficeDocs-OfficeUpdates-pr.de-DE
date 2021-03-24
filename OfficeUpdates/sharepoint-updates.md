@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Suchen und Verwalten von Updates für SharePoint Server 2016, SharePoint 2013 und SharePoint 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: e9187ff0773046586409e63904b3be303dc4f222
-ms.sourcegitcommit: 1ff981c972d4b4cba04f20060f1837e5f8098a2b
+ms.openlocfilehash: ebcdf333a3c9a8cd934508a51159eaa7cb2a278c
+ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50595669"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51170244"
 ---
 # <a name="sharepoint-updates"></a>SharePoint-Updates
 
@@ -323,20 +323,20 @@ Zusätzlich zu den SharePoint-Updates wird empfohlen, dass Sie sich die folgende
 - Windows Server AppFabric mit SharePoint
   
   - [AppFabric](https://msdn.microsoft.com/library/aa139641.aspx)
-  - [Wichtige Konzepte von AppFabric mit SharePoint](https://blogs.msdn.microsoft.com/besidethepoint/2013/03/27/appfabric-caching-and-sharepoint-concepts-and-examples-part-1/)
-  - [AppFabric-Updates](https://blogs.msdn.microsoft.com/distributedservices/2014/02/26/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages/)
+  - [Wichtige Konzepte von AppFabric mit SharePoint](/archive/blogs/besidethepoint/appfabric-caching-and-sharepoint-concepts-and-examples-part-1)
+  - [AppFabric-Updates](/archive/blogs/distributedservices/how-to-update-windows-server-appfabric-1-1-with-cumulative-update-packages)
   
 - Workflowmanagement mit SharePoint 
   
-  - [Installieren und Konfigurieren von Workflow für SharePoint Server](https://docs.microsoft.com/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
-  - [Workflow-Manager-Updates](https://blogs.msdn.microsoft.com/workflowteam/)
+  - [Installieren und Konfigurieren von Workflow für SharePoint Server](/SharePoint/governance/install-and-configure-workflow-for-sharepoint-server)
+  - [Workflow-Manager-Updates](/archive/blogs/workflowteam/)
    
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-- [Installieren von Softwareupdates für SharePoint Server 2019](https://docs.microsoft.com/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
-- [Installieren von Softwareupdates für SharePoint Server 2016](https://docs.microsoft.com/SharePoint/upgrade-and-update/install-a-software-update)
-- [Übersicht über Softwareupdates für SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
-- [Vorbereiten der Bereitstellung von Softwareupdates für SharePoint Server 2013](https://docs.microsoft.com/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
-- [Exchange Server-Updates](https://docs.microsoft.com/Exchange/new-features/build-numbers-and-release-dates)
+- [Installieren von Softwareupdates für SharePoint Server 2019](/SharePoint/upgrade-and-update/deploy-updates-for-sharepoint-server-2016)
+- [Installieren von Softwareupdates für SharePoint Server 2016](/SharePoint/upgrade-and-update/install-a-software-update)
+- [Übersicht über Softwareupdates für SharePoint Server 2013](/SharePoint/upgrade-and-update/software-updates-overview-for-sharepoint-server-2013)
+- [Vorbereiten der Bereitstellung von Softwareupdates für SharePoint Server 2013](/SharePoint/upgrade-and-update/prepare-to-deploy-software-updates)
+- [Exchange Server-Updates](/Exchange/new-features/build-numbers-and-release-dates)
 - [Project Server-Updates](project-server-updates.md)
