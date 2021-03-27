@@ -31,7 +31,7 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
 
 
 ## <a name="march-23-2021"></a>23. März 2021
-Version 16.0.13801.20360 (setup.exe, version 16.0.13801.20340)
+Version 16.0.13801.20360 (setup.exe, Version 16.0.13801.20340)
 - Änderungen zur Unterstützung anstehender Office-Produkt-Releases
 - Zuverlässigkeitsfixes für ARM-Plattformen
 
