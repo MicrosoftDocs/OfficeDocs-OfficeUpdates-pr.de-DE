@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: e897f5cbe2f4533b4a357ece4a4c412f5f63ba01
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 578a6940c75add13c10463dca8bbea7e38cf6f76
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51170234"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408058"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -24,7 +24,7 @@ Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum In
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Current Channel (Vorschau)
 
 Wenn Sie für Current Channel (Vorschau) registriert sind, die früher als Insider Slow bezeichnet wurde, erhalten Sie ungefähr einmal im Monat ein neues Office-Funktionsupdate sowie nachfolgende Builds mit wichtigen Korrekturen oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds von Current Channel (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
-Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](./current-channel-preview.md). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/en-us/releasenotes/windows/slow).
+Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](./current-channel-preview.md). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/de-DE/releasenotes/windows/slow).
 
 
 > [!IMPORTANT]
@@ -38,6 +38,9 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](./current-channe
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**28. März 2021**<br/>
+Version 2103 (Build 13901.20306)<br/>
 
 **22. März 2021**<br/>
 Version 2103 (Build 13901.20230)<br/>
