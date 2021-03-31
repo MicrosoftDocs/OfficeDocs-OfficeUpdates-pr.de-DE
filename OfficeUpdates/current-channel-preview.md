@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 9034604f61ae18eaa07a1467814fdf160b4f46f6
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: cdc35c55ebcd8526363f524f22d5b8a9ab93d7c6
+ms.sourcegitcommit: 89f767ecc31abe81febd10a4c059cbaa168c6f0e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169984"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408048"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,23 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="version-2103-march-28"></a>Version 2103: 28. März
+*Version 2103 (Build 13901.20306)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, durch das Outlook bei einigen Benutzern beim Synchronisieren von Änderungen der Ordnerhierarchie unerwartet geschlossen wurde.
+
+
+- Wir haben einige Probleme behoben, die dazu geführt haben, dass bei einigen Benutzern die Plätze des primären und sekundären Kalenders im Navigationsbereich vertauscht waren.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2103-march-22"></a>Version 2103: 22. März
 *Version 2103 (Build 13901.20230)*
@@ -660,7 +677,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade).
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1385,9 +1402,9 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
-- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
 - **Exportieren eines animierten GIF in einem Bereich:** Folienbereich auswählen, wenn Sie nach animiertem GIF exportieren
 
@@ -1481,7 +1498,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Sparen Sie Zeit beim Verfassen von Nachrichten:** Outlook macht Ihnen Formulierungsvorschläge, sodass Sie Nachrichten schnell verfassen können. Wenn Sie den Vorschlag akzeptieren möchten, verwenden Sie einfach die TAB-Taste.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/text-predictions-in-word-outlook)
+- **Sparen Sie Zeit beim Verfassen von Nachrichten:** Outlook macht Ihnen Formulierungsvorschläge, sodass Sie Nachrichten schnell verfassen können. Wenn Sie den Vorschlag akzeptieren möchten, verwenden Sie einfach die TAB-Taste.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/text-predictions-in-word-outlook)
 
 - **Aufheben der Sprachbarriere durch einen integrierten Übersetzer:** Ab jetzt sind keine Add-Ins für die Übersetzung mehr erforderlich! Klicken Sie in einer Nachricht mit der rechten Maustaste, um bestimmte Wörter, Ausdrücke oder die gesamte Nachricht zu übersetzen. [Weitere Informationen](https://support.office.com/article/287380e4-a56c-48a1-9977-f2dca89ce93f)
 
@@ -1687,7 +1704,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="outlook"></a>Outlook
 
-- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/grammar-and-style-suggestions-available-in-outlook)
+- **Die Grammatikprüfung hält Ihnen den Rücken frei:** Outlook markiert Grammatikfehler während der Eingabe, so dass Sie Vorschläge mit einem einzigen Klick anwenden können. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/grammar-and-style-suggestions-available-in-outlook)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1751,7 +1768,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="excel"></a>Excel
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1763,13 +1780,13 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 - **Unterhaltung löschen nach Nachrichtenbesitzer:** Dieses Feature ermöglicht es Ihnen, eine Unterhaltung nach dem Nachrichtenbesitzer zu löschen.
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
@@ -1787,7 +1804,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="word"></a>Word
 
-- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/insert-apple-photos-into-office-easily)
+- **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 - **Automatisches Wechseln von Office-Designs:** Office kann Designs automatisch an Ihre Windows 10-Designeinstellungen anpassen. Gehen Sie zu Datei > Optionen, und wählen Sie neben Office-Design "Systemeinstellung verwenden" aus. [Weitere Informationen](https://support.office.com/article/63e65e1c-08d4-4dea-820e-335f54672310)
 
