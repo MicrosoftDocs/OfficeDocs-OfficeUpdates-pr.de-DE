@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 5bd71abc819924012ecbaf37563b24e4e6220f6a
-ms.sourcegitcommit: d108f8a732dfede6326d9726c09c667b5d084131
+ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
+ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51440710"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "51582081"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,22 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 > - Microsoft Teams-Features unterscheiden sich möglicherweise von den neuesten veröffentlichten Features der aktuellen Kanalvorschau, da sie einen häufigeren Versionswechsel aufweisen.
 
 [//]: # (NICHT ENTFERNEN)
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2103-april-02"></a>Version 2103: 2. April
+*Version 2103 (Build 13901.20336)*
+* Behebung verschiedener Fehler und Leistungsprobleme.
+
+## <a name="version-2103-april-1"></a>Version 2103: 1. April
+*Version 2103 (Build 13901.20148)*
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+
+- **Datum/Uhrzeit-Format** Mit diesem Update werden die Datum/Uhrzeit-Formate in Teams an die regionalen Einstellungen der Mac- und Windows-Betriebssysteme angepasst. Zuvor zeigte Teams Datum/Uhrzeit nur in dem Format an, das der Sprache der Anwendung entsprach. Es ist wichtig zu beachten, dass nur der gregorianische Kalender unterstützt wird, unabhängig von der Kalendereinstellung des Betriebssystems. 
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2103-march-30"></a>Version 2103: 30. März
 *Version 2103 (Build 13901.20312)*
@@ -79,27 +95,11 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 - Ein Problem wurde behoben, bei dem Visio während des Schließens manchmal nicht mehr funktionierte.
 
-
-
 [//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
-## <a name="version-2103-march-12"></a>Version 2103: 12. März
-*Version 2103 (Build 13901.20148)*
-
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
-
-### <a name="feature-updates"></a>Featureupdates
-### <a name="teams"></a>Teams
-
-- **Status „Außer Haus** Richten Sie eine Nachricht ein, um anderen bekannt zu geben, dass Sie gerade nicht arbeiten oder im Urlaub sind, und daher nicht antworten können, wenn sie Ihnen eine Chatnachricht senden. Ihr „Außer Haus“-Status synchronisiert sich ebenfalls mit den Automatische Antworten in Ihrem Outlook-Kalender.
-
-[//]: # (NICHT ENTFERNEN)
-
-
+[//]: # (FEATUREDETAILS CONTENT START NICHT ENTFERNEN)
 ## <a name="version-2103-march-11"></a>Version 2103: 11. März
 *Version 2103 (Build 13901.20148)*
-
-[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
@@ -114,6 +114,10 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 - **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
 
+### <a name="teams"></a>Teams
+
+- **Status „Außer Haus** Richten Sie eine Nachricht ein, um anderen bekannt zu geben, dass Sie gerade nicht arbeiten oder im Urlaub sind, und daher nicht antworten können, wenn sie Ihnen eine Chatnachricht senden. Ihr „Außer Haus“-Status synchronisiert sich ebenfalls mit den Automatische Antworten in Ihrem Outlook-Kalender.
+
 ### <a name="visio"></a>Visio
 
 - **Office-Symbole mit neuem Look:** Die Produktsymbole wurden neu gestaltet, um die einfache, leistungsstarke und intelligente Office-Benutzeroberfläche widerzuspiegeln. [Weitere Informationen](https://support.office.com/article/a6cdf19a-b2bd-4be1-9515-d74a37aa59bf)
@@ -123,7 +127,6 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - **Dunkler Modus für Word-Dokumente:** Der dunkle Modus kann dabei helfen, die Augen zu entlasten und die Lichtempfindlichkeit zu berücksichtigen, während Sie an Ihren Dokumenten arbeiten.
 
 - **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
-
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -681,7 +684,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1406,7 +1409,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -1477,7 +1480,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, durch das die Kopfzeilen von Nachrichten in chinesischer Sprache bei der Beantwortung oder Weiterleitung nicht lesbar waren.
+- Es wurde ein Problem behoben, durch das die Kopfzeilen chinesischer Nachrichten bei der Beantwortung oder Weiterleitung nicht lesbar waren.
 
 
 - Es wurde ein Problem behoben, durch das chinesische Zeichen beim Speichern als OFT-Datei in Fragezeichen geändert wurden.
@@ -2294,7 +2297,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -2620,15 +2623,15 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 
-- **In angeheftete Ordner speichern:** Durch das Anheften Ihrer Ordner wird das Speichern von Office-Dateien einfacher. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner wünschen, wenn eine neue Datei gespeichert wird. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+- **In angeheftete Ordner speichern:** Durch das Anheften Ihrer Ordner wird das Speichern von Office-Dateien einfacher. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner wünschen, wenn eine neue Datei gespeichert wird. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **In angeheftete Ordner speichern:** Durch das Anheften Ihrer Ordner wird das Speichern von Office-Dateien einfacher. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner wünschen, wenn eine neue Datei gespeichert wird. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+- **In angeheftete Ordner speichern:** Durch das Anheften Ihrer Ordner wird das Speichern von Office-Dateien einfacher. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner wünschen, wenn eine neue Datei gespeichert wird. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **In angeheftete Ordner speichern:** Durch das Anheften Ihrer Ordner wird das Speichern von Office-Dateien einfacher. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner wünschen, wenn eine neue Datei gespeichert wird. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/).
+- **In angeheftete Ordner speichern:** Durch das Anheften Ihrer Ordner wird das Speichern von Office-Dateien einfacher. Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die verfügbaren Ordner wünschen, wenn eine neue Datei gespeichert wird. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. <br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
