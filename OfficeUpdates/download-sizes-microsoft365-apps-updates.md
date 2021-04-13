@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 710af3f6cfb276732812490957d22cd40fd9c737
-ms.sourcegitcommit: 149b8409a33ff4411d296f8668f6da387f84f6bf
+ms.openlocfilehash: fd0201ce7ec5cb64809556c01ed27fabfd461f62
+ms.sourcegitcommit: 94b7247497c7498627f408aa6d08ea32b4af7eb0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "51589877"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645037"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -35,6 +35,43 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+
+## <a name="april-8-2021"></a>8. April 2021
+
+
+### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
+
+<i>Das erwartete Release ist Version 2102 (Build 13801.20490).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2101 (Build 13628.20528) <br/> |9. März 2021 <br/> |190<br/> |
+
+
+
+### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
+
+<i>Das erwartete Release ist Version 2102 (Build 13801.20454).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2102 (Build 13801.20294) <br/> |9. März 2021 <br/> |63<br/> |
+|Version 2008 (Build 13127.21216) <br/> |9. Februar 2021 <br/> |444<br/> |
+
+
+### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
+
+<i>Das erwartete Release ist Version 2008 (Build 13127.21474).</i>
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2008 (Build 13127.21348) <br/> |9. März 2021 <br/> |61<br/> |
+|Version 2008 (Build 13127.21216) <br/> |9. Februar 2021 <br/> |62<br/> |
+
+
+[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
 
 ## <a name="april-2-2021"></a>2. April 2021
 
@@ -434,7 +471,7 @@ Die aktuellste Version ist Version 2010 (Build 13328.20408).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2010 (Build 13328.20356) <br/> |10. November 2020 <br/> |51<br/> |
-|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
+|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
 
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE 17. November 2020)
