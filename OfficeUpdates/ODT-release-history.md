@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: 046054dfb781c3cd19ca6505e5ae5f2f362f6a86
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 8e2387e11eb7327d0fe2148f2fe43633aad8c725
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169963"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748953"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -29,6 +29,12 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
 
+## <a name="april-13-2021"></a>13. April 2021
+Version 16.0.13901.20336 (setup.exe Version 16.0.13901.20328)
+- Zuverlässigkeitskorrekturen für Konfigurationsvorgänge, die auf Geräten mit bereits installiertem Office ausgeführt werden
+- Korrekturen zur Vermeidung der Anzeige von doppelten Fortschritts-UIs in einigen Szenarien
+- Verbesserungen der Fehlercodegenauigkeit in der Benutzeroberfläche
+- Zuverlässigkeitskorrekturen für ARM-Plattformen
 
 ## <a name="march-23-2021"></a>23. März 2021
 Version 16.0.13801.20360 (setup.exe, Version 16.0.13801.20340)

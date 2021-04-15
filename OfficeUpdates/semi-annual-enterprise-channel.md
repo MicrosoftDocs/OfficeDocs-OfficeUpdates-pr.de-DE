@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Releases im halbjährlichen Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 547700388de93effd6e2d1ced5c5b1d6a570bdc3
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: 3a6494983603abca6e2dceec2abe3001b07b54a3
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169613"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51748893"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals
 
@@ -29,6 +29,49 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2008-april-13"></a>Version 2008: 13. April
+*Version 2008 (Build 13127.21506)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Fehler behoben, bei dem einige PivotTable-Formatierungen die Arbeitsmappe beschädigten, wenn diese im XLS- oder XLT-Format gespeichert wurde.
+
+
+- Es wurde ein Fehler behoben, bei dem beim Öffnen einer Arbeitsmappe einige Notizen unerwartet angezeigt wurden.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das bei Benutzern mit freigegebenen oder delegierten Postfächern mit großen Hierarchien in ihrem Profil zu Blockaden führte.
+
+
+- Ein Problem wurde behoben, das bei einigen Benutzern zu einem unerwarteten Schließen beim Synchronisieren ihres Postfachs führte.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein Problem wurde behoben, das dazu führte, dass Office-Anwendungen nicht mehr reagierten, nachdem eine Personenkarte aufgerufen und zu einer anderen Anwendung navigiert wurde.
+
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, bei dem die integrierte Schaltfläche „Vertraulichkeitsbezeichnung“ ausgegraut wird, wenn ein Word-Dokument gespeichert und erneut geöffnet wird.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2002-april-13"></a>Version 2002: 13. April
+*Version 2002 (Build 12527.21814)*
+
+Sicherheitsupdates werden [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 ## <a name="version-2008-march-09"></a>Version 2008: 09. März
 *Version 2008 (Build 13127.21348)*
@@ -178,7 +221,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -192,7 +235,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **An Besprechungen teilnehmen, ohne den Posteingang zu verlassen:** Sie brauchen nicht zu Ihrem Kalender zu wechseln, um an Onlinebesprechungen teilzunehmen. Wenn der Kalender an den Aufgabenbereich angeheftet ist, können Benutzerkonten, die auf Exchange Server 2019 oder Exchange Online gehostet werden, jeder Besprechung mit nur einem Klick beitreten. [Weitere Informationen](https://support.office.com/article/d8baa9d5-0645-41b8-9f36-b498a6c36064 )
 
-- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/en-us/blog/outlook-on-public-wi-fi-networks-just-got-easier)
+- **Neue Benutzeroberfläche für WLAN-Netzwerke mit Anmeldung:** Sind Sie schon einmal einem WLAN-Netzwerk beigetreten, mit dem Sie sich anmelden mussten? Outlook erkennt dies jetzt und hilft Ihnen, eine Verbindung zu herstellen.<br />Weitere Detailinformationen finden Sie in diesem [Blogbeitrag](https://insider.office.com/de-DE/blog/outlook-on-public-wi-fi-networks-just-got-easier)
 
 - **Erhalten Sie E-Mail-Vorschläge, wenn Sie nach einer Person suchen**: Wenn Sie den Namen einer Person im Suchfeld eingeben, werden die relevantesten E-Mail-Nachrichten in die Ihnen gezeigten Suchvorschläge einbezogen. [Weitere Informationen](https://support.office.com/article/d824d1e9-a255-4c8a-8553-276fb895a8da)
 
@@ -1811,7 +1854,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - Behebt ein Problem, bei dem Nutzer Probleme mit der Synchronisierung freigegebener Kalenderordner mit dem OST hatten, was zu Berechtigungsfehlern führte, wenn sie versuchten, mit diesen Ordnern zu interagieren.
 
-- Behebt ein Problem, das dazu geführt hat, dass Benutzer beim Anzeigen von mehr als 30 Kalendern in einer Citrix-Umgebung einen Absturz erlebt haben. Hier finden Sie die einzelne [KB, in der dies für frühere Versionen dokumentiert wurde](https://support.microsoft.com/en-us/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
+- Behebt ein Problem, das dazu geführt hat, dass Benutzer beim Anzeigen von mehr als 30 Kalendern in einer Citrix-Umgebung einen Absturz erlebt haben. Hier finden Sie die einzelne [KB, in der dies für frühere Versionen dokumentiert wurde](https://support.microsoft.com/de-DE/help/3141476/outlook-may-crash-when-you-view-more-than-30-calendars-in-a-calen)
 
 - Behebt ein Problem mit der Auswahl des SMIME-Algorithmus.
 
@@ -2689,6 +2732,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21064|version-2008-january-12|)

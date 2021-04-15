@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps im Jahr 2020 zur Verfügung.
-ms.openlocfilehash: 34bbcb4700033ba2668b9766d053362424dcf356
-ms.sourcegitcommit: 04f3aa30703f4f1cf89721853a7c052fcca2b97f
+ms.openlocfilehash: a421baae65ac9b6b6858da370b64fe18a11995af
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51169724"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749173"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel-releases-in-2020"></a>Versionshinweise für Releases im monatlichen Enterprise-Kanal im Jahr 2020
 
@@ -26,6 +26,157 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 [//]: # (NICHT ENTFERNEN)
 
 
+
+## <a name="version-2102-april-13"></a>Version 2102: 13. April
+*Version 2102 (Build 13801.20506)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Verwenden des Dialogfelds "Erweitert" zum Erstellen von Datentypen:** Im Dialogfeld "Erweitert" können Sie manuell die Spalten auswählen, die den von Ihnen erstellten Datentyp kombinieren.
+
+- **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
+
+
+### <a name="outlook"></a>Outlook
+
+- **Die Einstellungen für den Posteingang mit Relevanz bleiben auf allen Geräten identisch:** Ihre Einstellungen für den Posteingang mit Relevanz sind jetzt in der Cloud gespeichert. Nutzen Sie auf einem beliebigen Windows-Computer und in Outlook im Web dieselbe Oberfläche. [Weitere Informationen](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
+
+- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
+
+- **Auswählen, wo gesucht werden soll:** Das neue Dropdownmenü für den Suchbereich ermöglicht es Ihnen, Ihre Suche einfacher zu ändern und zwischen dem aktuellen Ordner und dem aktuellen Postfach zu wechseln. Vielen Dank an alle in "Demnächst verfügbar", die uns ihr Feedback zu der neuen Search-at-Top-Erfahrung gesendet haben. Das vorliegende Design und Update sind aus diesem Feedback entstanden!
+
+- **Verfassen Sie Nachrichten mit Ihrer Stimme:** Verwenden Sie die neue Diktatsymbolleiste, neue Sprachbefehle, automatische Zeichensetzung und mehr, um Nachrichten zu verfassen.
+
+### <a name="word"></a>Word
+
+- **Verfassen Sie Dokumente mit Ihrer Stimme:** Verwenden Sie die neue Diktatsymbolleiste, neue Sprachbefehle und automatische Zeichensetzung, um Dokumente zu verfassen.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Es wurde ein Problem behoben, bei dem in einigen Fällen das Ausführen einer SQL Server-Pass-Through-Abfrage zu einer Fehlermeldung führte, die auf einen "ungültigen Cursorstatus" hinwies.
+
+
+- Ein Problem wurde behoben, bei dem Benutzern ein Dialogfeld mit der Fehlermeldung „Ungültiger Cursorstatus“ angezeigt wurde.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Fehler behoben, durch den die Datenüberprüfung u. U. unerwartet auf Zellen angewendet wurde, nachdem Zeilen zu einer Tabelle auf einem anderen Blatt hinzugefügt wurden.
+
+
+- Ein Problem wurde behoben, durch das die Anzeigfunktion von DialogSheets in 32-Bit-Versionen von Excel nicht funktionierte.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Bilder bei Verwendung der Option „Verknüpftes Bild einfügen“ kleiner als erwartet waren.
+
+
+- Es wurde ein Fehler behoben, bei dem einige PivotTable-Formatierungen die Arbeitsmappe beschädigten, wenn diese im XLS- oder XLT-Format gespeichert wurde.
+
+
+- Es wurde ein Problem behoben, das Benutzer am Exportieren von Excel-Arbeitsmappen in eine PDF-Datei hinderte.
+
+
+- Es wurde ein Problem behoben, durch das bei deaktivierten Befehlen im Office-Menüband nur das Symbol, nicht aber der Text im Office-Design "Dunkelgrau" abgeblendet wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Inlineübersetzung kein Feedback abgeben konnten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzersignaturen mit Unicode-Inhalten beschädigt wurden.
+
+
+- Es wurde ein Problem behoben, durch das Benutzern mehr Signaturen als erwartet angezeigt wurden.
+
+
+- Es wurde ein Problem behoben, durch das Outlook im Leerlauf abstürzte.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass die App bei einigen Benutzern beim Schließen von Nachrichtenfenstern heruntergefahren wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer der Verbesserungen des geteilten Kalenders die Farbe eines Kalenders nicht auf gelb oder braun setzen konnten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern nach dem Erstellen einer neuen Gruppe doppelte Kalendergruppen angezeigt wurden.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass neu hinzugefügte Kalender den Benutzern erst nach einem Neustart von Outlook im Navigationsbereich angezeigt wurden.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, durch das bei deaktivierten Befehlen im Office-Menüband nur das Symbol, nicht aber der Text im Office-Design "Dunkelgrau" abgeblendet wurde.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit dem Auflösen von Konflikten bei der gemeinsamen Dokumenterstellung gelöst.
+
+
+- Wir haben ein Problem mit Rich-Text-Inhaltssteuerelementen behoben.
+
+
+- Wir haben ein Problem behoben, bei dem die Eingabe am Ende eines ausgeblendeten Absatzes dazu führen konnte, dass die Anwendung nicht mehr reagierte.
+
+
+- Wir haben ein Problem mit der Sprachausgabe behoben, bei dem ein Absatz u. U. übersprungen wurde.
+
+
+- Es wurde ein Problem beim Kopieren und Einfügen behoben.
+
+
+- Behebt ein Problem mit Farben, die auf Symbole und SVG-Grafiken mit 3D-Effekten angewendet wurden.
+
+
+- Es wurde ein Problem behoben, durch das bei deaktivierten Befehlen im Office-Menüband nur das Symbol, nicht aber der Text im Office-Design "Dunkelgrau" abgeblendet wurde.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben ein Zuverlässigkeitsproblem im Zusammenhang mit der Unterstützung von Office-Apps behoben, die in Sitzung 0 ausgeführt wurden.
+
+
+- Es wurde ein Problem behoben, das in Outlook manchmal dazu führen konnte, dass Text transparent dargestellt wurde, und dadurch nicht lesbar war.
+
+
+- Ein Problem, das bei Verwendung der Sprachausgabe in Text mit mathematischen Formeln auftrat, wurde behoben.
+
+
+- Ein Problem, das bei Verwendung der Sprachausgabe in Text mit mathematischen Formeln auftrat, wurde behoben.
+
+
+- Es wurde ein Problem behoben, bei dem das Diktat für GCC-Benutzer deaktiviert wurde.
+
+
+- Es wurde ein Problem behoben, durch das Benutzer beim Öffnen einer zuvor geöffneten Datei mit nicht gespeicherten Änderungen keine Datei speichern konnten, die Datei jedoch gelöscht wurde. Nach der Problembehebung erhalten Benutzer eine freundliche Nachricht, in der sie darüber informiert werden, dass die Datei gelöscht wurde. Dieser Benutzer kann wählen, ob Änderungen verworfen oder die Datei gespeichert werden sollen.
+
+
+- Es wurde ein Fehler behoben, der auftrat, wenn eine SyncBacked-Datei offline geöffnet und dann in der App umbenannt wurde, bevor sie gespeichert wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2101-april-13"></a>Version 2101: 13. April
+*Version 2101 (Build 13628.20664)*
+
+Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
 
 ## <a name="version-2101-march-09"></a>Version 2101: 09. März
 *Version 2101 (Build 13628.20528)*
@@ -89,7 +240,23 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ## <a name="version-2012-march-09"></a>Version 2012: 09. März
 *Version 2012 (Build 13530.20628)*
 
-Sicherheitsupdates werden[hier](./microsoft365-apps-security-updates.md) aufgeführt
+Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnung anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnungen anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
+
+### <a name="word"></a>Word
+
+- **Benutzer auffordern, Vertraulichkeitsbezeichnungen anzuwenden:** Benutzer werden aufgefordert, eine Vertraulichkeitsbezeichnung anzuwenden, wenn die Richtlinie ihrer Organisation dies erfordert.
+
 
 ## <a name="version-2012-february-09"></a>Version 2012: 09. Februar
 *Version 2012 (Build 13530.20528)*
@@ -124,9 +291,12 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Neue Raumsuche:** suchen Sie in unterschiedlichen Kategorien nach Konferenzräumen.
 
+- **Neue Buchungserfahrung für Konferenzräume und Arbeitsbereiche:** Die Buchungserfahrung für Konferenzräume wurde aktualisiert und zudem neue Funktionen hinzugefügt, mit denen Sie auch einzelne Arbeitsbereiche planen können.
+
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/en-us/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Überwachungsprotokollierung für Vertraulichkeitsbezeichnungen:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, werden diese Informationen jetzt den Administratoren in den Microsoft 365-Auditprotokollen zur Verfügung gestellt.
 
@@ -372,7 +542,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365/Microsoft 365 und dem Power BI Pro-Serviceplan bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365/Microsoft 365 und dem Power BI Pro-Serviceplan bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -384,7 +554,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Exportieren eines animierten GIF in einem Bereich:** Folienbereich auswählen, wenn Sie nach animiertem GIF exportieren
 
-- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/en-us/blog/export-animated-gifs-transparent-backgrounds)
+- **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -629,7 +799,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Es wurde ein Problem behoben, durch das Benutzer ihren Delegierten keine Editorberechtigung erteilen konnten.
 
 
-- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/en-us/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
+- Es wurde ein Problem behoben, bei dem optionale verbundene Erfahrungen das Laden von Web-Add-Ins blockierten.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://developer.microsoft.com/de-DE/office/blogs/outlook-add-ins-and-optional-connected-experiences/)
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -679,11 +849,11 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 ### <a name="word"></a>Word
 
-- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
+- **In angeheftete Ordner speichern:** Das Anheften Ihrer Ordner erleichtern das Speichern von Office-Dateien.  Wir haben Feedback erhalten, dass die Benutzer mehr Kontrolle über die Ordner haben möchten, die beim Speichern einer neuen Datei verfügbar sind. Wir freuen uns, Ihnen eine neue Funktion zur Verfügung stellen zu können: Anheften Ihrer Ordner im Dialogfeld "Speichern". Mit dieser neuen Funktion können Sie Ihre Word-, Excel- und PowerPoint-Dateien einfacher speichern. [Weitere Informationen](https://support.office.com/article/d030c796-2aaa-4c3f-b8fa-6a464531722a)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/05/18/pin-your-folders-makes-saving-office-files-easier/)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1200,7 +1370,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Die Unterstützung für Facebook Connector endet:** Ab April 2020 werden von Excel keine externen Datenverbindungen mehr unterstützt, für die der Facebook-Connector eingesetzt wird.
 
-- **Neue Bilder, um Ihre Arbeitsmappen zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Arbeitsmappen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Arbeitsmappen zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Arbeitsmappen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -1210,7 +1380,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Der Kalender wird rundumerneuert:** Sie können visuelle Aktualisierungen anzeigen, mit denen Ihr Kalender einfacher durchsucht werden kann. [Weitere Informationen](https://support.office.com/article/1c04e438-d84a-44fc-a404-170c9007e65c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/03/13/outlooks-calendar-gets-a-refresh/)
 
-- **Neue Bilder, um Ihre Nachrichten zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Nachrichten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/).
+- **Neue Bilder, um Ihre Nachrichten zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Nachrichten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="powerpoint"></a>PowerPoint
 
@@ -1218,7 +1388,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Synchronisieren von Änderungen während der Präsentation:** Änderungen können jetzt synchronisiert werden, wenn sie vorgenommen werden, selbst wenn sich die Präsentation im Bildschirmpräsentationsmodus befindet. [Weitere Informationen](https://support.office.com/article/5a2921a9-97d4-436b-b0cd-295dfe2236bb)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/08/synchronize-changes-while-presenting/)
 
-- **Neue Bilder, um Ihre Folien zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Präsentationen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Folien zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Präsentationen verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="word"></a>Word
 
@@ -1226,7 +1396,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Neue Bilder, um Ihre Dokumente zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Dokumenten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
+- **Neue Bilder, um Ihre Dokumente zum Leben zu erwecken:** Tausende von lizenzfreien Stock-Bildern, Symbolen und Aufklebern, die Sie in Ihren Dokumenten verwenden können. Wechseln Sie zu Einfügen > Bilder > Stock-Bilder, um anzufangen. [Weitere Informationen](https://support.office.com/article/c7b78cdf-2503-4993-8664-851085c30fce)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/06/premium-creative-content/)
 
 ### <a name="office-suite"></a>Office-Suite
 
@@ -1465,6 +1635,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13530.20528|version-2012-february-09|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13426.20526|version-2011-january-12|)

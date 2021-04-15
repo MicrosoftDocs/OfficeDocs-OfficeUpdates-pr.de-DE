@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 3a4c7fc2424a4a2d0c05beab9a7c874096247029
-ms.sourcegitcommit: 9151363a4105d6d5b3e1cd79ec9e6bc9b6a8e44c
+ms.openlocfilehash: 33c05c859974d8ce27d3c21960b89b4fde20ee4b
+ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "51582081"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749063"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -30,6 +30,44 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2103-april-10"></a>Version 2103: 10. April
+*Version 2103 (Build 13901.20400)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein potenzielles Problem mit Ressourcenkonflikten in Word beim Zeichnen eines Bilds wurde behoben.
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern beim Hinzufügen eines Kalenders fälschlicherweise die Meldung „Dies kann eine Weile dauern“ angezeigt wurde.
+
+- Ein Problem wurde behoben, das dazu führte, dass Stellvertretungen als Organisator von Besprechungen angezeigt wurden, die in neu hinzugefügten Kalendern erstellt wurden.  Besprechungen in diesem Zustand wurden im Kalender des Prinzipals nicht angezeigt.
+
+- Ein potenzielles Problem mit Ressourcenkonflikten in Word beim Zeichnen eines Bilds wurde behoben.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Ein potenzielles Problem mit Ressourcenkonflikten in Word beim Zeichnen eines Bilds wurde behoben.
+
+### <a name="word"></a>Word
+
+- Ein potenzielles Problem mit Ressourcenkonflikten in Word beim Zeichnen eines Bilds wurde behoben.
+
+- Ein Problem wurde behoben, bei dem das System in der Druckvorschau nicht mehr reagierte.
+
+- Text im AutoSpeichern-Popup für lokal gespeicherte Dateien wurde aktualisiert.
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Fehler wurde behoben, der auftrat, wenn eine SyncBacked-Datei offline geöffnet und dann in der App umbenannt wurde, bevor sie gespeichert wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2103-april-02"></a>Version 2103: 2. April
 *Version 2103 (Build 13901.20336)*
