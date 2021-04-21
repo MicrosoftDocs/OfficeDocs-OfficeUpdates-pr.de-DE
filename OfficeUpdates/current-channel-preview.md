@@ -1,7 +1,7 @@
 ---
 title: Versionshinweise Aktueller Kanal (Vorschau)
 ms.author: anankani
-author: v-lislo
+author: anankani
 manager: anankani
 ms.audience: Win32 Fast
 ms.topic: reference
@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 13bf5ee8022f586e051a49834c0a758b6e79dd92
-ms.sourcegitcommit: 674a79c70a4d83b9eddadaa70c56c0c4fb37fb5c
+ms.openlocfilehash: f269044898a11ba6f6a213c04c44261381c3fd9d
+ms.sourcegitcommit: ef9add331ddb9a0feef38ed54add52c6f891fa1a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51875736"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "51887318"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -30,6 +30,154 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2104-april-19"></a>Version 2104: 19. April
+*Version 2104 (Build 13929.20216)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Importieren von Daten aus dynamischen Arrays:** Sie können nun Daten aus dynamischen Arrays in die aktuelle Arbeitsmappe importieren und sie dort gestalten und aktualisieren. [Weitere Informationen](https://support.office.com/article/205c6b06-03ba-4151-89a1-87a7eb36e531)
+
+### <a name="outlook"></a>Outlook
+
+- **Verbesserte Kalendersuche:** An der Kalendersuche wurden Verbesserungen vorgenommen. Die größte davon ist die Möglichkeit, das nächste Vorkommen einer Serie in den Suchergebnissen einfacher zu finden.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Zugriff
+
+- Diese Änderung behebt ein Problem, bei dem in einigen Fällen das Ausführen einer SQL Server-Pass-Through-Abfrage zu einer Fehlermeldung führen kann, die darauf hinweist, dass ein "ungültiger Cursorstatus" vorliegt.
+
+
+- Ein Problem wurde behoben, das, wenn eine externe Anwendung eine Benutzeroberfläche zur Barrierefreiheit anfordert, uns daran hindert, herunterzufahren, bis sie ihre Referenz freigibt.
+
+
+### <a name="excel"></a>Excel
+
+- Manuelles Zurücksetzen von Windows Update-Komponenten
+
+
+- Es wurde ein Problem behoben, bei dem mittels der HYPERLINK-Funktion erstellte Links nicht funktionierten, wenn die Datei als PDF-Dokument gespeichert wurde.
+
+
+- Wir haben ein Problem behoben, bei dem der Formel ein implizites Operatorsymbol (@) mit einem Bezug auf einen leeren Bereich hinzugefügt und möglicherweise das falsche Ergebnis angezeigt wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, durch das Outlook bei einigen Benutzern beim Synchronisieren von Änderungen der Ordnerhierarchie unerwartet geschlossen wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern beim Hinzufügen eines Kalenders fälschlicherweise die Meldung „Dies kann eine Weile dauern“ angezeigt wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Stellvertretungen als Organisator von Besprechungen angezeigt wurden, die in neu hinzugefügten Kalendern erstellt wurden.  Besprechungen in diesem Zustand wurden im Kalender des Prinzipals nicht angezeigt.
+
+
+- Wir haben ein Problem behoben, das bei der Suche von Benutzern zum Absturz führte.
+
+
+- Wir haben einen Absturz bei der Suche behoben.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass die Signaturen von Benutzern unerwartet verschwunden sind.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern möglicherweise die Meldung angezeigt wurde, dass der Fokus auf der Benutzeroberfläche verloren geht.
+
+
+- Wir haben ein Problem behoben, durch das Outlook die in OWA konfigurierten Einstellungen für den Posteingang mit Relevanz außer Kraft gesetzt hat.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass bei der Funktion "Cloud-Einstellungen" die benutzerdefinierten Einstellungen durch die Standardeinstellung überschrieben wurden, nachdem die Benutzer Outlook auf einem neuen Gerät konfiguriert hatten.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass einige Personen nicht auf Signaturen zugreifen konnten, die mit zweiten E-Mail-Konten verbunden waren.
+
+
+- Wir haben ein Problem behoben, durch das die Namensauflösung fehlschlug, sobald etwas im Namen eines anderen Benutzers gesendet wurde und das mit einem Adressbuch verglichen wurde, das nicht der globalen Adressliste entsprach.
+
+
+- Wir haben ein Problem behoben, durch das die Namensauflösung fehlschlug, sobald etwas im Namen eines anderen Benutzers gesendet wurde und das mit einem Adressbuch verglichen wurde, das nicht der globalen Adressliste entsprach.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem bei einem Datumsformat von W4/4 möglicherweise der falsche Tag und das falsche Jahr angezeigt wird.
+
+
+### <a name="visio"></a>Visio
+
+- Ein Problem wurde behoben, bei dem Visio während des Schließens manchmal nicht mehr funktionierte.
+
+
+- Das Feature "Form suchen" wurde korrigiert, um alle Ergebnisse anzuzeigen
+
+
+
+### <a name="word"></a>Word
+
+- Bei diesem Bug wurden bestimmte Richtlinien von Office nicht berücksichtigt (eine Gruppe von Vorlagen wurde auf der Homepage angezeigt, obwohl sie hätten deaktiviert sein müssen). Mit diesem Fix werden die Richtlinien berücksichtigt.
+
+
+- Bei der gemeinsamen Dokumentenerstellung wird der aktive Entwurf nicht gelöscht, wenn sich die Reihenfolge der Kommentare ändert.
+
+
+- Ein Fehler mit modernen Kommentaren wurde behoben, bei dem Satzzeichen und Zahlen bei einigen internationalen Sprachen auf der falschen Seite standen.
+
+
+- Ein Problem wurde behoben, bei dem die Kombination aus "B" und ")" automatisch in ein Emoji mit Sonnenbrille umgewandelt wurde und die nun als einzelne Zeichen erhalten bleibt
+
+
+- Text im AutoSpeichern-Popup für lokal gespeicherte Dateien wurde aktualisiert.
+
+
+- Es wurde ein Problem mit Kommentaren während der gemeinsamen Dokumenterstellung behoben.
+
+
+- Ein Problem mit dem Kommentarsymbol wurde behoben.
+
+
+- Wir haben ein Problem behoben, bei dem kopierte und eingefügte Formatvorlagen im Text, in den sie eingefügt wurden, nicht identisch waren.
+
+
+- Optimiert Bedingungen für angebotene Textvorhersagen.
+
+
+- Ein Problem mit dem Link wurde behoben.
+
+
+- Ein Teil des markierten Texts ist nicht sichtbar, wenn im Lesemodus das Design "Darkmode" verwendet wird.
+
+
+- Es wurde ein Problem mit dem automatischen Speichern behoben.
+
+
+- Wir haben einen Fix für Application.OnTime erstellt, wenn die Methode möglicherweise nicht richtig ausgelöst wurde.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Leistungsproblem im Zusammenhang mit der Textiteration wurde behoben.
+
+
+- Behebt ein Problem mit der Unterstützung von GDI+ LineJoinMiterClipped in Office.
+
+
+- Diese Version verbessert die Verarbeitung von zeilenübergreifenden vertraulichen Inhalten, wenn sich das Schlüsselwort in der ersten Zeile eines Dokuments befindet.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2103-april-13"></a>Version 2103: 13. April
 *Version 2103 (Build 13901.20400)*
@@ -732,7 +880,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1457,7 +1605,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -2345,7 +2493,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -3713,7 +3861,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Ein Problem wurde behoben, das dazu führte, dass beim Öffnen mehrerer Dokumente in Word/Excel/PowerPoint aus derselben SharePoint-Bibliothek lediglich das erste geöffnete Dokument auf Richtlinienkonformität gescannt wurde.
 
 
-[//]: # (BUGDETAILS NICHT AM INHALTSENDE ENTFERNEN)
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSWENDE)
 
 ## <a name="version-2002-march-05"></a>Version 2002: 05. März
 *Version 2002 (Build 12527.20278)*
