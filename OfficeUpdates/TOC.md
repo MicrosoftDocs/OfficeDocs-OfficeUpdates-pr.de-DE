@@ -10,6 +10,7 @@
 
 ## Monatlicher Enterprise-Kanal
 ### [Versionshinweise](monthly-enterprise-channel.md)
+### [Archivierte Versionshinweise](monthly-enterprise-channel-archived.md)
 
 ## Halbjährlicher Enterprise-Kanal
 ### [Versionshinweise](semi-annual-enterprise-channel.md)
