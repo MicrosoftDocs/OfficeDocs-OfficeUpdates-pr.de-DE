@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: dc4b8459637d0e285d8b5b9e5f40fa3c49aabea2
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
+ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749193"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079289"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -68,9 +68,16 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
+
+### <a name="msteams"></a>MSTeams
+
+- **Dynamische Ansicht:** Die dynamische Ansicht optimiert automatisch freigegebene Inhalte und Video-Teilnehmer in Teams-Besprechungen. Mit neuen Steuerelementen können Sie die Ansicht an Ihre Vorlieben und Bedürfnisse anpassen, z. B. die Möglichkeit, freigegebene Inhalte und bestimmte Teilnehmer nebeneinander anzuzeigen.
+
+- **Außer Haus:** Richten Sie eine Nachricht ein, um anderen mitzuteilen, dass Sie gerade nicht arbeiten oder im Urlaub sind und daher nicht antworten können, wenn sie Ihnen eine Chatnachricht senden. Ihr "Außer Haus"-Status wird auch mit automatischen Antworten synchronisiert, die sich in Ihrem Outlook-Kalender befinden.
+
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Proben Sie Ihre Präsentationen mit dem Referentencoach:** Der Referentencoach hilft Ihnen, Ihre Präsentationen zu proben, um Ihr Publikum wirkungsvoller in den Bann zu ziehen. Er gibt Feedback zu Ihrem Tempo, Ihrer Tonhöhe, der Verwendung von Füllwörtern und mehr. [Weitere Informationen](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/presenter-coach-now-in-powerpoint-on-mac)
+- **Proben Sie Ihre Präsentationen mit dem Referentencoach:** Der Referentencoach hilft Ihnen, Ihre Präsentationen zu proben, um Ihr Publikum wirkungsvoller in den Bann zu ziehen. Er gibt Feedback zu Ihrem Tempo, Ihrer Tonhöhe, der Verwendung von Füllwörtern und mehr. [Weitere Informationen](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />Einzelheiten finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/presenter-coach-now-in-powerpoint-on-mac).
 
 ### <a name="word"></a>Word
 
@@ -525,7 +532,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Link zu Folie:** Bitten Sie einen Kollegen um einen Beitrag zu Ihrer Foliengruppe zu leisten, und leiten Sie ihn direkt zu der Folie, bei der Sie Hilfe benötigen. [Weitere Informationen](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Einzelheiten finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/).
 
 ### <a name="word"></a>Word
 
