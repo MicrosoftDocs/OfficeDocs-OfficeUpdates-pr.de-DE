@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 5d0deee8e9a4aaefc31cedbeb1f4209bd5204c9e
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: e19570304d9f041536626ebe867bd3b8b3226cf4
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995749"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091853"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -22,7 +22,7 @@ Unser Ziel ist es, möglichst im Vorfeld Informationen zur Updategröße bereitz
 
 In den nachfolgenden Tabellen sind die ungefähren Downloadgrößen bei Updates von einer früheren Version von Microsoft 365 Apps auf die neueste Version aufgeführt. Die tatsächlichen Downloadgrößen können um bis zu 50 MB abweichen. Bei Updates von älteren Versionen auf die neueste Version können die Downloadgrößen größer sein.
 
-Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, könnte das Update deutlich größer ausfallen als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß wäre.
+Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, könnte Ihr Update deutlich größer sein, als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß sein könnte.
 
 
 > [!IMPORTANT]
@@ -35,6 +35,22 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="april-29-2021"></a>29. April 2021
+
+[//]: # (INHALT NICHT ENTFERNEN START29. April 2021)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Die letzte Version ist Version 2104 (Build 13929.20296).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2103 (Build 13901.20462) <br/> |23. April 2021 <br/> |167<br/> |
+|Version 2103 (Build 13901.20400) <br/> |13. April 2021 <br/> |167<br/> |
+
+
+[//]: # (INHALT NICHT ENTFERNEN ENDE29. April 2021)
 
 ## <a name="april-23-2021"></a>23. April 2021
 

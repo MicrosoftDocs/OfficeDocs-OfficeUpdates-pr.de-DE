@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 31722e81217a1bf079635d1fd3ff8ccaca34b6c9
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995712"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091824"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -36,7 +36,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Aktueller Kanal<br/>|2103<br/>|13901.20462<br/>|23. April 2021<br/>|Version 2104 wird veröffentlicht<br/>|
+|Aktueller Kanal<br/>|2104<br/>|13929.20296<br/>|29. April 2021<br/>|Version 2105 wird veröffentlicht<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2102<br/>|13801.20506<br/>|13. April 2021<br/>|8. Juni 2021<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2101<br/>|13628.20664<br/>|13. April 2021<br/>|11. Mai 2021<br/>|
 |Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2102<br/>|13801.20506<br/>|13. April 2021<br/>|14. September 2021<br/>|
@@ -47,7 +47,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 Informationen über die ungefähre Downloadgröße beim Aktualisieren von einem früheren Release von Microsoft 365 Apps auf das aktuelle Release finden Sie unter [Downloadgrößen für Updates von Microsoft 365 Apps](./download-sizes-microsoft365-apps-updates.md).
 
-Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Microsoft 365 Apps, die in den folgenden Updatekanälen veröffentlicht wurden: aktueller Kanal, monatlicher Enterprise-Kanal, halbjährlicher Enterprise-Kanal (Vorschau) und halbjährlicher Enterprise-Kanal. Jeder Eintrag in der Tabelle enthält Links zu den Anmerkungen zu dieser Version. Diese Versionshinweise enthalten Informationen zu Funktionen, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.
+Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jedes Update von Microsoft 365 Apps, das in den folgenden Updatekanälen veröffentlicht wurde: Aktuell, monatlich Unternehmen, halbjährlich Unternehmen (Vorschau) und halbjährlich Unternehmen. Jeder Eintrag in der Tabelle ist direkt mit den Versionshinweisen für das betreffende Release verknüpft. Die Versionshinweise enthalten Informationen zu Features, Sicherheitsupdates und nicht sicherheitsrelevanten Updates, die im Update für Microsoft 365 Apps enthalten sind.
 
 ### <a name="version-history"></a>**Versionsverlauf**
 
@@ -55,6 +55,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|29. April|[Version 2104 (Build 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|23. April|[Version 2103 (Build 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|13. April|[Version 2103 (Build 13901.20400)](current-channel.md#version-2103-april-13)|[Version 2102 (Build 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[Version 2101 (Build 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[Version 2102 (Build 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[Version 2008 (Build 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[Version 2002 (Build 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|02. April|[Version 2103 (Build 13901.20336)](current-channel.md#version-2103-april-02)| | | |

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: fee8802ab607b3b93d0932e6aca5d07eb267f2ba
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079289"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091844"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -69,15 +69,15 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 - **Blenden Sie viele Blätter gleichzeitig ein:** Sie müssen nicht mehr ein Blatt nach dem anderen einblenden – Sie können mehrere ausgeblendete Blätter gleichzeitig einblenden. [Weitere Informationen](https://support.office.com/article/69f2701a-21f5-4186-87d7-341a8cf53344)
 
 
-### <a name="msteams"></a>MSTeams
+### <a name="powerpoint"></a>PowerPoint
+
+- **Proben Sie Ihre Präsentationen mit dem Referentencoach:** Der Referentencoach hilft Ihnen, Ihre Präsentationen zu proben, um Ihr Publikum wirkungsvoller in den Bann zu ziehen. Er gibt Feedback zu Ihrem Tempo, Ihrer Tonhöhe, der Verwendung von Füllwörtern und mehr. [Weitere Informationen](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/presenter-coach-now-in-powerpoint-on-mac)
+
+### <a name="teams"></a>Teams
 
 - **Dynamische Ansicht:** Die dynamische Ansicht optimiert automatisch freigegebene Inhalte und Video-Teilnehmer in Teams-Besprechungen. Mit neuen Steuerelementen können Sie die Ansicht an Ihre Vorlieben und Bedürfnisse anpassen, z. B. die Möglichkeit, freigegebene Inhalte und bestimmte Teilnehmer nebeneinander anzuzeigen.
 
 - **Außer Haus:** Richten Sie eine Nachricht ein, um anderen mitzuteilen, dass Sie gerade nicht arbeiten oder im Urlaub sind und daher nicht antworten können, wenn sie Ihnen eine Chatnachricht senden. Ihr "Außer Haus"-Status wird auch mit automatischen Antworten synchronisiert, die sich in Ihrem Outlook-Kalender befinden.
-
-### <a name="powerpoint"></a>PowerPoint
-
-- **Proben Sie Ihre Präsentationen mit dem Referentencoach:** Der Referentencoach hilft Ihnen, Ihre Präsentationen zu proben, um Ihr Publikum wirkungsvoller in den Bann zu ziehen. Er gibt Feedback zu Ihrem Tempo, Ihrer Tonhöhe, der Verwendung von Füllwörtern und mehr. [Weitere Informationen](https://support.office.com/article/cd7fc941-5c3b-498c-a225-83ef3f64f07b)<br />Einzelheiten finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/presenter-coach-now-in-powerpoint-on-mac).
 
 ### <a name="word"></a>Word
 
@@ -389,7 +389,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
+- **Filtern und Sortieren ohne andere zu stören:** Erstellen Sie Ihre eigenen Ansichten, während Sie mit anderen in Excel zusammenarbeiten. Sie können filtern und sortieren, ohne die Anzeige anderer zu stören. [Weitere Informationen](https://support.office.com/article/0eea3dc5-d7d1-44c5-a953-25ebfbd6c1a6)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/sheet-view-makes-collaborating-easier)
 
 ### <a name="outlook"></a>Outlook
 
@@ -476,7 +476,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Daten aus einem Foto:** Fügen Sie Tabellendaten aus Bildern, aus der Registerkarte "Einfügen" oder direkt aus Ihrem iPhone hinzu. [Weitere Informationen](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
+- **Abrufen von Daten aus einem Foto:** Fügen Sie Tabellendaten aus Bildern, aus der Registerkarte "Einfügen" oder direkt aus Ihrem iPhone hinzu. [Weitere Informationen](https://support.office.com/article/3c1bb58d-2c59-4bc0-b04a-a671a6868fd7)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/13/data-from-picture-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -532,14 +532,14 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **Link zu Folie:** Bitten Sie einen Kollegen um einen Beitrag zu Ihrer Foliengruppe zu leisten, und leiten Sie ihn direkt zu der Folie, bei der Sie Hilfe benötigen. [Weitere Informationen](https://support.office.com/article/4f5f3d5e-1674-4742-8cf1-9623050c19ef)
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Einzelheiten finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/).
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 ### <a name="word"></a>Word
 
 - **Eingabe ohne Tippen:** Haben Sie ein Mikrofon? Klicken Sie auf "Diktieren", und beobachten Sie, wie Word tippt, während Sie sprechen. [Weitere Informationen](https://support.office.com/article/3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/01/24/dictate-your-documents-in-word-on-mac/).
 
 
-- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
+- **Finden Sie, wonach Sie suchen:** Verwenden Sie das Suchfeld, um Text, Befehle, Hilfe und mehr zu finden. [Weitere Informationen](https://support.office.com/article/f20d2198-17b8-4b09-a3e5-007a337f1e4e)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/04/28/tell-me-in-excel-word-and-powerpoint-for-mac/)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -997,8 +997,8 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **Mit @erwähnen andere auf sich aufmerksam machen:** Mithilfe von Erwähnungen in Kommentaren können Sie Kollegen informieren, wenn Sie deren Input benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**Bearbeitung von LaTex-Gleichungen:** Word unterstützt jetzt die mathematische LaTeX-Syntax zum Erstellen von mathematischen Formeln. [Weitere Informationen](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
-|Excel  <br/>|**Mit @erwähnen andere auf sich aufmerksam machen:** Mithilfe von Erwähnungen in Kommentaren können Sie Kollegen informieren, wenn Sie deren Input benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**Erfahren Sie mehr über Ihre Daten:** Die neue Schaltfläche "Ideen" sucht nach Mustern in Ihren Daten und nutzt diese zum Erstellen von intelligenten, personalisierten Vorschlägen. [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
+|Word  <br/>| **Ziehen Sie die Aufmerksamkeit mit @Erwähnungen auf sich:** Verwenden Sie @Erwähnungen in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)<br/><br/>**Bearbeitung von LaTex-Gleichungen:** Word unterstützt jetzt die mathematische LaTeX-Syntax zum Erstellen von mathematischen Formeln. [Weitere Informationen](https://support.office.com/article/2e00618d-b1fd-49d8-8cb4-8d17f25754f8) | |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.23.19030902_Updater.pkg) <br/>|
+|Excel  <br/>|**Ziehen Sie die Aufmerksamkeit mit @Erwähnungen auf sich:** Verwenden Sie @Erwähnungen in Kommentaren, um Kollegen wissen zu lassen, wann Sie ihr Feedback benötigen. [Weitere Informationen](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd)  <br/><br/>**Erfahren Sie mehr über Ihre Daten:** Die neue Schaltfläche „Ideen“ sucht in Ihren Daten nach Mustern und verwendet diese, um intelligente, personalisierte Vorschläge zu erstellen. [Weitere Informationen](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4) |  <br/>  |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.23.19030902_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Bessere Formwandlung:** Bewegen Sie Ihren Finger auf dem Trackpad, und schauen Sie, wie die Freihandeingabe über den Bildschirm fließt. [Weitere Informationen](https://support.office.com/article/bc7f48ff-f152-4ee8-9081-d3121788024f) <br/><br/> | <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.23.19030902_Updater.pkg) <br/>|
 |Outlook  <br/>|  <br/><br/>  ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.23.19030902_Updater.pkg) <br/>|
 
@@ -1087,7 +1087,7 @@ Dieses Release umfasst die folgenden Updates:
 
 |**Anwendung**|**Featureupdates**|**Sicherheitsupdates**|**Downloadlink für Updatepaket**|
 |:-----|:-----|:-----|:-----|
-|Word  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Beibehalten Sie den Look Ihres Texts bei:** Betten Sie Schriftarten ein, um sicherzustellen, dass der Texts in Ihrem Dokument auf jedem Computer gleich aussieht. Keine bösen Überraschungen mehr! [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Eingebettete Schriftarten in Dokumenten anzeigen** : ermöglicht das Rendern von Schriftarten, die in eine Datei eingebettet wurden, in Word für Mac.<br/><br/>**Im Fokusmodus aufrufbare Statusleiste:** Im Fokusmodus können Sie in der aufrufbaren Statusleiste die Wortanzahl und den Zugriff auf Zoom-Steuerelemente einfacher anzeigen.<br/><br/>**Mehr Möglichkeiten mit dem Fokusmodus:** Wir haben Ihnen zugehört! Der Fokusmodus wird jetzt mit Ihrem festgelegten Zoomfaktor geöffnet und zeigt zudem während des Scrollens die Seitenzahl an.| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
+|Word  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Beibehalten Sie den Look Ihres Texts bei:** Betten Sie Schriftarten ein, um sicherzustellen, dass der Texts in Ihrem Dokument auf jedem Computer gleich aussieht. Keine bösen Überraschungen mehr! [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3) <br/><br/>**Eingebettete Schriftarten in Dokumenten anzeigen** : ermöglicht das Rendern von Schriftarten, die in eine Datei eingebettet wurden, in Word für Mac.<br/><br/>**Im Fokusmodus aufrufbare Statusleiste:** Im Fokusmodus können Sie in der aufrufbaren Statusleiste die Wortanzahl und den Zugriff auf Zoom-Steuerelemente einfacher anzeigen.<br/><br/>**Erhalten Sie mehr mit dem Fokusmodus:** Wir haben Sie gehört! Der Fokusmodus wird jetzt mit dem festgelegten Zoomfaktor geöffnet und zeigt beim Scrollen auch die Seitenzahl an.| |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.20.18120801_Updater.pkg) <br/>|
 |Excel  <br/>|  **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/> | [CVE-2018-8597](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8597): Sicherheitsanfälligkeit in Microsoft Excel bezüglich Remotecodeausführung <br/><br/> [CVE-2018-8627](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8627): Microsoft Excel – Sicherheitsrisiko bei der Offenlegung von Informationen |[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.20.18120801_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Im Handumdrehen von iPhone zu PowerPoint:** Verwenden Sie die Continuity Camera von Apple, um ein Foto von Ihrem iPhone in Ihre Folie einzufügen. macOS Mojave erforderlich. [Weitere Informationen](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> |[CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628): Sicherheitsrisiko in Microsoft PowerPoint bezüglich Remotecodeausführung <br/>|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.20.18120801_Updater.pkg) <br/>|
 |Outlook  <br/>|  **Schonen Sie Ihre Augen mit dem Dunkelmodus:** Ein dunkler Hintergrund schont in schlecht beleuchteten Umgebungen die Augen. macOS Mojave erforderlich.<br/><br/>  **Freigeben Ihres Kalenders:** Geben Sie Ihren Kalender für Familie, Freunde und Kollegen frei. Öffnen Sie für Sie freigegebene Kalender in Mac-, PC- oder Cloud-Versionen von Outlook. [Weitere Informationen](https://support.office.com/article/365-b576ecc3-0945-4d75-85f1-5efafb8a37b4) <br/><br/> **Deaktivieren der Weiterleitung für eine Besprechung** Verhindern Sie, dass Teilnehmer Ihre Besprechung an andere weiterleiten. [Weitere Informationen](https://support.office.com/article/8cd354e5-b319-403e-8dd2-88b8ee89b4dd) <br/><br/> **Verwenden von Teams zum Herstellen einer Verbindung mit Ihren Besprechungen:** Sie arbeiten mit Remoteteams? Vewrenden Sie Teams in Outlook, um Onlinebesprechungen zu planen und an diesen teilzunehmen. [Weitere Informationen](https://support.office.com/article/883cc15c-580f-441a-92ea-0992c00a9b0f) <br/><br/>**Sehen, wer an der Besprechung teilnimmt:** Klicken Sie auf eine Besprechung oder ein Ereignis in Ihrem Kalender, um zu sehen, wer daran teilnehmen wird.<br/><br/> **Anzeigen von drei Zeitzonen:** Sie müssen eine Besprechung über mehrere Zeitzonen hinweg planen? Fügen Sie Ihrem Kalender mehrere Zeitzonen hinzu, um ganz einfach die Verfügbarkeit aller Teilnehmer anzuzeigen und eine Zeit auszuwählen, die für alle passt. [Weitere Informationen](https://support.office.com/article/938d9db9-14ae-4203-ab91-b2d183429382)<br/><br/>  ||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.20.18120801_Updater.pkg) <br/>|

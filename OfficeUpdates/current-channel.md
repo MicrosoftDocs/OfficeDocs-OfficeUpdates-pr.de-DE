@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für Releases im Monatlichen Kanal für Microsoft 365 Apps
-ms.openlocfilehash: 3148b1744d6df9108f2a8beda7ca7c6f160fb5fa
-ms.sourcegitcommit: 8de8bc2772a282e08ce583dc2b4869f67330febc
+ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
+ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079299"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52091794"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -35,6 +35,92 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2104-april-29"></a>Version 2104: 29. April
+*Version 2104 (Build 13929.20296)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Verknüpfte Datentypen: Echte Daten für das echte Leben:** Neue verknüpfte Datentypen liefern Ihnen Fakten und Daten zu Hunderten von Themen, die Ihnen helfen, Ihre Ziele direkt in Excel zu erreichen.
+
+### <a name="teams"></a>Microsoft Teams
+
+- **Dynamische Ansicht** Die dynamische Ansicht optimiert automatisch freigegebene Inhalte und Video-Teilnehmer in Teams-Besprechungen. Mit neuen Steuerelementen können Sie die Ansicht an Ihre Vorlieben und Bedürfnisse anpassen, z. B. die Möglichkeit, freigegebene Inhalte und bestimmte Teilnehmer nebeneinander anzuzeigen.
+
+- **Außer Haus:** Richten Sie eine Nachricht ein, um anderen mitzuteilen, dass Sie gerade nicht arbeiten oder im Urlaub sind und daher nicht antworten können, wenn sie Ihnen eine Chatnachricht senden. Ihr "Außer Haus"-Status wird auch mit automatischen Antworten synchronisiert, die sich in Ihrem Outlook-Kalender befinden.
+
+### <a name="visio"></a>Visio
+
+- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
+
+### <a name="word"></a>Word
+
+- **Bessere Zusammenarbeit mit modernen Kommentaren:** Für eine bessere Zusammenarbeit fügen Sie Kommentare zu Objekten hinzu, @erwähnen Sie Kollegen, und lösen Sie Kommentarthreads auf. [Weitere Informationen](https://support.office.com/article/8d3f868a-867e-4df2-8c68-bf96671641e2)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/modern-commenting-in-word)
+
+- **Dunkler Modus für Word-Dokumente:** Der dunkle Modus kann dabei helfen, die Augen zu entlasten und die Lichtempfindlichkeit zu berücksichtigen, während Sie an Ihren Dokumenten arbeiten.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/try-dark-mode-in-word)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem einige Add-ins für die Automatisierung für Excel nicht geladen werden konnten.
+
+
+- Es wurde ein Problem behoben, bei dem einige Dateien gelegentlich in der geschützten Ansicht nicht geöffnet werden konnten.
+
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, das dazu führte, dass bei Benutzern die Suche unerwartet geschlossen wurden.
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass die Signaturen von Benutzern unerwartet verschwunden sind.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern möglicherweise die Meldung angezeigt wurde, dass der Fokus auf der Benutzeroberfläche verloren geht.
+
+
+- Wir haben ein Problem behoben, durch das Outlook die in OWA konfigurierten Einstellungen für den Posteingang mit Relevanz außer Kraft gesetzt hat.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer von Roaming-Einstellungen keine Antwort erhielten.
+
+
+- Wir haben ein Problem behoben, durch das die Namensauflösung deaktiviert wurde, sobald etwas im Namen eines anderen Benutzers gesendet wurde und das mit einem Adressbuch verglichen wurde, das nicht der globalen Adressliste entsprach.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem mit verknüpften Bildern behoben.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Benutzer Projekte nicht aus dem Ressourcenpool entfernen konnten.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben mit der Aktualisierung des Texts im AutoSpeichern-Popup für lokal gespeicherte Dateien.
+
+
+- Es wurde ein Problem behoben, bei dem einige ausgewählte Texte nicht sichtbar sind, wenn im Lesemodus das Design „Dunkler Modus“ verwendet wird.
+
+
+- Es wurde eine Änderung bei der Bearbeitung des OLE-Objekts vorgenommen.
+
+
+
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2103-april-23"></a>Version 2103: 23. April
@@ -45,7 +131,7 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Automatisierungs-Add-Ins für Excel werden nach der Installation des Sicherheitsupdates vom April 2021 nicht geladen. Verwenden Sie die bereitgestellte Problemumgehung für Benutzer, die sich nicht im aktuellen Kanal [Weitere Informationen](https://support.microsoft.com/de-DE/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb) befinden. 
+- Es wurde ein Problem mit Automatisierungs-Add-Ins für Excel behoben, die nach der Installation des Sicherheitsupdates vom April 2021 nicht geladen werden. Verwenden Sie die bereitgestellte Problemumgehung für Benutzer, die sich nicht im aktuellen Kanal [Weitere Informationen](https://support.microsoft.com/de-DE/office/automation-add-ins-for-excel-are-not-loading-after-installing-april-2021-security-update-8b2927a1-4a24-4ae6-8855-60827b7632fb) befinden. 
 
 
 ### <a name="outlook"></a>Outlook
@@ -652,6 +738,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20400|version-2103-april-13|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
@@ -661,5 +748,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (|Win32|CC|Production| |16.0.13628.20380|version-2101-february-09|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20274|version-2101-january-26|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

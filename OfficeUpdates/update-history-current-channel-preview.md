@@ -9,22 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 1e09ae86978e5c0c9fa5ab54a560b51773ff2995
-ms.sourcegitcommit: 6a6a10d50664c552f2aea560d521265d2b0677d2
+ms.openlocfilehash: c64b0ec90f075b979d9af44e3be044c1b1874caa
+ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "52058759"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52081238"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
-Liebe Insider, Wenn Sie sich fragen, ob Sie das neueste Update installiert haben, oder wenn Sie nach einer Liste von aktuellen Builds für Current Channels (Vorschau) suchen, sind Sie am richtigen Ort.
-Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum Insider-Programm zu erhalten.
+Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben, oder wenn Sie nach einer Liste von aktuellen Builds des Aktuellen Kanals (Vorschau) suchen, sind Sie am richtigen Ort. Klicken Sie [hier](https://insider.office.com/), um weitere Informationen zum Insider-Programm zu erhalten.
 
-## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Current Channel (Vorschau)
+## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Aktueller Kanal (Vorschau)
 
-Wenn Sie für Current Channel (Vorschau) registriert sind, die früher als Insider Slow bezeichnet wurde, erhalten Sie ungefähr einmal im Monat ein neues Office-Funktionsupdate sowie nachfolgende Builds mit wichtigen Korrekturen oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds von Current Channel (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates.
-Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](./current-channel-preview.md). Features finden Sie unter [Neuerungen für Office-Insider](https://insider.office.com/de-DE/releasenotes/windows/slow).
+Wenn Sie auf der Ebene Aktueller Kanal (Vorschau), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Aktuellen Kanals (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, [lesen Sie ](./current-channel-preview.md). Sie können ebenfalls [Neuerungen für Office-Insiders](https://insider.office.com/de-DE/releasenotes/windows/slow) lesen.
 
 
 > [!IMPORTANT]
@@ -38,6 +36,9 @@ Wenn Sie Anmerkungen zu dieser Version finden möchten, [siehe](./current-channe
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**28. April 2021**<br/>
+Version 2104 (Build 13929.20296)<br/>
 
 **26. April 2021**<br/>
 Version 2104 (Build 13929.20254)<br/>
