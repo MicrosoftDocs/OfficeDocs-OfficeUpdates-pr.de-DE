@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 3bd18b5fb95701778c948732cc506df182369f21
-ms.sourcegitcommit: 28baeef0385cacaa71288b5d0a00fb37b724b71b
+ms.openlocfilehash: bb14136d385d11187c26552bd61c321338ce2f36
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "51995732"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "52108237"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,92 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2105-april-30"></a>Version 2105: 30. April
+*Version 2105 (Build 14026.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Barrierefreiheit-Überprüfungsanstupser beim Senden von E-Mails an große Verteilerlisten, externe Benutzer:** Wir haben die Funktion hinzugefügt, beim Verfassen einer E-Mail an große Zielgruppen, externe Benutzer usw. automatisch über einen Mailtipp auf eine Verletzung der Barrierefreiheit hingewiesen zu werden. Diese Einstellungen befinden sich in „Erleichterte Bedienung“
+
+### <a name="visio"></a>Visio
+
+- **AWS-Schablonen und -Formen:** Wir haben jetzt Schablonen mit den neuesten AWS-Formen, die Sie bei der Erstellung von Diagrammen unterstützen. [Weitere Informationen](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+### <a name="word"></a>Word
+
+- **Schreibziele:** Schreibziele für WinWord
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem Excel unerwartet geschlossen wurde, wenn man sich durch Kommentare im Kommentarbereich bewegte.
+
+
+- Es wurde in Problem behoben, das dazu führte, dass die Datumsformatierung bei der Verwendung von Add-Ins in einigen Sprachen nicht korrekt angezeigt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Excel unerwartet geschlossen werden könnte, wenn „Einfügen von Inhalten mit Formaten“ in gewissen Situationen verwendet wurde.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Änderungen, die durch Planungsassistenten durchgeführt wurden, nicht immer von Änderungsereignissen erfasst wurden.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer Projekte nicht aus dem Ressourcenpool entfernen konnten.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem die Textformatierung nach dem Entfernen von Hyperlinks bestehen bleibt.
+
+
+- Es wurde ein Problem behoben, bei dem Kommentare nicht angezeigt werden, nachdem nach Personen gefiltert wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Word keinen Seriendruck mit einer Access-Datenbank durchführen konnte.
+
+
+- Es wurde ein Problem behoben, durch das die Fähigkeit, Ränder in einem Dokument mit mehreren Spalten zu reduzieren, verfügbar wurde.
+
+
+- Es wurde in Problem behoben, bei dem einige Buchstaben in Tabellenzellen nicht korrekt angezeigt wurden, wenn sich Kommentare im Dokument befinden.
+
+
+- Es wurde ein Problem behoben, beim dem Dateiformatänderungen auftraten, wenn Dokumente mit aktiviertem AIP-Add-In gespeichert wurden.
+
+
+- Es wurde in Problem behoben, bei dem Word beim Bearbeiten von Feldern nicht mehr antwortete.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer nicht zum Speichern eines Dokumentes aufgefordert wurden, wenn sie einen Befehl benutzten (statt dem Tastaturkurzbefehl STRG+S).
+
+
+- Es wurde ein Problem behoben, bei dem die Vertraulichkeitsbezeichnung von einer Datei in Word verschwindet, nachdem die Datei in SharePoint Online hochgeladen wurde.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, das dazu führte, dass die Diktat-Schaltfläche beim Hinzufügen von Kommentaren zu einem Dokument falsch ausgerichtet war.
+
+
+- Es wurde ein Problem behoben, bei dem die Verwendung des Modus „Hoher Kontrast“ über einen längeren Zeitraum hinweg dazu führte, dass Outlook unerwartet geschlossen wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2105-april-23"></a>Version 2105: 23. April
 *Version 2105 (Build 14014.20002)*
@@ -52,7 +138,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Wir haben ein Problem behoben, um die Abwärtskompatibilität mit älteren Versionen von Excel zu unterstützen. Das Problem kann dazu führen, dass eine Datei, die in einer neueren Version von Excel gespeichert wurde, in älteren Versionen von Excel aufgrund von Funktionen wie IFERROR und XLOOKUP, die seit Office 2007 zu Excel hinzugefügt wurden, nicht richtig geladen werden kann.
+- Es wurde ein Problem behoben, um die Rückwärtskompatibilität mit älteren Versionen von Excel zu unterstützen. Das Problem kann dazu führen, dass eine Datei, die in einer neueren Version von Excel gespeichert wurde, in älteren Versionen von Excel aufgrund von Funktionen wie IFERROR und XLOOKUP, die seit Office 2007 zu Excel hinzugefügt wurden, nicht richtig geladen werden kann.
 
 
 - Wir haben ein Problem behoben, bei dem einige Dateien gelegentlich nicht in der geschützten Ansicht geöffnet werden konnten.
@@ -678,7 +764,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - **Erforderliche Kennzeichnung:** Benutzer mit einer von ihren Administratoren festgelegten Richtlinie „Erforderliche Kennzeichnung“ müssen ihre Dokumente und E-Mails kennzeichnen.
 
 
-[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 <br/>
 
@@ -1299,7 +1385,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, bei dem der Schnelldruck für Bildanlagen zu einem Fehler geführt hat: "Windows kann dieses Bild nicht finden. Überprüfen Sie den Speicherort, und versuchen Sie es dann erneut."
+- Es wurde ein Problem behoben, bei dem der Schnelldruck für Bildanlagen zu folgendem Fehler führte: „Windows kann dieses Bild nicht finden. Überprüfen Sie den Speicherort, und versuchen Sie es dann erneut“.
 
 
 - Es wurde ein Problem behoben, das dazu führte, dass einige Benutzer Outlook im Offline-Status starteten, bis sie manuell wählten, online zu arbeiten.
@@ -1627,7 +1713,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - Es wurde ein Problem behoben, bei dem beim Öffnen einer Datei, die die LET-Funktion enthält, die Warnmeldung angezeigt wurde: "Wir haben ein Problem mit dem Inhalt in "Ihrer Datei.xlsx" gefunden. Möchten Sie, dass wir so viel wie möglich wiederherstellen? Wenn die Quelle für diese Arbeitsmappe vertrauenswürdig ist, klicken Sie auf „Ja“.
 - Es wurde ein Absturz im Zusammenhang mit XLAM-Add-In-Referenzen und benannten Bereichen behoben.
 - Es wurde ein Problem behoben, bei dem Benutzer einen PivotTable-Filter nicht ändern konnten, weil er auf einen Wert eingestellt war, der in einer Analysis Services-Datenbank nicht mehr vorhanden war.
-- Es wurde ein Problem behoben, bei dem Benutzer, die einen benutzerdefinierten Stil auf ein dynamisches Array anwandten, die Fehlermeldung erhielten: "Sie können einen Teil eines Arrays nicht ändern". Hierbei handelt es sich um eine Legacy-Einschränkung, die entfernt wurde.
+- Es wurde ein Problem behoben, bei dem Benutzer, die einen benutzerdefinierten Stil auf ein dynamisches Array anwandten, die Fehlermeldung erhielten: „Sie können einen Teil eines Arrays nicht ändern“. Dies war eine veraltete Einschränkung, die entfernt wurde.
 - Es wurde ein Problem behoben, bei dem die Excel-Formularleiste nicht vollständig gerendert werden konnte, wenn die Verbindung zu einem Gerät verloren ging, wie z. B. beim Verbinden/Trennen einer Remote-Sitzung oder bei einem Monitorwechsel.
 
 ### <a name="outlook"></a>Outlook
@@ -2014,7 +2100,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="outlook"></a>Outlook
 
 - Es wurde ein Problem behoben, bei dem das IME-Fenster (Eingabemethoden-Editor) den zugrunde liegenden Text, der über den IME eingegeben wird, überlappte, wenn mehrere Monitore mit unterschiedlichen Auflösungen verwendet wurden.
-- Es wurde ein Problem behoben, durch das Benutzern beim Schließen eines vorher gespeicherten Termins der folgende Fehler angezeigt wurde: "Das Element kann nicht gespeichert werden, da es von einem anderen Benutzer oder in einem anderen Fenster geändert wurde. Möchten Sie eine Kopie im Standardordner für das Element erstellen?"
+- Es wurde ein Problem behoben, durch das Benutzern beim Schließen eines vorher gespeicherten Termins der folgende Fehler angezeigt wurde: „Das Element kann nicht gespeichert werden, da es von einem anderen Benutzer oder in einem anderen Fenster geändert wurde. Möchten Sie im Standardordner für das Element eine Kopie erstellen?“
 - Ein Problem wurde behoben, durch das die Datumsangaben im Minikalender für Benutzer in Japan nicht fett formatiert angezeigt wurden.
 - Wir haben ein Problem behoben, das verhinderte, dass in Kalendererinnerungen genaue Uhrzeiten für Besprechungen in weniger als einer Woche angezeigt wurden.
 
@@ -2305,7 +2391,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Drücken Sie sich mit animierten GIFs aus:** Animierte GIFs werden nun im Office-Editor unterstützt – Ihre Dokumente werden noch pfiffiger aussehen. [Weitere Informationen](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
+- **Erzählen Sie Ihre Geschichten mit animierten GIFs:** Animierte GIFs werden nun im Office-Editor unterstützt – peppen Sie Ihre Dokumente auf. [Weitere Informationen](https://support.office.com/article/3a04f755-25a9-42c4-8cc1-1da4148aef01)
 
 ### <a name="word"></a>Word
 
@@ -2370,12 +2456,12 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 - Es wurde ein Problem behoben, das dazu führte, dass das Einfügen von Kommentaren in ein Dokument im Kollaborationsmodus nicht immer funktionierte.
 - Diese Änderung behebt ein Problem, bei dem die Personenkarte kurzzeitig eingeblendet wurde, wenn auf die Erwähnung geklickt wurde.
-- Es wurde das Problem behoben, dass beim Schließen eines Dokuments mit Kommentarentwürfen der Benutzer aufgefordert wurde, ob er das Dokument schließen möchte, ohne die Kommentarentwürfe zu speichern. Das Abbrechen der Eingabeaufforderung schloss das Dokument, anstatt es geöffnet zu lassen.
-- Es wurde ein Problem behoben, bei dem die Übersetzung eines geposteten Kommentars den Fehler "Fehler beim Einfügen des übersetzten Textes" zur Folge hatte.
-- In der Webansicht und im Plastischen Reader wurde durch das Anklicken eines Hinweises nach oben gescrollt, obwohl er bereits angezeigt wurde. Dieser Fehler wurde behoben.
+- Es wurde das Problem behoben, dass beim Schließen eines Dokuments mit Kommentarentwürfen der Benutzer gefragt wurde, ob er das Dokument schließen möchte, ohne die Kommentarentwürfe zu speichern. Das Abbrechen der Aufforderung führte zum Schließen des Dokuments, anstatt es offen zu lassen.
+- Es wurde ein Problem behoben, bei dem die Übersetzung eines geposteten Kommentars den Fehler „Einfügen des übersetzten Textes fehlgeschlagen“ zur Folge hatte.
+- In der Webansicht und im Plastischen Reader wurde durch das Anklicken eines Hinweises ganz nach oben gescrollt, obwohl er bereits angezeigt wurde. Dies wurde behoben.
 - Wir haben ein Problem behoben, dass infolge des Speicherns einer Datei, die ein Makro enthält, unter einem neuen Namen sie mit der Erweiterung DOCX und dem Dateinamen WRO0004.docx gespeichert wurde, und zwar unabhängig davon, was der Benutzer eingab, wodurch das Dokument unbrauchbar wurde.
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 
 ## <a name="version-2005-april-24"></a>Version 2005: 24. April
@@ -2396,7 +2482,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - Es wurde ein Problem behoben, bei dem beim Bewegen des Mauszeigers über das Sternchen-Symbol (*) der Benutzername und das Datum der letzten Person, die das Dokument aktualisiert hat, nicht angezeigt wurden.
 
 ### <a name="word"></a>Word
-- Beim Aktivieren der Option "Lesezeichen anzeigen" wurden keine Lesezeichen angezeigt. Dieser Fehler wurde behoben.
+- Beim Aktivieren der Option „Lesezeichen anzeigen“ wurden keine Lesezeichen angezeigt. Dies wurde behoben.
 - Diese Änderung behebt ein Problem, bei dem Text mit Hyperlinks möglicherweise nicht angezeigt wurde, wenn die Option "Feldcodes statt ihrer Werte anzeigen" aktiviert war.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
@@ -2780,7 +2866,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="word"></a>Word
 - Es wurde ein Problem behoben, bei dem Kommentarkarten nicht immer hervorgehoben werden, wenn der Mauszeiger über die Kommentarkarte bewegt wird.
-- Während einer aktiven Sitzung zur gemeinsamen Dokumenterstellung kann das direkte Hinzufügen eines Bildes in eine Kommentarkarte dazu führen, dass ein Tag hinzugefügt wird. Das Problem wurde behoben.
+- Während einer aktiven Sitzung zur gemeinsamen Dokumenterstellung kann das direkte Hinzufügen eines Bildes in eine Kommentarkarte dazu führen, dass ein Tag hinzugefügt wird. Dieses Problem wurde behoben.
 
 ### <a name="office-suite"></a>Office-Suite
 - Beim Verwenden der Metadateneigenschaften MultiChoice/Verweis/Verwaltet mit Word/Excel/PowerPoint-Dokumenten und dem Speichern in einer SharePoint-Dokumentbibliothek waren diese Eigenschaften bisher auf 255 Zeichen beschränkt. Wenn diese Eigenschaften 255 Zeichen überschritten, konnten solche Dokumente nicht gespeichert werden. Mit dieser Änderung wurde dieser Grenzwert auf 2048 Zeichen erhöht.
@@ -2851,7 +2937,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="access"></a>Access
 
-- Dieses Update behebt ein Problem bei der Verwendung von ADODB. Das Recorder-Objekt im VB-Code meldet möglicherweise einen Fehler falsch.
+- Dieses Update behebt ein Problem bei der Verwendung einer ADOdb. Das Recorder-Objekt in VB-Code kann fälschlicherweise einen Fehler melden.
 
 - Dieses Update behebt ein Problem, das dazu führen kann, dass Microsoft Access eine Identitätsspalte in einer verknüpften SQL-Server-Tabelle nicht identifiziert, was dazu führen kann, dass Zeilen fälschlicherweise als gelöscht gemeldet werden.
 
@@ -2893,6 +2979,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14007.20002|version-2105-april-16|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14002.20000|version-2105-april-09|)
@@ -2902,5 +2989,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13819.20006|version-2103-february-26|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13811.20002|version-2103-february-19|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
