@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für Releases im Monatlichen Kanal für Microsoft 365 Apps
-ms.openlocfilehash: da560e6b74afa2861304210c9c409510ffee1792
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: f187b3f58c9917470fdff4fe0ca2fd87e58fb8f0
+ms.sourcegitcommit: 544a3557e8dc8e332b9132a3219a6ca8e0306d19
 ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091794"
+ms.locfileid: "52108217"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
