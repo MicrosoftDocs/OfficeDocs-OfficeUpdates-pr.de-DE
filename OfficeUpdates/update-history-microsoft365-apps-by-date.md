@@ -9,20 +9,21 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: 0a55dc787f393d498ddba627daad2b91bcb789c1
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: 0a42b5bc49ae042c9ea6c656e1f0f79c577b4a6f
+ms.sourcegitcommit: 42db2bd4c66e90f3a425f9d9f4d0b769b900d08a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091824"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52264743"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
 Diese Versions- und Buildnummern gelten für Microsoft 365 Apps for Enterprise, für Microsoft 365-Apps for Business sowie für die Abonnementversionen der Desktop-Apps für Project und Visio.
 
 > [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](/deployoffice/name-change). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
+> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365 Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle.  Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
+> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt.  Um mehr zu erfahren, [lesen Sie diesen Artikel](/deployoffice/name-change).  In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
+
 
 > [!NOTE]
 > - Die Tabelle ist nach Veröffentlichungsdatum sortiert, mit dem neuesten Veröffentlichungsdatum an erster Stelle.
