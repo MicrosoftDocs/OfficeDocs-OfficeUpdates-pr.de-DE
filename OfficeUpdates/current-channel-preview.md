@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 059b95f05ba9f91466dd02e56663f4c3e9631d7e
-ms.sourcegitcommit: 6094aae42629433b8b7336cb2f6ac3bfa8dab834
+ms.openlocfilehash: fdb00cda7c1eb30a470843c4637e8cae1828d7f3
+ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52081228"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52236955"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -30,6 +30,160 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2105-may-03"></a>Version 2105: 3. Mai
+*Version 2105 (Build 14026.20052)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+
+- **Mehrere Benutzer gleichzeitig in einer Besprechung ins Spotlight setzen:** Organisatoren und Präsentatoren können jetzt während Besprechungen gleichzeitig mehrere Teilnehmer ins Spotlight setzen. Auf der Besprechungsbühne werden diese hervorgehobenen Teilnehmer für jeden in der Besprechung mit ihren Videos oder Avataren angezeigt.
+
+- **Aus PowerPoint nach Teams präsentieren:** Präsentieren Sie Ihre Folien direkt aus der PowerPoint-App ein eine Teams-Besprechung über PowerPoint Live.
+
+- **Neue Erfahrung „Kategorie verwalten“ und andere Erweiterungen:** Mit Kategorien in Teams können Benutzer schnell eine Gruppe von Personen erreichen, ohne alle Personen zu @erwähnen oder einzugeben. Die Erfahrung „Kategorien verwalten“ ist jetzt eine Registerkarte. Kategorien haben jetzt auch ein Beschreibungsfeld, so dass Sie mehr Details zu einer Kategorie hinzufügen können. Die neue Registerkarte „Kategorien“ wird die Landeseite für Kategorie-Benachrichtigungen und die Suche nach Kategorien sein, welche ebenfalls bald verfügbar sein wird.
+
+- **Intelligente Lautsprecher:** Intelligente Lautsprecher sind intelligente Peripheriegeräte für Microsoft Teams-Räume unter Windows. Sie bringen den Teilnehmern im Besprechungsraum eine vom Lautsprecher zugeordnete Transkription, sodass die Teilnehmer weniger Zeit mit Notizen verbringen und problemlos mitverfolgen können, wer was im Raum gesagt hat.
+
+- **Ändern des Standards für neue Benutzer von „Teams Lila“ zur nativen Benachrichtigung:** Native Benachrichtigungen bieten eine Reihe von Vorteilen wie Unterstützung für das Aktions-Center, Barrierefreiheit, Unterstützung für den Modus „Fokusunterstützung“ usw. Derzeit ist „Teams Lila“ der Standard-Benachrichtigungsstil für einen neuen Benutzer in Microsoft Teams. Mit dieser Änderung wird der Standard für neue Benutzer auf „Native Benachrichtigung“ geändert.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem Excel unerwartet geschlossen wurde, wenn ein 32-Bit-Office auf einem 64-Bit-Windows verwendet wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Excel unerwartet geschlossen wurde, wenn man sich durch Kommentare im Kommentarbereich bewegte.
+
+
+- Es wurde ein Problem behoben, bei dem einige Add-ins für die Automatisierung für Excel nicht geladen werden konnten.
+
+
+- Es wurde ein Problem behoben, bei dem die Sprachausgabe die Eigenschaften zweier Schaltflächen auf der Registerkarte Kopfzeile/Fußzeile im Dialogfeld „Seiteneinrichtung“ falsch vorgelesen hat.
+
+
+- Es wurde ein Problem behoben, bei dem einige Arbeitsmappen, die in anderen Office-Anwendungen verknüpft waren, ohne Speicherung der Änderungen geschlossen wurden, wenn „Link aktualisieren“ ausgeführt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem das Add-In „Analyse-Funktionen“ für einige Benutzer nicht funktionierte.
+
+
+- Es wurde ein Problem behoben, bei dem einige Dateien gelegentlich nicht in der geschützten Ansicht geöffnet werden konnten
+
+
+- Es wurde in Problem behoben, das dazu führte, dass die Datumsformatierung bei der Verwendung von Add-Ins in einigen Sprachen nicht korrekt angezeigt wurde.
+
+
+- Es wurde ein Problem behoben, das bei einigen Benutzern dazu führte, dass die Statusleiste keinen Bereitschaftsstatus anzeigte.
+
+
+- Es wurde eine Änderung gemacht, damit der Namensmanager bei Büchern mit einer großen Anzahl von ausgeblendeten Namen geöffnet werden kann.
+
+
+- Es wurde ein Problem behoben, um die Rückwärtskompatibilität mit älteren Versionen von Excel zu unterstützen. Das Problem kann dazu führen, dass eine Datei, die in einer neueren Version von Excel gespeichert wurde, in älteren Versionen von Excel aufgrund von Funktionen wie WENNFEHLER und XVERWEIS, die seit Office 2007 zu Excel hinzugefügt wurden, nicht richtig geladen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Excel unerwartet geschlossen werden könnte, wenn „Einfügen von Inhalten mit Formaten“ in gewissen Situationen verwendet wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das Outlook die in OWA konfigurierten Einstellungen für den Posteingang mit Relevanz außer Kraft gesetzt hat.
+
+
+- Es wurde ein Problem behoben, das bei Benutzern von Roaming-Einstellungen zu Hängern führte.
+
+
+- Es wurde ein Problem behoben, durch das die Namensauflösung deaktiviert wurde, wenn etwas im Namen eines anderen Benutzers gesendet und mit einem Adressbuch verglichen wurde, das nicht der globalen Adressliste entsprach.
+
+
+- Es wurde ein Problem behoben, bei dem für einige Benutzer der Funktion zur Verbesserung der Kalenderfreigaben Probleme auftraten, wenn Sie im Navigationsbereich mit Ihrem Kalender interagierten.
+
+
+- Es wurde ein Problem behoben, bei dem die Verwendung des Modus „Hoher Kontrast“ über einen längeren Zeitraum hinweg dazu führte, dass Outlook unerwartet geschlossen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Links, die Ziffern enthalten, deaktiviert wurden, wenn eine Nachricht in Outlook in einer Rechts-nach-Links-Sprache verfasst wurde.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem im Zusammenhang mit verknüpften Bildern behoben.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Änderungen, die durch Planungsassistenten durchgeführt wurden, nicht immer von Änderungsereignissen erfasst wurden.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer Projekte nicht aus dem Ressourcenpool entfernen konnten.
+
+
+### <a name="visio"></a>Visio
+
+- Es wurde ein Problem behoben, bei dem Visio mit dem aktuellen Build unerwartet geschlossen wurde.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem die Textformatierung nach dem Entfernen von Hyperlinks bestehen bleibt.
+
+
+- Es wurde ein Problem behoben, bei dem Platzhaltertext in Kommentaren abgeschnitten wurde, wenn Rechts-nach-Links-Sprachen verwendet wurden.
+
+
+- Es wurde ein Problem behoben, bei dem Kommentare nicht angezeigt werden, nachdem nach Personen gefiltert wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Word keinen Seriendruck mit einer Access-Datenbank durchführen konnte.
+
+
+- Es wurde ein Problem behoben, durch das die Fähigkeit, Ränder in einem Dokument mit mehreren Spalten zu reduzieren, verfügbar wurde.
+
+
+- Es wurde in Problem behoben, bei dem einige Buchstaben in Tabellenzellen nicht korrekt angezeigt wurden, wenn sich Kommentare im Dokument befinden.
+
+
+- Es wurde ein Problem behoben, beim dem Dateiformatänderungen auftraten, wenn Dokumente mit aktiviertem AIP-Add-In gespeichert wurden.
+
+
+- Es wurde in Problem behoben, bei dem Word beim Bearbeiten von Feldern nicht mehr antwortete.
+
+
+- Es wurde ein Problem behoben, bei dem die Vertraulichkeitsbezeichnung von einer Datei in Word verschwindet, nachdem die Datei in SharePoint Online hochgeladen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer nicht zum Speichern eines Dokumentes aufgefordert wurden, wenn sie einen Befehl benutzten (statt dem Tastaturkurzbefehl STRG+S).
+
+
+- Es wurde ein Problem behoben, das dazu führen konnte, dass Word beim Herunterfahren unerwartet geschlossen wurde, weil der Benutzer sich abgemeldet oder seinen Computer neu gestartet hat.
+
+
+- Es wurde ein Problem behoben, bei dem die Textformatierung nach dem Entfernen von Hyperlinks bestehen bleibt.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem behoben, das dazu führte, dass die Diktat-Schaltfläche beim Hinzufügen von Kommentaren zu einem Dokument falsch ausgerichtet war.
+
+
+- Es wurde ein Problem beim Analysieren einer Zeichenfolge für die Emoji-Verarbeitung behoben, bei dem Anwendungen unerwartet geschlossen wurden, wenn außerhalb der Grenzen einer Matrix gelesen wurde.
+
+
+- Wir haben ein Problem behoben, bei dem einige skalierbare Vektorgrafiken (SVG) nicht korrekt gerendert wurden.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2104-april-28"></a>Version 2104: 28. April
 *Version 2104 (Build 13929.20296)*
@@ -959,7 +1113,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1684,7 +1838,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -2033,7 +2187,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="project"></a>Project
 
-- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Formularansicht durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
+- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Maske durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -2572,7 +2726,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -3464,7 +3618,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 
-[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2004-april-21"></a>Version 2004: 21. April
 *Version 2004 (Build 12730.20182)*
