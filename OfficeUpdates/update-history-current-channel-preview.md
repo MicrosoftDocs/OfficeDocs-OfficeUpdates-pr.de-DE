@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 006da8254a332b54fd0cbe875dccf6a7d630ed87
-ms.sourcegitcommit: e4d02f3245d41beb8a9cfc9e386c1f81d0f5e7a0
+ms.openlocfilehash: ff7bb864ac52a6d5b0adde4f8f80cb296645aabf
+ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52236965"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52278092"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -22,12 +22,7 @@ Liebe Insider! Wenn Sie sich fragen, ob Sie das neueste Update installiert haben
 
 ## <a name="office-current-channel-preview-versions-and-builds"></a>Versionen und Builds von Office Aktueller Kanal (Vorschau)
 
-Wenn Sie auf der Ebene Aktueller Kanal (Vorschau), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Aktuellen Kanals (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, [lesen Sie](./current-channel-preview.md). Sie können ebenfalls [Neuerungen für Office-Insiders](https://insider.office.com/de-DE/releasenotes/windows/slow) lesen.
-
-
-> [!IMPORTANT]
-> - Wir nehmen einige Änderungen an den Updatekanälen für Microsoft 365-Apps vor, unter anderem fügen wir einen neuen Updatekanal hinzu (Monatlicher Enterprise-Kanal) und ändern die Namen der vorhandenen Updatekanäle. Um mehr zu erfahren, [lesen Sie diesen Artikel](/DeployOffice/update-channels-changes).
-> - Office 365 ProPlus wird ab der Version 2004 in Microsoft 365 Apps for Enterprise umbenannt. Um mehr zu erfahren, [lesen Sie diesen Artikel](/deployoffice/name-change). In unserer Dokumentation bezeichnen wir es in der Regel einfach als Microsoft 365 Apps.
+Wenn Sie auf der Ebene Aktueller Kanal (Vorschau), vormals als „Insider Slow“ bezeichnet, registriert sind, erhalten Sie ungefähr einmal im Monat ein neues Office-Featureupdate plus nachfolgende Builds mit wichtigen Fixes oder Sicherheitsupdates. Die nachstehende Liste zeigt die aktuellen Versionen und Builds des Aktuellen Kanals (Vorschau) mit **dem zuletzt veröffentlichten Build an erster Stelle**. Neue Builds enthalten alle in früheren Builds enthaltenen Updates. Wenn Sie nach Versionshinweisen suchen, [lesen Sie](./current-channel-preview.md). Sie können ebenfalls [Neuerungen für Office-Insiders](https://insider.office.com/en-us/releasenotes/windows/slow) lesen.
 
 > [!NOTE]
 > - Im Updateverlauf hier sind alle veröffentlichten Builds aufgelistet
