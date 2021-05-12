@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: bb94b8247c1df7427b21911fcffaed6a5a623b69
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 0edbfbabe81e8c379489fa15bfc3f54942f6aeb6
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749123"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322295"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Bestimmte Office 2013-Produkte werden automatisch mithilfe der Technologie "Klick-und-Los" auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5337.1001**, die am 13. April 2021 veröffentlicht wurde.
+> Die neueste Version von Office 2013 ist **15.0.5345.1002**, die am 11. Mai 2021 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -45,7 +45,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2021|13. April|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
+|2021|11. Mai|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
+||13. April|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9. März|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
 ||9. Februar|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
 ||12. Januar|15.0.5311.1000|[KB 4583559](https://support.microsoft.com/help/4583559)|

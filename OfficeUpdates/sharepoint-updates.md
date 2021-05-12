@@ -13,12 +13,12 @@ ms.collection:
 - RelNotes_Server
 ms.assetid: 4b32dfba-1af6-4077-9a92-7cec8f220f20
 description: Suchen und Verwalten von Updates für SharePoint Server 2016, SharePoint 2013 und SharePoint 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: b24c83f4b23e217a6c01aa31ed66556d4f5a78ee
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: bdc40f8690529b2f70ac1f934c006d4458132b21
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748883"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322315"
 ---
 # <a name="sharepoint-updates"></a>SharePoint-Updates
 
@@ -36,6 +36,7 @@ Die neuesten Updates für SharePoint Online und Microsoft 365 finden Sie in der
 
 |**Paketname**|**KB-Nummer**|**Version**|**Veröffentlichungsdatum**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/Sprach-Patch  <br/>|[KB 5001916](https://support.microsoft.com/help/5001916)<br/>[KB 5001915](https://support.microsoft.com/help/5001915)<br/>|16.0.10374.20000|Mai 2021|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/Sprach-Patch  <br/>|[KB 4504716](https://support.microsoft.com/help/4504716)<br/>[KB 4504715](https://support.microsoft.com/help/4504715)<br/>|16.0.10373.20000|April 2021|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/Sprach-Patch  <br/>|[KB 4493230](https://support.microsoft.com/help/4493230)<br/>[KB 4493231](https://support.microsoft.com/help/4493231)<br/>|16.0.10372.20060|März 2021|
 |SharePoint Server 2019 <br/> SharePoint Server 2019 MUI/Sprach-Patch  <br/>|[KB 4493194](https://support.microsoft.com/help/4493194)<br/>[KB 4493193](https://support.microsoft.com/help/4493193)<br/>|16.0.10371.20043|Februar 2021|
@@ -73,6 +74,7 @@ Die neuesten Updates für SharePoint Online und Microsoft 365 finden Sie in der
 
 |**Paketname**|**KB-Nummer**|**Version**|**Veröffentlichungsdatum**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Server 2016  <br/>|[KB 5001917](https://support.microsoft.com/help/5001917) <br/>|16.0.5161.1000 <br/>|Mai 2021|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/Sprach-Patch  <br/> |[KB 4504719](https://support.microsoft.com/help/4504719) <br/>[KB 4504723](https://support.microsoft.com/help/4504723) <br/>|16.0.5149.1000 <br/>|April 2021|
 |SharePoint Server 2016  <br/>SharePoint Server 2016 MUI/Sprach-Patch  <br/> |[KB 4493232](https://support.microsoft.com/help/4493232) <br/>[KB 4493199](https://support.microsoft.com/help/4493199) <br/>|16.0.5134.1001 <br/>|März 2021|
 |SharePoint Server 2016  <br/> |[KB 4493195](https://support.microsoft.com/help/4493195) <br/> |16.0.5122.1000 <br/>|Februar 2021|
@@ -149,6 +151,7 @@ Die folgenden Pakete stehen für kumulative Updates zur Verfügung:
     
 |**Paketname**|**KB-Nummer**|**Version**|**Veröffentlichungsdatum**|
 |:-----|:-----|:-----|:-----|
+|SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 5001929](https://support.microsoft.com/help/5001929) <br/>[KB 5001933](https://support.microsoft.com/help/5001933) <br/>|15.0.5345.1000|Mai 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4504730](https://support.microsoft.com/help/4504730) <br/>[KB 4504732](https://support.microsoft.com/help/4504732) <br/>|15.0.5337.1000|April 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4493235](https://support.microsoft.com/help/4493235) <br/>[KB 4493237](https://support.microsoft.com/help/4493237) <br/>|15.0.5327.1001|März 2021|
 |SharePoint Foundation 2013  <br/> SharePoint Server 2013  <br/>|[KB 4493205](https://support.microsoft.com/help/4493205) <br/>[KB 4493209](https://support.microsoft.com/help/4493209) <br/>|15.0.5319.1000|Februar 2021|

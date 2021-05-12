@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: d24a0110d63e71e72ec06d61dcc132fb676043fb
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: c5c5dfadbe70eedbabec37392007a29c5668a4e5
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748923"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322365"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -28,6 +28,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 ## <a name="project-server-2013-update-history"></a>Project Server 2013-Updateverlauf
 |**Veröffentlichungsdatum**|**KB-Nummer**||
 |:-----|:-----|:-----|
+|Mai 2021 <br/>|[KB5001930](https://support.microsoft.com/help/5001930) <br/>|
 |April 2021 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
 |März 2021 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |Februar 2021 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
