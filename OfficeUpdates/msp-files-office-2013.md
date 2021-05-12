@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten eine Liste der aktuellen MSP-Dateien für unbefristete Office 2013-Versionen, die Windows Installer (MSI) verwenden
-ms.openlocfilehash: 0c69bd6172577142fcd545969651f8f706b9e6fb
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: bd2e58fe40e0694d4b3a599bf3e778c5fa3feef3
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748943"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330492"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2013-products"></a>Liste der aktuellen MSP-Dateien für Office 2013-Produkte
 
@@ -26,7 +26,7 @@ Diese Informationen gelten nur für Office 2013-Produkte, die die Windows Instal
 
 [//]: # (INHALT NICHT ENTFERNEN START)
 
-In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **April 2021 aktualisiert wurden.**
+In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Mai 2021 aktualisiert wurden.**
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE)
 
@@ -34,15 +34,12 @@ In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **April 2021 a
 
 |Nicht sicherheitsfreie Updates****|Sicherheitsupdates****|
 |:-----|:-----|
-|<br/>|analys32-x-none<br/>|
-|<br/>|eurotool-x-none<br/>|
-|<br/>|excel-x-none<br/>|
-|<br/>|graph-x-none<br/>|
-|<br/>|mso-x-none<br/>|
-|<br/>|outlook-none<br/>|
-|<br/>|word-x-none<br/>|
- 
-<br/>
+| |ace-x-none|
+| |excel-x-none|
+| |graph-x-none|
+| |mso-x-none|
+| |oart-x-none|
+| |word-x-none|
 
 [//]: # (MSP CONTENT END NICHT ENTFERNEN)
 
@@ -55,7 +52,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |****MSP-Dateiname***|****Produkt****|****Datum der nicht sicherheitsrelevanten Veröffentlichung****|****Nicht sicherheitsrelevanter KB-Artikel****|****Datum der sicherheitsrelevanten Veröffentlichung****|****Sicherheitsrelevanter KB-Artikel****|****Sicherheitsrelevante KB veraltet****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |access-x-none  <br/> |Access 2013  <br/> |5. Februar 2019  <br/> |[4032252](https://support.microsoft.com/help/4032252) <br/> |11. August 2020  <br/> |[4484366](https://support.microsoft.com/help/4484366) <br/>|[4462210](https://support.microsoft.com/help/4462210) <br/> |
-|ace-x-none  <br/> |Office 2013  <br/> |1. November 2016  <br/> |[3039750](https://support.microsoft.com/kb/3039750) <br/> |12. Januar 2021  <br/> |[4486762](https://support.microsoft.com/help/4486762) <br/>|[4484520](https://support.microsoft.com/help/4484520) <br/> |
+|ace-x-none  <br/>|Office 2013  <br/>|1. November 2016  <br/>|[3039750](https://support.microsoft.com/kb/3039750) <br/>|11. Mai 2021 <br/>|[4493206](https://support.microsoft.com/help/4493206) <br/>|[4486762](https://support.microsoft.com/help/4486762) <br/>|
 |acmserver-x-none  <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3172512](https://support.microsoft.com/help/3172512) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |airspacewer-x-none  <br/> |Office 2013  <br/> |9. Dezember 2014  <br/> |[2899522](https://support.microsoft.com/kb/2899522) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |analys32-x-none  <br/> |Office 2013  <br/> |9. Februar 2016  <br/> |[3054819](https://support.microsoft.com/kb/3054819) <br/> |13. April 2021  <br/> |[3178639](https://support.microsoft.com/kb/3178639) <br/>  |Nicht zutreffend  <br/> |
@@ -68,14 +65,14 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |ediscovery-x-none<sup>2</sup> <br/> |Office 2013  <br/> |5. September 2017  <br/> |[3172484](https://support.microsoft.com/help/3172484) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |eqnedt32-x-none  <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |9. Januar 2018  <br/> |[4011580](https://support.microsoft.com/help/4011580) <br/> |[3162047](https://support.microsoft.com/help/3162047) <br/> |
 |eurotool-x-none  <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |13. April 2021 |[3178643](https://support.microsoft.com/kb/3178643) <br/> |Nicht zutreffend  <br/> |
-|excel-x-none  <br/> |Excel 2013  <br/> |3. Juli 2018  <br/> |[4022244](https://support.microsoft.com/help/4022244) <br/> |13. April 2021  <br/> |[4504735](https://support.microsoft.com/help/4504735) <br/>|[4493239](https://support.microsoft.com/help/4493239) <br/> |
+|excel-x-none  <br/>|Excel 2013  <br/>|3. Juli 2018  <br/>|[4022244](https://support.microsoft.com/help/4022244) <br/>|11. Mai 2021 <br/>|[5001936](https://support.microsoft.com/help/5001936) <br/>|[4504735](https://support.microsoft.com/help/4504735) <br/>|
 |excelpp-x-none  <br/> |Office 2013  <br/> |6. Juni 2017  <br/> |[3191872](https://support.microsoft.com/help/3191872) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |exppdf-x-none  <br/> |Office 2013  <br/> |5. April 2016  <br/> |[3085587](https://support.microsoft.com/kb/3085587) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |filterpack-x-none  <br/> |Office 2013  <br/> |5. April 2016  <br/> |[3039756](https://support.microsoft.com/kb/3039756) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |fm20-x-none  <br/> |Office 2013  <br/> |14. Juli 2015  <br/> |[3023052](https://support.microsoft.com/kb/3023052) <br/> |9. Dezember 2014  <br/> |[2726958](https://support.microsoft.com/kb/2726958) <br/> |Nicht zutreffend  <br/> |
 |gfonts-x-none  <br/> |Office 2013  <br/> |14. Oktober 2014  <br/> |[2760371](https://support.microsoft.com/kb/2760371) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |gkall-x-none  <br/> |Office 2013  <br/> |7. Juni 2016  <br/> |[3039795](https://support.microsoft.com/kb/3039795) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|graph-x-none  <br/> |Office 2013  <br/> |2. April 2019  <br/> |[4462203](https://support.microsoft.com/kb/4462203)  <br/> |13. April 2021  <br/> |[4504727](https://support.microsoft.com/help/4504727) <br/> |[4493203](https://support.microsoft.com/help/4493203)| 
+|graph-x-none  <br/>|Office 2013  <br/>|2. April 2019  <br/>|[4462203](https://support.microsoft.com/kb/4462203)  <br/>|11. Mai 2021 <br/>|[5001927](https://support.microsoft.com/help/5001927) <br/>|[4504727](https://support.microsoft.com/help/4504727) <br/>|
 |groove-x-none  <br/> |OneDrive for Business  <br/> |7. August 2018  <br/> |[4022226](https://support.microsoft.com/help/4022226) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |ieawsdc-x-none  <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |11. August 2015  <br/> |[3039798](https://support.microsoft.com/kb/3039798) <br/> |Nicht zutreffend  <br/> |
 |infopath-x-none  <br/> |InfoPath 2013  <br/> |3. Mai 2016  <br/> |[3114946](https://support.microsoft.com/kb/3114946) <br/> |8. März 2016  <br/> |[3114833](https://support.microsoft.com/kb/3114833) <br/> |[3054793](https://support.microsoft.com/kb/3054793) <br/> |
@@ -86,13 +83,13 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |mscomct2-x-none  <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |13. Mai 2014  <br/> |[2760272](https://support.microsoft.com/kb/2760272) <br/> |Nicht zutreffend  <br/> |
 |mscomctlocx-x-none<sup>2</sup> <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |12. Januar 2016  <br/> |[3039794](https://support.microsoft.com/kb/3039794) <br/> |[2880502](https://support.microsoft.com/kb/2880502) <br/> |
 |msmipc-x-none  <br/> |Office 2013  <br/> |4. April 2017  <br/> |[3172523](https://support.microsoft.com/help/3172523) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|mso-x-none  <br/> |Office 2013  <br/> |2. Februar 2021  <br/> |[4486684](https://support.microsoft.com/help/4486684) <br/> |13. April 2021  <br/> |[4504726](https://support.microsoft.com/help/4504726) <br/> |[4493228](https://support.microsoft.com/help/4493228) <br/>|
+|mso-x-none  <br/>|Office 2013  <br/>|2. Februar 2021  <br/>|[4486684](https://support.microsoft.com/help/4486684) <br/>|11. Mai 2021 <br/>|[5001925](https://support.microsoft.com/help/5001925) <br/>|[4504726](https://support.microsoft.com/help/4504726) <br/>|
 |msohevi-x-none  <br/> |Office 2013  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |8. Januar 2019  <br/> |[3172522](https://support.microsoft.com/kb/3172522) <br/> |Nicht zutreffend  <br/> |
 |msptls-x-none  <br/> |Office 2013  <br/> |3. Juli 2018  <br/> |[4018378](https://support.microsoft.com/help/4018378) <br/> |11. August 2015  <br/> |[3054816](https://support.microsoft.com/kb/3054816) <br/> |Nicht zutreffend  <br/> |
 |msqry32-x-none  <br/> |Office 2013  <br/> |9. Juni 2015  <br/> |[2889863](https://support.microsoft.com/kb/2889863) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |mtextra-x-none  <br/> |Office 2013  <br/> |7. August 2018  <br/> |[4022212](https://support.microsoft.com/kb/4022212) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |nlgmsfad-x-none  <br/> |Office 2013  <br/> |14. Oktober 2014  <br/> |[2883095](https://support.microsoft.com/kb/2883095) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|oart-x-none  <br/> |Office 2013  <br/> |2. April 2019  <br/> |[4462200](https://support.microsoft.com/help/4462200) <br/> |12. Juni 2018  <br/> |[4018387](https://support.microsoft.com/help/4018387) <br/> |[4018288](https://support.microsoft.com/help/4018288) <br/> |
+|oart-x-none  <br/>|Office 2013  <br/>|2. April 2019  <br/>|[4462200](https://support.microsoft.com/help/4462200) <br/>|11. Mai 2021 <br/>|[4464542](https://support.microsoft.com/help/4464542) <br/>|[4018387](https://support.microsoft.com/help/4018387) <br/>|
 |ocfxca-x-none  <br/> |Office 2013  <br/> |13. Oktober 2015  <br/> |[3039720](https://support.microsoft.com/kb/3039720) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |ocr-x-none  <br/> |Office 2013  <br/> |8. April 2014  <br/> |[2760344](https://support.microsoft.com/kb/2760344) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |oleo-x-none  <br/> |Office 2013  <br/> |6. November 2018  <br/> |[3178640](https://support.microsoft.com/kb/3178640) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
@@ -126,7 +123,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |visio-x-none  <br/> |Visio 2013  <br/> |1. September 2020  <br/> |[4484355](https://support.microsoft.com/help/4484355) <br/> |9. März 2021  <br/> |[4486673](https://support.microsoft.com/help/4486673) <br/> |[4464544](https://support.microsoft.com/help/4464544) <br/> |
 |vviewer-x-none  <br/> |Visio Viewer 2013  <br/> |8. April 2014  <br/> |[2817301](https://support.microsoft.com/kb/2817301) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |wec-x-none  <br/> |Office 2013  <br/> |7. November 2015  <br/> |[3172533](https://support.microsoft.com/help/3172533) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|word-x-none  <br/> |Word 2013  <br/> |2. Juli 2019 <br/> |[4475525](https://support.microsoft.com/help/4475525) <br/> |13. April 2021  <br/> |[4493208](https://support.microsoft.com/help/4493208) <br/>|[4486764](https://support.microsoft.com/help/4486764) <br/>|
+|word-x-none  <br/>|Word 2013  <br/>|2. Juli 2019 <br/>|[4475525](https://support.microsoft.com/help/4475525) <br/>|11. Mai 2021 <br/>|[5001931](https://support.microsoft.com/help/5001931) <br/>|[4493208](https://support.microsoft.com/help/4493208) <br/>|
 |wordpia-x-none  <br/> |Word 2013  <br/> |7. November 2017  <br/> |[3162081](https://support.microsoft.com/help/3162081) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |wxpcore-x-none  <br/> |Office 2013  <br/> |8. März 2016  <br/> |[3114499](https://support.microsoft.com/kb/3114499) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |wxpnse-x-none  <br/> |Office 2013  <br/> |13. Oktober 2015  <br/> |[3039701](https://support.microsoft.com/kb/3039701) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
