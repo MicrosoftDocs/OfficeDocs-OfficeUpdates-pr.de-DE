@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: 4d0be484cc3605b30d3feedcad0006278a249e79
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: f9a6e6f59593677910766785b0a42a551277c44c
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278072"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322455"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
@@ -31,14 +31,23 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 [//]: # (NICHT ENTFERNEN)
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN START)
+## <a name="may-11-2021"></a>11. Mai 2021
 
-## <a name="may-6-2021"></a>6. Mai 2021
+[//]: # (INHALT NICHT ENTFERNEN START11. Mai 2021)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Die aktuellste Version ist Version 2104 (Build 13929.20372).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2104 (Build 13929.20296) <br/> |29. April 2021 <br/> |60<br/> |
+|Version 2103 (Build 13901.20462) <br/> |23. April 2021 <br/> |173<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2103 (Build 13901.20506).</i>
+Die aktuellste Version ist die Version 2103 (Build 13901.20516).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -48,7 +57,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
 
-<i>Das erwartete Release ist Version 2102 (Build 13801.20626).</i>
+Die aktuellste Version ist die Version 2102 (Build 13801.20638).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -58,7 +67,7 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 
 ### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
 
-<i>Das erwartete Release ist Version 2008 (Build 13127.21614).</i>
+Die aktuellste Version ist die Version 2008 (Build 13127.21624).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
@@ -66,7 +75,10 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 |Version 2008 (Build 13127.21348) <br/> |9. März 2021 <br/> |61<br/> |
 
 
-[//]: # (PROGNOSEINHALT NICHT ENTFERNEN ENDE)
+[//]: # (INHALT NICHT ENTFERNEN ENDE11. Mai 2021)
+
+
+
 
 ## <a name="april-29-2021"></a>29. April 2021
 

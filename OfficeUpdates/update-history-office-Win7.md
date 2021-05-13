@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt Kunden Versionsinformationen zum Updateverlauf für Microsoft 365-Apps für Windows 7 bereit.
-ms.openlocfilehash: 2def2d0901a5c1759c39e4f366b5bb16669a5132
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749133"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330452"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Updateverlauf für Microsoft 365-Apps unter Windows 7 
 
@@ -26,7 +26,7 @@ ms.locfileid: "51749133"
 
 Die Version 2002 ist die letzte Version von Microsoft 365 Apps, die auf Geräten unter Windows 7 verfügbar ist. Die Version 2002 ist für alle Updatekanäle für Microsoft 365 Apps verfügbar.
 
-Die Versionen für den halbjährlichen Enterprise-Kanal sind normalerweise nur für 14 Monate verfügbar. Für die Version 2002 wird aber eine Ausnahme gemacht, um den Support an die Verfügbarkeit von erweiterten Sicherheitsupdates (Extended Security Updates, ESU) für Windows 7 auszurichten.
+Versionen des halbjährlichen Kanals sind in der Regel nur 14 Monate lang verfügbar, aber für Version 2002 wird eine Ausnahme gemacht, um festzustellen, wie lange Extended Security Updates (ESU) für Windows 7 verfügbar sind.
 
 Diese erweiterte Verfügbarkeit für Version 2002 gilt auch für andere Updatekanäle, z. B. für den Aktuellen Kanal, gilt jedoch nur für Geräte mit Windows 7.
 
@@ -38,6 +38,9 @@ Weitere Informationen für die Verwaltung von Updates mit dem Microsoft Endpoint
 ## <a name="update-history"></a>Aktualisierungsverlauf
 
 [//]: # (NICHT ENTFERNEN)
+
+**11. Mai 2021**<br/>
+Version 2002 (Build 12527.21912)<br/>
 
 **13. April 2021**<br/>
 Version 2002 (Build 12527.21814)<br/>

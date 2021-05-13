@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal für Microsoft 365 Apps zur Verfügung
-ms.openlocfilehash: 15a5b7073da11a3dc177027ca92385a47a999e38
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278102"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322345"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals
 
@@ -23,6 +23,59 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 >
 >- OneNote 2016 wird jetzt standardmäßig einbezogen, wenn ein Benutzer im halbjährlichen Unternehmenskanal Microsoft 365 Apps aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2008-may-11"></a>Version 2008: 11. Mai
+*Version 2008 (Build 13127.21624)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, durch das einige Automatisierungs-Add-Ins für Excel nicht geladen werden konnten.
+
+
+- Ein Problem wurde behoben, durch das die Möglichkeit zum Einfügen als Formeln auf einem geschützten Blatt verhindert wurde.
+
+
+- Wir haben eine Korrektur vorgenommen, um die Leistung beim Wechseln zwischen Blättern oder Scrollen bei aktivierter Fokusverfolgung für Barrierefreiheit zu verbessern.
+
+
+- Ein Problem wurde behoben, bei dem Freihandeingaben dazu führen konnten, dass Excel nicht mehr reagierte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, bei dem E-Mails als digital signiert versendet wurde, obwohl der Benutzer die Option deaktiviert hatte.
+
+
+### <a name="word"></a>Word
+
+- Behebt ein Problem, bei dem einige Dateien nicht als PDF exportiert werden konnten.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2002-may-11"></a>Version 2002: 11. Mai
+*Version 2002 (Build 12527.21912)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, durch das einige Automatisierungs-Add-Ins für Excel nicht geladen werden konnten.
+
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -927,6 +980,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21216|version-2008-february-09|)
@@ -936,5 +990,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
 [//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-july-11|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20880|version-2002-july-14|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

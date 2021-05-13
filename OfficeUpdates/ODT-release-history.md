@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: 8e2387e11eb7327d0fe2148f2fe43633aad8c725
-ms.sourcegitcommit: 4a2190fd43c552c92d8194ec4520673d75af22f1
+ms.openlocfilehash: 16814bd8ef3b67f3ff4bab2f60627fbb65a37e03
+ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51748953"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52322465"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -28,6 +28,11 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
  **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="may-10-2021"></a>10. Mai 2021
+Version 16.0.13929.20296 (setup.exe Version 16.0.13929.20238)
+- Es wurde ein Problem behoben, bei dem der /configure-Modus möglicherweise fehlschlägt, wenn eine Konfigurationsdatei sowohl MigrateArch als auch RemoveMSI enthält
+- Zusätzliche Verbesserungen der Zuverlässigkeit
 
 ## <a name="april-13-2021"></a>13. April 2021
 Version 16.0.13901.20336 (setup.exe Version 16.0.13901.20328)

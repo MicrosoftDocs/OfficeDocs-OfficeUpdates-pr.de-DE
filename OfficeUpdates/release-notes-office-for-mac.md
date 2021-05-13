@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: feae6e5fbc6d3fd9d969eb0ccea108f9b62b7717
-ms.sourcegitcommit: c6eee117bae153c1f79ba9ecb419bfab372991bc
+ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
+ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52091844"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52330512"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -57,6 +57,58 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="may-11-2021"></a>11. Mai 2021
+*Version 16.49 (Build 21050901)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="apex-shared"></a>Apex freigegeben
+
+- **Holen Sie sich einen aktualisierten Look für Ihren Office-Startbildschirm auf dem Mac:** Ein neuer aktualisierter Look, bei dem unser Fluent-Toolkit zum Einsatz kommt, um sich an die neue Designsprache von Apple in Big Sur anzupassen.<br />Weitere Detailinformationen finden Sie in [diesem Blogbeitrag](https://insider.office.com/de-DE/blog/visual-updates-to-start-experience-in-office-for-mac).
+
+### <a name="excel"></a>Excel
+
+- **Verknüpfte Datentypen: Echte Daten für das echte Leben:** Neue verknüpfte Datentypen liefern Ihnen Fakten und Daten zu Hunderten von Themen, die Ihnen helfen, Ihre Ziele direkt in Excel zu erreichen. [Weitere Informationen](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
+
+### <a name="outlook"></a>Outlook
+
+- **Öffnen freigegebener Postfächer und Einrichten der Delegierung:** Im neuen Outlook für Mac können Sie jetzt Delegierungsszenarien einrichten und freigegebene Postfächer öffnen.
+
+- **Editor bietet Schreibvorschläge mit einem einzigen Klick an:** Holen Sie sich Vorschläge für Rechtschreibung, Grammatik sowie andere intelligente Schreibvorschläge mit einem einzigen Rechtsklick (ALT+NACH-UNTEN). Verwenden Sie die linke Maustaste, um das neue Kartendesign anzuzeigen und weitere Optionen zu entdecken: „Zum Wörterbuch hinzufügen“, „Kontext anzeigen“, „Synonyme“ und mehr. [Weitere Informationen](https://support.office.com/article/c6b1283d-81a2-47f1-bc85-9e8dfc0cbf15)
+
+- **Diktieren Sie Ihre Nachrichten mit Sprachbefehlen:** Die neue Diktiersymbolleiste, Sprachbefehle und automatische Interpunktion machen das Diktieren von Nachrichten schnell und einfach.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog)
+
+### <a name="teams"></a>Teams
+
+- **KI-basierte Rauschunterdrückung für Mac-Benutzer:** Wenn Ihr Mikrofon bei einer Microsoft Teams-Besprechung oder einem Anruf eingeschaltet ist, können andere durch Hintergrundgeräusche um Sie herum – Papierrascheln, Türenschlagen, bellende Hunde usw. – abgelenkt werden. Microsoft Teams bietet vier Rauschunterdrückungsstufen (automatisch, niedrig, hoch und deaktiviert), um die Konzentration der Besprechungsteilnehmer so hoch wie möglich zu halten. Dieses Feature ist jetzt für alle Mac-Benutzer verfügbar, mit Ausnahme von neuen MACs, die über den M1 ARM-Prozessor verfügen.
+
+- **Sprecherzuordnung für Live-Untertitel und Live-Transkription in Microsoft Teams-Besprechungen in GCC:** In Microsoft Teams-Besprechungen in GCC-Clouds werden gesprochene Inhalte jetzt in Liveuntertiteln dem jeweiligen Sprecher zugeordnet.
+
+- **Im Chat antworten:** Die Möglichkeit, in einem Chat auf eine bestimmte Nachricht zu antworten.
+
+- **Anpassen von Apps in Microsoft Teams:** Das Feature zur App-Anpassung ermöglicht es Entwicklern, für bestimmte Eigenschaften ihrer Microsoft Teams-Apps anzugeben, ob sie anpassbar sind, und IT-Administratoren können diese Eigenschaften im Microsoft Teams Admin Center neu gestalten. IT-Administratoren können beispielsweise den Namen, die Beschreibung und die Symbole der Now Virtual Agent-App von ServiceNow so anpassen, dass sie den Anforderungen ihrer Organisation entsprechen.
+
+- **M365-Profilkarte in Microsoft Teams:** Wenn Sie in Microsoft Teams den Namen oder das Bild einer Person auswählen, wird die Profilkarte mit Informationen zu dieser Person geöffnet, z. B. Name, Kontaktinformationen und Vorgesetzter. Die Profilkarte wird manchmal auch als Visitenkarte oder Personenkarte bezeichnet.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31177](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-31177)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="april-13-2021"></a>13. April 2021
 *Version 16.48 (Build 21041102)*
@@ -1070,7 +1122,7 @@ Dieses Release umfasst die folgenden Updates:
 |Word  <br/>| **Im Handumdrehen von iPhone zu Word:** Verwenden Sie die Continuity Camera von Apple, um ein Foto von Ihrem iPhone in Ihr Dokument einzufügen. macOS Mojave erforderlich. [Weitere Informationen](https://support.office.com/article/4d34d45d-8ab0-4950-82cc-76c2375a1fb8) <br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Dokumente:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Dokumente anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>| [CVE-2019-0561](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0561): Microsoft Word – Sicherheitsrisiko bei der Offenlegung von Informationen  <br/><br/> [CVE-2019-0585](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2019-0585): Sicherheitsanfälligkeit in Microsoft Word bezüglich Remotecodeausführung |[Updatepaket für Word](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.21.19011500_Updater.pkg) <br/>|
 |Excel  <br/>| **Zusammenarbeiten mit Kommentaren:** Halten Sie die Unterhaltung mit dem integrierten Antwortfeld direkt in Ihrem Arbeitsblatt aufrecht. [Weitere Informationen](https://support.office.com/article/bdcc9f5d-38e2-45b4-9a92-0b2b5c7bf6f8)<br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Arbeitsblätter:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Arbeitsblätter anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**SVG-Unterstützung:** Fügen Sie SVGs in Ihre Arbeitsmappen ein, und bearbeiten Sie sie, um die visuelle Wirkung zu verstärken. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Zusätzliche Formatierungsoptionen für Histogramm-, Wasserfall-, TreeMap-, Sunburst-, Trichter- und Karten-Diagramme:** Sie haben mehr Kontrolle über die Formatierungsoptionen für die neuen Diagrammtypen im Bereich „Format“.|[Updatepaket für Excel](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate//Microsoft_Excel_16.21.19011500_Updater.pkg) <br/>|
 |PowerPoint  <br/>| **Drucken der Foliennummer in Handzetteln:** Wenn Sie eine Präsentation auf Handzetteln drucken, wird auf jeder Folie eine begleitende Foliennummer angezeigt. <br/><br/> **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Präsentationen:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Präsentationen anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9)<br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Einbetten einer Teilmenge der Schriftarten:** Betten Sie nun nur noch die in der Präsentation verwendeten Zeichen ein.  [Weitere Informationen](https://support.office.com/article/53046a60-0111-4ca4-bb58-26be3926a9d3)|[Updatepaket für PowerPoint](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.21.19011500_Updater.pkg) <br/>|
-|Outlook  <br/>| **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Nachrichten:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Nachrichten anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Finden Sie E-Mails schneller in Ihrem aktuellen Posteingang:** Markieren Sie das Suchfeld, um schnelle Vorschläge basierend auf Ihrem aktuellen Suchverlauf zu erhalten. Keine Eingabe erforderlich. [Weitere Informationen](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Das Hinzufügen von Gmail-Konten ist jetzt noch einfacher:** Sicherheitsverbesserungen bedeuten, dass Sie den Zugriff für "weniger sichere Apps" nicht mehr erteilen oder kein App-Kennwort mehr festlegen müssen, um Ihr Gmail-Konto zu Outlook hinzuzufügen.<br/><br/>**Outlook für Mac hebt nun Suchbegriffe hervor:** Haben Sie schon einmal etwas gesucht und sich gefragt, warum Outlook Ihren Suchbegriff in der Elementliste und im Vorschaufenster nicht hervorhebt? Nun, überlegen Sie nicht mehr, denn das Feature ist jetzt verfügbar!||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
+|Outlook  <br/>| **Anwenden von Vertraulichkeitsbezeichnungen auf Ihre Nachrichten:** Sie können eine Vertraulichkeitsbezeichnung auf Ihre Nachrichten anwenden, damit sie den Richtlinien zum Datenschutz Ihrer Organisation entsprechen. [Weitere Informationen](https://support.office.com/article/2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9) <br/><br/>**Möglichkeit zum Einfügen von SVGs mit angewendeten Filtern:** Office-Benutzer haben jetzt die Möglichkeit, SVGs einzufügen, auf die Filter angewendet wurden. [Weitere Informationen](https://support.office.com/article/e2459f17-3996-4795-996e-b9a13486fa79)<br/><br/>**Finden Sie E-Mails schneller in Ihrem aktuellen Posteingang:** Markieren Sie das Suchfeld, um schnelle Vorschläge basierend auf Ihrem aktuellen Suchverlauf zu erhalten. Keine Eingabe erforderlich. [Weitere Informationen](https://support.office.com/article/53b60f65-25b7-4582-9c5e-4adf16e503a1)<br/><br/>**Das Hinzufügen von Gmail-Konten ist jetzt noch einfacher:** Sicherheitsverbesserungen bedeuten, dass Sie den Zugriff für "weniger sichere Apps" nicht mehr erteilen oder kein App-Kennwort mehr festlegen müssen, um Ihr Gmail-Konto zu Outlook hinzuzufügen.<br/><br/>**Outlook für Mac hebt nun Suchbegriffe hervor:** Haben Sie schon einmal nach etwas gesucht und sich gefragt, warum Outlook Ihren Suchbegriff in der Elementliste und im Vorschaufenster nicht hervorhebt? Nun, wundern Sie sich nicht mehr, denn diese Funktion ist jetzt verfügbar!||[Updatepaket für Outlook](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.21.19011500_Updater.pkg) <br/>|
 |Microsoft Auto Update 4.7 <br/>| Der AutoUpdate-Daemon wird jetzt im Rahmen des Installationsprozesses gestartet. Dadurch werden verwirrende Sicherheitsdialogfelder beseitigt, die bisher für Benutzer angezeigt wurden. <br/><br/> Die Sicherheitsfeatures von Microsoft AutoUpdate wurden so verbessert, dass nun SHA256-Zertifikate unterstützt werden. <br/>|<br/> | [Updatepaket für Microsoft AutoUpdate](https://officecdn.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.7.19011500_Updater.pkg)|
 
 > [!NOTE]
