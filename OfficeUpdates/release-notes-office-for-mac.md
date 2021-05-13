@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: b3ed9dd7482dbb0e08fda7611727f7fedbf71c09
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 84cf474575a5d5a4568b752336e9ea763f7af574
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330512"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470759"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -84,7 +84,7 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 ### <a name="teams"></a>Teams
 
-- **KI-basierte Rauschunterdrückung für Mac-Benutzer:** Wenn Ihr Mikrofon bei einer Microsoft Teams-Besprechung oder einem Anruf eingeschaltet ist, können andere durch Hintergrundgeräusche um Sie herum – Papierrascheln, Türenschlagen, bellende Hunde usw. – abgelenkt werden. Microsoft Teams bietet vier Rauschunterdrückungsstufen (automatisch, niedrig, hoch und deaktiviert), um die Konzentration der Besprechungsteilnehmer so hoch wie möglich zu halten. Dieses Feature ist jetzt für alle Mac-Benutzer verfügbar, mit Ausnahme von neuen MACs, die über den M1 ARM-Prozessor verfügen.
+- **KI-basierte Rauschunterdrückung für Mac-Benutzer:** Wenn Ihr Mikrofon bei einer Microsoft Teams-Besprechung oder einem Anruf eingeschaltet ist, können andere durch Hintergrundgeräusche um Sie herum – Papierrascheln, Türenschlagen, bellende Hunde usw. – abgelenkt werden. Microsoft Teams bietet vier Rauschunterdrückungsstufen (automatisch, niedrig, hoch und deaktiviert), um die Konzentration der Besprechungsteilnehmer so hoch wie möglich zu halten. Dieses Feature ist jetzt für alle Mac-Benutzer verfügbar, mit Ausnahme von Besitzer neuer Macs, die über Macs mit Apple Silicon verfügen.
 
 - **Sprecherzuordnung für Live-Untertitel und Live-Transkription in Microsoft Teams-Besprechungen in GCC:** In Microsoft Teams-Besprechungen in GCC-Clouds werden gesprochene Inhalte jetzt in Liveuntertiteln dem jeweiligen Sprecher zugeordnet.
 

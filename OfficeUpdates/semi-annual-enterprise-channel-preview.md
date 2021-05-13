@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2021 zur Verfügung.
-ms.openlocfilehash: e602a1e45b465ff40b034098a118ed75466c03f0
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322485"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470779"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals (Vorschau)
 
@@ -22,9 +22,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 ## <a name="version-2102-may-11"></a>Version 2102: 11. Mai
-*Version 2102 (Build 13801.20638)*
+*Version 2102 (Build 13801.20638)*
 
-Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -32,7 +32,7 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Es wurde ein Problem behoben, bei dem einige Add-ins für die Automatisierung für Excel nicht geladen werden konnten.
+- Ein Problem wurde behoben, durch das einige Automatisierungs-Add-Ins für Excel nicht geladen werden konnten.
 
 
 - Es wurde ein Problem behoben, das dazu führte, dass die Datumsformatierung bei der Verwendung von Add-Ins in einigen Sprachen falsch angezeigt wurde.
@@ -70,7 +70,7 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 ## <a name="version-2102-april-13"></a>Version 2102: 13. April
 *Version 2102 (Build 13801.20506)*
 
-Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsoft365-apps-security-updates) aufgeführt
+Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -138,7 +138,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 ## <a name="version-2102-march-09"></a>Version 2102: 09. März
 *Version 2102 (Build 13801.20294)*
 
-Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
+Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -518,7 +518,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ## <a name="version-2008-february-09"></a>Version 2008: 9. Februar
 *Version 2008 (Build 13127.21216)*
 
-Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
+Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -579,7 +579,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
 
-Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
+Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
