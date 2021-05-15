@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 4cfb53d99f77d812805fd742cb93ca7c9440a0bb
-ms.sourcegitcommit: f82c2d42402aa11741482a0f2795caf55d1d000e
+ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
+ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/08/2021
-ms.locfileid: "52285976"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470769"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,36 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2105-may-12"></a>Version 2105: 12. Mai
+*Version 2105 (Build 14026.20164)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+
+- **Benutzerpräferenz-Einstellung, um Dateien standardmäßig in Desktop (oder) Browser (oder) Teams zu öffnen:** Benutzer können ihre Standardpräferenz als Browser, Desktop oder Teams festlegen, wenn sie Office-Dateien (Word, Excel und Power Point) öffnen, die in Teams freigegeben sind. Desktop-Einstellung kann ausgewählt werden, wenn die neuesten Office-Clients installiert und aktiviert sind
+
+- **Reporter- und Nebeneinander-Modus in Teams-Besprechungen:** Sie können jetzt neben Ihren Inhalten angezeigt werden, um eine ansprechendere Präsentations- und Konsumerfahrung zu erzielen
+
+- **Teams-Webinar-Funktionen sind generell verfügbar:** Planen und liefern Sie Webinare für 1000 Personen mit der gleichen Teams-App, die Sie auch für Meetings verwenden! Webinar-Funktionen unterstützen das Erstellen einer Registrierungsseite, die E-Mail-Bestätigung für Registrierende, die Host-Verwaltung für Video und Audio von Teilnehmenden, die Teilnehmer-Berichterstellung sowie interaktiver Features wie Umfragen, Chats und Reaktionen.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="word"></a>Word
+
+- Es wurde eine Problem behoben, bei dem kontextbezogene Karten für Rechtschreibung und Grammatik im Zusammenarbeitsbereich Schaltflächen-Symbole anzeigen, diese Schaltflächen aber keine QuickInfo haben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2105-may-07"></a>Version 2105: 7. Mai
 *Version 2105 (Build 14026.20138)*
@@ -1152,7 +1182,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1877,7 +1907,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -2765,7 +2795,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
