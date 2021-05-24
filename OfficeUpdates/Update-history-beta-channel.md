@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: 2b6f4207988a620657b23b0a748ec52bf3ef9503
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: d5b3501c6f7888e99d830aa08115d944d768cbb8
+ms.sourcegitcommit: 82c58639acc2f9bceb8f26967ef6464ac675f6bd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322475"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52568501"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Updateverlauf für den Office Insider-Kanal
 
@@ -33,6 +33,9 @@ Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windo
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**18. Mai 2021**<br/>
+Version 2106 (Build 14117.20000)<br/>
 
 **11. Mai 2021**<br/>
 Version 2106 (Build 14107.20000)<br/>
@@ -109,14 +112,14 @@ Version 2102 (Build 13704.20000)<br/>
 **4. Januar 2021**<br/>
 Version 2101 (Build 13628.20000)<br/>
 
-**28. Dezember 2020**<br/>
-Version 2101 (Build 13624.20002)<br/>
+**28. Dezember 2020**<br/>
+Version 2101 (Build 13624.20002)<br/>
 
 **21. Dezember 2020**<br/>
 Version 2101 (Build 13617.20002)<br/>
 
-**14. Dezember 2020**<br/>
-Version 2101 (Build 13610.20002)<br/>
+**14. Dezember 2020**<br/>
+Version 2101 (Build 13610.20002)<br/>
 
 **7. Dezember 2020**<br/>
 Version 2101 (Build 13604.20000)<br/>
@@ -124,7 +127,7 @@ Version 2101 (Build 13604.20000)<br/>
 **2. Dezember 2020**<br/>
 Version 2012 (Build 13530.20000)<br/>
 
-**30. November 2020**<br/>
+**30. November 2020**<br/>
 Version 2012 (Build 13524.20004)<br/>
 
 **23. November 2020**<br/>
@@ -133,10 +136,10 @@ Version 2012 (Build 13519.20000)<br/>
 **16. November 2020**<br/>
 Version 2012 (Build 13512.20000)<br/>
 
-**11. November 2020**<br/>
-Version 2012 (Build 13510.20004)<br/>
+**11. November 2020**<br/>
+Version 2012 (Build 13510.20004)<br/>
 
-**09. November 2020**<br/>
+**09. November 2020**<br/>
 Version 2012 (Build 13505.20004)<br/>
 
 **02. November 2020**<br/>
@@ -145,14 +148,14 @@ Version 2012 (Build 13430.20000)<br/>
 **28. Oktober 2020**<br/>
 Version 2011 (Build 13426.20004)<br/>
 
-**26. Oktober 2020**<br/>
-Version 2011 (Build 13422.20000)<br/>
+**26. Oktober 2020**<br/>
+Version 2011 (Build 13422.20000)<br/>
 
-**19. Oktober 2020**<br/>
+**19. Oktober 2020**<br/>
 Version 2011 (Build 13415.20002)<br/>
 
-**12. Oktober 2020**<br/>
-Version 2011 (Build 13408.20000)<br/>
+**12. Oktober 2020**<br/>
+Version 2011 (Build 13408.20000)<br/>
 
 **07. Oktober 2020**<br/>
 Version 2011 (Build 13406.20000)<br/>

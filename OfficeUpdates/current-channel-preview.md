@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 4f88b65e310f4b5992638e6901b3f0ad3d4f6576
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470769"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574300"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,42 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2105-may-19"></a>Version 2105: 19. Mai
+*Version 2105 (Build 14026.20202)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+
+- **Teams-Webinare werden in Dynamics 365 Marketing integriert, um die Lead-Pflege zu ermöglichen:** Mit diesem Feature können Webinar-Organisatoren die Nutzung von Registranten nach der Veranstaltung durch die Nutzung von D365 Marketing fördern. Die Teilnehmer-Engagement-Daten werden mit der D365 Marketing-Organisation synchronisiert und ermöglichen automatisierte Benutzerreisen
+
+- **Intelligente Lautsprecher:** Intelligente Lautsprecher sind intelligente Peripheriegeräte für Microsoft Teams Rooms unter Windows. Sie bringen den Teilnehmern im Besprechungsraum eine vom Lautsprecher zugeordnete Transkription, sodass die Teilnehmer weniger Zeit mit Notizen verbringen und problemlos mitverfolgen können, wer was im Raum gesagt hat.
+
+- **Ermöglichen Sie Teams-Benutzern den Kauf von Team-Apps über den Teams-Client:** Teams-Benutzer können jetzt Teams-App-Abonnements im Teams-Store erwerben.
+
+- **Erstellen von Teams mit Teams-Vorlagen:** Mit Vorlagen in Teams können Benutzer beim Erstellen eines neuen Teams aus einer Vielzahl von anpassbaren Vorlagen auswählen, damit sie schnell loslegen können. IT-Administratoren können auch benutzerdefinierte Vorlagen für ihre Organisation erstellen, mit denen sie Teamstrukturen standardisieren, relevante Apps vorinstallieren und Best Practices skalieren können. IT-Administratoren können auswählen, welche Teamvorlagen Endbenutzern im Teams Admin Center angezeigt werden sollen, und Website-Registerkarten vorkonfigurieren, indem sie URLs zu einer Website-Registerkarte in einer Teamvorlage hinzufügen.
+
+- **Verwenden von Laserpointer- und Freihandanmerkungen in PowerPoint Live in Teams:** Wir führen virtuelle Laserpointer- und Annotationsanmerkungen ein, damit Präsentatoren Inhalte effektiv teilen und ihre Zielgruppe ansprechen können, indem sie auf bestimmte Abschnitte des PowerPoint-Foliensatzes aufmerksam machen. So wie Sie einen physischen Laserpointer in einem Raum verwenden würden, können Sie mit PowerPoint Live effektiv auf verschiedene Stellen zeigen, sodass das Publikum problemlos nachverfolgen kann, was sich auf der Folie befindet.
+
+- **Power Automate-Flussempfehlungen mit 1P-Teamvorlagen:** Surface Power Automate-Flussvorlagen für Teams, die aus 1P-Teamvorlagen erstellt wurden
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, durch das die Feedback-Option für Benutzer der Office Dauerlizenz 2021-Vorschau nicht angezeigt werden konnte.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2105-may-12"></a>Version 2105: 12. Mai
 *Version 2105 (Build 14026.20164)*
@@ -959,7 +995,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="teams"></a>Teams
 
-- **2x2-Video in Microsoft Edge- und Chrome-Browsern auf Windows und Mac:** Benutzer können in Teams-Besprechungen in Microsoft Edge- und Chrome-Browsern unter Windows und Mac die Videos von bis zu 4 Teilnehmern anzeigen. [Weitere Informationen](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
+- **2x2-Video in Microsoft Edge- und Chrome-Browsern auf Windows und Mac:** Benutzer können in Teams-Besprechungen in Microsoft Edge- und Chrome-Browsern unter Windows und Mac die Videos von bis zu 4 Teilnehmern anzeigen. [Weitere Informationen](https://support.microsoft.com/office/using-video-in-microsoft-teams-3647fc29-7b92-4c26-8c2d-8a596904cdae#bkmk_videolayout)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1368,8 +1404,8 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2012-december-28"></a>Version 2012: 28. Dezember
-*Version 2012 (Build 13530.20264)*
+## <a name="version-2012-december-28"></a>Version 2012: 28. Dezember
+*Version 2012 (Build 13530.20264)*
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -1430,7 +1466,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
+- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1768,7 +1804,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - Es wurde ein Problem behoben, bei dem das automatische Speichern mit einer falschen/irreführenden Fehlermeldung fehlschlug, wenn im Excel-Datenmodell eine schlechte Kennzahldefinition vorhanden war.
 
 
-- Ein Problem wurde behoben, durch das Excel unerwartet beendet wurde, wenn der Prozess der MTR-Berechnung und der Aktualisierung von Gruppenrichtlinienobjekten (z. B. über Remoteaktualisierung von Gruppenrichtlinien) ausgelöst wurde.
+- Ein Problem wurde behoben, durch das Excel unerwartet beendet wurde, wenn der Prozess der MTR-Berechnung und der Aktualisierung von Gruppenrichtlinienobjekten (z. B. über Remoteaktualisierung von Gruppenrichtlinien) ausgelöst wurde.
 
 
 - Es wurde ein Problem behoben, bei dem ein Benutzer eine atomsvc-Datei (UTF8 + BOM) nicht direkt aus SharePoint öffnen konnte.
@@ -1871,7 +1907,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
 
 
 - Es wurde ein Problem behoben, bei dem bei der interaktiven SSO-API-Anmeldung ein Fehlercode zurückgegeben wurde.
@@ -2095,7 +2131,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - Ein Problem wurde behoben, bei dem ChartSheet in einigen Fällen abgestürzt ist, wenn eine Formel über die Bearbeitungsleiste eingegeben wurde.
 
 
-- Es wurde ein Problem behoben, bei dem die Excel-Formularleiste nicht vollständig gerendert werden konnte, wenn die Verbindung zu einem Gerät verloren ging, wie z. B. beim Verbinden/Trennen einer Remote-Sitzung oder bei einem Monitorwechsel.
+- Es wurde ein Problem behoben, bei dem die Excel-Formularleiste nicht vollständig gerendert werden konnte, wenn die Verbindung zu einem Gerät verloren ging, wie z. B. beim Verbinden/Trennen einer Remote-Sitzung oder bei einem Monitorwechsel.
 
 
 ### <a name="onenote"></a>OneNote
@@ -2393,7 +2429,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - Es wurde ein Problem behoben, bei dem das Ausführen des VBA-Codes ActiveInspector.CommandBars.ExecuteMso ("ShowSchedulingPage") nach dem Aktivieren des Einzeiligen Menübands (SLR) zu einem Laufzeitfehler führen konnte.
 
 
-- Es wurde ein Problem behoben, bei dem die Schaltflächen "OK" und "Abbrechen" im Dialogfeld "Automatische Antworten" auf einem System mit einer hohen Auflösung (z. B. 1750 x 1920) in Verbindung mit einer großen Textgröße (z. B. 175 %) nicht sichtbar waren.
+- Es wurde ein Problem behoben, bei dem die Schaltflächen "OK" und "Abbrechen" im Dialogfeld "Automatische Antworten" auf einem System mit einer hohen Auflösung (z. B. 1750 x 1920) in Verbindung mit einer großen Textgröße (z. B. 175 %) nicht sichtbar waren.
 
 
 - Es wurde eine Bedingung behoben, nach der das Senden einer Besprechungsanfrage von einer leeren Kontaktgruppe an eine andere Kontaktgruppe zu einem Absturz führen würde.
@@ -2461,7 +2497,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - Es wurde ein Problem behoben, bei dem, wenn ein Benutzer einen Kommentar-Entwurf erstellte, der in einer Zeile verankert war, die bereits bestätigte Kommentare enthielt, der Entwurf in der falschen Reihenfolge in Bezug auf den bestätigten Kommentar im SideTrack angeordnet wurde.
 
 
-- Es wurde ein Problem behoben, bei dem der Fokus nicht auf den Kommentarbereich gelegt wurde, wenn das Dokument auf 160 % oder mehr gezoomt wurde und der Kommentarbereich nicht sichtbar war.
+- Es wurde ein Problem behoben, bei dem der Fokus nicht auf den Kommentarbereich gelegt wurde, wenn das Dokument auf 160 % oder mehr gezoomt wurde und der Kommentarbereich nicht sichtbar war.
 
 
 - Es wurde ein Problem behoben, das Benutzer daran hinderte, Benutzerkommentar-Threads zu sehen, die die Sidetrack-Grenze überschritten, weil das Scrollen durch den Sidetrack nicht funktioniert hat.
@@ -2484,7 +2520,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
 
 
 - Im Dialogfeld "Bild komprimieren" wurde ein Problem behoben, bei dem einige vom Benutzer ausgewählte DPI-Einstellungen nicht beibehalten wurden.
@@ -2544,7 +2580,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2008-august-27"></a>Version 2008: 27. August
+## <a name="version-2008-august-27"></a>Version 2008: 27. August
 *Version 2008 (Build 13127.20296)*
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -2579,8 +2615,8 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2008-august-25"></a>Version 2008: 25. August
-*Version 2008 (Build 13127.20268)*
+## <a name="version-2008-august-25"></a>Version 2008: 25. August
+*Version 2008 (Build 13127.20268)*
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -3293,7 +3329,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - Es wurde ein Problem behoben, durch das Dateien mit benutzerdefinierten XML-Werten extrem langsam geöffnet wurden.
 
-- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (größer als 32 KB) nicht geöffnet werden konnten und eine entsprechende Fehlermeldung nicht angezeigt wurde.
+- Es wurde ein Problem behoben, bei dem Dateien mit langen Pfadnamen (größer als 32 KB) nicht geöffnet werden konnten und eine entsprechende Fehlermeldung nicht angezeigt wurde.
 
 ### <a name="office-suite"></a>Office-Suite
 
@@ -3331,7 +3367,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 ### <a name="excel"></a>Excel
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Berechnen, zusammenfassen und analysieren Sie Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen.
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Berechnen, zusammenfassen und analysieren Sie Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen.
 
 ### <a name="outlook"></a>Outlook
 

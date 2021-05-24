@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: f2b3bd46a71708c9444265c5dbf33fbe3b9b5cb2
-ms.sourcegitcommit: cf8d286b8fb825e19d8730c011d53e98156b6646
+ms.openlocfilehash: 783ae03e77060c91a02e98e88e3d1570c1cdaf11
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755407"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563381"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -30,9 +30,28 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
 
-## <a name="april-2021-release"></a>Release vom April 2021
+## <a name="may-2021-release"></a>Release von Mai 2021
 
-**Veröffentlichungsdatum:** 13. April 2021
+**Veröffentlichungsdatum:** 13. Mai 2021
+
+*Microsoft AutoUpdate 4.35*
+
+**Bugfixes und Verbesserungen:**
+- Behebung potenzieller Probleme bei gleichzeitig erfolgenden Updates, die dazu führten, dass die Eingabeaufforderung "Ein Update wird bereits ausgeführt" angezeigt wurde.
+- Fehlerbehebung der zweifachen Anzeige des Dialogfelds "Überspringen".
+- Fehlerbehebung beim Anzeigen mehrerer Benachrichtigungen für dasselbe Update.
+- Größenreduzierung beim Microsoft AutoUpdate-Installations- / Aktualisierungspaket.
+- Die Befehlszeilenschnittstelle (Command Line Interface, CLI) verwendet jetzt nativen xpc für die Kommunikation mit Microsoft Update Assistant anstelle von Apple Events.
+
+[Microsoft AutoUpdate 4.35-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.35.21050901_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+1F6CAB8CCAF52743EFEEA908D0F26E2AE1A1F171C877F7B8057D00CDA7727733
+
+## <a name="april-2021-release"></a>Release vom April 2021
+
+**Veröffentlichungsdatum:** 13. April 2021
 
 *Microsoft AutoUpdate 4.34*
 
@@ -49,7 +68,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 ## <a name="march-2021-release"></a>Release von März 2021
 
-**Releasedatum:** 17. Februar 2021
+**Releasedatum:** 17. Februar 2021
 
 *Microsoft AutoUpdate 4.33*
 
@@ -69,7 +88,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 
 ## <a name="february-2021-release"></a>Release vom Februar 2021
 
-**Veröffentlichungsdatum:** 17. Februar 2021
+**Veröffentlichungsdatum:** 17. Februar 2021
 
 *Microsoft AutoUpdate 4.32*
 
@@ -79,7 +98,7 @@ Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-
 - Aktualisierung der Funktionalität: Die Hauptmenüleiste von MAU verfügt jetzt über eine Option „Bearbeiten“, um die Verwendung von Tastenkombinationen zu ermöglichen.
 - Andere Updates: Das Copyright-Jahr von MAU wurde auf 2021 aktualisiert.
 
-[Microsoft AutoUpdate 4.32-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.32-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.32.21021202_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -104,9 +123,9 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 <br/><br/>
 
-## <a name="december-2020-release"></a>Release vom Dezember 2020
+## <a name="december-2020-release"></a>Release vom Dezember 2020
 
-**Veröffentlichungsdatum:** 15. Dezember 2020
+**Veröffentlichungsdatum:** 15. Dezember 2020
 
 *Microsoft AutoUpdate 4.30*
 
@@ -115,7 +134,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 **MAU-Updatelink:**
 
-[Microsoft AutoUpdate 4.30-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.30-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.30.20121301_Updater.pkg)<br/>
 <br/>
 **SHA-256 Hash:**
 
@@ -124,14 +143,14 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 <br/><br/>
 
 
-## <a name="november-2020-release"></a>Release vom November 2020
+## <a name="november-2020-release"></a>Release vom November 2020
 
-**Veröffentlichungsdatum:** 10. November 2020
+**Veröffentlichungsdatum:** 10. November 2020
 
 *Microsoft AutoUpdate 4.29*
 
 **Bugfixes und Verbesserungen:**
--   Aktualisierte Kanalnamen für Microsoft 365.
+-   Aktualisierte Kanalnamen für Microsoft 365.
 -   Ein Problem wurde behoben, durch das bestimmte OneDrive-Installationen keine Updates erhalten konnten.
 
 **MAU Update Link:**
@@ -144,20 +163,20 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 <br/><br/>
 
-## <a name="october-2020-release"></a>Release vom Oktober 2020
+## <a name="october-2020-release"></a>Release vom Oktober 2020
 
-**Veröffentlichungsdatum:** 13. Oktober 2020
+**Veröffentlichungsdatum:** 13. Oktober 2020
 
 *Microsoft AutoUpdate 4.28*
 
 **Bugfixes und Verbesserungen:**
 -   MAU-Benutzeroberfläche: Die Zusammenfassungsansicht zeigt jetzt bei Fehlern, dass die Aufmerksamkeit des Benutzers erforderlich ist.
--   Sowohl die MAU-Benutzeroberfläche als auch der Update-Assistent enden jetzt automatisch nach 72 Stunden ohne Aktion.
+-   Sowohl die MAU-Benutzeroberfläche als auch der Update-Assistent enden jetzt automatisch nach 72 Stunden ohne Aktion.
 -   MAU-Benutzeroberfläche: Enthält jetzt ein Windows-Menü.
 
 **MAU-Updatelink:**
 
-[Microsoft AutoUpdate 4.28-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
+[Microsoft AutoUpdate 4.28-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.28.20101102_Updater.pkg)<br/>
 <br/>
 **SHA-256-Hashwert:**
 
@@ -165,9 +184,9 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 <br/><br/>
 
-## <a name="september-2020-release"></a>Release von September 2020
+## <a name="september-2020-release"></a>Release von September 2020
 
-**Veröffentlichungsdatum:** 16. September 2020
+**Veröffentlichungsdatum:** 16. September 2020
 
 *Microsoft AutoUpdate 4.27*
 
@@ -184,9 +203,9 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 
 <br/><br/>
 
-## <a name="august-2020-release"></a>Release vom August 2020
+## <a name="august-2020-release"></a>Release vom August 2020
 
-**Veröffentlichungsdatum:** 11. August 2020
+**Veröffentlichungsdatum:** 11. August 2020
 
 *Microsoft AutoUpdate 4.26*
 
@@ -195,7 +214,7 @@ CCB758531B295848620C703957FD8CF3C7F1555C334FB320C4BB682ABA0261D6
 -   MAU wird jetzt im minimierten Zustand gestartet, wenn Updates erkannt werden.
 -   Neue Einstellung "IgnoreUIOpenAfterInstall" wurde hinzugefügt, die verwendet werden kann, um zu verhindern, dass die Mau-Benutzeroberfläche nach der Installation gestartet wird.
 -   Berechtigungsproblem behoben, das die Anzeige der Meldung "Falsche Installation" verursachte 
--   Persistenz der MAU-Benachrichtigung "Aktualisierungsfrist" von 60 Sekunden auf 1 Stunde erweitert.
+-   Persistenz der MAU-Benachrichtigung "Aktualisierungsfrist" von 60 Sekunden auf 1 Stunde erweitert.
 
 
 **MAU-Updatelink:**
@@ -210,7 +229,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 
 ## <a name="july-2020-release"></a>Juli 2020-Release
 
-**Veröffentlichungsdatum:** 14. Juli 2020
+**Veröffentlichungsdatum:** 14. Juli 2020
 
 *Microsoft AutoUpdate 4.25*
 
@@ -219,7 +238,7 @@ E81CEADF900A0C7E7D593720D08146DBC1C55868D5B21C7E7A175AA36DFE0178
 - Das in der April-Version eingeführte Feature wurde wiederhergestellt, in dem Benutzern mit automatischer Aktualisierung die Microsoft AutoUpdate-Benutzeroberfläche nur einmal pro Woche angezeigt wird.
 - Ein Problem wurde behoben, bei dem der Update-Assistent nach dem Herunterladen von Updates unerwartet geschlossen wurde, bevor die Installation begann.
 - Es wurde ein Problem behoben, bei dem der Update-Assistent nach einer längeren Dauer von ausstehenden Benutzerbenachrichtigungen nicht geschlossen wurde.
-- Ein Problem wurde behoben, bei dem die MAU-Benutzeroberfläche nach der Installation erneut geöffnet (oder nicht erneut geöffnet) wurde. Die Benutzeroberfläche sollte nach der Installation geöffnet werden, wenn das Update über die MAU-Benutzeroberfläche selbst initiiert wird oder wenn ein Update explizit vom Benutzer initiiert wird (über Finder, Terminal usw.).
+- Es wurde ein Problem behoben, bei dem die MAU-Benutzeroberfläche nach der Installation erneut geöffnet wurde (oder nicht erneut geöffnet wurde). Die Benutzeroberfläche sollte nach der Installation geöffnet werden, wenn das Update über die MAU-Benutzeroberfläche selbst gestartet wird oder wenn ein Update vom Benutzer explizit gestartet wird (über Finder, Terminal usw.).
 
 **SHA-256-Hashwert:**
 
@@ -227,9 +246,9 @@ B8E3D4391E48732F42217589784D8B3417F6F14489D9DE04395198A01BFDFA46
 
 <br/><br/>
 
-## <a name="june-2020-release"></a>Juni 2020-Release
+## <a name="june-2020-release"></a>Juni 2020-Release
 
-**Veröffentlichungsdatum:** 18. Juni 2020
+**Veröffentlichungsdatum:** 18. Juni 2020
 
 *Microsoft AutoUpdate 4.24*
 
@@ -243,9 +262,9 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 <br/><br/>
 
-## <a name="may-2020-release"></a>Release vom Mai 2020
+## <a name="may-2020-release"></a>Release vom Mai 2020
 
-**Veröffentlichungsdatum:** 12. Mai 2020
+**Veröffentlichungsdatum:** 12. Mai 2020
 
 *Microsoft AutoUpdate 4.23*
 
@@ -259,9 +278,9 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 <br/><br/>
 
-## <a name="april-2020-release"></a>Release vom April 2020
+## <a name="april-2020-release"></a>Release vom April 2020
 
-**Veröffentlichungsdatum:** 21. April 2020
+**Veröffentlichungsdatum:** 21. April 2020
 
 *Microsoft AutoUpdate 4.22*
 
@@ -274,7 +293,7 @@ EEA059A348F7807DE4C0FD18D480F410B28FB729CB2604D9AD8C63484B0EA1E0
 
 <br/><br/>
 
-**Veröffentlichungsdatum:** 14. April 2020
+**Veröffentlichungsdatum:** 14. April 2020
 
 *Microsoft AutoUpdate 4.22*
 
@@ -307,9 +326,9 @@ Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/
 9AF2FAF4854BF06F33322A8530275F8D32965C91D446C45A0CD8BC4C5DF04F44
 <br/><br/>
 
-## <a name="february-2020-release"></a>Release von Februar 2020
+## <a name="february-2020-release"></a>Release von Februar 2020
 
-**Veröffentlichungsdatum:** 11. Februar 2020
+**Veröffentlichungsdatum:** 11. Februar 2020
 
 *Microsoft AutoUpdate 4.20*
 
@@ -336,9 +355,9 @@ Siehe [CVE-2020-0984](https://portal.msrc.microsoft.com/de-DE/security-guidance/
 
 D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
-## <a name="december-2019-release"></a>Release von Dezember 2019
+## <a name="december-2019-release"></a>Release von Dezember 2019
 
-**Veröffentlichungsdatum:** 10. Dezember 2019
+**Veröffentlichungsdatum:** 10. Dezember 2019
 
 *Microsoft AutoUpdate 4.18*
 
@@ -350,22 +369,22 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 
 11D051503067DB9819C84C8D1EBE29435A781D29C6B1FE3173DB03DC88F1B4C3<br/><br/>
 
-## <a name="november-2019-release"></a>Release von November 2019
+## <a name="november-2019-release"></a>Release von November 2019
 
-**Veröffentlichungsdatum:** 12. November 2019
+**Veröffentlichungsdatum:** 12. November 2019
 
 *Microsoft AutoUpdate 4.17*
 
  **Featureupdates:**
 
 - Die neuen Funktionen in den einzelnen Hauptupdates sind jetzt im Microsoft AutoUpdate-Dashboard zu sehen.
-- Die minimalen Betriebssystemanforderungen für Office 2019-Updates haben sich mit der Veröffentlichung von Catalina auf MacOS 10.13 geändert. Die Benutzer werden benachrichtigt, um ein Upgrade auf die neuesten Office-Updates zu erhalten.
+- Die Mindestanforderungen an das Betriebssystem für Office 2019-Updates wurden mit der Veröffentlichung von Catalina auf macOS 10.13 geändert. Benutzer werden benachrichtigt, um ein Upgrade auf die neuesten Office-Updates zu erhalten.
 
 **SHA-256-Hash:**
 
 0F8BECB34385711F3D5E54B2944D9C30567B37352C5E59E0A7BC74B83371AB0A<br/><br/>
 
-## <a name="october-2019-release"></a>Release vom Oktober 2019
+## <a name="october-2019-release"></a>Release vom Oktober 2019
 
 **Veröffentlichungsdatum:** 15. Oktober 2019
 
@@ -378,9 +397,9 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 **SHA-256 Hash:**
 
 5BEA94F8AA2BD4F4398B3E5EDE0EA2F406440B8ACAD46B3DACE904824B41052C<br/><br/>
-## <a name="september-2019-release"></a>Veröffentlichung vom September 2019
+## <a name="september-2019-release"></a>Veröffentlichung vom September 2019
 
-**Veröffentlichungsdatum**: 10. September 2019
+**Veröffentlichungsdatum**: 10. September 2019
 
 *Microsoft AutoUpdate 4.15*
 
@@ -393,9 +412,9 @@ D480D4FD23BDC07852DEFBADCE4CCBEF00265500E6595FE8B299444EB8F90C3F<br/><br/>
 **SHA-256-Hash**:
 
 E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
-## <a name="august-2019-release"></a>Release vom August 2019
+## <a name="august-2019-release"></a>Release vom August 2019
 
-**Veröffentlichungsdatum:** 13. August 2019
+**Veröffentlichungsdatum:** 13. August 2019
 
 *Microsoft AutoUpdate 4.14*
 
@@ -407,9 +426,9 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 **SHA-256-Hash:**
 
 76FA706E9E5B717D333B7EFB5AB95FCF9EE3E571A7FF171CA25E77CA6E9EBD97<br/><br/>
-## <a name="july-2019-release"></a>Release von Juli 2019
+## <a name="july-2019-release"></a>Release von Juli 2019
 
-**Veröffentlichungsdatum:** 18. Juli 2019
+**Veröffentlichungsdatum:** 18. Juli 2019
 
 *Microsoft AutoUpdate 4.13*
 
@@ -423,9 +442,9 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 
 9FDCEAFA05AB070531ECEE50E1E977839C1E2DE2312569F816C59F35DE162B08
 <br/><br/>
-## <a name="june-2019-release"></a>Release von Juni 2019
+## <a name="june-2019-release"></a>Release von Juni 2019
 
-**Veröffentlichungsdatum:** 27. Juni 2019
+**Veröffentlichungsdatum:** 27. Juni 2019
 
 *Microsoft AutoUpdate 4.12*
 
@@ -438,7 +457,7 @@ E5D4EADF632745115CD4819DAB3B1A1838FA8263ECDDC6E621AEA19A3C84F6F7<br/><br/>
 85ce26ece89a256711f082e61b313c1ed6a22bfc402d4789a78a08022a96f6fa
 <br/><br/>
 
-**Veröffentlichungsdatum:** 9. Juni 2019
+**Veröffentlichungsdatum:** 9. Juni 2019
 
 *Microsoft AutoUpdate 4.12*
 
@@ -454,9 +473,9 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 <br/><br/>
 
 
-## <a name="may-2019-release"></a>Release vom Mai 2019
+## <a name="may-2019-release"></a>Release vom Mai 2019
 
-**Veröffentlichungsdatum:** 14. Mai 2019
+**Veröffentlichungsdatum:** 14. Mai 2019
 
 *Microsoft AutoUpdate 4.11*
 
@@ -471,9 +490,9 @@ ABCC7D58DA7DB1B8B24B9B1BE6B1DB93BDC97AE487EFB615EC5695B9E1CC0FC9
 EE3403B79E536191E545E70708A99D3A33B384372F65C028490AFFB551CD1EE2
 <br/><br/>
 
-## <a name="april-2019-release"></a>Release von April 2019
+## <a name="april-2019-release"></a>Release von April 2019
 
-**Veröffentlichungsdatum:** 16. April 2019
+**Veröffentlichungsdatum:** 16. April 2019
 
 *Microsoft AutoUpdate 4.10*
 
@@ -497,11 +516,11 @@ FF676870D5B3521202095810B85DEF36538B59E00AEA44A2ED0D7EA8B3B99D6C
 |27. Juni 2019 <br/>9. Juni 2019|4.12 <br/> | <br/> ||
 |14. Mai 2019 <br/>|4.11 <br/> |  <br/> | <br/> |
 |16. April 2019 <br/>|4.10 <br/> |  <br/> |<br/> |
-|14. März 2019 <br/>|4.9.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
+|14. März 2019 <br/>|4.9.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#march-2019-release) <br/> | <br/> |
 |26. Februar 2019 <br/>|4.8.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#february-2019-release) <br/> |<br/> |
 |16. Januar 2019 <br/>|4.7.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#january-2019-release) <br/> | |
 |11. Dezember 2018 <br/>|4.6.0 <br/> | [Anmerkungen zu dieser Version](release-notes-office-for-mac.md#december-2018-release) <br/> ||
-|14. November 2018 <br/> |4.5.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#november-2018-release) <br/> | |
+|14. November 2018 <br/> |4.5.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#november-2018-release) <br/> | |
 |16. Oktober 2018 <br/> |4.4.0 <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#october-2018-release) <br/> | |
 |11. September 2018  <br/> |4.3.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#september-2018-release) <br/> | |
 |14. August 2018  <br/> |4.2.0  <br/> |[Anmerkungen zu dieser Version](release-notes-office-for-mac.md#august-2018-release) <br/> | |

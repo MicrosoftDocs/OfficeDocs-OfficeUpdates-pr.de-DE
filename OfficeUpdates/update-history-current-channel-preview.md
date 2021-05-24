@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: e90ddc6ec65088469dd9d63c43fca5712012c810
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: ab8bd226d1faba8860f1d5715b3e7aa187196ce5
+ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470789"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52574310"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -31,6 +31,9 @@ Wenn Sie auf der Ebene Aktueller Kanal (Vorschau), vormals als „Insider Slow�
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**19. Mai 2021**<br/>
+Version 2105 (Build 14026.20202)<br/>
 
 **12. Mail 2021**<br/>
 Version 2105 (Build 14026.20164)<br/>
@@ -110,14 +113,14 @@ Version 2101 (Build 13628.20030)<br/>
 **4. Januar 2021**<br/>
 Version 2012 (Build 13530.20316)<br/>
 
-**28. Dezember 2020**<br/>
-Version 2012 (Build 13530.20264)<br/>
+**28. Dezember 2020**<br/>
+Version 2012 (Build 13530.20264)<br/>
 
 **21. Dezember 2020**<br/>
 Version 2012 (Build 13530.20218)<br/>
 
-**14. Dezember 2020**<br/>
-Version 2012 (Build 13530.20144)<br/>
+**14. Dezember 2020**<br/>
+Version 2012 (Build 13530.20144)<br/>
 
 **7. Dezember 2020**<br/>
 Version 2012 (Build 13530.20064)<br/>
@@ -137,7 +140,7 @@ Version 2011 (Build 13426.20250)<br/>
 **16. November 2020**<br/>
 Version 2011 (Build 13426.20234)<br/>
 
-**09. November 2020**<br/>
+**09. November 2020**<br/>
 Version 2011 (Build 13426.20184)<br/>
 
 **06. November 2020**<br/>
@@ -146,13 +149,13 @@ Version 2010 (Build 13328.20356)<br/>
 **4. November 2020**<br/>
 Version 2010 (Build 13328.20340)<br/>
 
-**27. Oktober 2020**<br/>
-Version 2010 (Build 13328.20292)<br/>
+**27. Oktober 2020**<br/>
+Version 2010 (Build 13328.20292)<br/>
 
-**24. Oktober 2020**<br/>
-Version 2010 (Build 13328.20278)<br/>
+**24. Oktober 2020**<br/>
+Version 2010 (Build 13328.20278)<br/>
 
-**19. Oktober 2020**<br/>
+**19. Oktober 2020**<br/>
 Version 2010 (Build 13328.20210)<br/>
 
 **11. Oktober 2020**<br/>
@@ -182,8 +185,8 @@ Version 2008 (Build 13127.20360)<br/>
 **27. August 2020**<br/>
 Version 2008 (Build 13127.20296)<br/>
 
-**25. August 2020**<br/>
-Version 2008 (Build 13127.20268)<br/>
+**25. August 2020**<br/>
+Version 2008 (Build 13127.20268)<br/>
 
 **17. August 2020**<br/>
 Version 2008 (Build 13127.20208)<br/>

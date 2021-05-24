@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: cf5a7d18a98c712a31e5741e7d8532020ec330f1
-ms.sourcegitcommit: 596cdb3423140df0324a952157fbc39ebedc12b9
+ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52278002"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563341"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,49 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2106-may-14"></a>Version 2106: 14. Mai
+*Version 2106 (Build 14107.20000)*
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, durch das beim Ausführen des Modus "Nur Kopfzeilen herunterladen" Aktionen erfordernde Nachrichten entweder ständig aktualisiert oder wieder zu Kopfzeilen zurückkonvertiert wurden.
+
+
+- Wir haben ein Problem behoben, durch das die Personenauswahl in Outlook für Benutzer mit einer unbefristeten Lizenz eher nach oben als nach unten erweitert wurde.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern benutzerdefinierter Domänen beim Einfügen eines Links in eine E-Mail-Nachricht eine Warnmeldung zu Berechtigungen angezeigt wurde.
+
+
+### <a name="word"></a>Word
+
+- Wir haben ein Problem behoben, bei dem durch Drücken von Tastenkombinationen wie STRG+UMSCHALT+@ nicht der erwartete Akzentbuchstabe (in diesem Fall "å") erzeugt würde.
+
+
+- Es wurde ein Problem mit der Bildkomprimierung behoben.
+
+
+- Wir haben ein Problem behoben, bei dem das Kopieren einer E-Mail-Anlage in eine andere Anwendung als Word fehlschlug, wenn der Dateiname DBCS-Zeichen enthielt.
+
+
+- Wir haben ein Problem behoben, bei dem Word manchmal einen Rahmen um Text angezeigt hat, der nicht hätte dort sein sollen.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben ein Problem behoben, bei dem in OneDrive eine Fehlermeldung für den Seriendruck angezeigt wurde, wenn gar kein Seriendruckkonflikt vorlag.
+
+
+- Wir haben ein Problem in Bezug auf die Z-Reihenfolge von SVG-Objekten bei der Umwandlung in Formen behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2106-may-07"></a>Version 2106: 07. Mai
 *Version 2106 (Build 14029.20000)*
@@ -942,7 +985,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
+- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
 
 ### <a name="word"></a>Word
 
@@ -1224,7 +1267,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - Ein Problem mit Power Pivot bei der Verwendung einer Verbindung zu einer Oracle-Datenbank wurde behoben.
 
 
-- Ein Problem wurde behoben, durch das Excel unerwartet beendet wurde, wenn der Prozess der MTR-Berechnung und der Aktualisierung von Gruppenrichtlinienobjekten (z. B. über Remoteaktualisierung von Gruppenrichtlinien) ausgelöst wurde.
+- Ein Problem wurde behoben, durch das Excel unerwartet beendet wurde, wenn der Prozess der MTR-Berechnung und der Aktualisierung von Gruppenrichtlinienobjekten (z. B. über Remoteaktualisierung von Gruppenrichtlinien) ausgelöst wurde.
 
 
 - Diese Änderung behebt einen Fehler, der beim Versuch, eine atomsvc-Datei zu laden, einen Fehler in Excel verursacht.
@@ -1276,7 +1319,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
 
 
 
@@ -1520,8 +1563,8 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2010-september-25"></a>Version 2010: 25. September
-*Version 2010 (Build 13318.20000)*
+## <a name="version-2010-september-25"></a>Version 2010: 25. September
+*Version 2010 (Build 13318.20000)*
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1742,7 +1785,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - Es wurde ein Absturz im Zusammenhang mit XLAM-Add-In-Referenzen und benannten Bereichen behoben.
 - Es wurde ein Problem behoben, bei dem Benutzer einen PivotTable-Filter nicht ändern konnten, weil er auf einen Wert eingestellt war, der in einer Analysis Services-Datenbank nicht mehr vorhanden war.
 - Es wurde ein Problem behoben, bei dem Benutzer, die einen benutzerdefinierten Stil auf ein dynamisches Array anwandten, die Fehlermeldung erhielten: „Sie können einen Teil eines Arrays nicht ändern“. Dies war eine veraltete Einschränkung, die entfernt wurde.
-- Es wurde ein Problem behoben, bei dem die Excel-Formularleiste nicht vollständig gerendert werden konnte, wenn die Verbindung zu einem Gerät verloren ging, wie z. B. beim Verbinden/Trennen einer Remote-Sitzung oder bei einem Monitorwechsel.
+- Es wurde ein Problem behoben, bei dem die Excel-Formularleiste nicht vollständig gerendert werden konnte, wenn die Verbindung zu einem Gerät verloren ging, wie z. B. beim Verbinden/Trennen einer Remote-Sitzung oder bei einem Monitorwechsel.
 
 ### <a name="outlook"></a>Outlook
 
@@ -1750,7 +1793,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 - Es wurde ein Problem behoben, bei dem der Legacy-Domänenname für einen E-Mail-Absender beibehalten und angezeigt wurde, nachdem ein Entwurf der E-Mail zwischen Postfächern mit Assistenten- und Manager-Berechtigungen verschoben wurde.
 - Es wurde ein Problem behoben, das dazu führte, dass einige Benutzer Outlook im Offline-Status starteten, bis sie manuell wählten, online zu arbeiten.
 - Es wurde ein Problem behoben, bei dem das Ausführen des VBA-Codes ActiveInspector.CommandBars.ExecuteMso ("ShowSchedulingPage") nach dem Aktivieren des Einzeiligen Menübands (SLR) zu einem Laufzeitfehler führen konnte.
-- Es wurde ein Problem behoben, bei dem die Schaltflächen "OK" und "Abbrechen" im Dialogfeld "Automatische Antworten" auf einem System mit einer hohen Auflösung (z. B. 1750 x 1920) in Verbindung mit einer großen Textgröße (z. B. 175 %) nicht sichtbar waren.
+- Es wurde ein Problem behoben, bei dem die Schaltflächen "OK" und "Abbrechen" im Dialogfeld "Automatische Antworten" auf einem System mit einer hohen Auflösung (z. B. 1750 x 1920) in Verbindung mit einer großen Textgröße (z. B. 175 %) nicht sichtbar waren.
 - Es wurde eine Bedingung behoben, nach der das Senden einer Besprechungsanfrage von einer leeren Kontaktgruppe an eine andere Kontaktgruppe zu einem Absturz führen würde.
 - Es wurde ein Problem behoben, bei dem es zu einem Absturz kam, wenn Benutzer bestimmte sehr große E-Mails öffneten.
 - Es wurde ein Problem behoben, bei dem, wenn die Gruppenrichtlinie erfordert, dass ein Add-In immer aktiviert sein muss, die Überwachungs-Add-Ins nicht mehr verfügbar sind, um Benutzer daran zu hindern, das Add-In zu deaktivieren.
@@ -1768,7 +1811,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 ### <a name="word"></a>Word
 
 - Es wurde ein Problem behoben, bei dem die Kommentarkarte einen Rahmen um den Kommentartext anzeigte, wenn der Benutzer auf den Kommentar klickte.
-- Es wurde ein Problem behoben, bei dem der Fokus nicht auf den Kommentarbereich gelegt wurde, wenn das Dokument auf 160 % oder mehr gezoomt wurde und der Kommentarbereich nicht sichtbar war.
+- Es wurde ein Problem behoben, bei dem der Fokus nicht auf den Kommentarbereich gelegt wurde, wenn das Dokument auf 160 % oder mehr gezoomt wurde und der Kommentarbereich nicht sichtbar war.
 - Es wurde ein Problem behoben, bei dem die Kommentare zu einem Dokument auf anderen geöffneten Dokumenten angezeigt wurden, nachdem zwischen den mehreren geöffneten Dokumenten gewechselt wurde.
 - Es wurde ein Problem behoben, bei dem, wenn ein Benutzer einen Kommentar-Entwurf erstellte, der in einer Zeile verankert war, die bereits bestätigte Kommentare enthielt, der Entwurf in der falschen Reihenfolge in Bezug auf den bestätigten Kommentar im SideTrack angeordnet wurde.
 - Es wurde ein Problem behoben, bei dem lange Links beim Speichern eines Dokuments im HTML-Format nicht umgebrochen wurden.
@@ -1776,7 +1819,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2009-august-28"></a>Version 2009: 28. August
+## <a name="version-2009-august-28"></a>Version 2009: 28. August
 *Version 2009 (Build 13219.20004)*
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -1798,7 +1841,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
+- Es wurde ein Problem mit dem Office-Bereitstellungstool behoben, bei dem die Konfiguration fehlschlug, wenn das Feature "RemoveMSI" in Anwesenheit des Produkts „Microsoft-Anwendungsfehler-Berichterstattung“ in Office 2007 verwendet wurde.
 - Im Dialogfeld "Bild komprimieren" wurde ein Problem behoben, bei dem einige vom Benutzer ausgewählte DPI-Einstellungen nicht beibehalten wurden.
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -1942,8 +1985,8 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2008-july-24"></a>Version 2008: 24. Juli
-*Version 2008 (Build 13117.20000)*
+## <a name="version-2008-july-24"></a>Version 2008: 24. Juli
+*Version 2008 (Build 13117.20000)*
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -2199,7 +2242,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 - **Sortieren/filtern während der Zusammenarbeit in Excel:** Sie können in Ihrer Excel-Datei jetzt sortieren und filtern, während Sie mit anderen zusammenarbeiten. Dieses neue Feature stellt sicher, dass Sortierungen und Filter anderer Benutzer, während Sie das Dokument gemeinsam erstellen, für Sie keine Auswirkungen haben.
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)
 
 ### <a name="outlook"></a>Outlook
 
@@ -3007,6 +3050,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
@@ -3016,5 +3060,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13901.20036|version-2103-march-05|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

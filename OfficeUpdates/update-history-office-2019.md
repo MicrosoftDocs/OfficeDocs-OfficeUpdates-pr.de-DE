@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten einen Updateverlauf für unbefristete Office 2016- und 2019-Versionen, die Klick-und-Los (C2R) verwenden.
-ms.openlocfilehash: a2cfe47f4a036aff6bd59c99957d7084e29616b6
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 9264d7ca6865918731836d922df092e35c2b9e7c
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322235"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563351"
 ---
 # <a name="update-history-for-office-2016-c2r-and-office-2019"></a>Updateverlauf für Office 2016 C2R und Office 2019
 
@@ -52,7 +52,7 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 |9. März 2021|Version 1808 (Build 10372.20060)|
 |9. Februar 2021|Version 1808 (Build 10371.20060)|
 |12. Januar 2021|Version 1808 (Build 10370.20052)|
-|8. Dezember 2020|Version 1808 (Build 10369.20032)|
+|8. Dezember 2020|Version 1808 (Build 10369.20032)|
 
 
 [//]: # (NICHT ENTFERNEN VL TABELLE ENDE)
@@ -67,9 +67,9 @@ Die folgenden Informationen gelten für volumenlizenzierte Versionen von Office 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
 |10. November 2020|Version 1808 (Build 10368.20035)|
-|13. Oktober 2020|Version 1808 (Build 10367.20048)|
+|13. Oktober 2020|Version 1808 (Build 10367.20048)|
 |8. September 2020|Version 1808 (Build 10366.20016)|
-|11. August 2020|Version 1808 (Build 10364.20059)|
+|11. August 2020|Version 1808 (Build 10364.20059)|
 |14. Juli 2020   |Version 1808 (Build 10363.20015)  |
 |9. Juni 2020   |Version 1808 (Build 10361.20002)  |
 |12. Mai 2020   |Version 1808 (Build 10359.20023)  |
@@ -93,12 +93,12 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|18. Mai 2021|Version 2104 (Build 13929.20386)|
 |11. Mai 2021|Version 2104 (Build 13929.20372)|
 |29. April 2021|Version 2104 (Build 13929.20296)|
 |23. April 2021|Version 2103 (Build 13901.20462)|
 |13. April 2021|Version 2103 (Build 13901.20400)|
 |2. April 2021|Version 2103 (Build 13901.20336)|
-|30. März 2021|Version 2103 (Build 13901.20312)|
 
 
 [//]: # (NICHT ENTFERNEN EINZELHANDEL TABELLE ENDE)
@@ -112,31 +112,32 @@ Die folgenden Informationen gelten für die Einzelhandelsversionen von Office 20
 
 |**Veröffentlichungsdatum**|**Versionsnummer**|
 |:-----|:-----|
+|30. März 2021|Version 2103 (Build 13901.20312)|
 |18. März 2021|Version 2102 (Build 13801.20360)|
 |9. März 2021|Version 2102 (Build 13801.20294)|
 |1. März 2021|Version 2102 (Build 13801.20266)|
 |16. Februar 2021|Version 2101 (Build 13628.20448)|
 |9. Februar 2021|Version 2101 (Build 13628.20380)|
 |26. Januar 2021|Version 2101 (Build 13628.20274)|
-|21. Januar 2021|Version 2012 (Build 13530.20440)|
+|21. Januar 2021|Version 2012 (Build 13530.20440)|
 |12. Januar 2021|Version 2012 (Build 13530.20376)|
 |5. Januar 2021|Version 2012 (Build 13530.20316)|
 |21. Dezember 2020|Version 2011 (Build 13426.20404)|
-|8. Dezember 2020|Version 2011 (Build 13426.20332)|
-|2. Dezember 2020|Version 2011 (Build 13426.20308)|
+|8. Dezember 2020|Version 2011 (Build 13426.20332)|
+|2. Dezember 2020|Version 2011 (Build 13426.20308)|
 |30. November 2020|Version 2011 (Build 13426.20294)|
 |23. November 2020|Version 2011 (Build 13426.20274)|
 |17. November 2020|Version 2010 (Build 13328.20408)|
 |10. November 2020|Version 2010 (Build 13328.20356)|
-|27. Oktober 2020|Version 2010 (Build 13328.20292)|
-|21. Oktober 2020|Version 2009 (Build 13231.20418)|
-|13. Oktober 2020|Version 2009 (Build 13231.20390)|
+|27. Oktober 2020|Version 2010 (Build 13328.20292)|
+|21. Oktober 2020|Version 2009 (Build 13231.20418)|
+|13. Oktober 2020|Version 2009 (Build 13231.20390)|
 |8. Oktober 2020|Version 2009 (Build 13231.20368)|
 |28. September 2020|Version 2009 (Build 13231.20262)|
 |22. September 2020|Version 2008 (Build 13127.20508)|
 |9. September 2020|Version 2008 (Build 13127.20408)|
 |31. August 2020|Version 2008 (Build 13127.20296)|
-|25. August 2020|Version 2007 (Build 13029.20460)|
+|25. August 2020|Version 2007 (Build 13029.20460)|
 |11. August 2020|Version 2007 (Build 13029.20344)|
 |30. Juli 2020|Version 2007 (Build 13029.20308)  |
 |28. Juli 2020|Version 2006 (Build 13001.20498)  |

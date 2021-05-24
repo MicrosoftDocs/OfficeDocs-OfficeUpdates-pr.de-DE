@@ -9,20 +9,20 @@ ms.service: o365-proplus-itpro
 localization_priority: Priority
 ms.collection: RelNotes_ProPlus
 description: Dieser Artikel enthält Informationen für IT-Experten über die ungefähren Downloadgrößen für Updates für Microsoft 365 Apps für jeden Kanal.
-ms.openlocfilehash: f9a6e6f59593677910766785b0a42a551277c44c
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: d16050d5873de88a8ac9d709d097c447f6ab553c
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322455"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563361"
 ---
 # <a name="download-sizes-for-updates-to-microsoft-365-apps"></a>Downloadgrößen für Updates von Microsoft 365 Apps
 
 Unser Ziel ist es, möglichst im Vorfeld Informationen zur Updategröße bereitzustellen, um Unternehmenskunden beim Planen der Netzwerkbandbreite zu unterstützen.
 
-In den nachfolgenden Tabellen sind die ungefähren Downloadgrößen bei Updates von einer früheren Version von Microsoft 365 Apps auf die neueste Version aufgeführt. Die tatsächlichen Downloadgrößen können um bis zu 50 MB abweichen. Bei Updates von älteren Versionen auf die neueste Version können die Downloadgrößen größer sein.
+In den nachfolgenden Tabellen sind die ungefähren Downloadgrößen bei Updates von einer früheren Version von Microsoft 365 Apps auf die neueste Version aufgeführt. Die tatsächlichen Downloadgrößen können um bis zu 50 MB abweichen. Bei Updates von älteren Versionen auf die neueste Version können die Downloadgrößen größer sein.
 
-Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, könnte Ihr Update deutlich größer sein, als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß sein könnte.
+Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährlichen Kanal (gezielt) auf einen halbjährlichen Kanal, könnte Ihr Update deutlich größer sein, als in den Tabellen angegeben. Unter Umständen umfasst es einen vollständigen Download, der mindestens 1 GB groß sein könnte.
 
 
 > [!NOTE]
@@ -30,6 +30,22 @@ Falls Sie auf einen anderen Kanal umstellen, beispielsweise von einem halbjährl
 > - Es werden Versionen der letzten vier Monate aufgelistet.
 
 [//]: # (NICHT ENTFERNEN)
+
+## <a name="may-18-2021"></a>18. Mai 2021
+
+[//]: # (INHALT NICHT ENTFERNEN START18. Mai 2021)
+
+### <a name="current-channel"></a>Aktueller Kanal
+
+Die letzte Version ist Version 2104 (Build 13929.20386).
+
+|**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
+|:-----|:-----|:-----|
+|Version 2104 (Build 13929.20372) <br/> |11. Mai 2021 <br/> |50<br/> |
+|Version 2104 (Build 13929.20296) <br/> |29. April 2021 <br/> |60<br/> |
+
+
+[//]: # (INHALT NICHT ENTFERNEN ENDE18. Mai 2021)
 
 ## <a name="may-11-2021"></a>11. Mai 2021
 
@@ -300,7 +316,7 @@ Die aktuellste Version ist Version 2101 (Build 13628.20380).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2101 (Build 13628.20274) <br/> |26. Januar 2021 <br/> |62<br/> |
-|Version 2012 (Build 13530.20440) <br/> |21. Januar 2021 <br/> |203<br/> |
+|Version 2012 (Build 13530.20440) <br/> |21. Januar 2021 <br/> |203<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
@@ -348,13 +364,13 @@ Die aktuellste Version ist Version 2101 (Build 13628.20274).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2012 (Build 13530.20440) <br/> |21. Januar 2021 <br/> |197<br/> |
+|Version 2012 (Build 13530.20440) <br/> |21. Januar 2021 <br/> |197<br/> |
 |Version 2012 (Build 13530.20376) <br/> |12. Januar 2021 <br/> |211<br/> |
 
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 26. Januar 2021)
 
-## <a name="january-21-2021"></a>21. Januar 2021
+## <a name="january-21-2021"></a>21. Januar 2021
 
 [//]: # (INHALTE NICHT ENTFERNEN START 21. Januar 2021)
 
@@ -481,7 +497,7 @@ Die neuste Version ist Version 2008 (Build 13127.20910).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2008 (Build 13127.20760) <br/> |10. November 2020 <br/> |68<br/> |
-|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |75<br/> |
+|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |75<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel"></a>Halbjährlicher Enterprise-Kanal
@@ -491,7 +507,7 @@ Die neuste Version ist Version 2002 (Build 12527.21416).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2002 (Build 12527.21330) <br/> |10. November 2020 <br/> |68<br/> |
-|Version 2002 (Build 12527.21236) <br/> |13. Oktober 2020 <br/> |71<br/> |
+|Version 2002 (Build 12527.21236) <br/> |13. Oktober 2020 <br/> |71<br/> |
 
 
 
@@ -559,7 +575,7 @@ Die aktuellste Version ist Version 2010 (Build 13328.20408).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2010 (Build 13328.20356) <br/> |10. November 2020 <br/> |51<br/> |
-|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
+|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |60<br/> |
 
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE 17. November 2020)
@@ -574,8 +590,8 @@ Das neueste Release ist Version 2010 (Build 13328.20356).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |57<br/> |
-|Version 2009 (Build 13231.20418) <br/> |21. Oktober 2020 <br/> |286<br/> |
+|Version 2010 (Build 13328.20292) <br/> |27. Oktober 2020 <br/> |57<br/> |
+|Version 2009 (Build 13231.20418) <br/> |21. Oktober 2020 <br/> |286<br/> |
 
 
 ### <a name="monthly-enterprise-channel"></a>Monatlicher Enterprise-Kanal
@@ -584,7 +600,7 @@ Die aktuellste Version ist Version 2009 (Build 13231.20514).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |130<br/> |
+|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |130<br/> |
 
 
 
@@ -594,7 +610,7 @@ Die aktuellste Version ist Version 2008 (Build 13127.20760).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |60<br/> |
+|Version 2008 (Build 13127.20638) <br/> |13. Oktober 2020 <br/> |60<br/> |
 |Version 2008 (Build 13127.20408) <br/> |8. September 2020 <br/> |65<br/> |
 
 
@@ -604,7 +620,7 @@ Die aktuellste Version ist Version 2002 (Build 12527.21330).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2002 (Build 12527.21236) <br/> |13. Oktober 2020 <br/> |63<br/> |
+|Version 2002 (Build 12527.21236) <br/> |13. Oktober 2020 <br/> |63<br/> |
 |Version 2002 (Build 12527.21104) <br/> |8. September 2020 <br/> |76<br/> |
 
 
@@ -613,7 +629,7 @@ Die aktuellste Version ist Version 2002 (Build 12527.21330).
 
 
 
-## <a name="october-27-2020"></a>27. Oktober 2020
+## <a name="october-27-2020"></a>27. Oktober 2020
 
 [//]: # (INHALTE NICHT ENTFERNEN START 27. Oktober 2020)
 
@@ -623,13 +639,13 @@ Das neueste Release ist Version 2010 (Build 13328.20292).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2009 (Build 13231.20418) <br/> |21. Oktober 2020 <br/> |133<br/> |
-|Version 2009 (Build 13231.20390) <br/> |13. Oktober 2020 <br/> |133<br/> |
+|Version 2009 (Build 13231.20418) <br/> |21. Oktober 2020 <br/> |133<br/> |
+|Version 2009 (Build 13231.20390) <br/> |13. Oktober 2020 <br/> |133<br/> |
 
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 27. Oktober 2020)
 
-## <a name="october-21-2020"></a>21. Oktober 2020
+## <a name="october-21-2020"></a>21. Oktober 2020
 
 [//]: # (INHALTE NICHT ENTFERNEN START 21. Oktober 2020)
 
@@ -639,13 +655,13 @@ Das neueste Release ist Version 2009 (Build 13231.20418).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2009 (Build 13231.20390) <br/> |13. Oktober 2020 <br/> |38<br/> |
+|Version 2009 (Build 13231.20390) <br/> |13. Oktober 2020 <br/> |38<br/> |
 |Version 2009 (Build 13231.20368) <br/> |8. Oktober 2020 <br/> |173<br/> |
 
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 21. Oktober 2020)
 
-## <a name="october-13-2020"></a>13. Oktober 2020
+## <a name="october-13-2020"></a>13. Oktober 2020
 
 [//]: # (INHALTE NICHT ENTFERNEN START 13. Oktober 2020)
 
@@ -753,7 +769,7 @@ Die aktuellste Version ist Version 2008 (Build 13127.20408).
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
 |Version 2008 (Build 13127.20296) <br/> |31. August 2020 <br/> |51<br/> |
-|Version 2007 (Build 13029.20460) <br/> |25. August 2020 <br/> |510<br/> |
+|Version 2007 (Build 13029.20460) <br/> |25. August 2020 <br/> |510<br/> |
 
 
 [//]: # (INHALTE NICHT ENTFERNEN ENDE 9. September 2020)
@@ -768,7 +784,7 @@ Die aktuellste Version ist Version 2007 (Build 13029.20534).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2006 (Build 13001.20520) <br/> |11. August 2020 <br/> |157<br/> |
+|Version 2006 (Build 13001.20520) <br/> |11. August 2020 <br/> |157<br/> |
 
 
 ### <a name="semi-annual-enterprise-channel-preview"></a>Halbjährlicher Enterprise-Kanal (Vorschau)
@@ -777,7 +793,7 @@ Die aktuellste Version ist Version 2008 (Build 13127.20408).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |374<br/> |
+|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |374<br/> |
 |Version 2002 (Build 12527.20880) <br/> |14. Juli 2020 <br/> |600<br/> |
 
 
@@ -787,7 +803,7 @@ Die aktuellste Version ist Version 2002 (Build 12527.21104).
 
 |**Upgrade von**|**Veröffentlichungsdatum**|**Ungefähre Downloadgröße (in MB)**|
 |:-----|:-----|:-----|
-|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |59<br/> |
+|Version 2002 (Build 12527.20988) <br/> |11. August 2020 <br/> |59<br/> |
 |Version 2002 (Build 12527.20880) <br/> |14. Juli 2020 <br/> |74<br/> |
 
 
@@ -795,7 +811,7 @@ Die aktuellste Version ist Version 2002 (Build 12527.21104).
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-- [Übersicht über die Updatekanäle für Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+- [Übersicht über die Updatekanäle für Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 
 - [Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)](./update-history-microsoft365-apps-by-date.md)
 

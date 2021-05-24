@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: d0a956126459c81ebb4147fd052dcc1a62661eab
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 818e8a5f528dc4eeb71f39e8f03f5d580351daf8
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322305"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563391"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -33,7 +33,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Aktueller Kanal<br/>|2104<br/>|13929.20372<br/>|11. Mai 2021<br/>|Version 2105 wird veröffentlicht<br/>|
+|Aktueller Kanal<br/>|2104<br/>|13929.20386<br/>|18. Mai 2021<br/>|Version 2105 wird veröffentlicht<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2103<br/>|13901.20516<br/>|11. Mai 2021<br/>|13. Juli 2021<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2102<br/>|13801.20638<br/>|11. Mai 2021<br/>|8. Juni 2021<br/>|
 |Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2102<br/>|13801.20638<br/>|11. Mai 2021<br/>|14. September 2021<br/>|
@@ -52,8 +52,9 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|18. Mai|[Version 2104 (Build 13929.20386)](current-channel.md#version-2104-may-18)| | | |
 |2021|11. Mai|[Version 2104 (Build 13929.20372)](current-channel.md#version-2104-may-11)|[Version 2103 (Build 13901.20516)](monthly-enterprise-channel.md#version-2103-may-11)<br/>[Version 2102 (Build 13801.20638)](monthly-enterprise-channel.md#version-2102-may-11)|[Version 2102 (Build 13801.20638)](semi-annual-enterprise-channel-preview.md#version-2102-may-11)|[Version 2008 (Build 13127.21624)](semi-annual-enterprise-channel.md#version-2008-may-11)<br/>[Version 2002 (Build 12527.21912)](semi-annual-enterprise-channel.md#version-2002-may-11)|
-|2021|29. April|[Version 2104 (Build 13929.20296)](current-channel.md#version-2104-april-29)| | | |
+|2021|29. April|[Version 2104 (Build 13929.20296)](current-channel.md#version-2104-april-29)| | | |
 |2021|23. April|[Version 2103 (Build 13901.20462)](current-channel.md#version-2103-april-23)| | | |
 |2021|13. April|[Version 2103 (Build 13901.20400)](current-channel.md#version-2103-april-13)|[Version 2102 (Build 13801.20506)](monthly-enterprise-channel.md#version-2102-april-13)<br/>[Version 2101 (Build 13628.20664)](monthly-enterprise-channel.md#version-2101-april-13)|[Version 2102 (Build 13801.20506)](semi-annual-enterprise-channel-preview.md#version-2102-april-13)|[Version 2008 (Build 13127.21506)](semi-annual-enterprise-channel.md#version-2008-april-13)<br/>[Version 2002 (Build 12527.21814)](semi-annual-enterprise-channel.md#version-2002-april-13)|
 |2021|02. April|[Version 2103 (Build 13901.20336)](current-channel.md#version-2103-april-02)| | | |
@@ -64,7 +65,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2021|16. Februar|[Version 2101 (Build 13628.20448)](current-channel.md#version-2101-february-16)| | | |
 |2021|09. Februar|[Version 2101 (Build 13628.20380)](current-channel.md#version-2101-february-09)|[Version 2012 (Build 13530.20528)](monthly-enterprise-channel.md#version-2012-february-09)<br/>[Version 2011 (Build 13426.20658)](monthly-enterprise-channel.md#version-2011-february-09)|[Version 2008 (Build 13127.21216)](semi-annual-enterprise-channel-preview.md#version-2008-february-09)|[Version 2008 (Build 13127.21216)](semi-annual-enterprise-channel.md#version-2008-february-09)<br/>[Version 2002 (Build 12527.21594)](semi-annual-enterprise-channel.md#version-2002-february-09)<br/>[Version 1908 (Build 11929.21008)](semi-annual-enterprise-channel.md#version-1908-february-09)|
 |2021|26. Januar|[Version 2101 (Build 13628.20274)](current-channel.md#version-2101-january-26)| | | |
-|2021|21. Januar|[Version 2012 (Build 13530.20440)](current-channel.md#version-2012-january-21)| | | |
+|2021|21. Januar|[Version 2012 (Build 13530.20440)](current-channel.md#version-2012-january-21)| | | |
 |2021|12. Januar|[Version 2012 (Build 13530.20376)](current-channel.md#version-2012-january-12)|[Version 2011 (Build 13426.20526)](monthly-enterprise-channel.md#version-2011-january-12)<br/>[Version 2010 (Build 13328.20550)](monthly-enterprise-channel.md#version-2010-january-12)|[Version 2008 (Build 13127.21064)](semi-annual-enterprise-channel-preview.md#version-2008-january-12)|[Version 2008 (Build 13127.21064)](semi-annual-enterprise-channel.md#version-2008-january-12)<br/>[Version 2002 (Build 12527.21504)](semi-annual-enterprise-channel.md#version-2002-january-12)<br/>[Version 1908 (Build 11929.20994)](semi-annual-enterprise-channel.md#version-1908-january-12)|
 |2021|05. Januar|[Version 2012 (Build 13530.20316)](current-channel.md#version-2012-january-05)| | | |
 |2020|21. Dezember|[Version 2011 (Build 13426.20404)](current-channel.md#version-2011-december-21)| | | |
@@ -74,7 +75,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2020|23. November|[Version 2011 (Build 13426.20274)](current-channel.md#version-2011-november-23)| | | |
 |2020|17. November|[Version 2010 (Build 13328.20408)](current-channel.md#version-2010-november-17)| | | |
 |2020|10. November|[Version 2010 (Build 13328.20356)](current-channel.md#version-2010-november-10)|[Version 2009 (Build 13231.20514)](monthly-enterprise-channel.md#version-2009-november-10)<br/>[Version 2008 (Build 13127.20760)](monthly-enterprise-channel.md#version-2008-november-10)|[Version 2008 (Build 13127.20760)](semi-annual-enterprise-channel-preview.md#version-2008-november-10)|[Version 2002 (Build 12527.21330)](semi-annual-enterprise-channel.md#version-2002-november-10)<br/>[Version 1908 (Build 11929.20974)](semi-annual-enterprise-channel.md#version-1908-november-10)|
-|2020|27. Oktober|[Version 2010 (Build 13328.20292)](current-channel.md#version-2010-october-27)| | | |
+|2020|27. Oktober|[Version 2010 (Build 13328.20292)](current-channel.md#version-2010-october-27)| | | |
 |2020|21. Oktober|[Version 2009 (Build 13231.20418)](current-channel.md#version-2009-october-21)| | | |
 |2020|13. Oktober|[Version 2009 (Build 13231.20390)](current-channel.md#version-2009-october-13)|[Version 2008 (Build 13127.20638)](monthly-enterprise-channel.md#version-2008-october-13)<br/>[Version 2007 (Build 13029.20708)](monthly-enterprise-channel.md#version-2007-october-13)|[Version 2008 (Build 13127.20638)](semi-annual-enterprise-channel-preview.md#version-2008-october-13)|[Version 2002 (Build 12527.21236)](semi-annual-enterprise-channel.md#version-2002-october-13)<br/>[Version 1908 (Build 11929.20966)](semi-annual-enterprise-channel.md#version-1908-october-13)|
 |2020|08. Oktober|[Version 2009 (Build 13231.20368)](current-channel.md#version-2009-october-08)| | | |
@@ -83,7 +84,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2020|09. September|[Version 2008 (Build 13127.20408)](current-channel.md#version-2008-september-09)| | | |
 |2020|08. September| |[Version 2007 (Build 13029.20534)](monthly-enterprise-channel.md#version-2007-september-08)<br/>[Version 2006 (Build 13001.20648)](monthly-enterprise-channel.md#version-2006-september-08)|[Version 2008 (Build 13127.20408)](semi-annual-enterprise-channel-preview.md#version-2008-september-08)|[Version 2002 (Build 12527.21104)](semi-annual-enterprise-channel.md#version-2002-september-08)<br/>[Version 1908 (Build 11929.20946)](semi-annual-enterprise-channel.md#version-1908-september-08)|
 |2020|31. August|[Version 2008 (Build 13127.20296)](current-channel.md#version-2008-august-31)| | | |
-|2020|25. August|[Version 2007 (Build 13029.20460)](current-channel.md#version-2007-august-25)| | | |
+|2020|25. August|[Version 2007 (Build 13029.20460)](current-channel.md#version-2007-august-25)| | | |
 |2020|11. August|[Version 2007 (Build 13029.20344)](current-channel.md#version-2007-august-11)|[Version 2006 (Build 13001.20520)](monthly-enterprise-channel.md#version-2006-august-11)<br/>[Version 2005 (Build 12827.20656)](monthly-enterprise-channel.md#version-2005-august-11)|[Version 2002 (Build 12527.20988)](semi-annual-enterprise-channel-preview.md#version-2002-august-11)|[Version 2002 (Build 12527.20988)](semi-annual-enterprise-channel.md#version-2002-august-11)<br/>[Version 1908 (Build 11929.20934)](semi-annual-enterprise-channel.md#version-1908-august-11)<br/>[Version 1902 (Build 11328.20644)](semi-annual-enterprise-channel.md#version-1902-august-11)|
 |2020|30. Juli|[Version 2007 (Build 13029.20308)](current-channel.md#version-2007-july-30)| | | |
 |2020|28. Juli|[Version 2006 (Build 13001.20498)](current-channel.md#version-2006-july-28)| | | |
@@ -95,7 +96,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2020|21. Mai|[Version 2004 (Build 12730.20352)](current-channel.md#version-2004-may-21)| | | |
 |2020|12. Mai|[Version 2004 (Build 12730.20270)](current-channel.md#version-2004-may-12)|[Version 2003 (Build 12624.20588)](monthly-enterprise-channel.md#version-2003-may-12)<br/>|[Version 2002 (Build 12527.20612)](semi-annual-enterprise-channel-preview.md#version-2002-may-12)|[Version 1908 (Build 11929.20776)](semi-annual-enterprise-channel.md#version-1908-may-12)<br/>[Version 1902 (Build 11328.20586)](semi-annual-enterprise-channel.md#version-1902-may-12)|
 |2020|04. Mai|[Version 2004 (Build 12730.20250)](current-channel.md#version-2004-may-04)| | |[Version 1908 (Build 11929.20752)](semi-annual-enterprise-channel.md#version-1908-may-04)<br/>[Version 1902 (Build 11328.20572)](semi-annual-enterprise-channel.md#version-1902-may-04)|
-|2020|29. April|[Version 2004 (Build 12730.20236)](current-channel.md#version-2004-april-29)| | | |
+|2020|29. April|[Version 2004 (Build 12730.20236)](current-channel.md#version-2004-april-29)| | | |
 |2020|15. April|[Version 2003 (Build 12624.20466)](current-channel.md#version-2003-april-15)| | | |
 |2020|14. April|[Version 2003 (Build 12624.20442)](current-channel.md#version-2003-april-14)| |[Version 2002 (Build 12527.20442)](semi-annual-enterprise-channel-preview.md#version-2002-april-14)|[Version 1908 (Build 11929.20708)](semi-annual-enterprise-channel.md#version-1908-april-14)<br/>[Version 1902 (Build 11328.20564)](semi-annual-enterprise-channel.md#version-1902-april-14)|
 |2020|31. März|[Version 2003 (Build 12624.20382)](current-channel.md#version-2003-march-31)| | | |
@@ -112,7 +113,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2019|10. Dezember|[Version 1911 (Build 12228.20364)](monthly-channel-archived.md#version-1911-december-10)| |[Version 1908 (Build 11929.20516)](semi-annual-enterprise-channel-archived.md#version-1902-december-10)  |[Version 1902 (Build 11328.20492)](semi-annual-enterprise-channel-archived.md#version-1902-december-10)<br/>[Version 1808 (Build 10730.20426)](semi-annual-enterprise-channel-archived.md#version-1808-december-10)|
 |2019|3. Dezember|[Version 1911 (Build 12228.20332)](monthly-channel-archived.md#version-1911-december-03)| | | |
 |2019|22. November|[Version 1910 (Build 12130.20410)](monthly-channel-archived.md#version-1910-november-22)| |[Version 1908 (Build 11929.20494)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-22)|[Version 1902 (Build 11328.20480)](semi-annual-enterprise-channel-archived.md#version-1902-november-22)<br/>[Version 1808 (Build 10730.20422)](semi-annual-enterprise-channel-archived.md#version-1808-november-22)|
-|2019|18. November|[Version 1910 (Build 12130.20390)](monthly-channel-archived.md#version-1910-november-18)| | | |
+|2019|18. November|[Version 1910 (Build 12130.20390)](monthly-channel-archived.md#version-1910-november-18)| | | |
 |2019|12. November|[Version 1910 (Build 12130.20344)](monthly-channel-archived.md#version-1910-november-12) | |[Version 1908 (Build 11929.20436)](semi-annual-enterprise-channel-preview-archived.md#version-1908-november-12)|[Version 1902 (Build 11328.20468)](semi-annual-enterprise-channel-archived.md#version-1902-november-12)<br/>[Version 1808 (Build 10730.20416)](semi-annual-enterprise-channel-archived.md#version-1808-november-12)|
 |2019|30. Oktober|[Version 1910 (Build 12130.20272)](monthly-channel-archived.md#version-1910-october-30)| | | |
 |2019|22. Oktober|[Version 1909 (Build 12026.20344)](monthly-channel-archived.md#version-1909-october-22)| | | |
@@ -129,11 +130,11 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2019|24. Juni|[Version 1906 (Build 11727.20210)](monthly-channel-archived.md#version-1906-june-24)| | | |
 |2019|11. Juni|[Version 1905 (Build 11629.20246)](monthly-channel-archived.md#version-1905-june-11)| |[Version 1902 (Build 11328.20318)](semi-annual-enterprise-channel-preview-archived.md#version-1902-june-11)|[Version 1808 (Build 10730.20348)](semi-annual-enterprise-channel-archived.md#version-1808-june-11)<br/>[Version 1803 (Build 9126.2388)](semi-annual-enterprise-channel-archived.md#version-1803-june-11)|
 |2019|3. Juni |[Version 1905 (Build 11629.20214)](monthly-channel-archived.md#version-1905-june-3)| | | |
-|2019|29. Mai |[Version 1905 (Build 11629.20196)](monthly-channel-archived.md#version-1905-may-29)| | | |
+|2019|29. Mai |[Version 1905 (Build 11629.20196)](monthly-channel-archived.md#version-1905-may-29)| | | |
 |2019|22. Mai |[Version 1904 (Build 11601.20230)](monthly-channel-archived.md#version-1904-may-22)| | | |
 |2019|14. Mai |[Version 1904 (Build 11601.20204)](monthly-channel-archived.md#version-1904-may-14)| |[Version 1902 (Build 11328.20286)](semi-annual-enterprise-channel-preview-archived.md#version-1902-may-14) |[Version 1808 (Build 10730.20344)](semi-annual-enterprise-channel-archived.md#version-1808-may-14)  <br/>  [Version 1803 (Build 9126.2387)](semi-annual-enterprise-channel-archived.md#version-1803-may-14) |
 |2019|8. Mai |[Version 1904 (Build 11601.20178)](monthly-channel-archived.md#version-1904-may-8)| | | |
-|2019|29. April |[Version 1904 (Build 11601.20144)](monthly-channel-archived.md#version-1904-april-29)| | | |
+|2019|29. April |[Version 1904 (Build 11601.20144)](monthly-channel-archived.md#version-1904-april-29)| | | |
 |2019|23. April |[Version 1903 (Build 11425.20244)](monthly-channel-archived.md#version-1903-april-23)| | | |
 |2019|17. April |[Version 1903 (Build 11425.20228)](monthly-channel-archived.md#version-1903-april-17)| | | |
 |2019|16. April |[Version 1903 (Build 11425.20218)](monthly-channel-archived.md#version-1903-april-16)| | | |
@@ -149,7 +150,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 |2019|3. Januar   |[Version 1812 (Build 11126.20188)](monthly-channel-archived.md#version-1812-january-3)| | | |
 |2018|11. Dezember |[Version 1811 (Build 11029.20108)](monthly-channel-2018.md#version-1811-december-11)| |[Version 1808 (Build 10730.20262)](semi-annual-channel-targeted-2018.md#version-1808-december-11) |[Version 1803 (Build 9126.2336)](semi-annual-channel-2018.md#version-1803-december-11)  <br/>  [Version 1708 (Build 8431.2351)](semi-annual-channel-2018.md#version-1708-december-11)   |
 |2018|27. November   |[Version 1811 (Build 11029.20079)](monthly-channel-2018.md#version-1811-november-27)| | | |
-|2018|13. November |[Version 1810 (Build 11001.20108)](monthly-channel-2018.md#version-1810-november-13)| |[Version 1808 (Build 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Version 1803 (Build 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Version 1708 (Build 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
+|2018|13. November |[Version 1810 (Build 11001.20108)](monthly-channel-2018.md#version-1810-november-13)| |[Version 1808 (Build 10730.20205)](semi-annual-channel-targeted-2018.md#version-1808-november-13) |[Version 1803 (Build 9126.2315)](semi-annual-channel-2018.md#version-1803-november-13)  <br/>  [Version 1708 (Build 8431.2329)](semi-annual-channel-2018.md#version-1708-november-13)   |
 |2018|29. Oktober |[Version 1810 (Build 11001.20074)](monthly-channel-2018.md#version-1810-october-29)| | | |
 |2018|16. Oktober |[Version 1809 (Build 10827.20181)](monthly-channel-2018.md#version-1809-october-16)| | | |
 |2018|9. Oktober |[Version 1809 (Build 10827.20150)](monthly-channel-2018.md#version-1809-october-9)| |[Version 1808 (Build 10730.20155)](semi-annual-channel-targeted-2018.md#version-1808-october-9) |[Version 1803 (Build 9126.2295)](semi-annual-channel-2018.md#version-1803-october-9)  <br/>  [Version 1708 (Build 8431.2316)](semi-annual-channel-2018.md#version-1708-october-9)   |
@@ -228,7 +229,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 ## <a name="related-topics"></a>Verwandte Themen
 
-- [Übersicht über die Updatekanäle von Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
+- [Übersicht über die Updatekanäle von Microsoft 365 Apps](/DeployOffice/overview-of-update-channels-for-office-365-proplus).
 - [Versionsinformationen zu Updates von Microsoft 365-Apps](./release-notes-microsoft365-apps.md)
 - [Downloadgrößen für Updates von Microsoft 365 Apps](./download-sizes-microsoft365-apps-updates.md)
 

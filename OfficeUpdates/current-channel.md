@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für Releases im Monatlichen Kanal für Microsoft 365 Apps
-ms.openlocfilehash: b13e3ebfee9edcaaa0e703180fa734cc8efb2f8e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
+ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322445"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52563371"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -29,6 +29,23 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2104-may-18"></a>Version 2104: 18. Mai
+*Version 2104 (Build 13929.20386)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, durch das die Personenauswahl in Outlook für Benutzer mit einer unbefristeten Lizenz eher nach oben als nach unten erweitert wurde.
+
+
+- Wir haben ein Problem behoben, durch das die Feedback-Option für Benutzer der Office Dauerlizenz 2021-Vorschau nicht angezeigt wurde.
 
 
 
@@ -118,9 +135,6 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
-
-- Es wurde ein Problem behoben, bei dem einige Add-ins für die Automatisierung für Excel nicht geladen werden konnten.
-
 
 - Es wurde ein Problem behoben, bei dem einige Dateien gelegentlich in der geschützten Ansicht nicht geöffnet werden konnten.
 
@@ -293,7 +307,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Verbesserung beim Verwalten von Audioberechtigungen für Teilnehmer in einer Teams-Besprechung:** Bisher konnten Referenten und Organisatoren von Besprechungen das Mikrofon eines einzelnen Teilnehmers in einer Besprechung nicht deaktivieren. Der Organisator oder Referent konnte lediglich die Option „Teilnehmer können die Stummschaltung aufheben“ deaktivieren, wodurch die Mikrofone aller Teilnehmer stummgeschaltet wurden. Mit dieser Änderung können Referenten und Organisatoren von Besprechungen bei einzelnen Teilnehmern verhindern, dass sie während einer Teams-Besprechung die Stummschaltung nach eigenem Ermessen aufheben.
 
-- **Verbesserte Benutzererfahrung für die Liste der Besprechungsteilnehmer:** Im Moment wird die Anzeige der Teilnehmerliste in einer Teams-Besprechung für den Wartebereich und die Abschnitte „In einer Besprechung“, „Referenten“ und „Teilnehmer“ geändert. In der anfänglichen Ansicht werden maximal 20 Teilnehmer für jeden der Abschnitte angezeigt, es besteht aber die Möglichkeit, mithilfe eines Drilldown weitere Teilnehmer in diesem Abschnitt anzuzeigen. Im Wartebereich können Sie die vollständige Liste überprüfen, bevor Sie alle Teilnehmer zur Besprechung zulassen. In der Liste werden die Details der aktivsten Teilnehmer an der Besprechung in alphabetischer Reihenfolge angezeigt. Am Aktionsmenü der Teilnehmer werden keine Änderungen vorgenommen.
+- **Verbesserte Benutzererfahrung für die Liste der Besprechungsteilnehmer:** Im Moment wird die Anzeige der Teilnehmerliste in einer Teams-Besprechung für den Wartebereich und die Abschnitte „In einer Besprechung“, „Referenten“ und „Teilnehmer“ geändert. In der anfänglichen Ansicht werden maximal 20 Teilnehmer für jeden der Abschnitte angezeigt, es besteht aber die Möglichkeit, mithilfe eines Drilldown weitere Teilnehmer in diesem Abschnitt anzuzeigen. Im Wartebereich können Sie die vollständige Liste überprüfen, bevor Sie alle Teilnehmer zur Besprechung zulassen. In der Liste werden die Details der aktivsten Teilnehmer an der Besprechung in alphabetischer Reihenfolge angezeigt. Am Aktionsmenü der Teilnehmer werden keine Änderungen vorgenommen.
 
 - **Besprechungsteilnehmer in der Liste suchen:** Mithilfe des Suchfelds in der Liste können Benutzer jetzt nach Teilnehmern suchen, die gerade an der Besprechung teilnehmen, um zu wissen, ob eine bestimmte Person der Besprechung bereits beigetreten ist. Sie können weiterhin auch nach Teilnehmern suchen, die nicht an der Besprechung teilnehmen, und sie bitten, an der Besprechung teilzunehmen.
 
@@ -380,7 +394,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 - Ein Fehler wurde behoben, der in Outlook manchmal dazu führen konnte, dass Text transparent dargestellt wurde, und dadurch nicht lesbar war.
 
 
-- Es wurde ein Problem im Zusammenhang mit der Zuverlässigkeit bei der Unterstützung von Office-Apps, die in Sitzung 0 ausgeführt werden, behoben.
+- Es wurde ein Problem im Zusammenhang mit der Zuverlässigkeit bei der Unterstützung von Office-Apps, die in Sitzung 0 ausgeführt werden, behoben.
 
 
 
@@ -488,7 +502,7 @@ Sie können auch mit der rechten Maustaste klicken, um bestimmte Wörter, Ausdr�
 
 - **Unterstützung für Referenten von Liveereignissen auf dem iPad:** Sie können jetzt von Ihrem unterstützten iPad-Gerät aus Präsentationen in Liveereignissen durchführen.
 
-- **Umfragen für Teilnehmer einer Besprechung mit Microsoft Forms:** Umfragen für Teams-Besprechungen sind eine leicht zugängliche und nahtlose Erfahrung, die Ihnen helfen wird, attraktivere und produktivere Besprechungen durchzuführen. Mit Umfragen, die auf Microsoft Forms basieren, können Referenten von Besprechungen Abstimmungen vor, während oder nach Besprechungen vorbereiten, starten und auswerten – alles zentral unter einer Registerkarte in der Teams-Besprechung. Als Referent einer Besprechung können Sie die Forms-App als Registerkarte zur Teams-Besprechung hinzufügen und dann Ihre Umfragen von einem Ort aus erstellen, starten und auswerten. Erstellen Sie noch vor Beginn der Besprechung Umfragen, die während der Besprechung gestartet werden können. Nach der Besprechung können Sie die Antworten dann wahlweise auf der Registerkarte, in einer exportierten Excel-Arbeitsmappe oder im Web in der Forms-App auswerten. Referenten haben eine Vielzahl von Steuerungsmöglichkeiten, wie z. B. das Aktivieren anonymer Antworten, das Schließen von Umfragen und das Exportieren von Ergebnissen nach Excel. Teilnehmer können von jedem Endgerät (Mobil, Web, Desktop) aus Umfragen anzeigen und beantworten, wenn sie auf dem Bildschirm oder im Chat der Besprechung angezeigt werden, sowie nicht-anonyme Umfrageergebnisse in Echtzeit sehen.
+- **Umfragen für Teilnehmer einer Besprechung mit Microsoft Forms:** Umfragen für Teams-Besprechungen sind eine leicht zugängliche und nahtlose Erfahrung, die Ihnen helfen wird, attraktivere und produktivere Besprechungen durchzuführen. Mit Umfragen, die auf Microsoft Forms basieren, können Referenten von Besprechungen Abstimmungen vor, während oder nach Besprechungen vorbereiten, starten und auswerten – alles zentral unter einer Registerkarte in der Teams-Besprechung. Als Referent einer Besprechung können Sie die Forms-App als Registerkarte zur Teams-Besprechung hinzufügen und dann Ihre Umfragen von einem Ort aus erstellen, starten und auswerten. Erstellen Sie noch vor Beginn der Besprechung Umfragen, die während der Besprechung gestartet werden können. Nach der Besprechung können Sie die Antworten dann wahlweise auf der Registerkarte, in einer exportierten Excel-Arbeitsmappe oder im Web in der Forms-App auswerten. Referenten haben eine Vielzahl von Steuerungsmöglichkeiten, wie z. B. das Aktivieren anonymer Antworten, das Schließen von Umfragen und das Exportieren von Ergebnissen nach Excel. Teilnehmer können von jedem Endgerät (Mobil, Web, Desktop) aus Umfragen anzeigen und beantworten, wenn sie auf dem Bildschirm oder im Chat der Besprechung angezeigt werden, sowie nicht-anonyme Umfrageergebnisse in Echtzeit sehen.
 
 - **Besprechungsreaktionen:** Besprechungsreaktionen stellen eine neue Möglichkeit zur Interaktion in Besprechungen dar. Die Teilnehmer können Reaktionen senden, die als Stream auf den freigegebenen Inhalt und auf die Person, die die Reaktion gesendet hat, erscheinen, wenn sie in der Besprechungsphase angezeigt werden.
 
@@ -728,7 +742,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
+- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
 
 - **Neue Raumsuche:** suchen Sie in unterschiedlichen Kategorien nach Konferenzräumen.
 
@@ -795,6 +809,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20462|version-2103-april-23|)
@@ -804,5 +819,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
-[//]: # (|Win32|CC|Production| |16.0.13628.20448|version-2101-february-16|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
