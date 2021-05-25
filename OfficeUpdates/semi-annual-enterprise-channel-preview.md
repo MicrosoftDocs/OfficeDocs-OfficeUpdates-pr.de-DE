@@ -9,19 +9,19 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2021 zur Verfügung.
-ms.openlocfilehash: 89c71d3aae644cf5d77a0568643a82175806a468
-ms.sourcegitcommit: 556c7532cd820796db244f0949205c75c013d9fc
+ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470779"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625930"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals (Vorschau)
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Enterprise-Kanalupdates (Vorschau) für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 
-## <a name="version-2102-may-11"></a>Version 2102: 11. Mai
+## <a name="version-2102-may-11"></a>Version 2102: 11. Mai
 *Version 2102 (Build 13801.20638)*
 
 Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
@@ -32,7 +32,7 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Ein Problem wurde behoben, durch das einige Automatisierungs-Add-Ins für Excel nicht geladen werden konnten.
+- Es wurde ein Problem behoben, bei dem einige Add-ins für die Automatisierung für Excel nicht geladen werden konnten.
 
 
 - Es wurde ein Problem behoben, das dazu führte, dass die Datumsformatierung bei der Verwendung von Add-Ins in einigen Sprachen falsch angezeigt wurde.
@@ -159,6 +159,9 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 - **iPhone-Fotos direkt in Office einfügen:** HEIC-Bilder von Ihrem Smartphone jetzt nahtlos in Office einfügen. Keine Konvertierung erforderlich.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/insert-apple-photos-into-office-easily)
 
 - **Erstellen von ansprechenden Visio-Diagrammen in Excel:** Erstellen Sie datengesteuerte Diagramme wie Fluss- oder Organigramme aus Daten in einem Arbeitsblatt. [Weitere Informationen](https://support.office.com/article/bee3b5aa-aaaf-4401-acc6-276b711c763c)
+
+
+- **AMSI-Integration in Office für XLM-Makros:** AMSI ist eine offene Schnittstelle, die unter Windows 10 für Anwendungen verfügbar ist, um zur Laufzeit eine synchrone Überprüfung eines Speicherpuffers durch ein installiertes Antiviren- oder Sicherheitsprogramm anzufordern. Wenn böswillige Aktivitäten erkannt werden, wird der Benutzer von Excel benachrichtigt, und die Anwendungssitzung wird heruntergefahren, um weitere Schäden zu vermeiden. Dies kann einen Angriff aufhalten und sowohl das Gerät als auch den Benutzer schützen. Weitere Informationen finden Sie unter [Blogbeitrag](https://www.microsoft.com/security/blog/2021/03/03/xlm-amsi-new-runtime-defense-against-excel-4-0-macro-malware/).
 
 ### <a name="outlook"></a>Outlook
 
@@ -340,7 +343,7 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 - Es wurde ein Problem behoben, durch das chinesische Zeichen beim Speichern als OFT-Datei in Fragezeichen geändert wurden.
 
 
-- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem Kunden die Einbeziehung der Dateizeit für Anhänge in IDataObject-Operationen (d. h. Drag & Drop, Zwischenablage) deaktivieren können.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = Filetimes sind ausgeschlossen.  1 = (Standard) Filetimes sind enthalten.
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem Kunden die Einbeziehung der Dateizeit für Anhänge in IDataObject-Operationen (d. h. Drag & Drop, Zwischenablage) deaktivieren können.  HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments.  REG_DWORD IncludeFileTimesInDataObject.  0 = Filetimes sind ausgeschlossen.  1 = (Standard) Filetimes sind enthalten.
 
 
 - Es wurde ein Problem behoben, das bewirkt, dass Inline Bilder beim Antworten auf eine Nachricht mit einer Schutz Bezeichnung von Azure Information Protection nicht mehr angezeigt werden.
@@ -576,7 +579,7 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
+## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
 
 Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Office Sicherheitsupdates](microsoft365-apps-security-updates.md)
@@ -631,7 +634,7 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 
 ### <a name="skype"></a>Skype
 
-- Ein Problem wurde behoben, bei dem das TLS-DSK-Zertifikat eines Benutzers nicht zum erwarteten Zeitpunkt, sondern nur dann verlängert wurde, wenn es nur noch weniger als 12 Stunden gültig war.
+- Ein Problem wurde behoben, bei dem das TLS-DSK-Zertifikat eines Benutzers nicht zum erwarteten Zeitpunkt, sondern nur dann verlängert wurde, wenn es nur noch weniger als 12 Stunden gültig war.
 
 
 - Ein Problem wurde behoben, bei dem die Benutzeroberfläche von Skype for Business nach der Anmeldung leer angezeigt wird, wenn Office noch nicht lizenziert ist.

@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: 067ef80e03b19a040c0af5463f18d6a4af5f8094
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 6a4aebfb9755261ed25f486ef5c573b250aee2c0
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563401"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625950"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -66,10 +66,6 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
 ### <a name="feature-updates"></a>Featureupdates
-### <a name="apex-shared"></a>Apex freigegeben
-
-- **Holen Sie sich einen aktualisierten Look für Ihren Office-Startbildschirm auf dem Mac:** Ein neuer aktualisierter Look, bei dem unser Fluent-Toolkit zum Einsatz kommt, um sich an die neue Designsprache von Apple in Big Sur anzupassen.<br />Weitere Detailinformationen finden Sie in [diesem Blogbeitrag](https://insider.office.com/de-DE/blog/visual-updates-to-start-experience-in-office-for-mac).
-
 ### <a name="excel"></a>Excel
 
 - **Verknüpfte Datentypen: Echte Daten für das echte Leben:** Neue verknüpfte Datentypen liefern Ihnen Fakten und Daten zu Hunderten von Themen, die Ihnen helfen, Ihre Ziele direkt in Excel zu erreichen. [Weitere Informationen](https://support.office.com/article/973d28d9-c51d-4dde-83be-898ecdf3efab)
@@ -97,6 +93,9 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 - **M365-Profilkarte in Microsoft Teams:** Wenn Sie in Microsoft Teams den Namen oder das Bild einer Person auswählen, wird die Profilkarte mit Informationen zu dieser Person geöffnet, z. B. Name, Kontaktinformationen und Vorgesetzter. Die Profilkarte wird manchmal auch als Visitenkarte oder Personenkarte bezeichnet.
 
+### <a name="office-suite"></a>Office-Suite
+
+- **Holen Sie sich einen aktualisierten Look für Ihren Office-Startbildschirm auf dem Mac:** Ein neuer aktualisierter Look, bei dem unser Fluent-Toolkit zum Einsatz kommt, um sich an die neue Designsprache von Apple in Big Sur anzupassen.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/visual-updates-to-start-experience-in-office-for-mac)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
 

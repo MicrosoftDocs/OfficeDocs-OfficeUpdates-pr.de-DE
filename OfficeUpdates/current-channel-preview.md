@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 82132e7f0862e2027fa518120341e530a2879aa5
-ms.sourcegitcommit: 11b24bf6e62e75f32ba8842e00fd146fe0d95959
+ms.openlocfilehash: 03e3b8b6d89cf5373c5243e79fb308edb668abf3
+ms.sourcegitcommit: 79c85ce398cdedeaac46ece812626eec0f05a61b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52574300"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52636529"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,55 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2105-may-23"></a>Version 2105: 23. Mai
+*Version 2105 (Build 14026.20246)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="teams"></a>Teams
+
+- **Ankündigung der Dashboardansichten für Anwesenheitsdaten:** Sie müssen von nun an keine Berichte mehr manuell herunterladen. Teams ermöglicht Ihnen jetzt die Anzeige aller aggregierten Daten in einer Dashboardansicht mit nur einem Klick
+
+- **Sicherheits-, Compliance- und Datenschutzfunktionen für Apps:** Für von Microsoft 365 zertifizierte Teams-Apps können Administratoren die Sicherheits-, Compliance- und Datenschutzfunktionen auf einer neuen Registerkarte auf der Detailseite der App im Teams Admin Center anzeigen. Diese Transparenz gibt Microsoft-Kunden Vertrauen in die Anwendungen, die ihre Organisationen ausführen.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das einige Anweisungen für das Feature "Besprechungen kürzen" aufgrund von Sprachausgabetechnologien nicht verfügbar waren.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass einige Benutzer beim Laden von Personenkarten unerwartet geschlossen wurden.
+
+
+- Es wurde ein Problem behoben, das das Einfügen als Formeln in ein geschütztes Blatt verhinderte.
+
+    - RegKey:
+
+    > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Optionen\Kalender </br>
+
+    > REG_DWORD “ShowLegacyRoomFinder” 0 </br>
+
+    > (Standard) – Outlook verwendet die neue von OWA bereitgestellte eXperience für die Raumsuche, wenn der Benutzer auf die Schaltfläche ‚Raumsuche‘ klickt, um nach verfügbaren Räumen zu suchen  </br>
+
+    > 1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem Zuordnungen zu manuell geplanten Vorgängen möglicherweise auf ein falsches Datum verschoben wurden.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2105-may-19"></a>Version 2105: 19. Mai
 *Version 2105 (Build 14026.20202)*
