@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 289486b3abf7736825f15311524a1d87295ed78e
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: 3a78919c5181015c88261bf66413d7f439a916cf
+ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563341"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625940"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,75 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2106-may-21"></a>Version 2106: 21. Mai
+*Version 2106 (Build 14117.20000)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Letzte Anmeldung / Verdächtige Anmeldung:** Outlook informiert Sie jetzt, wann und wo Sie sich zuletzt bei Ihrem Konto angemeldet haben, und benachrichtigt Sie, wenn verdächtige Anmeldeaktivitäten erkannt werden
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Wir haben ein Problem behoben, das dazu führte, dass Dynamische Arrays Zellwerte nicht aktualisierten, wenn von RealTimeData-Funktionen darauf verwiesen wurde.
+
+
+- Wir haben ein Problem behoben, das Auswirkungen auf die Leistung von VLOOKUP und INDEX/MATCH beim Ausfüllen einer großen Datenmenge hatte.
+
+
+- Wir haben ein Problem im Zusammenhang mit dem Scrollen mit zwei Fingern beim Fixieren von Fensterbereichen behoben.
+
+
+- Wir haben ein Problem im Zusammenhang mit Problemen mit nicht ausreichendem Arbeitsspeicher beim Drucken auf Großformatdruckern behoben.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Wir haben ein Problem behoben, durch das das Kopieren aus dem Sprechernotizenbereich im Schreibgeschützten Modus verhindert wurde.
+
+
+### <a name="word"></a>Word
+
+- Wir haben ein Problem behoben, bei dem eine „Speichern unter“-Fehlermeldung selbst dann angezeigt wurde, wenn ein Benutzer Änderungen verworfen hat.
+
+
+- Wir haben ein Problem behoben, das das Posten von Bildern in modernen Kommentaren verhindert hatte.
+
+
+- Wir haben ein Problem behoben, bei dem der Überarbeitungsbereich scrollte oder zu scrollen schien, aber nicht an dem ausgewählten Kommentar ausgerichtet wurde.
+
+
+- Wir haben ein Problem behoben, durch das die Auswahl im Dokument beim Klicken außerhalb eines neu erstellten Kommentars nicht behoben wurde.
+
+
+- Wir haben ein Problem behoben, bei dem Kommentare nicht hervorgehoben werden, wenn sie ausgewählt sind.
+
+
+- Wir haben ein Problem behoben, bei dem beim Ausführen eines Makros das falsche Feld aktualisiert wird, wenn Bearbeitungseinschränkungen angewendet werden.
+
+
+- Wir haben ein Problem behoben, bei dem einige Word-Dateien aufgrund beschädigter Lesezeichen nicht geöffnet werden.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Wir haben ein Problem behoben, bei dem die Anmeldung mit einem anderen Konto zu einem Absturz führen kann.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2106-may-14"></a>Version 2106: 14. Mai
 *Version 2106 (Build 14107.20000)*
@@ -3050,6 +3119,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14117.20000|version-2106-may-21|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
@@ -3059,5 +3129,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.13929.20016|version-2104-april-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13919.20002|version-2104-march-26|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.13913.20000|version-2104-march-19|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.13906.20000|version-2104-march-12|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
