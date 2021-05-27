@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für Releases im Monatlichen Kanal für Microsoft 365 Apps
-ms.openlocfilehash: 6caa57d57ded20a070ce8af5dc8725115081317a
-ms.sourcegitcommit: 830bba63e278d32baeaaaa5323e3fd25cf6b7c24
+ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
+ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52563371"
+ms.lasthandoff: 05/26/2021
+ms.locfileid: "52657968"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -30,6 +30,119 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2105-may-24"></a>Version 2105: 24. Mai
+*Version 2105 (Build 14026.20246)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten.
+
+### <a name="teams"></a>Microsoft Teams
+
+- **Videostreams über AJA- oder Blackmagic Design-Hardware aussenden:** Isolierte Videostreams können über AJA- und Blackmagic Design-Hardwaregeräte aus Teams-Besprechungen gesendet werden.
+
+- **Anonyme Benutzer können präsentieren:** Beim Hosten einer Teams-Liveereignis haben wir für anonyme Benutzer die Möglichkeit hinzugefügt, an einem Liveereignis teilzunehmen und während der Veranstaltung ebenfalls präsentieren zu können.
+
+- **Genehmigungen – Unterstützung erneut zuweisen:** Genehmigende Personen sind jetzt in der Lage, eine Genehmigungsanforderung an einen anderen Benutzer zu delegieren/erneut zu zuweisen.
+
+- **Genehmigungs-App-Add-In in Microsoft Word:** Benutzer können über Add-Ins eine Genehmigungsanforderung für ein gesamtes Dokument oder einen Abschnitt eines Dokuments in Microsoft Word erstellen.
+
+- **Zusammen-Modus für VDI:** Der Zusammen-Modus der VDI nutzt die KI-Segmentierungstechnologie in Besprechungen, um die Teilnehmer digital in einen freigegebenen Hintergrund zu platzieren, wodurch es sich so anfühlt, als ob Sie mit allen anderen im gleichen Raum sitzen.
+
+- **Überwachter Chat:** Verwenden Sie die Teams-Verwaltungsrichtlinie, um sicherzustellen, dass die Kursteilnehmer während eines privaten 1:1- oder Gruppenchats von einem Lehrer überwacht werden. Bei einem überwachten Chat dürfen sich die Kursteilnehmer nicht an Chats beteiligen, ohne dass ein überwachender Lehrer anwesend ist.
+
+- **Microsoft Teams: Überarbeitete Freigabeerfahrung in Besprechungen:** Die Benutzeroberfläche für die Freigabefunktion in Besprechungen in Microsoft Teams wurde neu gestaltet, damit Präsentatoren ihre gewünschten Inhalte schneller und einfacher finden können.
+
+- **Kamera für bestimmte Teilnehmer deaktivieren:** Besprechungsorganisatoren und Referenten können die Kamera bestimmter Teilnehmer in einer Teams-Besprechung deaktivieren, um sicherzustellen, dass sie kein Video in der Besprechung teilen.
+
+- **Kamera für alle Teilnehmer deaktivieren:** Besprechungsorganisatoren und Referenten können die Kamera aller Teilnehmer in einer Teams-Besprechung deaktivieren, um sicherzustellen, dass sie kein Video in der Besprechung teilen.
+
+- **Teams-Webinar-Funktionen sind generell verfügbar:** Planen und liefern Sie Webinare für 1000 Personen mit der gleichen Teams-App, die Sie auch für Meetings verwenden! Webinar-Funktionen unterstützen das Erstellen einer Registrierungsseite, die E-Mail-Bestätigung für Registrierende, die Host-Verwaltung für Video und Audio von Teilnehmenden, die Teilnehmer-Berichterstellung sowie interaktiver Features wie Umfragen, Chats und Reaktionen.
+
+- **Erstellen von Teams mit Teams-Vorlagen:** Mit Vorlagen in Teams können Benutzer beim Erstellen eines neuen Teams aus einer Vielzahl von anpassbaren Vorlagen auswählen, damit sie schnell loslegen können. IT-Administratoren können auch benutzerdefinierte Vorlagen für ihre Organisation erstellen, mit denen sie Teamstrukturen standardisieren, relevante Apps vorinstallieren und Best Practices skalieren können. IT-Administratoren können auswählen, welche Teamvorlagen Endbenutzern im Teams Admin Center angezeigt werden sollen, und Website-Registerkarten vorkonfigurieren, indem sie URLs zu einer Website-Registerkarte in einer Teamvorlage hinzufügen.
+
+- **Von PowerPoint in Teams präsentieren:** Präsentieren Sie Ihre Folien direkt aus der PowerPoint-App in einer Teams-Besprechung über PowerPoint Live.
+
+- **Erweiterte Emoji-Auswahl:** Das Update für erweiterte Emojis bietet Personen mehr Spaß und Ausdrucksmöglichkeit in Teams. Es wird auch ein breiteres Spektrum an Vielfalt und Repräsentation eingeführt. Die Emoji-Anzahl wurde von 85 auf über 800 Emojis erweitert, mit Auswahl der Kategorie, Auswahl der Hautfarbe und Abkürzungsauswahl.
+
+- **Mit externen Benutzern in Gruppenchats chatten:** Mit diesem Feature können Benutzer Gruppenchats erstellen, in denen Personen außerhalb ihrer Organisation mithilfe von Teams enthalten sind (erfordert, dass alle Benutzer über aktivierten externen Zugriff verfügen).
+
+- **Netzwerkplaner-Tool zur Schätzung der Bandbreite aktualisieren:** Das Netzwerkplaner-Tool wird aktualisiert, um die neuesten Bandbreitenanforderungen des Teams-Clients zu erfüllen. Dies hilft IT-Administratoren, die Anforderungen an die Office-Bandbreite besser zu schätzen und zu planen.
+
+- **Benutzerpräferenz-Einstellung, um Dateien standardmäßig in Desktop (oder) Browser (oder) Teams zu öffnen:** Benutzer können ihre Standardpräferenz als Browser, Desktop oder Teams festlegen, wenn sie Office-Dateien (Word, Excel und Power Point) öffnen, die in Teams freigegeben sind. Desktop-Einstellung kann ausgewählt werden, wenn die neuesten Office-Clients installiert und aktiviert sind
+
+- **Mehrere Benutzer gleichzeitig in einer Besprechung ins Spotlight setzen:** Organisatoren und Präsentatoren können jetzt während Besprechungen gleichzeitig mehrere Teilnehmer ins Spotlight setzen. Auf der Besprechungsbühne werden diese hervorgehobenen Teilnehmer für jeden in der Besprechung mit ihren Videos oder Avataren angezeigt.
+
+### <a name="word"></a>Word
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem das Add-In „Analyse-Funktionen“ für einige Benutzer nicht funktionierte.
+
+
+- Es wurde eine Problem behoben, damit der Namens-Manager bei Büchern mit einer großen Anzahl von ausgeblendeten Namen geöffnet werden kann.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das einige Anweisungen für das Feature „Besprechungen kürzen“ aufgrund von Sprachausgabetechnologien deaktiviert waren.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass einige Benutzer beim Laden von Personenkarten unerwartet geschlossen wurden.
+
+
+- Wir haben ein Problem behoben, durch das die Feedback-Option für Benutzer der Office Dauerlizenz 2021-Vorschau nicht angezeigt wurde.
+
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit „Vorgeschlagene Zeiten“ aktiviert wird.
+    - Registrierungsschlüssel:
+
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
+        > 1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem die Option „Folien wiederverwenden“ für wenige Benutzer nicht verfügbar war.
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem Zuordnungen zu manuell geplanten Vorgängen möglicherweise auf ein falsches Datum verschoben wurden.
+
+
+- Ein Problem wurde behoben, bei dem, wenn Sie eine Formel für ein benutzerdefiniertes Feld erstellen, die die ProjectDate */ProjectDur*-Funktionen verwendet, und der zweite Parameter die Datums- und Zeitfunktionen „Date()“, „Now()“ oder „Time()“ sind, dann ein #FEHLER auftrat.
+
+
+### <a name="word"></a>Word
+
+- Es wurde eine Problem behoben, bei dem kontextbezogene Karten für Rechtschreibung und Grammatik im Zusammenarbeitsbereich Schaltflächen-Symbole anzeigen, diese Schaltflächen aber keine QuickInfo haben.
+
+
+- Es wurde ein Problem behoben, bei dem der Editorbereich nicht geöffnet wird.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -118,7 +231,7 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 
 ### <a name="visio"></a>Visio
 
-- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
+- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
 
 ### <a name="word"></a>Word
 
@@ -809,6 +922,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20296|version-2104-april-29|)
@@ -818,5 +932,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20266|version-2102-march-01|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
