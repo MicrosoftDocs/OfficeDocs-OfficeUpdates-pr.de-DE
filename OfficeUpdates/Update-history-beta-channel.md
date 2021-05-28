@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (Insider Fast) für Windows Desktop.
-ms.openlocfilehash: d5b3501c6f7888e99d830aa08115d944d768cbb8
-ms.sourcegitcommit: 82c58639acc2f9bceb8f26967ef6464ac675f6bd
+ms.openlocfilehash: 6d076a76ea64cb7bbab3c06b9ac8a5403f75a31e
+ms.sourcegitcommit: bd2d6c9049adf1e1460c448726c3ef2e4c087778
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52568501"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52679299"
 ---
 # <a name="update-history-for-office-beta-channel"></a>Updateverlauf für den Office Insider-Kanal
 
@@ -33,6 +33,9 @@ Versionshinweise finden Sie unter [Insider-Versionshinweise zu Office für Windo
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**26. Mai 2021**<br/>
+Version 2106 (Build 14122.20004)<br/>
 
 **18. Mai 2021**<br/>
 Version 2106 (Build 14117.20000)<br/>
