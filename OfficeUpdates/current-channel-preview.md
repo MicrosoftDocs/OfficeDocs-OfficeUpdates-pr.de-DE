@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 38567a461e655f43701e9d68da85e3dff50c779d
-ms.sourcegitcommit: 6a11bb97b0dbc14d2cd6c68e9d5ae7bd3e1a576f
+ms.openlocfilehash: a06b009c006645b9effb686be7f7b0d8a9286609
+ms.sourcegitcommit: d08938d8d38c545afc40f3e4316990d916e0ba91
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52662821"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "52742224"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,43 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2105-june-01"></a>Version 2105: 1. Juni
+*Version 2105 (Build 14026.20254)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Letzte Anmeldung / Verdächtige Anmeldung:** Outlook informiert Sie jetzt, wann und wo Sie sich zuletzt bei Ihrem Konto angemeldet haben, und benachrichtigt Sie, wenn verdächtige Anmeldeaktivitäten erkannt werden
+
+- **Aktivieren Sie Verbesserungen für freigegebene Kalender:** Outlook ist in der Lage, freigegebene Kalender in Office 365 mithilfe der REST API zu aktualisieren. Aktivieren Sie die Vorschau, um schnellere und zuverlässigere Aktualisierungen für freigegebene Kalender zu erhalten.<br />Weitere Detailinformationen finden Sie in [diesem Blogbeitrag](https://insider.office.com/de-DE/blog/shared-calendars-improvements-in-outlook-for-windows).
+
+- **Barrierefreiheit-Überprüfungsanstupser beim Senden von E-Mails an große Verteilerlisten, externe Benutzer:** Wir haben die Funktion hinzugefügt, beim Verfassen einer E-Mail an große Zielgruppen, externe Benutzer usw. automatisch über einen Mailtipp auf eine Verletzung der Barrierefreiheit hingewiesen zu werden. Diese Einstellungen befinden sich in „Erleichterte Bedienung“<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/sending-accessible-emails-in-outlook-for-windows)
+
+### <a name="visio"></a>Visio
+
+- **AWS-Schablonen und -Formen:** Wir haben jetzt Schablonen mit den neuesten AWS-Formen, die Sie bei der Erstellung von Diagrammen unterstützen. [Weitere Informationen](https://support.office.com/article/138206bf-d10f-4583-9f31-885ce706af49)
+
+
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das zu einem unerwarteten Schließen bei der Interaktion mit der Outlook Mail- oder Kalenderansichten führen kann.
+
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2105-may-23"></a>Version 2105: 23. Mai
 *Version 2105 (Build 14026.20246)*
@@ -60,9 +97,9 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 - Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit "Vorgeschlagene Zeiten" aktiviert wird.
     - Registrierungsschlüssel:
 
-        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Optionen\Kalender </br>
-        > REG_DWORD “ShowLegacyRoomFinder” 0</br></br>
-        > 0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche "Raumsuche" klickt, um nach verfügbaren Räumen zu suchen  </br>
+        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+        > 0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
         > 1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
 
 
