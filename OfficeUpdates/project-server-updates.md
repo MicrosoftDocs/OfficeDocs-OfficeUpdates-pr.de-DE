@@ -12,12 +12,12 @@ ms.collection:
 - IT_ProjectAdmin_Top
 - RelNotes_Server
 description: Suchen und Verwalten von Updates für Project Server 2013 und Project Server 2010 an einem Ort. Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Updates zu erhalten und um die Updates herunterzuladen.
-ms.openlocfilehash: c5c5dfadbe70eedbabec37392007a29c5668a4e5
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 4f23879a526d78aea53458d98f7e3dd81c713ef4
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322365"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851995"
 ---
 # <a name="project-server-updates"></a>Project Server-Updates
 
@@ -28,18 +28,19 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 ## <a name="project-server-2013-update-history"></a>Project Server 2013-Updateverlauf
 |**Veröffentlichungsdatum**|**KB-Nummer**||
 |:-----|:-----|:-----|
+|Juni 2021 <br/>|[KB5001959](https://support.microsoft.com/help/5001959) <br/>|
 |Mai 2021 <br/>|[KB5001930](https://support.microsoft.com/help/5001930) <br/>|
 |April 2021 <br/>|[KB4504731](https://support.microsoft.com/help/4504731) <br/>|
 |März 2021 <br/>|[KB4493236](https://support.microsoft.com/help/4493236) <br/>|
 |Februar 2021 <br/>|[KB4493207](https://support.microsoft.com/help/4493207) <br/>|
 |Januar 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
-|Dezember 2020 <br/>|[KB 4486763](https://support.microsoft.com/help/4486763) <br/>|
+|Dezember 2020 <br/>|[KB 4486763](https://support.microsoft.com/help/4486763) <br/>|
 |November 2020 <br/>|[KB4486729](https://support.microsoft.com/help/4486729) <br/>|
-|Oktober 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
+|Oktober 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
 |September 2020 <br/>|[KB4484521](https://support.microsoft.com/help/4484521) <br/>|
 |August 2020 <br/>|[KB4484483](https://support.microsoft.com/help/4484483) <br/>|
 |Juli 2020  <br/> |[KB4484445](https://support.microsoft.com/help/4484445) <br/>|
-|Juni 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
+|Juni 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
 |Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/help/4484360) <br/>|
 |April 2020  <br/> |[KB4484318](https://support.microsoft.com/help/4484318) <br/>|
 |März 2020  <br/> |[KB4484279](https://support.microsoft.com/help/4484279) <br/>|
@@ -54,7 +55,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2019  <br/> |[KB4464600](https://support.microsoft.com/help/4464600) <br/>|
 |Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/help/4464562) <br/>|
 |April 2019  <br/> |[KB4464513](https://support.microsoft.com/help/4464513) <br/>|
-|März 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
+|März 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
 |Februar 2019  <br/> |[KB4462151](https://support.microsoft.com/help/4462151) <br/>|
 |Januar 2019  <br/> |[KB4461604](https://support.microsoft.com/help/4461604) <br/>|
 |Dezember 2018  <br/> |[KB4461553](https://support.microsoft.com/help/4461553) <br/>|
@@ -88,17 +89,17 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2016  <br/>  |[KB3115172](https://support.microsoft.com/help/3115172) <br/> |
 |Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/help/3115024) <br/> |
 |April 2016  <br/> |[KB3114936](https://support.microsoft.com/help/3114936) <br/> |
-|März 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
-|Februar 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
+|März 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
+|Februar 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
 |Januar 2016  <br/> |[KB3114493](https://support.microsoft.com/help/3114493) <br/> |
 |Dezember 2015  <br/> |[KB3114341](https://support.microsoft.com/help/3114341) <br/> |
 |November 2015  <br/>  |[KB3101369](https://support.microsoft.com/help/3101369) <br/> |
-|Oktober 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
+|Oktober 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
 |September 2015  <br/> |[KB2986195](https://support.microsoft.com/help/2986195) <br/> |
 |August 2015  <br/>|[KB3055005](https://support.microsoft.com/help/3055005) <br/> |
-|Juli 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
+|Juli 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
 |Juni 2015  <br/> |[KB3054865](https://support.microsoft.com/help/3054865) <br/> |
-|Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/help/3039753) <br/> |
+|Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/help/3039753) <br/> |
 |April 2015  <br/> |[KB2965263](https://support.microsoft.com/help/2965263) <br/> |
 |März 2015  <br/> |[KB2956162](https://support.microsoft.com/help/2956162) <br/> |
 |Februar 2015  <br/> |[KB2920796](https://support.microsoft.com/help/2920796) <br/> |
@@ -106,13 +107,13 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |November 2014  <br/> |[KB2889949](https://support.microsoft.com/help/2889949) <br/> |
 |September 2014  <br/>  |[KB2883072](https://support.microsoft.com/help/2883072) <br/> |
 |Januar 2021 <br/>|[KB4493173](https://support.microsoft.com/help/4493173) <br/>|
-|Dezember 2020 <br/>|[KB 4486763](https://support.microsoft.com/help/4486763) <br/>|
+|Dezember 2020 <br/>|[KB 4486763](https://support.microsoft.com/help/4486763) <br/>|
 |November 2020 <br/>|[KB4486729](https://support.microsoft.com/help/4486729) <br/>|
-|Oktober 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
+|Oktober 2020 <br/>|[KB4486691](https://support.microsoft.com/help/4486691) <br/>|
 |September 2020 <br/>|[KB4484521](https://support.microsoft.com/help/4484521) <br/>|
 |August 2020 <br/>|[KB4484483](https://support.microsoft.com/help/4484483) <br/>|
 |Juli 2020  <br/> |[KB4484445](https://support.microsoft.com/help/4484445) <br/>|
-|Juni 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
+|Juni 2020  <br/> |[KB4484407](https://support.microsoft.com/help/4484407) <br/>|
 |Mai 2020  <br/> |[KB4484360](https://support.microsoft.com/help/4484360) <br/>|
 |April 2020  <br/> |[KB4484318](https://support.microsoft.com/help/4484318) <br/>|
 |März 2020  <br/> |[KB4484279](https://support.microsoft.com/help/4484279) <br/>|
@@ -127,7 +128,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2019  <br/> |[KB4464600](https://support.microsoft.com/help/4464600) <br/>|
 |Mai 2019  <br/> |[KB4464562](https://support.microsoft.com/help/4464562) <br/>|
 |April 2019  <br/> |[KB4464513](https://support.microsoft.com/help/4464513) <br/>|
-|März 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
+|März 2019  <br/> |[KB4462218](https://support.microsoft.com/help/4462218) <br/>|
 |Februar 2019  <br/> |[KB4462151](https://support.microsoft.com/help/4462151) <br/>|
 |Januar 2019  <br/> |[KB4461604](https://support.microsoft.com/help/4461604) <br/>|
 |Dezember 2018  <br/> |[KB4461553](https://support.microsoft.com/help/4461553) <br/>|
@@ -161,17 +162,17 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2016  <br/>  |[KB3115172](https://support.microsoft.com/help/3115172) <br/> |
 |Mai 2016  <br/> |[KB3115024](https://support.microsoft.com/help/3115024) <br/> |
 |April 2016  <br/> |[KB3114936](https://support.microsoft.com/help/3114936) <br/> |
-|März 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
-|Februar 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
+|März 2016  <br/> |[KB3114823](https://support.microsoft.com/help/3114823) <br/> |
+|Februar 2016  <br/> |[KB3114723](https://support.microsoft.com/help/3114723) <br/> |
 |Januar 2016  <br/> |[KB3114493](https://support.microsoft.com/help/3114493) <br/> |
 |Dezember 2015  <br/> |[KB3114341](https://support.microsoft.com/help/3114341) <br/> |
 |November 2015  <br/>  |[KB3101369](https://support.microsoft.com/help/3101369) <br/> |
-|Oktober 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
+|Oktober 2015  <br/> |[KB3085489](https://support.microsoft.com/help/3085489) <br/> |
 |September 2015  <br/> |[KB2986195](https://support.microsoft.com/help/2986195) <br/> |
 |August 2015  <br/>|[KB3055005](https://support.microsoft.com/help/3055005) <br/> |
-|Juli 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
+|Juli 2015  <br/>  |[KB3054933](https://support.microsoft.com/help/3054933) <br/> |
 |Juni 2015  <br/> |[KB3054865](https://support.microsoft.com/help/3054865) <br/> |
-|Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/help/3039753) <br/> |
+|Mai 2015  <br/> |[KB3039753](https://support.microsoft.com/help/3039753) <br/> |
 |April 2015  <br/> |[KB2965263](https://support.microsoft.com/help/2965263) <br/> |
 |März 2015  <br/> |[KB2956162](https://support.microsoft.com/help/2956162) <br/> |
 |Februar 2015  <br/> |[KB2920796](https://support.microsoft.com/help/2920796) <br/> |
@@ -188,13 +189,13 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |März 2021 <br/>|[KB4504704](https://support.microsoft.com/help/4504704) <br/>|
 |Februar 2021 <br/>|[KB4493217](https://support.microsoft.com/help/4493217) <br/>|
 |Januar 2021 <br/>|[KB4493182](https://support.microsoft.com/help/4493182) <br/>|
-|Dezember 2020 <br/>|[KB 4493144](https://support.microsoft.com/help/4493144) <br/>|
+|Dezember 2020 <br/>|[KB 4493144](https://support.microsoft.com/help/4493144) <br/>|
 |November 2020 <br/>|[KB4486739](https://support.microsoft.com/help/4486739) <br/>|
-|Oktober 2020 <br/>|[KB4486702](https://support.microsoft.com/help/4486702) <br/>|
+|Oktober 2020 <br/>|[KB4486702](https://support.microsoft.com/help/4486702) <br/>|
 |September 2020 <br/>|[KB4484535](https://support.microsoft.com/help/4484535) <br/>|
 |August 2020 <br/>|[KB4484493](https://support.microsoft.com/help/4484493) <br/>|
 |Juli 2020  <br/>  |[KB4484457](https://support.microsoft.com/help/4484457) <br/>|
-|Juni 2020  <br/>  |[KB4484412](https://support.microsoft.com/help/4484412) <br/>|
+|Juni 2020  <br/>  |[KB4484412](https://support.microsoft.com/help/4484412) <br/>|
 |Mai 2020  <br/>  |[KB4484388](https://support.microsoft.com/help/4484388) <br/>|
 |April 2020  <br/>  |[KB4484323](https://support.microsoft.com/help/4484323) <br/>|
 |März 2020  <br/>  |[KB4484239](https://support.microsoft.com/help/4484239) <br/>|
@@ -207,7 +208,7 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2019  <br/>  |[KB4475507](https://support.microsoft.com/help/4475507) <br/>|
 |Mai 2019  <br/>  |[KB4464568](https://support.microsoft.com/help/4464568) <br/>|
 |April 2019  <br/>  |[KB4464521](https://support.microsoft.com/help/4464521) <br/>|
-|März 2019  <br/>  |[KB4462227](https://support.microsoft.com/help/4462227) <br/>|
+|März 2019  <br/>  |[KB4462227](https://support.microsoft.com/help/4462227) <br/>|
 |Februar 2019  <br/>  |[KB4462179](https://support.microsoft.com/help/4462179) <br/>|
 |Januar 2019  <br/>  |[KB4461618](https://support.microsoft.com/help/4461618) <br/>|
 |Dezember 2018  <br/>  |[KB4461572](https://support.microsoft.com/help/4461572) <br/>|
@@ -237,17 +238,17 @@ Verwenden Sie die Links auf dieser Seite, um mehr Informationen über Project Se
 |Juni 2016  <br/> |[KB3115242](https://support.microsoft.com/help/3115242) <br/> |
 |Mai 2016  <br/>|[KB3115122](https://support.microsoft.com/help/3115122) <br/> |
 |April 2016  <br/> |[KB3114992](https://support.microsoft.com/help/3114992) <br/> |
-|März 2016  <br/> |[KB3114876](https://support.microsoft.com/help/3114876) <br/> |
-|März 2016  <br/> |[KB3114754](https://support.microsoft.com/help/3114754) <br/> |
+|März 2016  <br/> |[KB3114876](https://support.microsoft.com/help/3114876) <br/> |
+|März 2016  <br/> |[KB3114754](https://support.microsoft.com/help/3114754) <br/> |
 |Januar 2016  <br/> |[KB3114556](https://support.microsoft.com/help/3114556) <br/> |
 |Dezember 2015  <br/> |[KB3114405](https://support.microsoft.com/help/3114405) <br/> |
 |November 2015  <br/> |[KB3101530](https://support.microsoft.com/help/3101530) <br/> |
-|Oktober 2015  <br/> |[KB3085598](https://support.microsoft.com/help/3085598) <br/> |
+|Oktober 2015  <br/> |[KB3085598](https://support.microsoft.com/help/3085598) <br/> |
 |September 2015  <br/> |[KB3085517](https://support.microsoft.com/help/3085517) <br/> |
 |August 2015  <br/> |[KB3055038](https://support.microsoft.com/help/3055038) <br/> |
-|Juli 2015  <br/> |[KB3054972](https://support.microsoft.com/help/3054972) <br/> |
+|Juli 2015  <br/> |[KB3054972](https://support.microsoft.com/help/3054972) <br/> |
 |Juni 2015  <br/> |[KB3054877](https://support.microsoft.com/help/3054877) <br/> |
-|Mai 2015  <br/> |[KB2999496](https://support.microsoft.com/help/2999496) <br/> |
+|Mai 2015  <br/> |[KB2999496](https://support.microsoft.com/help/2999496) <br/> |
 |April 2015  <br/> |[KB2965293](https://support.microsoft.com/help/2965293) <br/> |
 |März 2015  <br/> |[KB2956198](https://support.microsoft.com/help/2956168) <br/> |
 |Februar 2015  <br/> |[KB2899557](https://support.microsoft.com/help/2899557) <br/> |

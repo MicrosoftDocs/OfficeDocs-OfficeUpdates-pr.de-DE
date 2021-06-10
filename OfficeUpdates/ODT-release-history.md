@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ODT
 description: Stellt IT-Experten einen Versionsverlauf für das Office-Bereitstellungstool (ODT) zur Verfügung
-ms.openlocfilehash: 16814bd8ef3b67f3ff4bab2f60627fbb65a37e03
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 163c358c39c4f1953a153ebc52bf909dedd49955
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322465"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851645"
 ---
 # <a name="release-history-for-office-deployment-tool"></a>Versionsverlauf für das Office-Bereitstellungstool
 
@@ -28,6 +28,11 @@ Das ODT bietet Ihnen mehr Kontrolle über eine Office-Installation. Sie können 
  **Installationsanweisungen**: Laden Sie die selbst entpackende ausführbare Datei herunter, die die ausführbare Datei (setup.exe) und eine Beispielkonfigurationsdatei (configuration.xml) für das Office-Bereitstellungstool enthält, und führen Sie sie aus. 
 
 [Laden Sie das Office-Bereitstellungstool herunter](https://www.microsoft.com/en-us/download/confirmation.aspx?id=49117).
+
+## <a name="june-7-2021"></a>7. Juni 2021
+Version 16.0.14026.20254 (setup.exe Version 16.0.14026.20252)
+- Zuverlässigkeitskorrekturen für ARM-Plattformen
+
 
 ## <a name="may-10-2021"></a>10. Mai 2021
 Version 16.0.13929.20296 (setup.exe Version 16.0.13929.20238)
@@ -92,9 +97,9 @@ Version 16.0.13328.20356 (setupODT.exe-Version 16.0.13328.20336)
 
 ## <a name="october-29-2020"></a>29. Oktober 2020
 Version 16.0.13328.20292 (setup.exe Version 16.0.13328.20290)
-- Behebt ein Problem, bei dem bestimmte Office 2007-Produkte die Installation bei Verwendung von RemoveMSI unerwartet blockieren können.
+- Behebt ein Problem, bei dem bestimmte Office 2007-Produkte die Installation bei Verwendung von RemoveMSI unerwartet blockieren können.
 
-## <a name="october-14-2020"></a>14. Oktober 2020
+## <a name="october-14-2020"></a>14. Oktober 2020
 Version 16.0.13231.20368 (setup.exe-Version 16.0.13231.20350)
 - Alle Produkte verwenden jetzt standardmäßig den monatlichen Kanal, wenn kein Kanal angegeben wurde.
 - Verbesserte Sicherheit beim Ausführen von ODT aus einem Verzeichnis, das andere DLL-Dateien enthält.

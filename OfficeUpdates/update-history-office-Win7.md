@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt Kunden Versionsinformationen zum Updateverlauf für Microsoft 365-Apps für Windows 7 bereit.
-ms.openlocfilehash: cf4273fa79e76c1861a83a552c45afd3026380cf
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ba66e7b0b07c3417f1b8107e1d88bc4f2e67cbb
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330452"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851855"
 ---
 # <a name="update-history-for-microsoft-365-apps-on-windows-7"></a>Updateverlauf für Microsoft 365-Apps unter Windows 7 
 
@@ -28,7 +28,7 @@ Die Version 2002 ist die letzte Version von Microsoft 365 Apps, die auf Geräten
 
 Versionen des halbjährlichen Kanals sind in der Regel nur 14 Monate lang verfügbar, aber für Version 2002 wird eine Ausnahme gemacht, um festzustellen, wie lange Extended Security Updates (ESU) für Windows 7 verfügbar sind.
 
-Diese erweiterte Verfügbarkeit für Version 2002 gilt auch für andere Updatekanäle, z. B. für den Aktuellen Kanal, gilt jedoch nur für Geräte mit Windows 7.
+Diese erweiterte Verfügbarkeit für Version 2002 gilt auch für andere Updatekanäle, z. B. für den Aktuellen Kanal, gilt jedoch nur für Geräte mit Windows 7.
 
 Am zweiten Dienstag jedes Monats wird bei Bedarf ein neuer Build der Version 2002 mit Sicherheitsupdates veröffentlicht. Eine Liste der Sicherheitsupdates für die Version 2002 finden Sie unter [Versionshinweise für Microsoft Office-Sicherheitsupdates](microsoft365-apps-security-updates.md).
 
@@ -38,6 +38,9 @@ Weitere Informationen für die Verwaltung von Updates mit dem Microsoft Endpoint
 ## <a name="update-history"></a>Aktualisierungsverlauf
 
 [//]: # (NICHT ENTFERNEN)
+
+**8. Juni 2021**<br/>
+Version 2002 (Build 12527.21952)<br/>
 
 **11. Mai 2021**<br/>
 Version 2002 (Build 12527.21912)<br/>
@@ -54,10 +57,10 @@ Version 2002 (Build 12527.21594)<br/>
 **12. Januar 2021**<br/>
 Version 2002 (Build 12527.21504)<br/>
 
-**08. Dezember 2020**<br/>
+**08. Dezember 2020**<br/>
 Version 2002 (Build 12527.21416)<br/>
 
-**10. November 2020**<br/>
+**10. November 2020**<br/>
 Version 2002 (Build 12527.21330)<br/>
 
 **13. Oktober 2020**<br/>
