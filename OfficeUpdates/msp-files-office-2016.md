@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Normal
 ms.collection: RelNotes_Perpetual
 description: Bietet IT-Experten eine Liste der aktuellen MSP-Dateien für unbefristete Office 2016-Versionen, die Windows Installer (MSI) verwenden
-ms.openlocfilehash: 9a3cee95f097c44fa486b2d4ade910592f9c319c
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 0ec493d443a7b747c102619e56f470fda5a81f38
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330522"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851985"
 ---
 # <a name="list-of-the-most-current-msp-files-for-office-2016-products"></a>Liste der aktuellen MSP-Dateien für Office 2016-Produkte
 
@@ -26,32 +26,32 @@ Diese Informationen gelten nur für Office 2016-Produkte, die die Windows Instal
 
 [//]: # (INHALT NICHT ENTFERNEN START)
 
-In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Mai 2021 aktualisiert wurden.**
+In der folgenden Tabelle sind die MSP-Dateien aufgeführt, die im **Juni 2021** aktualisiert wurden.
 
 [//]: # (INHALT NICHT ENTFERNEN ENDE)
 
-[//]: # (MSP CONTENT START NICHT ENTFERNEN)
+[//]: # (MSP-INHALT NICHT ENTFERNEN START)
 
-|Nicht sicherheitsfreie Updates****|Sicherheitsupdates****|
+|Nicht sicherheitsrelevante Updates|Sicherheitsupdates|
 |:-----|:-----|
-|dcf-x-none|ace-x-none|
-|lync-x-none|excel-x-none|
-|outlook-x-none|graph-x-none|
+|ace-x-none|access-x-none|
+| |excel-x-none|
+| |graph-x-none|
 | |mso-x-none|
-| |word-x-none|
+| |outlook-x-none|
 
-[//]: # (MSP CONTENT END NICHT ENTFERNEN)
+[//]: # (MSP-INHALT NICHT ENTFERNEN ENDE)
 
 ## <a name="list-of-all-msp-files"></a>Liste aller MSP-Dateien
 
-Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung von Office 2016 im September 2015 veröffentlicht wurden. Wenn für eine MSP-Datei ein Sicherheitsveröffentlichungsdatum vor liegt, das größer als das nicht sicherheitsspezifische Veröffentlichungsdatum ist, ist die nicht sicherheitsspezifische Version nicht erforderlich, da sie durch die Sicherheitsversion ersetzt wurde.
+Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung von Office 2016 im September 2015 veröffentlicht wurden. Wenn ein Veröffentlichungsdatum für eine MSP-Datei vorhanden ist, das größer als das nicht sicherheitsrelevante Veröffentlichungsdatum ist, wird die nicht sicherheitsrelevante Version nicht benötigt, da sie durch die Sicherheitsversion abgelöst wurde.
 
 [//]: # (VERLAUFSINHALT NICHT ENTFERNEN START)
 
 |****MSP-Dateiname***|****Produkt****|****Datum der nicht sicherheitsrelevanten Veröffentlichung****|****Nicht sicherheitsrelevanter KB-Artikel****|****Datum der sicherheitsrelevanten Veröffentlichung****|****Sicherheitsrelevanter KB-Artikel****|****Sicherheitsrelevante KB veraltet****|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|access-x-none  <br/> |Access 2016  <br/> |2. März 2021  <br/> |[4493188](https://support.microsoft.com/help/4493188) <br/> |11. August 2020  <br/> |[4484340](https://support.microsoft.com/help/4484340) <br/> |[4484167](https://support.microsoft.com/help/4484167) <br/> | 
-|ace-x-none  <br/>|Office 2016  <br/>|2. Juni 2020  <br/>|[4484394](https://support.microsoft.com/help/4484394) <br/>|11. Mai 2021 <br/>|[4493197](https://support.microsoft.com/help/4493197) <br/>|[4486755](https://support.microsoft.com/help/4486755) <br/>|
+|access-x-none  <br/>|Access 2016  <br/>|2. März 2021  <br/>|[4493188](https://support.microsoft.com/help/4493188) <br/>|08. Juni 2021 <br/>|[4504711](https://support.microsoft.com/help/4504711) <br/>|[4484340](https://support.microsoft.com/help/4484340) <br/>|
+|ace-x-none  <br/>|Office 2016  <br/>|01. Juni 2021 <br/>|[5001948](https://support.microsoft.com/help/5001948) <br/>|11. Mai 2021 <br/>|[4493197](https://support.microsoft.com/help/4493197) <br/>|[4486755](https://support.microsoft.com/help/4486755) <br/>|
 |acewss-x-none  <br/> |Office 2016  <br/> |7. November 2017  <br/> |[4011259](https://support.microsoft.com/help/4011259) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |chart-x-none  <br/> |Office 2016  <br/> |2. Juni 2020  <br/> |[4484171](https://support.microsoft.com/help/4484171) <br/> |10. April 2018  <br/> |[4018319](https://support.microsoft.com/help/4018319) <br/> |[4011095](https://support.microsoft.com/help/4011095) <br/> |
 |conv-x-none  <br/> |Office 2016  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |12. September 2017  <br/> |[3213551](https://support.microsoft.com/help/3213551) <br/> |[3203383](https://support.microsoft.com/help/3203383) <br/> |
@@ -59,21 +59,21 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |csisyncclient-x-none  <br/> |Office 2016  <br/> |4. Oktober 2016  <br/> |[3118264](https://support.microsoft.com/help/3118264) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |dcf-x-none  <br/>|Office 2016  <br/>|4. Mai 2021 <br/>|[4462117](https://support.microsoft.com/help/4462117) <br/>|Nicht zutreffend  <br/>|Nicht zutreffend  <br/>|Nicht zutreffend  <br/>|
 |eqnedt32-x-none  <br/> |Office 2016  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |9. Januar 2018  <br/> |[4011574](https://support.microsoft.com/help/4011574) <br/> |[4011262](https://support.microsoft.com/help/4011262)  <br/> |
-|excel-x-none  <br/>|Excel 2016  <br/>|7. Juli 2020  <br/>|[4484437](https://support.microsoft.com/help/4484437) <br/>|11. Mai 2021 <br/>|[5001918](https://support.microsoft.com/help/5001918) <br/>|[4504721](https://support.microsoft.com/help/4504721) <br/>|
+|excel-x-none  <br/>|Excel 2016  <br/>|7. Juli 2020  <br/>|[4484437](https://support.microsoft.com/help/4484437) <br/>|08. Juni 2021 <br/>|[5001947](https://support.microsoft.com/help/5001947) <br/>|[5001918](https://support.microsoft.com/help/5001918) <br/>|
 |excelpp-x-none  <br/> |Office 2016  <br/> |3. September 2019  <br/> |[4011629](https://support.microsoft.com/help/4011629) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |exppdf-x-none  <br/> |Office 2016  <br/> |5. April 2016  <br/> |[2920720](https://support.microsoft.com/help/2920720) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |filterpack-x-none  <br/> |Office 2016  <br/> |6. Oktober 2020  <br/> |[4475584](https://support.microsoft.com/help/4475584) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |fonts-x-none  <br/> |Office 2016  <br/> |5. April 2016  <br/> |[3114903](https://support.microsoft.com/help/3114903) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |gkall-x-none  <br/> |Office 2016  <br/> |6. September 2016  <br/> |[3115276](https://support.microsoft.com/help/3115276) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|graph-x-none  <br/>|Office 2016  <br/>|6. März 2018  <br/>|[4011624](https://support.microsoft.com/help/4011624) <br/>|11. Mai 2021 <br/>|[5001923](https://support.microsoft.com/help/5001923) <br/>|[4504724](https://support.microsoft.com/help/4504724) <br/>|
+|graph-x-none  <br/>|Office 2016  <br/>|6. März 2018  <br/>|[4011624](https://support.microsoft.com/help/4011624) <br/>|08. Juni 2021 <br/>|[5001951](https://support.microsoft.com/help/5001951) <br/>|[5001923](https://support.microsoft.com/help/5001923) <br/>|
 |groove-x-none  <br/> |OneDrive for Business  <br/> |7. August 2018  <br/> |[4022219](https://support.microsoft.com/help/4022219) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |ieawsdc-x-none  <br/> |Office 2016  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend <br/> |13. Oktober 2015  <br/> |[3085538](https://support.microsoft.com/help/3085538)  <br/> |Nicht zutreffend  <br/> |
 |kohhc-x-none  <br/> |Office 2016  <br/> |6. Juni 2017  <br/> |[3191929](https://support.microsoft.com/help/3191929) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|lip-*ll-cc* <sup>1</sup> <br/> |Benutzeroberflächen-Sprachpaket für Office 2016  <br/> |3. März 2020  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
+|*ll-cc* <sup>1</sup> <br/> |Benutzeroberflächen-Sprachpaket für Office 2016  <br/> |3. März 2020  <br/> |[4484136](https://support.microsoft.com/help/4484136) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |lync-x-none  <br/>|Skype for Business 2016  <br/>|4. Mai 2021 <br/>|[4493155](https://support.microsoft.com/help/4493155) <br/>|9. Juli 2019  <br/>|[4475545](https://support.microsoft.com/help/4475545) <br/>|[4461473](https://support.microsoft.com/help/4461473)  <br/>|
 |mscomctlocx-x-none  <br/> |Office 2016  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |12. Januar 2016  <br/> |[2920727](https://support.microsoft.com/help/2920727) <br/> |Nicht zutreffend  <br/> |
 |msmipc-x-none  <br/> |Office 2016  <br/> |4. April 2017  <br/> |[3178666](https://support.microsoft.com/help/3178666) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|mso-x-none  <br/>|Office 2016  <br/>|2. Februar 2021  <br/>|[4493189](https://support.microsoft.com/help/4493189) <br/>|11. Mai 2021 <br/>|[5001920](https://support.microsoft.com/help/5001920) <br/>|[4504722](https://support.microsoft.com/help/4504722) <br/>|
+|mso-x-none  <br/>|Office 2016  <br/>|2. Februar 2021  <br/>|[4493189](https://support.microsoft.com/help/4493189) <br/>|08. Juni 2021 <br/>|[5001950](https://support.microsoft.com/help/5001950) <br/>|[5001920](https://support.microsoft.com/help/5001920) <br/>|
 |msodll20-x-none  <br/>|Office 2016  <br/>|6. April 2021 <br/>|[4486672](https://support.microsoft.com/help/4486672) <br/>|13. Juni 2017  <br/>|[3178667](https://support.microsoft.com/help/3178667) <br/>|Nicht zutreffend  <br/>|
 |msodll30-x-none  <br/> |Office 2016  <br/> |1. Dezember 2020  <br/> |[4486747](https://support.microsoft.com/help/4486747) <br/> |12. September 2017  <br/> |[4011126](https://support.microsoft.com/help/4011126) <br/> |[3213545](https://support.microsoft.com/help/3213545)  <br/> |
 |msodll40ui-x-none  <br/> |Office 2016  <br/> |7. Juli 2020  <br/> |[4484174](https://support.microsoft.com/help/4484174) <br/> |10. Mai 2016  <br/> |[3115103](https://support.microsoft.com/help/3115103) <br/> |Nicht zutreffend  <br/> |
@@ -93,7 +93,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |otkruntimertl-x-none  <br/> |Office 2016  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |8. März 2016  <br/> |[3114690](https://support.microsoft.com/help/3114690) <br/> |Nicht zutreffend  <br/> |
 |outexum-x-none  <br/> |Office 2016  <br/> |6. August 2019  <br/> |[4464535](https://support.microsoft.com/help/4464535) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |outlfltr-x-none  <br/> |Office 2016  <br/> |2. August 2016  <br/> |[3115407](https://support.microsoft.com/help/3115407) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|outlook-x-none  <br/>|Outlook 2016  <br/>|4. Mai 2021 <br/>|[5001921](https://support.microsoft.com/help/5001921) <br/>|13. April 2021 <br/>|[4504712](https://support.microsoft.com/help/4504712) <br/>|[4486748](https://support.microsoft.com/help/4486748) <br/>|
+|outlook-x-none  <br/>|Outlook 2016  <br/>|4. Mai 2021 <br/>|[5001921](https://support.microsoft.com/help/5001921) <br/>|08. Juni 2021 <br/>|[5001942](https://support.microsoft.com/help/5001942) <br/>|[4504712](https://support.microsoft.com/help/4504712) <br/>|
 |policytips-x-none  <br/> |Office 2016  <br/> |7. Juni 2016  <br/> |[3115081](https://support.microsoft.com/help/3115081) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |powerpoint-x-none  <br/> |PowerPoint 2016  <br/> |2. Februar 2021  <br/> |[4493164](https://support.microsoft.com/help/4493164) <br/> |9. März 2021  <br/> |[4493224](https://support.microsoft.com/help/4493224) <br/> |[4484393](https://support.microsoft.com/help/4484393) <br/> |
 |ppaddin-x-none  <br/> |Office 2016  <br/> |5. Dezember 2017  <br/> |[4011225](https://support.microsoft.com/help/4011225) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
@@ -106,7 +106,7 @@ Die folgende Tabelle enthält alle MSP-Dateien, die seit der Veröffentlichung v
 |setupexe-x-none  <br/> |Office 2016  <br/> |6. August 2019  <br/> |[3141456](https://support.microsoft.com/help/3141456) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |stslist-x-none  <br/> |Office 2016  <br/> |5. Februar 2019  <br/> |[4022161](https://support.microsoft.com/help/4022161) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |stsupld-x0-none  <br/> |Office 2016  <br/> |8. März 2016  <br/> |[2920678](https://support.microsoft.com/help/2920678) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
-|vbe7-x-none  <br/> |Office 2016  <br/> |2. März 2021  <br/> |[4493153](https://support.microsoft.com/help/4493153) <br/> |13. Oktober 2020  <br/> |[4484417](https://support.microsoft.com/help/4484417) <br/> |[3128012](https://support.microsoft.com/help/3128012) <br/> |
+|vbe7-x-none  <br/> |Office 2016  <br/> |2. März 2021  <br/> |[4493153](https://support.microsoft.com/help/4493153) <br/> |13. Oktober 2020  <br/> |[4484417](https://support.microsoft.com/help/4484417) <br/> |[3128012](https://support.microsoft.com/help/3128012) <br/> |
 |visio-x-none  <br/> |Visio 2016  <br/> |1. Dezember 2020  <br/> |[4486709](https://support.microsoft.com/help/4486709) <br/> |9. März 2021  <br/> |[4493151](https://support.microsoft.com/help/4493151) <br/> |[4484244](https://support.microsoft.com/help/4484244) <br/> |
 |vviewer-x-none  <br/> |Office 2016  <br/> |7. Januar 2020  <br/> |[2920709](https://support.microsoft.com/help/2920709) <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |Nicht zutreffend  <br/> |
 |word-x-none  <br/>|Word 2016  <br/>|1. Dezember 2020  <br/>|[4486756](https://support.microsoft.com/help/4486756) <br/>|11. Mai 2021 <br/>|[5001919](https://support.microsoft.com/help/5001919) <br/>|[4493198](https://support.microsoft.com/help/4493198) <br/>|
