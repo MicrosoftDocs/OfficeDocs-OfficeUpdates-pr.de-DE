@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal für Microsoft 365 Apps zur Verfügung
-ms.openlocfilehash: a6fa2fbc2e872e099800a3ca1c8ec421d14fef3d
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: a2b8ae060b7be521bb60f86b809ca0be0bd10817
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322345"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851955"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals
 
@@ -23,6 +23,59 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 > [!NOTE]
 >
 >- OneNote 2016 wird jetzt standardmäßig einbezogen, wenn ein Benutzer im halbjährlichen Unternehmenskanal Microsoft 365 Apps aus dem Office-Portal herunterlädt und auf Windows 10 installiert.
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2008-june-08"></a>Version 2008: 08. Juni
+*Version 2008 (Build 13127.21668)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem für einige Benutzer zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+- Es wurde ein Problem behoben, das bei einigen Benutzern dazu führte, dass die Statusleiste keinen Bereitschaftsstatus anzeigte.
+
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, bei dem Nummerierung und Einzüge beim Einfügen von Text mit benutzerdefinierten Formatierungen verloren gingen.
+
+
+- Ein Problem wurde behoben, das die Begrenzung der für Inhaltssteuerelemente zulässigen Größe von Zeichenfolgen aufhebt.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Vor dieser Änderung wurden Office-Vorlagen auch dann angezeigt, wenn das Gruppenrichtlinienobjekt, das sie deaktiviert, aktiviert war. Mit dieser Änderung werden Vorlagen jetzt das Gruppenrichtlinienobjekt richtig verwenden und wie gewünscht angezeigt/ausgeblendet.
+
+
+- Ein seltenes Problem wurde behoben, bei dem das Öffnen von Dateien aus SharePoint Online möglicherweise unnötig lange von der Lizenzierung und der Verwaltung digitaler Rechte mit Timeouts verzögert wird.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2002-june-08"></a>Version 2002: 08. Juni
+*Version 2002 (Build 12527.21952)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem für einige Benutzer zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -246,7 +299,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
-## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
+## <a name="version-2008-january-12"></a>Version 2008: 12. Januar
 *Version 2008 (Build 13127.21064)*
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
@@ -271,7 +324,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 - **Perfekte Farbe auswählen:** Verwenden Sie hexadezimale Farbcodes, um genau die Farbe auszuwählen, die Sie für Ihre Schriftart, die Texthervorhebung und mehr benötigen.<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/02/19/hex-color-values-in-color-picker/)
 
-- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Erstellen von PivotTables aus Datasets in Power BI in Excel:** Sie können mit wenigen Klicks PivotTables in Excel erstellen, die mit in Power BI gespeicherten Datensätzen verbunden sind.  Auf diese Weise können Sie sowohl PivotTables als auch Power BI optimal nutzen. Sie können Ihre Daten mit PivotTables aus Ihren sicheren Power BI-Datensätzen berechnen, zusammenfassen und analysieren. [Weitere Informationen](https://support.office.com/article/31444a04-9c38-4dd7-9a45-22848c666884)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
@@ -394,7 +447,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Diese Änderung bietet eine Korrektur für folgendes Problem: Der Excel-Befehl „Objekt einfügen“ zeigt beim Einfügen einer Datei aus dem lokalen Synchronisationsordner von OneDrive nicht das richtige Symbol an.
 
 
-- Es wurde ein Problem behoben, bei dem Excel nicht mehr funktionierte, wenn während einer Multithread-Neuberechnung eine Aktualisierung des Gruppenrichtlinienobjekts (z. B. über Aktualisieren der Remote-Gruppenrichtlinie) durchgeführt wurde.
+- Es wurde ein Problem behoben, bei dem Excel nicht mehr funktionierte, wenn während einer Multithread-Neuberechnung eine Aktualisierung des Gruppenrichtlinienobjekts (z. B. über Aktualisieren der Remote-Gruppenrichtlinie) durchgeführt wurde.
 
 
 - Es wurde ein Problem behoben, bei dem Excel nicht mehr funktioniert, wenn Benutzer die Zwischensummenfunktion für mehr als 255 Spalten verwenden.
@@ -566,7 +619,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Es wurde ein Problem behoben, aufgrund dessen das Ereignis "MailItem.BeforeAttachmentAdd" abgebrochen wurde.
 
 
-- Ein Problem wurde behoben, durch das Benutzer das Erstellungsdatum der Anlagen sehen konnten, die Sie per Drag & Drop in Ihr Dateisystem kopiert haben, wobei es auf den 1. Januar 4501 festgestellt wurde.
+- Ein Problem wurde behoben, durch das Benutzer das Erstellungsdatum der Anlagen sehen konnten, die Sie per Drag & Drop in Ihr Dateisystem kopiert haben, wobei es auf den 1. Januar 4501 festgestellt wurde.
 
 
 - Es wurde ein Problem behoben, das bewirkt hat, dass Benutzende einiger Zeichensätze beim Hinzufügen eines Smart Link zu einer Microsoft Office SharePoint Online-Datei Dateinamen falsch angezeigt bekamen.
@@ -608,7 +661,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Ein Problem wurde behoben, das dazu geführt hat, dass Outlook bei einigen Windows-Versionen unerwartet geschlossen wurde.
 
 
-- Es wurde ein Problem behoben, das dazu führte, dass Benutzer von Windows 10-Serverversionen die Warnung "Antivirenstatus: Ungültig" gesehen haben. Diese Windows-Version unterstützt die Virenerkennung, es wurde jedoch kein Virenschutzprogramm gefunden, obwohl das Virenschutzprogramm korrekt installiert war.
+- Es wurde ein Problem behoben, das dazu führte, dass Benutzer von Windows 10-Serverversionen die Warnung "Antivirenstatus: Ungültig" gesehen haben. Diese Windows-Version unterstützt die Virenerkennung, es wurde jedoch kein Virenschutzprogramm gefunden, obwohl das Virenschutzprogramm korrekt installiert war.
 
 
 - Es wurde ein Problem behoben, aufgrund dessen einige Benutzer die Anwendung unerwartet schließen mussten, wenn sie Outlook-E-Mails aus anderen Anwendungen als Outlook versandten.
@@ -638,7 +691,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Es wurde ein Problem behoben, aufgrund dessen Benutzer beim Verschieben mehrerer Poststücke zwischen Ordnern im Online-Modus eine verminderte Leistung erfahren haben.
 
 
-- Wir haben einen regkey hinzugefügt, mit dem Kunden die Dateizeiteinbeziehung für Anhänge in IDataObject-Operationen (d. h. Drag Drop, Zwischenablage) deaktivieren können. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes sind ausgeschlossen  1 = (Standard) filetimes sind eingeschlossen
+- Wir haben einen regkey hinzugefügt, mit dem Kunden die Dateizeiteinbeziehung für Anhänge in IDataObject-Operationen (d. h. Drag Drop, Zwischenablage) deaktivieren können. HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Attachments REG_DWORD IncludeFileTimesInDataObject  0 = filetimes sind ausgeschlossen  1 = (Standard) filetimes sind eingeschlossen
 
 
 - Es wurde ein Problem behoben, das dazu führte, dass Inline-Bilder verschwinden, wenn auf eine Nachricht mit einer Schutzbezeichnung von Azure Information Protection geantwortet wird.
@@ -797,7 +850,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 - Wenn ein Benutzer eine Richtlinie erhält, die ihn in die Kategorie "Nur für Teams" verschiebt, konnte er dennoch das Outlook-Add-In "Skype for Business" zur Planung von Besprechungen verwenden. Nach diesem Update können Sie keine Besprechungen mit Skype for Business mehr planen, nachdem der Client die Richtlinie gelesen hat, in der angegeben ist, dass der Benutzer "Nur für Teams" ist, und in den Modus "Nur an Besprechung teilnehmen" wechselt. Darüber hinaus aktiviert sich das Outlook-Add-In "Skype for Business" beim Start nicht selbst, wenn es sieht, dass sich der Skype for Business-Client im Modus "Nur an Besprechung teilnehmen" befindet.
 
 
-- Ein Problem wurde behoben, bei dem das TLS-DSK-Zertifikat eines Benutzers nicht zum erwarteten Zeitpunkt, sondern nur dann verlängert wurde, wenn es nur noch weniger als 12 Stunden gültig war.
+- Ein Problem wurde behoben, bei dem das TLS-DSK-Zertifikat eines Benutzers nicht zum erwarteten Zeitpunkt, sondern nur dann verlängert wurde, wenn es nur noch weniger als 12 Stunden gültig war.
 
 
 - Ein Problem wurde behoben, bei dem die Benutzeroberfläche von Skype for Business nach der Anmeldung leer angezeigt wird, wenn Office noch nicht lizenziert ist.
@@ -929,8 +982,8 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2002-january-12"></a>Version 2002: 12. Januar
-*Version 2002 (Build 12527.21504)*
+## <a name="version-2002-january-12"></a>Version 2002: 12. Januar
+*Version 2002 (Build 12527.21504)*
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
@@ -954,7 +1007,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-1908-january-12"></a>Version 1908: 12. Januar
+## <a name="version-1908-january-12"></a>Version 1908: 12. Januar
 *Version 1908 (Build 11929.20994)*
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
@@ -980,6 +1033,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DC|Production| |16.0.13127.21668|version-2008-june-08|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21624|version-2008-may-11|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21506|version-2008-april-13|)
 [//]: # (|Win32|DC|Production| |16.0.13127.21348|version-2008-march-09|)
@@ -989,5 +1043,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|DC|Production| |16.0.12527.21330|version-2002-november-10|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21236|version-2002-october-13|)
 [//]: # (|Win32|DC|Production| |16.0.12527.21104|version-2002-september-08|)
-[//]: # (|Win32|DC|Production| |16.0.12527.20988|version-2002-july-11|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

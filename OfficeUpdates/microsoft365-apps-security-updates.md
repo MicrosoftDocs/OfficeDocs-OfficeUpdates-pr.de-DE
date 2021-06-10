@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Anmerkungen zur Version für Microsoft Office-Sicherheitsupdates zur Verfügung.
-ms.openlocfilehash: 609a90e81dd90867858b7902c4f0363a2abca514
-ms.sourcegitcommit: 555e92127b0922cf09d5c2cc1dba836336bcbf5b
+ms.openlocfilehash: 5ab2db770141e34fa8fd3d38411e77acef4d4235
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52330502"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851835"
 ---
 # <a name="release-notes-for-microsoft-office-security-updates"></a>Versionshinweise für Microsoft Office-Sicherheitsupdates
 
@@ -24,6 +24,42 @@ Diese Informationen gelten für Microsoft 365 Apps for Enterprise, Microsoft 365
  
 
 [//]: # (DIE OBENSTEHENDE ZEILE NICHT ENTFERNEN, sie wird als Abstandhalter benötigt)  
+
+## <a name="june-08-2021"></a>08. Juni 2021
+Aktueller Kanal: Version 2105 (Build 14026.20270)  
+Monatlicher Enterprise-Kanal: Version 2104 (Build 13929.20408)  
+Monatlicher Enterprise-Kanal: Version 2103 (Build 13901.20554)  
+Halbjährlicher Enterprise-Kanal (Vorschau): Version 2102 (Build 13801.20738)  
+Halbjährlicher Enterprise-Kanal: Version 2008 (Build 13127.21668)  
+Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21952)  
+Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.21952)  
+Office 2019 Retail: Version 2105 (Build 14026.20270)  
+Office 2016 Retail: Version 2105 (Build 14026.20270)  
+Office 2019 (Volumenlizenz): Version 1808 (Build 10375.20036)  
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="access"></a>Access
+
+-   [CVE-2021-28455](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-28455)
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-31939](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-31939)
+
+### <a name="outlook"></a>Outlook
+
+-   [CVE-2021-31949](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-31949)
+
+### <a name="office-suite"></a>Office-Suite
+
+-   [CVE-2021-31941](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-31941)
+-   [CVE-2021-31940](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-31940)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
 
 ## <a name="may-11-2021"></a>11. Mai 2021
 Aktueller Kanal: Version 2104 (Build 13929.20372)  
@@ -174,8 +210,8 @@ Halbjährlicher Enterprise-Kanal (Preview): Version 2008 (Build 13127.21064)
 Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21504)  
 Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.20994)  
 Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.21504)  
-Office 2019 Retail: Version 2012 (Build 13530.20376)  
-Office 2016 Retail: Version 2012 (Build 13530.20376)  
+Office 2019 Retail: Version 2012 (Build 13530.20376)  
+Office 2016 Retail: Version 2012 (Build 13530.20376)  
 Office 2019-Volumenlizenz:Version 1808 (Build 10370.20052)  
 
 [//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
@@ -244,9 +280,9 @@ Halbjährlicher Enterprise-Kanal (Preview): Version 2008 (Build 13127.20760)
 Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21330)  
 Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.20974)  
 Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.21330)  
-Office 2019 Retail: Version 2010 (Build 13328.20356)  
-Office 2016 Retail: Version 2010 (Build 13328.20356)  
-Office 2019-Volumenlizenz: Version 1808 (Build 10368.20035)  
+Office 2019 Retail: Version 2010 (Build 13328.20356)  
+Office 2016 Retail: Version 2010 (Build 13328.20356)  
+Office 2019-Volumenlizenz: Version 1808 (Build 10368.20035)  
 
 [//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -270,17 +306,17 @@ Office 2019-Volumenlizenz: Version 1808 (Build 10368.20035)
 
 
 
-## <a name="october-13-2020"></a>13. Oktober 2020
-Aktueller Kanal: Version 2009 (Build 13231.20390)  
-Monatlicher Enterprise-Kanal: Version 2008 (Build 13127.20638)  
-Monatlicher Enterprise-Kanal: Version 2007 (Build 13029.20708)  
-Halbjährlicher Enterprise-Kanal (Vorschau): Version 2008 (Build 13127.20638)  
-Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21236)  
-Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.20966)  
-Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.21236)  
-Office 2019 Retail: Version 2009 (Build 13231.20390)  
-Office 2016 Retail: Version 2009 (Build 13231.20390)  
-Office 2019-Volumenlizenz: Version 1808 (Build 10367.20048)  
+## <a name="october-13-2020"></a>13. Oktober 2020
+Aktueller Kanal: Version 2009 (Build 13231.20390)  
+Monatlicher Enterprise-Kanal: Version 2008 (Build 13127.20638)  
+Monatlicher Enterprise-Kanal: Version 2007 (Build 13029.20708)  
+Halbjährlicher Enterprise-Kanal (Vorschau): Version 2008 (Build 13127.20638)  
+Halbjährlicher Enterprise-Kanal: Version 2002 (Build 12527.21236)  
+Halbjährlicher Enterprise-Kanal: Version 1908 (Build 11929.20966)  
+Microsoft 365 Apps unter Windows 7: Version 2002 (Build 12527.21236)  
+Office 2019 Retail: Version 2009 (Build 13231.20390)  
+Office 2016 Retail: Version 2009 (Build 13231.20390)  
+Office 2019-Volumenlizenz: Version 1808 (Build 10367.20048)  
 
 [//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
 
@@ -353,7 +389,7 @@ Office 2019-Volumenlizenz: Version 1808 (Build 10366.20016)
 
 
 
-## <a name="august-11-2020"></a>11. August 2020
+## <a name="august-11-2020"></a>11. August 2020
 Aktueller Kanal: Version 2007 (Build 13029.20344)  
 Monatlicher Enterprise-Kanal: Version 2006 (Build 13001.20520)  
 Monatlicher Enterprise-Kanal: Version 2005 (Build 12827.20656)  
@@ -817,7 +853,7 @@ Halbjährlicher Kanal (Gezielt): Version 1808 (Build 10730.20262)
 
 -   [CVE-2018-8628](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2018-8628)
 
-## <a name="november-13-2018"></a>13. November 2018
+## <a name="november-13-2018"></a>13. November 2018
 Monatlicher Kanal: Version 1810 (Build 11001.20108)  
 Halbjährlicher Kanal: Version 1803 (Build 9126.2315)  
 Halbjährlicher Kanal (Gezielt): Version 1808 (Build 10730.20205)  

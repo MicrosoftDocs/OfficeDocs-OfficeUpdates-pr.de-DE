@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für Releases im Monatlichen Kanal für Microsoft 365 Apps
-ms.openlocfilehash: abc506af5bb0ff1ea4a4632f72a9c1889e78fac7
-ms.sourcegitcommit: 8e2e7ccf20bb01f9eff692ff93bdcf8fe44e9148
+ms.openlocfilehash: d34f57010c92943ed8665159172f7732e5db715b
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657968"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851875"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -29,6 +29,36 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2105-june-08"></a>Version 2105: 08. June
+*Version 2105 (Build 14026.20270)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem für einige Benutzer zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das zu einem unerwarteten Schließen bei der Interaktion mit der Outlook Mail- oder Kalenderansichten führen kann.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook unerwartet geschlossen wurde, wenn Benutzer Ordner aus einem Archivspeicher entfernten.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Eine Leistungsregression beim Öffnen von SyncBacked-Dateien wurde behoben.
 
 
 
@@ -116,12 +146,13 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 
 - Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit „Vorgeschlagene Zeiten“ aktiviert wird.
-    - Registrierungsschlüssel:
 
-        > HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
-        > REG_DWORD “ShowLegacyRoomFinder”</br></br>
-        > 0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
-        > 1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
+    Registrierungsschlüssel:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
+    >1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
 
 
 ### <a name="powerpoint"></a>PowerPoint
@@ -231,7 +262,7 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 
 ### <a name="visio"></a>Visio
 
-- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
+- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
 
 ### <a name="word"></a>Word
 
@@ -922,6 +953,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 > Wenn Sie Hilfe bei einem Problem mit der Nutzung von Office benötigen, empfehlen wir, dass Sie Ihre Frage im [Microsoft Answers-Forum](https://answers.microsoft.com/) oder in der [Tech-Community](https://techcommunity.microsoft.com/) veröffentlichen, oder Sie können sich an den [Support](https://support.microsoft.com/contactus) wenden.
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|CC|Production| |16.0.14026.20270|version-2105-june-08|)
 [//]: # (|Win32|CC|Production| |16.0.14026.20246|version-2105-may-24|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20386|version-2104-may-18|)
 [//]: # (|Win32|CC|Production| |16.0.13929.20372|version-2104-may-11|)
@@ -931,5 +963,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|CC|Production| |16.0.13901.20336|version-2103-april-02|)
 [//]: # (|Win32|CC|Production| |16.0.13901.20312|version-2103-march-30|)
 [//]: # (|Win32|CC|Production| |16.0.13801.20360|version-2102-march-18|)
-[//]: # (|Win32|CC|Production| |16.0.13801.20294|version-2102-march-09|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

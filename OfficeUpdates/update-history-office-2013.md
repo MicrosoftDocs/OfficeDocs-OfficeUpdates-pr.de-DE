@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 0edbfbabe81e8c379489fa15bfc3f54942f6aeb6
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322295"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851925"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Bestimmte Office 2013-Produkte werden automatisch mithilfe der Technologie "Klick-und-Los" auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die neueste Version von Office 2013 ist **15.0.5345.1002**, die am 11. Mai 2021 veröffentlicht wurde.
+> Die aktuellste Version von Office 2013 ist **15.0.5357.1000**, die am 8. Juni 2021 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -45,12 +45,13 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2021|11. Mai|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
+|2021|8. Juni|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+||11. Mai|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13. April|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9. März|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|
 ||9. Februar|15.0.5319.1000|[KB 5000653](https://support.microsoft.com/help/5000653)|
 ||12. Januar|15.0.5311.1000|[KB 4583559](https://support.microsoft.com/help/4583559)|
-|2020| 8. Dezember|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
+|2020| 8. Dezember|15.0.5301.1000 |[KB 4583521](https://support.microsoft.com/help/4583521)|
 ||10. November|15.0.5293.1000|[KB 4583503](https://support.microsoft.com/help/4583503)|
 ||13. Oktober| 15.0.5285.1000| [KB 4583495](https://support.microsoft.com/help/4583495)|
 ||8. September| 15.0.5275.1000 | [KB 4576653](https://support.microsoft.com/help/4576653)|
@@ -75,7 +76,7 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 ||12. Februar   |15.0.5111.1001   |[KB 4488446](https://support.microsoft.com/help/4488446)  |
 ||8. Januar   |15.0.5101.1002   |[4484800 KB](https://support.microsoft.com/help/4484800)  |
 |2018|19. Dezember   |15.0.5093.1001   |[KB 4477615](https://support.microsoft.com/help/4477615)  |
-||13. November   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/help/4469617)  |
+||13. November   |15.0.5085.1000   |[KB 4469617](https://support.microsoft.com/help/4469617)  |
 ||9. Oktober   |15.0.5075.1001   |[KB 4464656](https://support.microsoft.com/help/4464656)  |
 | |11. September   |15.0.5067.1000   |[KB 4459402](https://support.microsoft.com/help/4459402)  |
 ||14. August   |15.0.5059.1000   |[KB 4346823](https://support.microsoft.com/help/4346823)  |
@@ -126,7 +127,7 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
 ||10. März   |15.0.4701.1002   |[KB 3040794](https://support.microsoft.com/kb/3040794)  |
 ||10. Februar   |15.0.4693.1002   |[KB 3032763](https://support.microsoft.com/kb/3032763)  |
 |2014   |9. Dezember   |15.0.4675.1002   |[KB 3020812](https://support.microsoft.com/kb/3020812)  |
-||11. November   |15.0.4667.1002   |[KB 3012392](https://support.microsoft.com/kb/3012392)  |
+||11. November   |15.0.4667.1002   |[KB 3012392](https://support.microsoft.com/kb/3012392)  |
 ||14. Oktober   |15.0.4659.1001   |[KB 3003800](https://support.microsoft.com/kb/3003800)  |
 ||16. September   |15.0.4649.1003   |[KB 2889931](https://support.microsoft.com/kb/2889931)  |
 ||9. September   |15.0.4649.1001   |[KB 2995902](https://support.microsoft.com/kb/2995902)  |
