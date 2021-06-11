@@ -9,24 +9,178 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps zur Verfügung.
-ms.openlocfilehash: 97275c74ed91f91cd6a307cb87bbdc83ffcdf49e
-ms.sourcegitcommit: 8841de32b2d66cec6c0b07e7bc87faab0248c019
+ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52322325"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851865"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Versionshinweise für den monatlichen Enterprise-Kanal
 
-Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sicherheitsrelevanten Updates, die in monatlichen Enterprise-Kanal-Updates für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
+Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sicherheitsrelevanten Updates, die in monatlichen Enterprise-Kanal-Updates für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
 
 [//]: # (NICHT ENTFERNEN)
 
 
 
-## <a name="version-2103-may-11"></a>Version 2103: 11. Mai
-*Version 2103 (Build 13901.20516)*
+## <a name="version-2104-june-08"></a>Version 2104: 08. Juni
+*Version 2104 (Build 13929.20408)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+### <a name="word"></a>Word
+
+- **AutoSpeichern und gemeinsame Dokumentenerstellung für vertrauliche, verschlüsselte Dokumente:** Tauschen Sie nicht die Produktivität gegen die Sicherheit ein. Mit Microsoft Information Protection können Dokumente, die mit Vertraulichkeitsbezeichnungen verschlüsselt sind, jetzt genauso wie unverschlüsselte Dokumente automatisch gespeichert und mit anderen in Echtzeit gemeinsam bearbeitet werden. Erfordert Einverständnis des Mandanten (weitere Informationen: https://aka.ms/mipcoauth).
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem einige Dateien gelegentlich nicht in der geschützten Ansicht geöffnet werden konnten.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass die Datumsformatierung bei der Verwendung von Add-Ins in einigen Sprachen nicht korrekt angezeigt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem das Add-In „Analyse-Funktionen“ für einige Benutzer nicht funktionierte.
+
+
+- Es wurde ein Problem behoben, bei dem bei einigen Benutzern zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+- Fix für ein Problem, bei dem ein Rollback der Hauptversion zum Beenden der Anwendung beim Öffnen von Dateien führen konnte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, bei dem für einige Benutzer der Funktion zur Verbesserung der Kalenderfreigaben Probleme auftraten, wenn Sie im Navigationsbereich mit Ihrem Kalender interagierten.
+
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit "Vorgeschlagene Zeiten" aktiviert wird.
+    
+    Registrierungsschlüssel:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
+    > 1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
+
+
+- Wir haben ein Problem behoben, durch das die Namensauflösung fehlschlug, sobald etwas im Namen eines anderen Benutzers gesendet wurde und das mit einem Adressbuch verglichen wurde, das nicht der globalen Adressliste entsprach.
+
+
+- Es wurde ein Problem behoben, durch das die Feedback-Option für Benutzer der Vorschauversion der Office Dauerlizenz 2021 nicht angezeigt wurde.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern möglicherweise die Meldung angezeigt wurde, dass der Fokus auf der Benutzeroberfläche verloren geht.
+
+
+- Wir haben ein Problem behoben, durch das Outlook die in OWA konfigurierten Einstellungen für den Posteingang mit Relevanz außer Kraft gesetzt hat.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass die Signaturen von Benutzern unerwartet verschwanden.
+
+
+- Es wurde ein Problem behoben, das bei der Nutzung von Roaming-Einstellungen zu Nichtreagieren führte.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass der Prozess bei der Suche unerwartet beendet wurde.
+
+
+- Das Problem des unerwarteten Schließens bei einer Suche wurde behoben.
+
+
+- Es wurde ein Problem behoben, durch das die Personenauswahl in Outlook bei Benutzern mit einer unbefristeten Lizenz nach oben anstatt nach unten erweitert wurde.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem die Option „Folien wiederverwenden“ für einige Benutzer nicht verfügbar war.
+
+
+- Es wurde ein Problem im Zusammenhang mit verknüpften Bildern behoben.
+
+
+- Es wurde ein Problem behoben, bei dem ein Rollback der Hauptversion zu einem unerwarteten Schließen beim Öffnen von Dateien führen konnte.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Benutzer Projekte nicht aus dem Ressourcenpool entfernen konnten.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, das eine Änderung beim Bearbeiten von OLE-Objekten erforderte.
+
+
+- Es wurde ein Problem behoben, bei dem markierte Textabschnitte nicht sichtbar waren, wenn im Lesemodus das Design „Dunkler Modus“ verwendet wurde.
+
+
+- Es wurde ein Problem behoben, das dazu führen konnte, dass Word beim Herunterfahren unerwartet geschlossen wurde, weil der Benutzer sich abmeldete oder seinen Computer neu startete.
+
+
+- Es wurde ein Problem behoben mit der Aktualisierung des Texts im AutoSpeichern-Popup für lokal gespeicherte Dateien.
+
+
+- Es wurde ein Problem behoben, bei dem ein Rollback der Hauptversion zu einem unerwarteten Schließen beim Öffnen von Dateien führen konnte.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Es wurde ein Problem wurde behoben, durch das das Öffnen eines Cloud-Dokuments fehlschlug.
+
+
+- Diese Änderung analysiert das neue Attribut "TenantId", das in Cobalt-Antworten gesendet wird, und speichert es in der zentralen Tabelle.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
+
+## <a name="version-2103-june-08"></a>Version 2103: 08. Juni
+*Version 2103 (Build 13901.20554)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem für einige Benutzer zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Behebung eines Problems, das im Falle eines Rollbacks zu einem vorherigen Build bei Word, PowerPoint und Excel dazu führen konnte, dass das Öffnen eines Cloud-Dokuments fehlschlug.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2103-may-11"></a>Version 2103: 11. Mai
+*Version 2103 (Build 13901.20516)*
 
 Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
 
@@ -146,7 +300,7 @@ Sie können auch mit der rechten Maustaste klicken, um bestimmte Wörter, Ausdr�
 
 ### <a name="office-suite"></a>Office-Suite
 
-- Behebt ein Problem mit der Zuverlässigkeit im Zusammenhang mit der Unterstützung von Office-Apps, die in Sitzung 0 ausgeführt werden.
+- Behebt ein Problem mit der Zuverlässigkeit im Zusammenhang mit der Unterstützung von Office-Apps, die in Sitzung 0 ausgeführt werden.
 
 
 - Es wurde ein Fehler behoben, bei dem die Funktion „Umbenennen“ nicht reagierte, wenn eine SyncBacked-Datei offline geöffnet und dann in der App umbenannt wurde, bevor sie gespeichert wurde.
@@ -155,8 +309,8 @@ Sie können auch mit der rechten Maustaste klicken, um bestimmte Wörter, Ausdr�
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2102-may-11"></a>Version 2102: 11. Mai
-*Version 2102 (Build 13801.20638)*
+## <a name="version-2102-may-11"></a>Version 2102: 11. Mai
+*Version 2102 (Build 13801.20638)*
 
 Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
 
@@ -169,7 +323,7 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 - Es wurde ein Problem behoben, das dazu führte, dass die Datumsformatierung bei der Verwendung von Add-Ins in einigen Sprachen nicht korrekt angezeigt wurde.
 
 
-- Ein Problem wurde behoben, durch das die Möglichkeit zum Einfügen als Formeln auf einem geschützten Blatt verhindert wurde.
+- Es wurde ein Problem behoben, das das Einfügen als Formeln in ein geschütztes Blatt verhinderte.
 
 
 ### <a name="outlook"></a>Outlook
@@ -184,7 +338,7 @@ Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführ
 
 ### <a name="word"></a>Word
 
-- Behebt ein Problem in Wordmail, bei dem ein Benutzer dieses Element nicht senden kann, wenn das 2084. Zeichen in einem Link ein Escapezeichen ist.
+- Behebt ein Problem in Wordmail, bei dem ein Benutzer dieses Element nicht senden kann, wenn das 2084. Zeichen in einem Link ein Escapezeichen ist.
 
 
 ### <a name="office-suite"></a>Office-Suite
@@ -218,7 +372,7 @@ Sicherheitsupdates sind [hier](https://docs.microsoft.com/officeupdates/microsof
 
 - **Die Einstellungen für den Posteingang mit Relevanz bleiben auf allen Geräten identisch:** Ihre Einstellungen für den Posteingang mit Relevanz sind jetzt in der Cloud gespeichert. Nutzen Sie auf einem beliebigen Windows-Computer und in Outlook im Web dieselbe Oberfläche. [Weitere Informationen](https://support.office.com/article/d77a442e-a86c-4bf8-b3dd-5571ae556986)
 
-- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
+- **Ihre Outlook-Einstellungen in der Cloud:** Wählen Sie Ihre Outlook für Windows-Einstellungen aus, z. B. Automatische Antworten, Posteingang mit Relevanz und Datenschutz, und greifen Sie auf jedem beliebigen PC darauf zu.
 
 - **Auswählen, wo gesucht werden soll:** Das neue Dropdownmenü für den Suchbereich ermöglicht es Ihnen, Ihre Suche einfacher zu ändern und zwischen dem aktuellen Ordner und dem aktuellen Postfach zu wechseln. Vielen Dank an alle in "Demnächst verfügbar", die uns ihr Feedback zu der neuen Search-at-Top-Erfahrung gesendet haben. Das vorliegende Design und Update sind aus diesem Feedback entstanden!
 
@@ -552,7 +706,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
 
-## <a name="version-2011-january-12"></a>Version 2011: 12. Januar
+## <a name="version-2011-january-12"></a>Version 2011: 12. Januar
 *Version 2011 (Build 13426.20526)*
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
@@ -692,7 +846,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
-## <a name="version-2010-january-12"></a>Version 2010: 12. Januar
+## <a name="version-2010-january-12"></a>Version 2010: 12. Januar
 *Version 2010 (Build 13328.20550)*
 
 Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgeführt
@@ -711,6 +865,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13628.20528|version-2101-march-09|)
@@ -720,5 +875,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13001.20520|version-2006-august-11|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

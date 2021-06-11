@@ -9,17 +9,110 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im halbjährlichen Kanal (gezielt) für Microsoft 365 Apps im Jahr 2021 zur Verfügung.
-ms.openlocfilehash: ca32e509ccce9a52e1efb67fe05275eb65a2b64e
-ms.sourcegitcommit: c615a8b353e967222e6a75121fa6aea3d673b28b
+ms.openlocfilehash: 95bdd111e041dd07689ad84254dde5b95a8efebe
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625930"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52852005"
 ---
 # <a name="release-notes-for-semi-annual-enterprise-channel-preview"></a>Versionshinweise für Versionen des halbjährlichen Enterprise-Kanals (Vorschau)
 
 Diese Versionshinweise enthalten Informationen zu neuen Features und nicht sicherheitsrelevanten Updates, die in halbjährlichen Enterprise-Kanalupdates (Vorschau) für Microsoft 365 Apps for Enterprise, Microsoft 365 Apps for Business sowie in den Abonnementversionen der Desktop-Apps für Project und Visio enthalten sind.
 
+
+## <a name="version-2102-june-08"></a>Version 2102: 08. Juni
+*Version 2102 (Build 13801.20738)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, durch das zusätzliche Abstände in Pareto-Diagrammen angezeigt wurden und der verfügbare Platz zum Erstellen von Diagrammen verringert wurde.
+
+
+- Es wurde ein Problem behoben, bei dem bei einigen Benutzern zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+- Es wurde ein Problem behoben, das bei einigen Benutzern dazu führte, dass die Statusleiste keinen Bereitschaftsstatus anzeigte.
+
+
+- Es wurde ein Problem behoben, indem die Fehlermeldung für Fälle verbessert wurde, bei denen Benutzer beim Aktualisieren von Power BI-Datentypen keinen Zugriff auf einige Datentypen hatten.
+
+
+- Es wurde ein Problem behoben, indem die Anzahl der Eigenschaften, die im AutoVervollständigen-Dropdownmenü für Eigenschaften angezeigt werden können, auf 256 erhöht wurde.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, durch das Benutzer Verbindungsfehlermeldungen erhielten, wenn die internen und externen EWS-Endpunkte unterschiedlich waren und der Aufruf an den internen Endpunkt fehlschlug.
+
+
+- Es wurde ein Problem behoben, durch das die Adresse des Absenders beim erneuten Senden einer E-Mail als LegacyExchangeDN angezeigt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Endbenutzer und Administratoren die Cloudeinstellungen nicht aktivieren konnten.
+
+
+- Es wurde ein Problem behoben, durch das ZeroConfigExchange auf hybriden, in Azure AD eingebundenen und mit einem externen Netzwerk verbundenen Computern nicht ordnungsgemäß funktionierte.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern benutzerdefinierter Domänen beim Einfügen eines Links in eine E-Mail-Nachricht eine Warnmeldung zu Berechtigungen angezeigt wurde.
+</br>
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit "Vorgeschlagene Zeiten" aktiviert wird.
+
+    Registrierungsschlüssel:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    >REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    >0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
+    >1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem der Speicher auf Version 1.0.0.2 aktualisiert wurde, um die zentrale Bereitstellung zu unterstützen. Der Benutzer muss die Versionsinformationen in PowerPoint aktualisieren, um auf den Speicher zugreifen zu können.
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem, wenn Sie eine Formel für ein benutzerdefiniertes Feld erstellen, die die ProjectDate */ProjectDur*-Funktionen verwendet, und der zweite Parameter die Datums- und Zeitfunktionen „Date()“, „Now()“ oder „Time()“ sind, dann ein #FEHLER auftrat.
+
+
+- Es wurde ein Problem behoben, bei dem der Ressourcenpool nicht mehr reagierte und nicht geöffnet werden konnte.
+
+
+### <a name="visio"></a>Visio
+
+- Es wurde ein Problem im Zusammenhang mit fehlenden Ergebnissen bei der Eingabe von Suchstichwörtern in die Shape-Suche behoben.
+
+
+### <a name="word"></a>Word
+
+- Ein Problem im Zusammenhang mit der nicht mehr reagierenden Anwendung beim Einfügen von Onlinebildern wurde behoben.
+
+
+- Es wurde ein Problem behoben, bei dem kopierte und eingefügte Formatvorlagen im Text, in den sie eingefügt wurden, u. U. nicht identisch waren.
+
+
+- Es wurde ein Problem behoben, das die Begrenzung der für Inhaltssteuerelemente zulässigen Größe von Zeichenfolgen aufhob.
+
+
+- Es wurde ein Problem im Zusammenhang mit der Bearbeitung von OLE-Objekten behoben.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Problem beim Öffnen von Platzhalterdateien wurde behoben. Office reagierte beim Öffnen der per Synchronisierung gesicherten Datei langsam.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2102-may-11"></a>Version 2102: 11. Mai
 *Version 2102 (Build 13801.20638)*
@@ -660,6 +753,7 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|FRDC|Insiders| |16.0.13801.20738|version-2102-june-08|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20638|version-2102-may-11|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20506|version-2102-april-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13801.20294|version-2102-march-09|)
@@ -669,5 +763,4 @@ Sicherheitsupdates sind hier aufgelistet: [Versionshinweise für Microsoft Offic
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20760|version-2008-november-10|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20638|version-2008-october-13|)
 [//]: # (|Win32|FRDC|Insiders| |16.0.13127.20408|version-2008-september-08|)
-[//]: # (|Win32|FRDC|Insiders| |16.0.12527.20988|version-2002-august-11|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)

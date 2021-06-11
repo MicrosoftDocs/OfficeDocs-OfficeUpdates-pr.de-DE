@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: df5abe158a0abaf1a962d1bd3bba97036175c9e4
-ms.sourcegitcommit: 7f52ea9d1051a8102d9d16129855833c5b9638a1
+ms.openlocfilehash: 712501114acb6e1a14ae8f0c55727ac3e504afe1
+ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52790510"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52851845"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,196 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2106-june-07"></a>Version 2106: 07. Juni
+*Version 2106 (Build 14131.20012)*
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Ein Problem wurde behoben, das verhinderte, dass der Namens-Manager Bücher mit einer großen Anzahl von ausgeblendeten Namen öffnete.
+
+
+- Es wurde ein Problem behoben, das Auswirkungen auf die Leistung von VLOOKUP und INDEX/MATCH beim Ausfüllen einer großen Datenmenge hatte.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Dynamische Arrays Zellwerte nicht aktualisierten, wenn von RealTimeData-Funktionen darauf verwiesen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem im IME-Überschreibmodus Zeichen nicht überschrieben wurden, sondern am Ende der Zeichenfolge eingefügt wurden.
+
+
+- Wir haben ein Problem im Zusammenhang mit dem Scrollen mit zwei Fingern beim Fixieren von Fensterbereichen behoben.
+
+
+- Wir haben ein Problem im Zusammenhang mit Problemen mit nicht ausreichendem Arbeitsspeicher beim Drucken auf Großformatdruckern behoben.
+
+
+### <a name="outlook"></a>Outlook
+
+- Wir haben ein Problem behoben, durch das beim Ausführen des Modus "Nur Kopfzeilen herunterladen" Aktionen erfordernde Nachrichten entweder ständig aktualisiert oder wieder zu Kopfzeilen zurückkonvertiert wurden.
+
+
+- Es wurde ein Problem behoben, bei dem Benutzer in "nicht geschäftlich" lizenzierten Outlook-Versionen keine Elemente zwischen Ordnern verschieben konnten.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook unerwartet geschlossen wurde, wenn Benutzer Ordner aus einem Archivspeicher entfernten.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook bei einigen Benutzern beim Laden von Personenkarten unerwartet geschlossen wurde.
+
+
+- Wir haben ein Problem behoben, durch das die Personenauswahl in Outlook für Benutzer mit einer unbefristeten Lizenz eher nach oben als nach unten erweitert wurde.
+
+
+- Wir haben ein Problem behoben, durch das die Feedback-Option für Benutzer der Office Dauerlizenz 2021-Vorschau nicht angezeigt wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzern Kopien all ihrer gesendeten Elemente in ihrem Postausgangsordner angezeigt wurden.
+
+
+- Wir haben ein Problem behoben, durch das Benutzern benutzerdefinierter Domänen beim Einfügen eines Links in eine E-Mail-Nachricht eine Warnmeldung zu Berechtigungen angezeigt wurde.
+
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit "Vorgeschlagene Zeiten" aktiviert wird.
+
+    Registrierungsschlüssel:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar </br>
+    > REG_DWORD “ShowLegacyRoomFinder”</br></br>
+    > 0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen  </br>
+    > 1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen </br>
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook unerwartet geschlossen wurde, wenn lautes Vorlesen mit anderen Versionen von Windows verwendet wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook nicht mehr reagierte, wenn Benutzer Ordner aus einem Archivspeicher entfernten.
+
+
+- Es wurde ein Problem behoben, das bei einigen Benutzern beim Laden von Personenkarten zu einem unerwarteten Absturz führte.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Wir haben ein Problem behoben, durch das das Kopieren aus dem Sprechernotizenbereich im Schreibgeschützten Modus verhindert wurde.
+
+
+- Ein Problem wurde behoben, um sicherzustellen, dass eine Datei, die über die Schaltfläche „Speichern wiederholen“ in der Busleiste gespeichert wurde, zur Liste „Zuletzt verwendet“ hinzugefügt wird.
+
+
+- Es wurde ein Problem behoben, bei dem die Option „Folien wiederverwenden“ für wenige Benutzer nicht verfügbar war.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem Zuordnungen zu manuell geplanten Vorgängen auf ein falsches Datum verschoben werden konnten.
+
+
+- Es wurde ein Problem behoben, bei dem der Ressourcenpool nicht antwortete und nicht geöffnet werden konnte.
+
+
+- Es wurde ein Problem behoben, bei dem ein Fehler erzeugt wurde, wenn Sie eine benutzerdefinierte Feldformel erstellt haben, welche die Funktionen ProjectDate */ProjectDur* mit bestimmten Datums- oder Zeitparametern verwendet hat.
+
+
+### <a name="word"></a>Word
+
+- Behebung eines Problems, bei dem ein Kommentar nach dem Posten vorübergehend leer war.
+
+
+- Wir haben ein Problem behoben, bei dem eine „Speichern unter“-Fehlermeldung selbst dann angezeigt wurde, wenn ein Benutzer Änderungen verworfen hat.
+
+
+- Wir haben ein Problem behoben, das das Posten von Bildern in modernen Kommentaren verhindert hatte.
+
+
+- Wir haben ein Problem behoben, bei dem durch Drücken von Tastenkombinationen wie STRG+UMSCHALT+@ nicht der erwartete Akzentbuchstabe (in diesem Fall "å") erzeugt würde.
+
+
+- Es wurde ein Problem mit der Bildkomprimierung behoben.
+
+
+- Es wurde ein Problem behoben, bei dem der Überarbeitungsbereich scrollte oder zu scrollen schien, aber nicht an dem ausgewählten Kommentar ausgerichtet wurde.
+
+
+- Es wurde ein Problem behoben, bei dem einige Kommentare beim Exportieren eines Dokuments nach PDF nicht gespeichert wurden.
+
+
+- Es wurde ein Problem behoben, das die Bearbeitung eines neuen Kommentars in einem ungeschützten Bereich eines Dokuments verhinderte, wenn „Eingeschränktes Bearbeiten“ angewendet ist.
+
+
+- Es wurde ein Problem im Zusammenhang mit einer nicht benötigten Bildlaufanimation wurde behoben.
+
+
+- Es wurde ein Problem behoben, bei dem der Kommentarbereich unerwartet geschlossen wurde.
+
+
+- Es wurde ein Problem behoben, bei dem Kommentare nicht hervorgehoben wurden, wenn sie ausgewählt wurden.
+
+
+- Wir haben ein Problem behoben, durch das die Auswahl in einem Dokument beim Klicken außerhalb eines neu erstellten Kommentars nicht aufgehoben wurde.
+
+
+- Wir haben ein Problem behoben, bei dem das Kopieren einer E-Mail-Anlage in eine andere Anwendung als Word fehlschlug, wenn der Dateiname DBCS-Zeichen enthielt.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook unerwartet geschlossen wurde, wenn lautes Vorlesen mit anderen Versionen von Windows verwendet wurde.
+
+
+- Es wurde eine Problem behoben, bei dem in kontextbezogenen Karten für Rechtschreibung und Grammatik im Zusammenarbeitsbereich Schaltflächen-Symbole angezeigt wurden, diese Schaltflächen aber keine QuickInfo aufwiesen.
+
+
+- Es wurde ein Problem behoben, das zu einer Nichtübereinstimmung zwischen dem Design des Bearbeitungsbereichs und dem Systemdesign führte.
+
+
+- Es wurde ein Problem behoben, bei dem der Editorbereich nicht geöffnet wurde.
+
+
+- Es wurde ein Problem behoben, bei dem beim Wechsel zur Kategorie "Rechtschreibung" im Editor weiterhin Ähnlichkeitsmarkierungen angezeigt wurden.
+
+
+- Wir haben ein Problem behoben, bei dem Word manchmal einen Rahmen um Text angezeigt hat, der nicht hätte dort sein sollen.
+
+
+- Ein Problem wurde behoben, bei dem sich der Zeichenabstand für bestimmte Schriftarten vergrößerte, wenn der Text um 90 Grad gedreht wurde.
+
+
+- Wir haben ein Problem behoben, bei dem beim Ausführen eines Makros das falsche Feld aktualisiert wurde, wenn Bearbeitungseinschränkungen angewendet wurden.
+
+
+- Ein Problem wurde behoben, bei dem bei der Zusammenarbeit mit mehreren Benutzern an Dokumenten manchmal Kommentarantworten verloren gingen.
+
+
+- Es wurde ein Problem im Zusammenhang mit dem Arbeiten an großen Dokumenten behoben.
+
+
+- Wir haben ein Problem behoben, bei dem einige Word-Dateien aufgrund beschädigter Lesezeichen nicht geöffnet werden.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Problem wurde behoben, bei dem das CLP-Feature bisher ein unaufgefordertes Speichern in der SyncBacked-Datei (von OneDrive synchronisierte Datei) verursachte.
+
+
+- Ein Problem wurde behoben, bei dem Benutzer auf lokalen Servern gespeicherte Dateien nicht bearbeiten konnten.
+
+
+- Eine Leistungsregression beim Öffnen von SyncBacked-Dateien wurde behoben.
+
+
+- Wir haben ein Problem behoben, bei dem in OneDrive eine Fehlermeldung für den Seriendruck angezeigt wurde, wenn gar kein Seriendruckkonflikt vorlag.
+
+
+- Wir haben ein Problem behoben, bei dem die Anmeldung mit einem anderen Konto zu einem Herunterfahren führen konnte.
+
+
+- Wir haben ein Problem in Bezug auf die Z-Reihenfolge von SVG-Objekten bei der Umwandlung in Formen behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN INHALTSENDE)
 
 ## <a name="version-2105-june-04"></a>Version 2105: 04. Juni
 *Version 2105 (Build 14026.20264)*
@@ -53,7 +243,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Es wurde ein Problem behoben, bei dem für einige Benutzer zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+- Es wurde ein Problem behoben, bei dem bei einigen Benutzern zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
 
 
 
@@ -1330,7 +1520,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -2055,7 +2245,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -2943,7 +3133,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
