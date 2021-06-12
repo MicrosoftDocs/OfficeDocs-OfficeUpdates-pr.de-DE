@@ -9,12 +9,12 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel enthält Links für IT-Experten zu den neuesten Updateinformationen für dauerhafte Versionen von Office 2016, Office 2013 und Office 2010
-ms.openlocfilehash: c3933557c854757f9371e03361105c35a48596ad
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: cadd0d061af18d905a166c642f5b664ebb09821b
+ms.sourcegitcommit: e04eca2da568e5b00330db8441a5a74646233bcd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851975"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52899912"
 ---
 # <a name="latest-updates-for-versions-of-office-that-use-windows-installer-msi"></a>Neueste Updates für Office-Versionen, die Windows Installer (MSI) verwenden
 
@@ -51,7 +51,7 @@ Verwenden Sie die Links auf dieser Seite, um weitere Informationen zu den neuest
    
 ## <a name="updates-released-in-past-12-months"></a>In den letzten 12 Monaten veröffentlichte Updates
 
-[Sicherheits- und nicht sicherheitsrelevante Updates vom Juni 2020: KB5004001](https://support.microsoft.com/help/5004001)
+[Sicherheitsupdates und nicht sicherheitsrelevante Updates vom Juni 2021: KB5004001](https://support.microsoft.com/help/5004001)
 
 
 [Sicherheits- und nicht-sicherheitsrelevante Updates für Mai 2021: KB5003427](https://support.microsoft.com/help/5003427)
