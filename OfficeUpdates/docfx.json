@@ -14,7 +14,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "**/common/**"
         ]
       }
     ],
@@ -22,13 +23,17 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.svg",
+          "**/*.pdf"
         ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
           "_themes/**",
-          "_themes.pdf/**"
+          "_themes.pdf/**",
+          "**/common/**"
         ]
       }
     ],
@@ -37,7 +42,9 @@
     "globalMetadata": {
       "ocv-translation-feedback": true,
       "breadcrumb_path": "/OfficeUpdates/breadcrumb/toc.json",
-      "extendBreadcrumb": true
+      "extendBreadcrumb": true,
+      "feedback_github_repo": "MicrosoftDocs/OfficeDocs-OfficeUpdates",
+      "feedback_system": "GitHub"
     },
     "fileMetadata": {},
     "template": [],
