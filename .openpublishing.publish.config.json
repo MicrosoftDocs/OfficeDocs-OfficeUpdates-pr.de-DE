@@ -56,14 +56,19 @@
       "include_in_build": true
     }
   ],
-  "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
+  "branch_target_mapping": {
+    "live": [
+      "Publish",
+      "Pdf"
+    ]
   },
+  "need_generate_pdf_url_template": false,
   "targets": {
     "pdf": {
       "template_folder": "_themes.pdf"
     }
+  },
+  "docs_build_engine": {
+    "name": "docfx_v3"
   }
 }
