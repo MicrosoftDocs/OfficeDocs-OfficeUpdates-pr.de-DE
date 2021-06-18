@@ -8,6 +8,11 @@
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
       "build_entry_point": "docs",
       "template_folder": "_themes"
     }
@@ -29,6 +34,15 @@
       "branch_mapping": {}
     },
     {
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "master": "master"
+      }
+    },
+    {
       "path_to_root": "_themes.pdf",
       "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
       "branch": "master",
@@ -38,21 +52,18 @@
       "path_to_root": "OfficeUpdates/common",
       "url": "https://github.com/MicrosoftDocs/OfficeDocs-pr",
       "branch": "live",
-      "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_repo.en-us",
-      "url": "https://github.com/MicrosoftDocs/OfficeDocs-OfficeUpdates-pr",
-      "branch": "live",
-      "branch_mapping": {
-        "live": "live",
-        "master": "master"
-      }
+      "branch_mapping": {},
+      "include_in_build": true
     }
   ],
   "branch_target_mapping": {},
   "need_generate_pdf_url_template": false,
   "docs_build_engine": {
     "name": "docfx_v3"
+  },
+  "targets": {
+    "pdf": {
+      "template_folder": "_themes.pdf"
+    }
   }
 }
