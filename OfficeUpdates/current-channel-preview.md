@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: b9c89336aef23ef64fc06b902dcfce937c3701af
-ms.sourcegitcommit: 3f3d978780a2212769cdd6a27eba1bf8f75a2b31
+ms.openlocfilehash: 9bfde779a103f3cc66e5965f2a3398ceaf7f1e3e
+ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "52916675"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "53068049"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,23 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2106-june-21"></a>Version 2106: 21. Juni
+*Version 2106 (Build 14131.20194)*
+* Korrekturen verschiedener Fehler und Leistungsprobleme.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Nachrichten mit weniger Ablenkungen lesen:** Erleichtern Sie die Konzentration auf Nachrichten mit benutzerdefinierten Textabständen, Seitenfarben, Spaltenbreiten und Zeilenfokus, indem Sie den plastischen Reader aktivieren.
+
+- **Letzte Anmeldung / Verdächtige Anmeldung:** Outlook informiert Sie jetzt, wann und wo Sie sich zuletzt bei Ihrem Konto angemeldet haben, und benachrichtigt Sie, wenn verdächtige Anmeldeaktivitäten erkannt werden
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
 
 ## <a name="version-2106-june-14"></a>Version 2106: 14. Juni
 *Version 2106 (Build 14131.20162)*
