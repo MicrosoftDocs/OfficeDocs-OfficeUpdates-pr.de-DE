@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet Insidern den Updateverlauf für Versionen des monatlichen Kanals (gezielt) für Windows Desktop.
-ms.openlocfilehash: 31b570a8410a7e9fdf8826bd805db23cfa71d93b
-ms.sourcegitcommit: 9c4a3b3e231d9ba0aeeaf345d3da858da825284a
+ms.openlocfilehash: f85e216396d1f8dcc13d18d851ea339e67bef8a6
+ms.sourcegitcommit: 2525d26142a14b2fa2a3b6c1ae250cb62b12a09f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "53068058"
+ms.lasthandoff: 06/26/2021
+ms.locfileid: "53150190"
 ---
 # <a name="update-history-for-office-current-channel-preview-for-windows"></a>Versionshinweise für Office Current Channel (Vorschau) für Windows
 
@@ -31,6 +31,9 @@ Wenn Sie auf der Ebene Aktueller Kanal (Vorschau), vormals als „Insider Slow�
 
 
 [//]: # (NICHT ENTFERNEN)
+
+**25. Juni 2021**<br/>
+Version 2106 (Build 14131.20250)<br/>
 
 **21. Juni 2021**<br/>
 Version 2106 (Build 14131.20194)<br/>
