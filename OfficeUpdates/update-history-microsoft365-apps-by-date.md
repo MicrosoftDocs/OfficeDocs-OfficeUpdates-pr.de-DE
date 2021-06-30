@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten eine vollständige Liste der Microsoft 365 Apps-Releases nach Datum sortiert zur Verfügung. Die Liste enthält außerdem Links zu den Anmerkungen zur jeweiligen Version.
-ms.openlocfilehash: b272dad6cf564c200b433ce49b73aa92b56cbde5
-ms.sourcegitcommit: b7b3ebab7fc6b8424482107f650f6bb528afd8f7
+ms.openlocfilehash: 1a923758800f5a0adbf9f6fb670ffa90522bb51e
+ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "53022078"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53206337"
 ---
 # <a name="update-history-for-microsoft-365-apps-listed-by-date"></a>Updateverlauf für Microsoft 365 Apps (nach Datum aufgelistet)
 
@@ -33,7 +33,7 @@ In der folgenden Tabelle sind für jeden Updatekanal die unterstützte Version u
 
 |**Kanal**|**Version**|**Build**|**Veröffentlichungsdatum**|**Version unterstützt bis**|
 |:-----|:-----|:-----|:-----|:-----|
-|Aktueller Kanal<br/>|2105<br/>|14026.20308<br/>|18. Juni 2021<br/>|Version 2106 wird veröffentlicht<br/>|
+|Aktueller Kanal<br/>|2106<br/>|14131.20278<br/>|29. Juni 2021<br/>|Version 2107 wird veröffentlicht<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2104<br/>|13929.20408<br/>|8. Juni 2021<br/>|10. August 2021<br/>|
 |Monatlicher Enterprise-Kanal<br/>|2103<br/>|13901.20554<br/>|8. Juni 2021<br/>|13. Juli 2021<br/>|
 |Halbjährlicher Enterprise-Kanal (Vorschau)<br/>|2102<br/>|13801.20738<br/>|8. Juni 2021<br/>|14. September 2021<br/>|
@@ -52,6 +52,7 @@ Die folgende Tabelle enthält eine Liste der Versions- und Buildnummern für jed
 
 |**Jahr**|**Veröffentlichungsdatum**|**Aktueller Kanal**|**Monatlicher Enterprise-Kanal**|**Halbjährlicher Enterprise-Kanal (Vorschau)**|**Halbjährlicher Enterprise-Kanal**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
+|2021|29. Juni|[Version 2106 (Build 14131.20278)](current-channel.md#version-2106-june-29)| | | |
 |2021|18. Juni|[Version 2105 (Build 14026.20308)](current-channel.md#version-2105-june-18)| | | |
 |2021|08. Juni|[Version 2105 (Build 14026.20270)](current-channel.md#version-2105-june-08)|[Version 2104 (Build 13929.20408)](monthly-enterprise-channel.md#version-2104-june-08)<br/>[Version 2103 (Build 13901.20554)](monthly-enterprise-channel.md#version-2103-june-08)|[Version 2102 (Build 13801.20738)](semi-annual-enterprise-channel-preview.md#version-2102-june-08)|[Version 2008 (Build 13127.21668)](semi-annual-enterprise-channel.md#version-2008-june-08)<br/>[Version 2002 (Build 12527.21952)](semi-annual-enterprise-channel.md#version-2002-june-08)|
 |2021|24. Mai|[Version 2105 (Build 14026.20246)](current-channel.md#version-2105-may-24)| | | |
