@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt der Zielgruppe von Insider Fast die aktuelle Liste der neuen Features, Fehlerkorrekturen oder bekannten Probleme bereit.
-ms.openlocfilehash: 2273f10ccacb56ee4cbd5132103d3ccdbd5c01d4
-ms.sourcegitcommit: 31e92bb72da4b394fc4d46701dbf3027eb5a9b3b
+ms.openlocfilehash: 211744660c0cbd3a7a35906689a143492e3197e3
+ms.sourcegitcommit: e8fc768b8c5b4183796d62a0969a01a3537f1ff7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53132835"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53278748"
 ---
 # <a name="release-notes-for-beta-channel"></a>Versionshinweise für den Betakanal
 
@@ -30,6 +30,87 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2107-july-02"></a>Version 2107: 02. Juli
+*Version 2107 (Build 14228.20044)*
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Zusätzliche Dateitypen, die für „Speichern unter“ unterstützt werden:** Zusätzlich zum Speichern von Dateien können Sie Dateien unter anderen Dateitypen speichern.
+
+### <a name="outlook"></a>Outlook
+
+- **REST-Weiterleitung Besprechungsanfrage:** Ermöglicht Benutzern, eine zuvor abgelehnte Besprechung für freigegebene REST-Kalender weiterzuleiten.
+
+- **Laut vorlesen wurde noch besser:** Die Symbolleiste „Laut vorlesen“ bietet neue, natürlich klingende Sprachoptionen.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Zusätzliche Dateitypen, die für „Speichern unter“ unterstützt werden:** Zusätzlich zum Speichern von Dateien können Sie Dateien unter anderen Dateitypen speichern.
+
+### <a name="word"></a>Word
+
+- **Suchen mit Ihrer Stimme:** Tippen oder klicken Sie auf das Mikrofon in der Suchleiste, um in Word Ihre Stimme zu verwenden, um Befehle, Inhalte und mehr zu finden.
+
+- **Natürlichere Sprachoptionen für „Laut vorlesen“:** Probieren Sie eine neue, natürlicher klingende Stimme auf der Symbolleiste „Laut vorlesen“ aus. [Weitere Informationen](https://support.office.com/article/5a2de7f3-1ef4-4795-b24e-64fc2731b001)
+
+- **Zusätzliche Dateitypen, die für „Speichern unter“ unterstützt werden:** Zusätzlich zum Speichern von Dateien können Sie Dateien unter anderen Dateitypen speichern.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem eine Ausnahme von einer CFR-Ausführung aufgetreten ist.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass die Übersetzungsoptionen für einige Benutzer deaktiviert waren.  Bei Kunden, bei denen dieser Fehler auftrat, wurden ihre Übersetzungsoptionen deaktiviert, wenn sie zu „Datei“ > „Optionen“ > „Sprache“ navigierten. Dadurch wäre es ihnen nicht möglich gewesen, ihre bevorzugte Übersetzungssprache und andere übersetzungsbezogene Einstellungen zu ändern.
+
+
+- Ein Problem im Zusammenhang mit dem Antwortstatus „Fehler beim Laden“ wurde behoben. Das Standardantwortflag wurde auf „Keines“ festgelegt. Beim Bewegen des Mauszeigers über einen Kalender, für den keine Bearbeitungsberechtigungen vorlagen, wurden in der Benutzeroberfläche keine Zeichenfolgen angezeigt.
+
+
+- Es wurde ein Problem behoben, bei dem die Standardtextvergrößerung die Textskalierung einschließt, sodass kein weiterer Aufruf von „LayoutChanged“ verwendet werden muss.
+
+
+- Ein Problem wurde behoben, bei dem keine E-Mail-Info für Einmaladressen angezeigt wurden.
+
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, damit das Voicemail-Formular in der Benutzeroberfläche von Outlook Desktop angezeigt werden kann, da Unified Messaging in Exchange Online eingestellt wurde (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Für Benutzer, Unternehmen und Organisationen, die das Voicemail-Formular anzeigen möchten, muss der folgende Registrierungsschlüssel festgelegt werden: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+### <a name="word"></a>Word
+
+- Ein Problem wurde behoben, das die Integration mit dem neuen Kommentarbereich in Word und JAWS, einer beliebten Sprachausgabesoftware, verbessert.
+
+
+- Ein Problem im Zusammenhang mit der Verwendung einer anderen „CommentId“ als „lTagNil“ für die aufgehobene Auswahl und Hervorhebung wurde behoben.
+
+
+- Es wurde in Problem behoben, bei dem die Entladewarteschlange nicht mehr reagierte.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Lokalisierungsproblem wurde behoben, bei dem en-gb, fr-ca und es-mx nun mit ihren jeweiligen übergeordneten Versionen abgeglichen werden.
+
+
+- Ein Problem wurde behoben, bei dem die gemeinsame Verwendung von Einstellungen zwischen OMEX und ExCatalog nicht mehr möglich war, z. B. bei Aktualisierungen von Web-Add-In-Einstellungen in der Datei „webextension.xml“, da eine neue webextension-Datei erstellt wird. Auf die vorherigen Einstellungen wurde nur zugegriffen, wenn das Add-In in der ursprünglichen Methode bereitgestellt wurde oder wenn der neue Lösungsverweisvergleich deaktiviert wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2107-june-25"></a>Version 2107: 25. Juni
 *Version 2107 (Build 14217.20002)*
@@ -3352,6 +3433,7 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|DevMain|Insiders| |16.0.14228.20044|version-2107-july-02|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14217.20002|version-2107-june-25|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14210.20004|version-2107-june-18|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14204.20006|version-2107-june-11|)
@@ -3361,5 +3443,4 @@ Dieser Artikel enthält Versionshinweise zu Betakanal-Builds von Word, Excel, Po
 [//]: # (|Win32|DevMain|Insiders| |16.0.14107.20000|version-2106-may-14|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14029.20000|version-2106-may-07|)
 [//]: # (|Win32|DevMain|Insiders| |16.0.14026.20000|version-2105-april-30|)
-[//]: # (|Win32|DevMain|Insiders| |16.0.14014.20002|version-2105-april-23|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
