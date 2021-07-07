@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 42886131f7552d2ccf3f9d698e11cae099773d0e
-ms.sourcegitcommit: 6e83413f758b812493be7ae126748c38c674be19
+ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
+ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204700"
+ms.lasthandoff: 07/06/2021
+ms.locfileid: "53309188"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,156 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2107-july-06"></a>Version 2107: 06. Juli
+*Version 2107 (Build 14228.20044)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="excel"></a>Excel
+
+- **Zusätzliche Dateitypen, die für „Speichern unter“ unterstützt werden:** Zusätzlich zum Speichern von Dateien können Sie Dateien unter anderen Dateitypen speichern.
+
+- **Regierungskunden: Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+### <a name="powerpoint"></a>PowerPoint
+
+- **Zusätzliche Dateitypen, die für „Speichern unter“ unterstützt werden:** Zusätzlich zum Speichern von Dateien können Sie Dateien unter anderen Dateitypen speichern.
+
+- **Regierungskunden: Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+### <a name="word"></a>Word
+
+- **Zusätzliche Dateitypen, die für „Speichern unter“ unterstützt werden:** Zusätzlich zum Speichern von Dateien können Sie Dateien unter anderen Dateitypen speichern.
+
+- **Regierungskunden: Überwachungsdaten über vertrauliche Bezeichnungen an M365-Administratoren senden:** Wenn Benutzer Vertraulichkeitsbezeichnungen auf ihre Dokumente und E-Mails anwenden, ändern oder entfernen, sendet Office Überwachungsdaten an das Back-End der M365-Überwachung, damit Administratoren sie sehen können. Dies ist eine Hintergrundfunktionalität (keine Benutzeroberfläche) für Administrator-Zwecke.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="access"></a>Access
+
+- Es wurde ein Problem behoben, das dazu führen kann, dass Anwendungen, die die Access Database Engine ODBC-API verwenden, unerwartet geschlossen werden.
+
+
+- Es wurde ein Problem behoben, das dazu führen kann, dass Anwendungen, die die Access Database Engine OLEDB-API mit einer Datenbank verwenden, die Verknüpfungen zu SharePoint-Listen enthält, unerwartet geschlossen werden.
+
+
+### <a name="excel"></a>Excel
+
+- Es wurde ein Problem behoben, bei dem eine Ausnahme von einer CFR-Ausführung aufgetreten ist.
+
+
+- Es wurde ein Problem behoben, bei dem Diagrammachsenwerte nicht geändert werden konnten, wenn sowohl das Tausendertrennzeichen als auch das Dezimaltrennzeichen dasselbe Symbol verwenden.
+
+
+- Es wurde ein Problem behoben, bei dem bei einigen Benutzern zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+- Ein Problem wurde behoben, bei dem eine gespeicherte Arbeitsmappe beim Speichern in einer SPO-Dokumentenbibliothek ganz oben in der Liste „Zuletzt verwendet“ angezeigt wurde.
+
+
+- Es wurde ein Problem behoben, bei dem ein leeres doppeltes Fenster geöffnet wurde, wenn Legacy-Add-Ins aktiviert sind.
+
+
+### <a name="onenote"></a>OneNote
+
+- Ein Problem wurde behoben, bei dem das Kopieren eines Links zu einem Absatz nicht immer auf die richtige Seite umleitete.
+
+
+### <a name="outlook"></a>Outlook
+
+- Ein Problem wurde behoben, das dazu führte, dass die Übersetzungsoptionen für einige Benutzer deaktiviert waren.  Bei Kunden, bei denen dieser Fehler auftrat, wurden ihre Übersetzungsoptionen deaktiviert, wenn sie zu „Datei“ > „Optionen“ > „Sprache“ navigierten. Dadurch wäre es ihnen nicht möglich gewesen, ihre bevorzugte Übersetzungssprache und andere übersetzungsbezogene Einstellungen zu ändern.
+
+
+- Ein Problem im Zusammenhang mit dem Antwortstatus „Fehler beim Laden“ wurde behoben. Das Standardantwortflag wurde auf „Keines“ festgelegt. Beim Bewegen des Mauszeigers über einen Kalender, für den keine Bearbeitungsberechtigungen vorlagen, wurden in der Benutzeroberfläche keine Zeichenfolgen angezeigt.
+
+
+- Es wurde ein Problem behoben, bei dem die Standardtextvergrößerung die Textskalierung einschließt, sodass kein weiterer Aufruf von „LayoutChanged“ verwendet werden muss.
+
+
+- Ein Problem wurde behoben, bei dem keine E-Mail-Info für Einmaladressen angezeigt wurden.
+
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, damit das Voicemail-Formular in der Benutzeroberfläche von Outlook Desktop angezeigt werden kann, da Unified Messaging in Exchange Online eingestellt wurde (https://techcommunity.microsoft.com/t5/exchange-team-blog/retiring-unified-messaging-in-exchange-online/ba-p/608991). Für Benutzer, Unternehmen und Organisationen, die das Voicemail-Formular anzeigen möchten, muss der folgende Registrierungsschlüssel festgelegt werden: [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\Outlook\Addins] "AllowVoicemailForm"=dword:00000001
+
+
+- Wir haben ein Problem behoben, das dazu führte, dass Outlook bei Benutzern mit einer großen Anzahl von Gruppen nicht mehr reagierte, wenn es gestartet wurde.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Wir haben ein Problem im Zusammenhang mit SmartArt-Knoten behoben, bei denen Change Shape deaktiviert war.
+
+
+### <a name="project"></a>Project
+
+- Es wurde ein Problem behoben, bei dem in der Project Web App erstellte Einsätze im Project-Desktopclient möglicherweise nicht ordnungsgemäß geladen wurden, wenn der Ressourcenname Sonderzeichen wie ein Semikolon enthält.
+
+
+- Es wurde ein Problem behoben, bei dem die Kostenwerte mit Zeiphasen für Kostentypressourcen möglicherweise nicht ordnungsgemäß geplant wurden, wenn die Projektoption „Project soll Kosten berechnen“ deaktiviert ist.
+
+
+- Es wurde ein Problem behoben, bei dem benutzerdefinierte Enterprise-Felder auf Projektebene mit Nachschlagetabellen im Project-Desktopclient keinen Wert anzeigten.
+
+
+- Es wurde ein Problem behoben, bei dem das Speichern eines lokalen Projekts in der Project Web App eine zuvor gespeicherte Baseline ändern könnte.
+
+
+### <a name="visio"></a>Visio
+
+- Dieses Linknavigationsproblem wurde jetzt im neuesten Build behoben. Benutzer können durch Klicken auf <CTRL> + die Form mit dem Link weiterhin ganz einfach auf Links zugreifen, um zu der gewünschten verknüpften Datei in ihrem OneDrive for Business zu navigieren.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem behoben, bei dem das Aktivieren des automatischen Speicherns dazu führen konnte, dass kürzlich vorgenommene Änderungen vorübergehend nicht mehr angezeigt werden.
+
+
+- Ein Problem wurde behoben, das die Integration mit dem neuen Kommentarbereich in Word und JAWS, einer beliebten Sprachausgabesoftware, verbessert.
+
+
+- Ein Problem im Zusammenhang mit der Verwendung einer anderen „CommentId“ als „lTagNil“ für die aufgehobene Auswahl und Hervorhebung wurde behoben.
+
+
+- Ein Problem wurde behoben, bei dem Kommentare während der Zusammenarbeit schreibgeschützt wurden.
+
+
+- Es wurde ein Problem mit dem Scrollen im Kommentarbereich behoben.
+
+
+- Es wurde in Problem behoben, bei dem die Entladewarteschlange nicht mehr reagierte.
+
+
+- Es wurde ein Problem behoben, bei dem Kopf-/Fußzeilentexte in der Seitenansicht nicht deutlich sichtbar waren, wenn das Office-Design auf Schwarz festgelegt war.
+
+
+- Ein Problem wurde behoben, bei dem bei Verwendung des Microsoft Word Manuscript Paper-Add-Ins Quadrate angezeigt wurden.
+
+
+- Ein Problem wurde behoben, bei dem einige Seiten in der Druckvorschau leer waren.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+
+- Wir haben ein Problem behoben, bei dem Links, die Ziffern enthalten, unterbrochen wurden, wenn eine Nachricht in Outlook in einer Rechts-nach-Links-Sprache verfasst wurde.
+
+
+- Ein Lokalisierungsproblem wurde behoben, bei dem en-gb, fr-ca und es-mx nun mit ihren jeweiligen übergeordneten Versionen abgeglichen werden.
+
+
+- Ein Problem wurde behoben, bei dem die gemeinsame Verwendung von Einstellungen zwischen OMEX und ExCatalog nicht mehr möglich war, z. B. bei Aktualisierungen von Web-Add-In-Einstellungen in der Datei „webextension.xml“, da eine neue webextension-Datei erstellt wird. Auf die vorherigen Einstellungen wurde nur zugegriffen, wenn das Add-In in der ursprünglichen Methode bereitgestellt wurde oder wenn der neue Lösungsverweisvergleich deaktiviert wurde.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2106-june-29"></a>Version 2106: 29. Juni
 *Version 2106 (Build 14131.20278)*
@@ -1609,7 +1759,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="outlook"></a>Outlook
 
-- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
+- **Schreibvorschläge mit einem Klick:** Übernehmen Sie Schreibvorschläge mit nur einem Klick. Der Editor korrigiert die Rechtschreibung und Grammatik und gibt Ihnen Anregungen, um Ihren Text zu optimieren. [Weitere Informationen](https://support.office.com/article/1e72a440-89a6-457c-bd76-cd5cea901dc0)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/microsoft-editor-gets-an-upgrade)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -2334,7 +2484,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="powerpoint"></a>PowerPoint
 
-- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
+- **Unterstützung für SVG-Zwischenablage:** Sie können jetzt SVG-Inhalte aus Office in Apps von Drittanbietern einfügen. [Weitere Informationen](https://support.office.com/article/69f29d39-194a-4072-8c35-dbe5e7ea528c)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/svg-content-office-third-party-apps)
 
 - **Erstellen von GIFs mit transparenten Hintergründen:** Wenn Sie in ein animiertes GIF exportieren, ermöglicht Ihnen eine neue Option den transparenten Hintergrund.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/export-animated-gifs-transparent-backgrounds)
 
@@ -3222,7 +3372,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 ### <a name="feature-updates"></a>Featureupdates
 ### <a name="excel"></a>Excel
 
-- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
+- **Abrufen von Organisationsdaten aus Power BI mithilfe von Datentypen:** Excel-Datentypen aus Power BI werden nun für Insider in Organisationen mit Office 365 E5/A5 oder Microsoft 365 E5/A5 bereitgestellt. Benötigte Informationen abrufen und deren einfache Aktualisierung ist für viele tägliche Abläufe von entscheidender Bedeutung. Sie erhalten Zugriff auf Ihre Unternehmens-oder Organisationsinformationen aus Power BI als Datentyp in Excel. Dadurch wird die Möglichkeit, verknüpfte Informationen in Tabellen einzugben, erweitert.  [Weitere Informationen](https://support.office.com/article/cd8938ce-f963-444d-b82a-7140848241e9)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://blog-insider.office.com/2020/06/11/use-power-bi-data-in-excel/)
 
 ### <a name="outlook"></a>Outlook
 
