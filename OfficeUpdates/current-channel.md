@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Bietet IT-Experten Versionshinweise für Releases im Monatlichen Kanal für Microsoft 365 Apps
-ms.openlocfilehash: f5b3552684ba964fc57ca405d261ba4e2cb341f5
-ms.sourcegitcommit: bd700dedc0c80ae72fa5611665ad6d321127a531
+ms.openlocfilehash: b3f83cf76fe29f739da9ce18160a5de76a90118f
+ms.sourcegitcommit: 11c8b2e40f9058a6e6f0451736b0b05627789b9d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53206307"
+ms.lasthandoff: 07/07/2021
+ms.locfileid: "53323562"
 ---
 # <a name="release-notes-for-current-channel"></a>Anmerkungen zur Releases für aktuellen Kanal
 
@@ -63,8 +63,9 @@ Diese Versionshinweise enthalten Informationen zu neuen Features und nicht siche
 
 ### <a name="outlook"></a>Outlook
 
-- Ein Problem wurde behoben, das Leistungsprobleme auf ARM64-Geräten verursacht hat.
+- Wir haben ein Problem behoben, bei dem eine Aufbewahrungsrichtlinie für Skype for Business oder Microsoft Teams als Standardordnerrichtlinie angezeigt wurde, wenn Sie die Eigenschaften eines Postfachordners anzeigen, anstelle der Postfachaufbewahrungsrichtlinie, die auf den Ordner angewendet wird.
 
+- Ein Problem wurde behoben, das Leistungsprobleme auf ARM64-Geräten verursacht hat.
 
 - Ein Problem wurde behoben, das dazu führte, dass die Übersetzungsoptionen für einige Benutzer deaktiviert waren.  Bei Kunden, bei denen dieser Fehler auftrat, wurden ihre Übersetzungsoptionen deaktiviert, wenn sie zu „Datei“ > „Optionen“ > „Sprache“ navigierten. Dadurch wäre es ihnen nicht möglich gewesen, ihre bevorzugte Übersetzungssprache und andere übersetzungsbezogene Einstellungen zu ändern.
 
