@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: f7d8583cdfc7c361711985850e158e55f81ad925
-ms.sourcegitcommit: c23381603284717673fac8cbbda7a4272e2f48eb
+ms.openlocfilehash: 98f6e608b3337cde7e20143f1612814b0398e396
+ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/06/2021
-ms.locfileid: "53309188"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53347958"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,32 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2107-july-08"></a>Version 2107: 08. Juli
+*Version 2107 (Build 14228.20070)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **REST-Weiterleitung Besprechungsanfrage:** Ermöglicht Benutzern, eine zuvor abgelehnte Besprechung für freigegebene REST-Kalender weiterzuleiten.
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="word"></a>Word
+
+- Problem behoben, bei dem Kommentarkarten neben dem Word-Zeichenbereich die falsche Größe aufwiesen.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2107-july-06"></a>Version 2107: 06. Juli
 *Version 2107 (Build 14228.20044)*
@@ -276,6 +302,8 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
+- "RichValue" wurde aus "Range.valueTypes" entfernt. Verknüpfte Datentypen geben jetzt "Fehler" zurück, um dem Wert von "#VALUE!" zu entsprechen von "Range.values" zurückgegeben.
+
 - Ein Problem wurde behoben, das verhinderte, dass der Namens-Manager Bücher mit einer großen Anzahl von ausgeblendeten Namen öffnete.
 
 
@@ -482,7 +510,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="excel"></a>Excel
 
-- Es wurde ein Problem behoben, bei dem bei einigen Benutzern zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+- Es wurde ein Problem behoben, bei dem für einige Benutzer zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
 
 
 
