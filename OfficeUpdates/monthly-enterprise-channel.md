@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Stellt IT-Experten Versionshinweise für Releases im monatlichen Enterprise-Kanal für Microsoft 365 Apps zur Verfügung.
-ms.openlocfilehash: 1795f0a150b8b18d50e462cd6d30a285c055f8b1
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 96a76ed1ed1849753422dae92626484a77cec2a4
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851865"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409561"
 ---
 # <a name="release-notes-for-monthly-enterprise-channel"></a>Versionshinweise für den monatlichen Enterprise-Kanal
 
@@ -24,6 +24,120 @@ Diese Versionshinweise enthalten Informationen zu neuen Funktionen und nicht sic
 [//]: # (NICHT ENTFERNEN)
 
 
+
+## <a name="version-2105-july-13"></a>Version 2105: 13. Juli
+*Version 2105 (Build 14026.20334)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Erhalten Sie relevante Dateivorschläge, wenn Sie eine Suche durchfuhren:** Wenn Sie im Suchfeld eingeben, werden die relevantesten Dateien, die sich auf Ihre Suche beziehen, in Ihre Vorschläge aufgenommen.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Es wurde eine Problem behoben, damit der Namens-Manager bei Büchern mit einer großen Anzahl von ausgeblendeten Namen geöffnet werden kann.
+
+
+- Es wurde ein Problem behoben, bei dem bei einigen Benutzern zusätzliche Einträge in der Excel-Add-In-Liste angezeigt wurden.
+
+
+- Es wurde ein Problem behoben, bei dem das Add-In „Analyse-Funktionen“ für einige Benutzer nicht funktionierte.
+
+
+### <a name="outlook"></a>Outlook
+
+- Die Änderung kann bei Problemen schnell deaktiviert werden.
+
+
+- Es wurde ein Registrierungsschlüssel hinzugefügt, mit dem die neue Benutzeroberfläche der Raumsuche (dieselbe Benutzeroberfläche wie in Outlook für Web) deaktiviert und die Vorgängerversion der Raumsuche mit "Vorgeschlagene Zeiten" aktiviert wird.
+
+   Registrierungsschlüssel:
+
+    >HKCU\SOFTWARE\Microsoft\Office\16.0\Outlook\Options\Calendar REG_DWORD “ShowLegacyRoomFinder”
+
+    >0 (Standard) – Outlook verwendet die neue von OWA unterstützte Benutzeroberfläche für die Raumsuche, wenn der Benutzer auf die Schaltfläche „Raumsuche“ klickt, um nach verfügbaren Räumen zu suchen</br>
+    >1 – Outlook verwendet die ältere Benutzeroberfläche der Raumsuche, um nach verfügbaren Räumen zu suchen
+
+
+- Durch diese Änderung können Benutzer Feedback über unser neues Feedbacksystem übermitteln.
+
+
+- Wir haben ein Problem behoben, durch das die Feedbackoption für Benutzer der Office Dauerlizenz 2021-Vorschau deaktiviert wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Benutzer einen Fehler erhielten, wenn sie „Outlook-Eigenschaften öffnen“ über ein Kontextmenü für einen Empfänger in einer E-Mail auswählten.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Outlook bei einigen Benutzern beim Laden von Personenkarten unerwartet geschlossen wurde.
+
+
+- Ein Problem wurde behoben, das dazu führte, dass Outlook unerwartet geschlossen wurde, wenn Benutzer Ordner aus einem Archivspeicher entfernten.
+
+
+- Es wurde ein Problem behoben, durch das einige Anweisungen für das Feature „Besprechungen kürzen“ aufgrund von Sprachausgabetechnologien deaktiviert waren.
+
+
+- Es wurde ein Problem behoben, das dazu führte, dass Benutzern beim Schließen einer Nachricht, auf die sie geantwortet oder die sie weitergeleitet hatten, eine unerwartete Aufforderung zum Ändern der Eigenschaft angezeigt wurde.
+
+
+- Ein Problem wurde behoben, das zu einem unerwarteten Schließen bei der Interaktion mit der Outlook Mail- oder Kalenderansichten führen kann.
+
+
+### <a name="powerpoint"></a>PowerPoint
+
+- Es wurde ein Problem behoben, bei dem die Option „Folien wiederverwenden“ für wenige Benutzer nicht verfügbar war.
+
+
+### <a name="project"></a>Project
+
+- Ein Problem wurde behoben, bei dem Zuordnungen zu manuell geplanten Vorgängen möglicherweise auf ein falsches Datum verschoben wurden.
+
+
+- Ein Problem wurde behoben, bei dem, wenn Sie eine Formel für ein benutzerdefiniertes Feld erstellen, die die ProjectDate */ProjectDur*-Funktionen verwendet, und der zweite Parameter die Datums- und Zeitfunktionen „Date()“, „Now()“ oder „Time()“ sind, dann ein #FEHLER auftrat.
+
+
+### <a name="word"></a>Word
+
+- Behebt ein Problem, bei dem der Editorbereich nicht geöffnet wird.
+
+
+- Es wurde eine Problem behoben, bei dem in kontextbezogenen Karten für Rechtschreibung und Grammatik im Zusammenarbeitsbereich Schaltflächen-Symbole angezeigt wurden, diese Schaltflächen aber keine QuickInfo aufwiesen.
+
+
+### <a name="office-suite"></a>Office-Suite
+
+- Ein Lokalisierungsproblem wurde behoben, bei dem en-gb, fr-ca und es-mx nun mit ihren jeweiligen übergeordneten Versionen abgeglichen werden.
+
+
+- Ein unerwartetes Schließen beim erneuten Öffnen bestimmter Dateien wurde behoben.
+
+
+- Eine Leistungsregression beim Öffnen von SyncBacked-Dateien wurde behoben.
+
+
+- Ein Problem wurde behoben, bei dem Benutzer bestimmte auf lokalen SharePoint-Servern gespeicherte Dokumente nicht bearbeiten können.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+## <a name="version-2104-july-13"></a>Version 2104: 13. Juli
+*Version 2104 (Build 13929.20434)*
+
+Sicherheitsupdates sind [hier](microsoft365-apps-security-updates.md) aufgeführt
 
 ## <a name="version-2104-june-08"></a>Version 2104: 08. Juni
 *Version 2104 (Build 13929.20408)*
@@ -201,7 +315,7 @@ Sie können auch mit der rechten Maustaste klicken, um bestimmte Wörter, Ausdr�
 
 ### <a name="visio"></a>Visio
 
-- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie unter [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
+- **Fertige Grafiken für Ihre Diagramme:** Wählen Sie aus einer großen Bibliothek von Symbolen, Stockbildern, ausgeschnittenen Personen und Aufklebern, die Sie zu Ihren Visio-Zeichnungen hinzufügen können. [Weitere Informationen](https://support.office.com/article/0ab844a5-289b-47f2-ba92-eeda168bc381)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/access-illustrations-icons-in-visio)
 
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
@@ -865,6 +979,7 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 
 
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN BEGINN)
+[//]: # (|Win32|MEC|Production|Feature|16.0.14026.20334|version-2105-july-13|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13929.20408|version-2104-june-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13901.20516|version-2103-may-11|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13801.20506|version-2102-april-13|)
@@ -874,5 +989,4 @@ Sicherheitsupdates sind [hier](./microsoft365-apps-security-updates.md) aufgefü
 [//]: # (|Win32|MEC|Production|Feature|16.0.13328.20478|version-2010-december-08|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13231.20514|version-2009-november-10|)
 [//]: # (|Win32|MEC|Production|Feature|16.0.13127.20638|version-2008-october-13|)
-[//]: # (|Win32|MEC|Production|Feature|16.0.13029.20534|version-2007-september-08|)
 [//]: # (ADMIN CENTER-METADATENINHALT NICHT ÄNDERN ENDE)
