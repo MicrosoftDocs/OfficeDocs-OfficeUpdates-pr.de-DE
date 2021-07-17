@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Profis Anmerkungen zur Version für Office für Mac-Releases für Microsoft 365 Apps-Abonnenten zur Verfügung
-ms.openlocfilehash: abd134da7bdc7ab5524bb3e7b69e7f57d24f6522
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: aeb91ea6072c4f0714f225de559f5d54e6c4e85a
+ms.sourcegitcommit: 4f5536e809f58462d81c708c153390ebfd1abc4e
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949845"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53409540"
 ---
 # <a name="release-notes-for-office-for-mac"></a>Anmerkungen zur Version für Office für Mac
 
@@ -61,6 +61,38 @@ Updates sind über Microsoft AutoUpdate (MAU) verfügbar. Zur Nutzung von Micros
 
 
 
+
+
+
+## <a name="july-13-2021"></a>13. Juli 2021
+*Version 16.51 (Build 21071101)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Organisationsweite Zeitplanungsstandardwerte festlegen, die Besprechungen verkürzen.:** Unsere kommerziellen Kunden können organisationsweite Zeitplanungsstandardwerte festlegen, die Besprechungen verkürzen und Platz für Pausen für alle Mitarbeiter eines Unternehmens schaffen.
+
+### <a name="word"></a>Word
+
+- **Sehen Sie Ihre Dokumente mit anderen Augen:** Probieren Sie einen dramatischen neuen Look aus, der Ihre Augen schont und Ihnen hilft, sich auf Ihre Arbeit zu konzentrieren.<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/dark-mode-in-word-for-mac)
+
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN ENDE INHALT)
+
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+
+### <a name="security-updates"></a>Sicherheitsupdates
+
+
+### <a name="excel"></a>Excel
+
+-   [CVE-2021-34501](https://portal.msrc.microsoft.com/de-DE/security-guidance/advisory/CVE-2021-34501)
+
+[//]: # (SICHERHEITSDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="june-15-2021"></a>15. Juni 2021
 *Version 16.50 (Build 21061301)*

@@ -9,19 +9,19 @@ ms.prod: office-perpetual-itpro
 localization_priority: Priority
 ms.collection: RelNotes_Perpetual
 description: Dieser Artikel bietet IT-Experten einen Updateverlauf für dauerhafte Office 2013-Versionen, die Klick-und-Los verwenden.
-ms.openlocfilehash: 9961d57aca84cf1cd8ea81b69cbcaf92c1c629c9
-ms.sourcegitcommit: ad3ff8ea83a9930956cbb6f30300b0b57d3ef151
+ms.openlocfilehash: 841f9eb6d683fe7d198c402bd45ba955e81ff892
+ms.sourcegitcommit: 53e1e371f9782d973d664e24793c3abd709581e1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/09/2021
-ms.locfileid: "52851925"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53411743"
 ---
 # <a name="update-history-for-office-2013"></a>Updateverlauf für Office 2013
 
 Bestimmte Office 2013-Produkte werden automatisch mithilfe der Technologie "Klick-und-Los" auf die neuste Version aktualisiert. Wenn Sie sicherstellen möchten, dass Sie die aktuellste Version verwenden, prüfen Sie Ihre Office-Versionsnummer, und aktualisieren Sie Office bei Bedarf manuell.
   
 > [!NOTE]
-> Die aktuellste Version von Office 2013 ist **15.0.5357.1000**, die am 8. Juni 2021 veröffentlicht wurde.
+> Die aktuellste Version von Office 2013 ist **15.0.5363.1000**, die am 13.Juli 2021 veröffentlicht wurde.
   
 Gehen Sie zum Überprüfen Ihrer Version von Office folgendermaßen vor:
   
@@ -45,7 +45,8 @@ Neue Versionen enthalten alle in den früheren Versionen enthaltenen Updates.
   
 |**Veröffentlichungsjahr**|**Veröffentlichungsdatum**|**Versionsnummer**|**Weitere Informationen**|
 |:-----|:-----|:-----|:-----|
-|2021|8. Juni|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
+|2021|13. Juli|15.0.5363.1000|[KB 5001964](https://support.microsoft.com/help/5001964)|
+||8. Juni|15.0.5357.1000|[KB 5004001](https://support.microsoft.com/help/5004001)|
 ||11. Mai|15.0.5345.1002|[KB 5003427](https://support.microsoft.com/help/5003427)|
 ||13. April|15.0.5337.1001|[KB 5001778](https://support.microsoft.com/help/5001778)|
 ||9. März|15.0.5327.1000|[KB 5000635](https://support.microsoft.com/help/5000635)|

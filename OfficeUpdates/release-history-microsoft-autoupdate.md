@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_Mac
 description: Stellt IT-Experten einen Releaseverlauf für Microsoft AutoUpdate (MAU) zur Verfügung.
-ms.openlocfilehash: 10336f30469104b93c24d6f40f091d47c4b20d81
-ms.sourcegitcommit: 4ab7d229662f7c8334e6c70aca4932bc62394a65
+ms.openlocfilehash: b71c9156bcabdab976418d15394f82012b20ba04
+ms.sourcegitcommit: a23fad65b58ecdc75e2c7b5f5ba04b73061987d1
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/15/2021
-ms.locfileid: "52949835"
+ms.lasthandoff: 07/13/2021
+ms.locfileid: "53417556"
 ---
 # <a name="release-history-for-microsoft-autoupdate-mau"></a>Releaseverlauf für Microsoft AutoUpdate (MAU)
  
@@ -29,6 +29,23 @@ Die folgende Tabelle enthält Informationen zum Releaseverlauf für Microsoft Au
 > - Microsoft AutoUpdate stellt Updates für verschiedene Mac-Produkte von Microsoft bereit. Daher erhalten Sie möglicherweise eine Benachrichtigung zum Aktualisieren von Microsoft AutoUpdate, auch wenn Sie Office für Mac nicht ausführen.
 
 Versionshinweise finden Sie unter [Anmerkungen zu dieser Version](release-notes-office-for-mac.md).<br/><br/>
+## <a name="july-2021-release"></a>Juli 2021-Release
+
+**Veröffentlichungsdatum:** 13. Juli 2021
+
+*Microsoft AutoUpdate 4.37*
+
+**Bugfixes und Verbesserungen:**
+- Änderung der Benachrichtigung von msupdate – MAU lädt jetzt Updates herunter und stellt sie bereit, bevor Benachrichtigungen von IT-Administratoren angezeigt werden.
+- Fix für MAU, das nach dem Anwenden von Updates eine alte Anwendungsversion anzeigt.
+- Fix für MAU-Deadline-Benachrichtigung, die beim Starten von Updates nicht verworfen wird.
+
+[Microsoft AutoUpdate 4.37-Paket herunterladen](https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.37.21071101_Updater.pkg)<br/>
+<br/>
+**SHA-256 Hash:**
+
+2352BA7722ABCC92E9C05E2D50B1B6F71FEF7D91306D6E4EF765F042688F2BC4
+
 ## <a name="june-2021-release"></a>Release von Juni 2021
 
 **Veröffentlichungsdatum:** 15. Juni 2021
