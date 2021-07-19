@@ -9,12 +9,12 @@ ms.service: o365-proplus-itpro
 localization_priority: Critical
 ms.collection: RelNotes_ProPlus
 description: Für die Zielgruppe von Insider Slow die aktuelle Liste neuer Features, Fehlerkorrekturen oder bekannter Probleme bereitstellen
-ms.openlocfilehash: 98f6e608b3337cde7e20143f1612814b0398e396
-ms.sourcegitcommit: 268322e5705199bb27cd07ab6e3fdabd1e20e334
+ms.openlocfilehash: df93bab4f1a5050207baf7322d43d1b437f397cd
+ms.sourcegitcommit: d70605f689ddab4ddef193d526426fafa8e301b3
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "53347958"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "53463762"
 ---
 # <a name="release-notes-for-office-current-channel-preview"></a>Versionshinweise für Office Aktueller Kanal (Vorschau)
 
@@ -28,6 +28,46 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 [//]: # (NICHT ENTFERNEN)
 
 [//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+## <a name="version-2107-july-16"></a>Version 2107: 16. Juli
+*Version 2107 (Build 14228.20154)*
+
+[//]: # (FEATUREDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="feature-updates"></a>Featureupdates
+### <a name="outlook"></a>Outlook
+
+- **Vorgeschlagene Antworten in Outlook verwenden:** Wenn Sie eine E-Mail-Nachricht erhalten, die mit einer kurzen Antwort beantwortet werden kann, kann Outlook drei Antworten vorschlagen, mit denen Sie mit nur wenigen Klicks antworten können. [Weitere Informationen](https://support.office.com/article/19316194-0434-43ba-a742-6b5890157379)<br />Weitere Detailinformationen finden Sie im [Blogbeitrag](https://insider.office.com/de-DE/blog/reply-faster-using-suggested-replies-in-outlook)
+
+- **Link zum Erstellen eines Outlook.com-Kontos:** Beim Hinzufügen eines Kontos zu Outlook, wird im Fenster ein Link zum Erstellen eines neuen Outlook.com-Kontos angezeigt.
+
+- **Vorgeschlagene Antworten deaktivieren:** Outlook [erleichtert es, schneller auf E-Mails zu antworten](https://insider.office.com/blog/reply-faster-using-suggested-replies-in-outlook), indem kurze Antwortvorschläge für Nachrichten angeboten werden, die in wenigen Worten beantwortet werden können. Einige Benutzer möchten diese Option möglicherweise nicht sehen, daher ist es jetzt möglich, das Feature zu deaktivieren. Wählen Sie dazu „Datei“ > „Optionen“ > „Mail“ aus, navigieren Sie zum Abschnitt „Antworten und Weiterleitungen“, und deaktivieren Sie das Kontrollkästchen „Vorgeschlagene Antworten anzeigen“.
+
+
+[//]: # (FEATUREDETAILS INHALTSENDE NICHT ENTFERNEN)
+
+<br/>
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN BEGINN INHALT)
+
+### <a name="resolved-issues"></a>Gelöste Probleme
+### <a name="excel"></a>Excel
+
+- Das Problem, bei dem DRM-geschützte Arbeitsmappen nicht mittels VBA geöffnet werden können, wenn Application.DisplayAlerts auf „True“ festgelegt ist, wurde behoben.
+
+
+### <a name="outlook"></a>Outlook
+
+- Es wurde ein Problem behoben, das dazu führte, dass Benutzer von Cloudeinstellungen ein unerwartetes Schließen erfuhren, wenn ein unvollständig konfiguriertes Konto im Profil vorhanden war.
+
+
+### <a name="word"></a>Word
+
+- Es wurde ein Problem mit der Verwaltung der „Aktuellen Liste“ von Zitaten in kennwortgeschützten DOCX-Dateien behoben.
+
+
+
+[//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
 
 ## <a name="version-2107-july-08"></a>Version 2107: 08. Juli
 *Version 2107 (Build 14228.20070)*
@@ -2238,7 +2278,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 ### <a name="resolved-issues"></a>Gelöste Probleme
 ### <a name="outlook"></a>Outlook
 
-- Es wurde ein Problem behoben, aufgrund dessen die ursprünglichen Teilnehmer einiger Besprechungen eine Absage erhielten, wenn ein anderer Teilnehmer die Besprechung weiterleitete.
+- Es wurde ein Problem behoben, aufgrund dessen die ursprünglichen Teilnehmer einiger Besprechungen eine Veranstaltungsabsage erhielten, wenn ein anderer Teilnehmer die Besprechung weiterleitete.
 
 
 - Es wurde ein Problem behoben, aufgrund dessen einige Benutzer keine Signaturen im Signaturen-Dropdownfeld sehen konnten, obwohl mindestens eine Signatur konfiguriert war.
@@ -2861,7 +2901,7 @@ Dieser Artikel enthält Versionshinweise zu Builds von Word, Excel, PowerPoint, 
 
 ### <a name="project"></a>Project
 
-- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Maske durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
+- Ein Problem wurde behoben, bei dem Sie, wenn Sie einen Ereigniscode ausführen, die Änderungen über eine Aufgaben-Formularansicht durchführen und dann durch Klicken auf die Schaltfläche OK keine Änderungen vornehmen.
 
 
 [//]: # (BUGDETAILS NICHT ENTFERNEN ENDE INHALT)
